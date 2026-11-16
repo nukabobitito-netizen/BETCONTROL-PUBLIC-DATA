@@ -1,0 +1,43 @@
+name: Publikuj ranking PREMATCH
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-prematch-ranking
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pobierz repozytorium
+        uses: actions/checkout@v4
+      - name: Sprawdź dane rankingu
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          path = Path("data/ranking.json")
+          if not path.is_file():
+              raise SystemExit("Brak data/ranking.json. Najpierw dostarcz rzeczywiste dane rankingu.")
+          data = json.loads(path.read_text(encoding="utf-8"))
+          if not isinstance(data, (list, dict)):
+              raise SystemExit("Ranking musi być obiektem JSON lub tablicą.")
+          print("Poprawny JSON. Publikacja gotowa.")
+          PY
+      - name: Opublikuj ranking.json
+        run: |
+          cp data/ranking.json ranking.json
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ranking.json
+          if git diff --cached --quiet; then
+            echo "Brak zmian do publikacji."
+          else
+            git commit -m "Publikacja rankingu PREMATCH"
+            git push
+          fi
