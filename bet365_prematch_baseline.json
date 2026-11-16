@@ -1,0 +1,77 @@
+{
+  "created_at": "2026-11-16T22:12:57.225288+00:00",
+  "selections": {
+    "204133471:AWAY": {
+      "eventId": "204133471",
+      "sport": "soccer",
+      "home": "Montevideo Wanderers",
+      "away": "Juventud De Las Piedras",
+      "startTime": "2026-11-16T23:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 3.2,
+      "baseline_source": "prematch_first_qualified",
+      "price_source": "selection.odds",
+      "recorded_at": "2026-11-16T22:12:57.225288+00:00"
+    },
+    "204625498:HOME": {
+      "eventId": "204625498",
+      "sport": "soccer",
+      "home": "Athletico Paranaense B",
+      "away": "Parana",
+      "startTime": "2026-11-16T23:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 3.5,
+      "baseline_source": "prematch_first_qualified",
+      "price_source": "selection.odds",
+      "recorded_at": "2026-11-16T22:12:57.225288+00:00"
+    },
+    "204625320:AWAY": {
+      "eventId": "204625320",
+      "sport": "soccer",
+      "home": "Trinidad & Tobago",
+      "away": "Antigua and Barbuda",
+      "startTime": "2026-11-17T00:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 9.0,
+      "baseline_source": "prematch_first_qualified",
+      "price_source": "selection.odds",
+      "recorded_at": "2026-11-16T22:12:57.225288+00:00"
+    },
+    "204624601:AWAY": {
+      "eventId": "204624601",
+      "sport": "soccer",
+      "home": "Martinique",
+      "away": "Aruba",
+      "startTime": "2026-11-17T00:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 12.0,
+      "baseline_source": "prematch_first_qualified",
+      "price_source": "selection.odds",
+      "recorded_at": "2026-11-16T22:12:57.225288+00:00"
+    },
+    "204618032:AWAY": {
+      "eventId": "204618032",
+      "sport": "soccer",
+      "home": "Canada",
+      "away": "Guatemala",
+      "startTime": "2026-11-17T01:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 10.0,
+      "baseline_source": "prematch_first_qualified",
+      "price_source": "selection.odds",
+      "recorded_at": "2026-11-16T22:12:57.225288+00:00"
+    },
+    "204625507:AWAY": {
+      "eventId": "204625507",
+      "sport": "soccer",
+      "home": "Pitbulls Santa Barbara",
+      "away": "AD Rosario",
+      "startTime": "2026-11-17T01:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 3.6,
+      "baseline_source": "prematch_first_qualified",
+      "price_source": "selection.odds",
+      "recorded_at": "2026-11-16T22:12:57.225288+00:00"
+    }
+  }
+}
