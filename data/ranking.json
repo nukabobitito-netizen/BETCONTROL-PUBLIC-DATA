@@ -1,8 +1,65 @@
 {
   "schema_version": 1,
   "source": "Bet365 / PulseScore",
-  "status": "awaiting_verified_data",
-  "generated_at": "2026-11-16T19:38:00.823781+00:00",
+  "status": "verified_data",
+  "generated_at": "2026-11-16T20:17:27.281551+00:00",
   "window_hours": 12,
-  "items": []
+  "items": [
+    {
+      "eventId": "204631682",
+      "home": "Plymouth U21",
+      "away": "Leicester U21",
+      "selection": "HOME",
+      "startTime": "2026-11-16T19:00:00+00:00",
+      "odds_before": 4.75,
+      "odds_now": 4,
+      "change_percent": -15.79,
+      "first_seen": "2026-11-16T18:10:11.532592+00:00",
+      "last_seen": "2026-11-16T18:13:58.131888+00:00",
+      "source": "Bet365",
+      "direction": "drop"
+    },
+    {
+      "eventId": "204625318",
+      "home": "Cuba",
+      "away": "Grenada",
+      "selection": "HOME",
+      "startTime": "2026-11-16T19:00:00+00:00",
+      "odds_before": 1.2222,
+      "odds_now": 1.2,
+      "change_percent": -1.82,
+      "first_seen": "2026-11-16T18:10:11.532592+00:00",
+      "last_seen": "2026-11-16T18:13:58.131888+00:00",
+      "source": "Bet365",
+      "direction": "drop"
+    },
+    {
+      "eventId": "204625318",
+      "home": "Cuba",
+      "away": "Grenada",
+      "selection": "AWAY",
+      "startTime": "2026-11-16T19:00:00+00:00",
+      "odds_before": 9,
+      "odds_now": 9.5,
+      "change_percent": 5.56,
+      "first_seen": "2026-11-16T18:10:11.532592+00:00",
+      "last_seen": "2026-11-16T18:13:58.131888+00:00",
+      "source": "Bet365",
+      "direction": "rise"
+    },
+    {
+      "eventId": "204631682",
+      "home": "Plymouth U21",
+      "away": "Leicester U21",
+      "selection": "AWAY",
+      "startTime": "2026-11-16T19:00:00+00:00",
+      "odds_before": 1.38,
+      "odds_now": 1.45,
+      "change_percent": 5.07,
+      "first_seen": "2026-11-16T18:10:11.532592+00:00",
+      "last_seen": "2026-11-16T18:13:58.131888+00:00",
+      "source": "Bet365",
+      "direction": "rise"
+    }
+  ]
 }
