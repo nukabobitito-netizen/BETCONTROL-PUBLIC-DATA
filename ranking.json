@@ -2,7 +2,25 @@
   "schema_version": 1,
   "source": "Bet365",
   "status": "verified_data",
-  "generated_at": "2026-11-17T20:30:24.615524+00:00",
+  "generated_at": "2026-11-17T20:34:03.550049+00:00",
   "window_hours": 12,
-  "items": []
+  "items": [
+    {
+      "eventId": "204626274",
+      "home": "Ceara (W)",
+      "away": "Maracanã (W)",
+      "selection": "AWAY",
+      "startTime": "2026-11-17T22:30:00+00:00",
+      "league": "Brazil Campeonato Cearense Women",
+      "region": "The Americas",
+      "country": null,
+      "odds_before": 3.25,
+      "odds_now": 3.4,
+      "change_percent": 4.62,
+      "first_seen": "2026-11-17T20:00:35.909894+00:00",
+      "last_seen": "2026-11-17T20:34:03.550049+00:00",
+      "source": "Bet365",
+      "direction": "rise"
+    }
+  ]
 }
