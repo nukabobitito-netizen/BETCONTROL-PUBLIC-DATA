@@ -2,7 +2,7 @@
   "schema_version": 1,
   "source": "Bet365",
   "status": "verified_data",
-  "generated_at": "2026-11-17T10:02:30.659962+00:00",
+  "generated_at": "2026-11-17T14:47:32.183449+00:00",
   "window_hours": 12,
   "items": [
     {
@@ -44,34 +44,6 @@
       "change_percent": 3.7,
       "first_seen": "2026-11-17T08:03:07.532166+00:00",
       "last_seen": "2026-11-17T10:02:30.659962+00:00",
-      "source": "Bet365",
-      "direction": "rise"
-    },
-    {
-      "eventId": "204133471",
-      "home": "Montevideo Wanderers",
-      "away": "Juventud De Las Piedras",
-      "selection": "HOME",
-      "startTime": "2026-11-16T23:00:00+00:00",
-      "odds_before": 2.0,
-      "odds_now": 1.85,
-      "change_percent": -7.5,
-      "first_seen": "2026-11-16T22:15:56.712022+00:00",
-      "last_seen": "2026-11-16T22:20:23.631806+00:00",
-      "source": "Bet365",
-      "direction": "drop"
-    },
-    {
-      "eventId": "204133471",
-      "home": "Montevideo Wanderers",
-      "away": "Juventud De Las Piedras",
-      "selection": "AWAY",
-      "startTime": "2026-11-16T23:00:00+00:00",
-      "odds_before": 3.2,
-      "odds_now": 3.5,
-      "change_percent": 9.38,
-      "first_seen": "2026-11-16T22:15:56.712022+00:00",
-      "last_seen": "2026-11-16T22:20:23.631806+00:00",
       "source": "Bet365",
       "direction": "rise"
     }
