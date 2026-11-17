@@ -34,21 +34,21 @@ HTML = r"""<!doctype html>
 <html lang="pl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>BETCONTROL | Ranking kursów przedmeczowych</title>
 <style>
-:root{color-scheme:dark;--bg:#071422;--panel:#0d2033;--line:#294058;--turquoise:#24c6bd;--text:#f5f8fc;--muted:#b1c2d4;--green:#75d6a5}
+:root{color-scheme:dark;--bg:#071422;--panel:#0d2033;--line:#294058;--blue:#178bf2;--text:#f5f8fc;--muted:#b1c2d4;--green:#75d6a5}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:15px system-ui,-apple-system,"Segoe UI",Arial,sans-serif}
 main{width:min(1200px,calc(100% - 28px));margin:24px auto 65px}
 h1{font-size:clamp(24px,4vw,34px);margin:0 0 8px}h2{font-size:19px;margin:0 0 16px}
-p{color:var(--muted);line-height:1.5}.accent{color:var(--turquoise)}.panel{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:20px;margin:20px 0}
+p{color:var(--muted);line-height:1.5}.accent{color:var(--blue)}.panel{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:20px;margin:20px 0}
 .filters{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
 label{display:grid;gap:7px;color:var(--muted);font-size:13px}select,input{width:100%;min-width:0;background:#071827;border:1px solid #3a536b;border-radius:9px;padding:11px;color:var(--text);font:inherit}
-input[type=range]{padding:8px 0;accent-color:var(--turquoise)}button{background:#133b4c;border:1px solid var(--turquoise);color:#fff;border-radius:9px;padding:11px 18px;cursor:pointer}
+input[type=range]{padding:8px 0;accent-color:var(--blue)}button{background:#133b4c;border:1px solid var(--blue);color:#fff;border-radius:9px;padding:11px 18px;cursor:pointer}
 .summary{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.metric{border:1px solid var(--line);border-radius:12px;padding:16px;background:#081b2c}.metric small{display:block;color:var(--muted);margin-bottom:9px}.metric strong{font-size:25px}.drop{color:var(--green)}.rise{color:#ffc27d}
 table{width:100%;border-collapse:collapse}th,td{padding:12px 10px;text-align:left;border-bottom:1px solid var(--line)}th{color:var(--muted);font-weight:500;font-size:12px}td small{display:block;color:var(--muted);margin-top:5px}.scroll{overflow-x:auto}
 .empty{color:var(--muted);padding:25px 10px;text-align:center}.warn{color:#ffc27d}.toolbar{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
 @media(max-width:780px){.filters{grid-template-columns:repeat(2,minmax(0,1fr))}.panel{padding:14px}.summary{grid-template-columns:1fr}}
 @media(max-width:420px){.filters{grid-template-columns:1fr}th,td{padding:10px 6px;font-size:12px}}
 </style></head><body><main>
-<h1>BET<span class="accent">CONTROL</span></h1>
+<div class="toolbar"><h1>BET<span class="accent">CONTROL</span></h1><a href="/" style="color:var(--blue);text-decoration:none;font-weight:600">Strona główna</a></div>
 <p>Ranking zmian kursów przedmeczowych · Bet365 · piłka nożna · 1X2 FULL_TIME · HOME / AWAY · historia 12 h</p>
 <p>Aktualizacja danych: <strong>{{ stamp }}</strong>{% if stale %} <span class="warn">· Dane z pamięci podręcznej</span>{% endif %}</p>
 {% if unavailable %}<section class="panel warn">Ranking jest chwilowo niedostępny. Spróbuj ponownie później.</section>{% else %}
@@ -64,8 +64,8 @@ table{width:100%;border-collapse:collapse}th,td{padding:12px 10px;text-align:lef
 <label>Szukaj meczu<input id="search" type="search" placeholder="Drużyna lub liga"></label>
 </div><div class="toolbar" style="margin-top:16px"><span id="count" style="color:var(--muted)"></span><button type="button" id="reset">Wyczyść filtry</button></div></section>
 <section class="summary">
-<div class="metric"><small>↓ Największy spadek</small><strong id="topDrop" class="drop">Brak danych</strong><p id="topDropMatch"></p></div>
-<div class="metric"><small>↑ Największy wzrost</small><strong id="topRise" class="rise">Brak danych</strong><p id="topRiseMatch"></p></div>
+<div class="metric"><small>↓ Największy spadek</small><strong id="topDrop" class="drop">Brak danych</strong><p id="topDropMatch"></p><p id="topDropOdds"></p></div>
+<div class="metric"><small>↑ Największy wzrost</small><strong id="topRise" class="rise">Brak danych</strong><p id="topRiseMatch"></p><p id="topRiseOdds"></p></div>
 </section>
 <section class="panel"><h2>Zmiany kursów</h2><div class="scroll"><table><thead><tr><th>Mecz / liga</th><th>Typ</th><th>Przed</th><th>Teraz</th><th>Zmiana</th></tr></thead><tbody id="rows"></tbody></table></div><p id="empty" class="empty" hidden>Brak zmian kursów spełniających kryteria.</p></section>
 {% endif %}
@@ -93,10 +93,11 @@ rows.sort((a,b)=>Math.abs(num(b.change_percent))-Math.abs(num(a.change_percent))
 $('count').textContent='Wyniki: '+rows.length;
 const body=$('rows');body.replaceChildren();$('empty').hidden=rows.length!==0;
 rows.forEach(x=>{const tr=document.createElement('tr');const match=cell(tr,clean(x.home)+' – '+clean(x.away));if(x.league){const small=document.createElement('small');small.textContent=[x.region,x.league].filter(Boolean).join(' · ');match.appendChild(small)}cell(tr,clean(x.selection));cell(tr,clean(x.odds_before));cell(tr,clean(x.odds_now));cell(tr,(num(x.change_percent)>0?'+':'')+clean(x.change_percent)+'%',x.direction==='drop'?'drop':'rise');body.appendChild(tr)});
-for(const [kind,valueId,matchId] of [['drop','topDrop','topDropMatch'],['rise','topRise','topRiseMatch']]){
+for(const [kind,valueId,matchId,oddsId] of [['drop','topDrop','topDropMatch','topDropOdds'],['rise','topRise','topRiseMatch','topRiseOdds']]){
 const item=rows.filter(x=>x.direction===kind).sort((a,b)=>Math.abs(num(b.change_percent))-Math.abs(num(a.change_percent)))[0];
 $(valueId).textContent=item?(num(item.change_percent)>0?'+':'')+item.change_percent+'%':'Brak danych';
 $(matchId).textContent=item?clean(item.home)+' – '+clean(item.away):'Brak zmian w wybranych filtrach';
+$(oddsId).textContent=item?'Kurs: '+clean(item.odds_before)+' → '+clean(item.odds_now):'Nie zarejestrowano zmiany kursu';
 }
 }
 controls.forEach(id=>$(id).addEventListener('input',render));
