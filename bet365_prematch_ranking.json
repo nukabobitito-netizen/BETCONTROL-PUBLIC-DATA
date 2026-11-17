@@ -1,22 +1,9 @@
 {
-  "updated_at": "2026-11-16T22:20:23.631806+00:00",
+  "updated_at": "2026-11-17T08:03:07.532166+00:00",
   "window_hours": 12,
   "source": "Bet365",
   "scope": "soccer MATCH_RESULT FULL_TIME HOME/AWAY",
   "drops": [
-    {
-      "eventId": "204631682",
-      "home": "Plymouth U21",
-      "away": "Leicester U21",
-      "selection": "HOME",
-      "startTime": "2026-11-16T19:00:00+00:00",
-      "odds_before": 4.75,
-      "odds_now": 4.0,
-      "change_percent": -15.79,
-      "first_seen": "2026-11-16T18:10:11.532592+00:00",
-      "last_seen": "2026-11-16T18:13:58.131888+00:00",
-      "source": "Bet365"
-    },
     {
       "eventId": "204133471",
       "home": "Montevideo Wanderers",
@@ -41,19 +28,6 @@
       "change_percent": -3.57,
       "first_seen": "2026-11-16T20:11:41.429000+00:00",
       "last_seen": "2026-11-16T22:15:56.712022+00:00",
-      "source": "Bet365"
-    },
-    {
-      "eventId": "204625318",
-      "home": "Cuba",
-      "away": "Grenada",
-      "selection": "HOME",
-      "startTime": "2026-11-16T19:00:00+00:00",
-      "odds_before": 1.2222,
-      "odds_now": 1.2,
-      "change_percent": -1.82,
-      "first_seen": "2026-11-16T18:10:11.532592+00:00",
-      "last_seen": "2026-11-16T18:13:58.131888+00:00",
       "source": "Bet365"
     }
   ],
@@ -82,32 +56,6 @@
       "change_percent": 12.9,
       "first_seen": "2026-11-16T20:11:41.429000+00:00",
       "last_seen": "2026-11-16T22:20:23.631806+00:00",
-      "source": "Bet365"
-    },
-    {
-      "eventId": "204625318",
-      "home": "Cuba",
-      "away": "Grenada",
-      "selection": "AWAY",
-      "startTime": "2026-11-16T19:00:00+00:00",
-      "odds_before": 9.0,
-      "odds_now": 9.5,
-      "change_percent": 5.56,
-      "first_seen": "2026-11-16T18:10:11.532592+00:00",
-      "last_seen": "2026-11-16T18:13:58.131888+00:00",
-      "source": "Bet365"
-    },
-    {
-      "eventId": "204631682",
-      "home": "Plymouth U21",
-      "away": "Leicester U21",
-      "selection": "AWAY",
-      "startTime": "2026-11-16T19:00:00+00:00",
-      "odds_before": 1.38,
-      "odds_now": 1.45,
-      "change_percent": 5.07,
-      "first_seen": "2026-11-16T18:10:11.532592+00:00",
-      "last_seen": "2026-11-16T18:13:58.131888+00:00",
       "source": "Bet365"
     }
   ]
