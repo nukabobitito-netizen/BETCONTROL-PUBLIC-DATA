@@ -1,22 +1,9 @@
 {
-  "updated_at": "2026-11-17T10:02:30.659962+00:00",
+  "updated_at": "2026-11-17T14:47:32.183449+00:00",
   "window_hours": 12,
   "source": "Bet365",
   "scope": "soccer MATCH_RESULT FULL_TIME HOME/AWAY",
   "drops": [
-    {
-      "eventId": "204133471",
-      "home": "Montevideo Wanderers",
-      "away": "Juventud De Las Piedras",
-      "selection": "HOME",
-      "startTime": "2026-11-16T23:00:00+00:00",
-      "odds_before": 2.0,
-      "odds_now": 1.85,
-      "change_percent": -7.5,
-      "first_seen": "2026-11-16T22:15:56.712022+00:00",
-      "last_seen": "2026-11-16T22:20:23.631806+00:00",
-      "source": "Bet365"
-    },
     {
       "eventId": "204627129",
       "home": "Poland U19",
@@ -45,19 +32,6 @@
     }
   ],
   "rises": [
-    {
-      "eventId": "204133471",
-      "home": "Montevideo Wanderers",
-      "away": "Juventud De Las Piedras",
-      "selection": "AWAY",
-      "startTime": "2026-11-16T23:00:00+00:00",
-      "odds_before": 3.2,
-      "odds_now": 3.5,
-      "change_percent": 9.38,
-      "first_seen": "2026-11-16T22:15:56.712022+00:00",
-      "last_seen": "2026-11-16T22:20:23.631806+00:00",
-      "source": "Bet365"
-    },
     {
       "eventId": "204627125",
       "home": "Netherlands U19",
