@@ -2,6 +2,10 @@ name: Publikuj ranking PREMATCH
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - bet365_prematch_ranking.json
 
 permissions:
   contents: write
@@ -12,32 +16,59 @@ concurrency:
 
 jobs:
   publish:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - name: Pobierz repozytorium
         uses: actions/checkout@v4
-      - name: Sprawdź dane rankingu
+        with:
+          persist-credentials: true
+      - name: Waliduj i synchronizuj dane z kanonicznego rankingu
         run: |
           python - <<'PY'
           import json
+          from datetime import datetime, timezone, timedelta
           from pathlib import Path
-          path = Path("data/ranking.json")
-          if not path.is_file():
-              raise SystemExit("Brak data/ranking.json. Najpierw dostarcz rzeczywiste dane rankingu.")
-          data = json.loads(path.read_text(encoding="utf-8"))
-          if not isinstance(data, (list, dict)):
-              raise SystemExit("Ranking musi być obiektem JSON lub tablicą.")
-          print("Poprawny JSON. Publikacja gotowa.")
+
+          source = Path("bet365_prematch_ranking.json")
+          if not source.is_file():
+              raise SystemExit("Brak źródłowego pliku bet365_prematch_ranking.json")
+          data = json.loads(source.read_text(encoding="utf-8"))
+          if not isinstance(data, dict) or not isinstance(data.get("drops"), list) or not isinstance(data.get("rises"), list):
+              raise SystemExit("Niepoprawny format rankingu Bet365")
+          updated = datetime.fromisoformat(data["updated_at"].replace("Z", "+00:00"))
+          if updated.tzinfo is None:
+              raise SystemExit("updated_at musi zawierać strefę czasową")
+          if updated > datetime.now(timezone.utc) + timedelta(minutes=5):
+              raise SystemExit("Data aktualizacji pochodzi z przyszłości")
+          for direction, key in (("drop", "drops"), ("rise", "rises")):
+              for item in data[key]:
+                  if item.get("selection") not in ("HOME", "AWAY"):
+                      raise SystemExit("Nieobsługiwana selekcja (tylko HOME/AWAY)")
+                  if not item.get("eventId"):
+                      raise SystemExit("Brak eventId")
+          items = [{**item, "direction": direction} for direction, key in (("drop", "drops"), ("rise", "rises")) for item in data[key]]
+          output = {
+              "schema_version": 1,
+              "source": data.get("source", "Bet365"),
+              "status": "verified_data" if datetime.now(timezone.utc) - updated <= timedelta(hours=12) else "stale_data",
+              "generated_at": data["updated_at"],
+              "window_hours": data.get("window_hours", 12),
+              "items": items
+          }
+          Path("data").mkdir(exist_ok=True)
+          Path("data/ranking.json").write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+          Path("ranking.json").write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+          print(f"Zsynchronizowano {len(items)} pozycji; status={output['status']}; źródło={data['updated_at']}")
           PY
-      - name: Opublikuj ranking.json
+      - name: Zapisz opublikowane dane
         run: |
-          cp data/ranking.json ranking.json
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add ranking.json
+          git add data/ranking.json ranking.json
           if git diff --cached --quiet; then
             echo "Brak zmian do publikacji."
           else
-            git commit -m "Publikacja rankingu PREMATCH"
+            git commit -m "Synchronizacja rankingu PREMATCH ze źródłem Bet365"
             git push
           fi
