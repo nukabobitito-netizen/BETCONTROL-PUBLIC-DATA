@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-11-18T22:39:34.747269+00:00",
+  "updated_at": "2026-11-18T23:27:55.349958+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50,
   "drops": [
     {
-      "eventId": "204821820",
+      "eventId": "204674785",
       "sport": "Piłka nożna",
-      "competition": "Guatemala Segunda Division",
-      "home": "Deportivo Ayutla",
-      "away": "Nueva Concepcion",
+      "competition": "Brazil Copa Paraiba",
+      "home": "Nacional de Patos",
+      "away": "Atletico Cajazeirense",
       "selection": "AWAY",
-      "team": "Nueva Concepcion",
-      "score": "0:2",
-      "minute": "50'",
-      "odds_before": 6.25,
-      "odds_now": 1.25,
-      "change_percent": -80.0
+      "team": "Atletico Cajazeirense",
+      "score": "0:1",
+      "minute": "26'",
+      "odds_before": 5.5,
+      "odds_now": 1.5333,
+      "change_percent": -72.12
     },
     {
-      "eventId": "204812909",
+      "eventId": "204815160",
       "sport": "Tenis",
-      "competition": "UTR Pro College Station",
-      "home": "Ritesh Patil",
-      "away": "Esunge Ndumbe",
-      "selection": "AWAY",
-      "team": "Esunge Ndumbe",
+      "competition": "UTR Pro Newport Beach Women",
+      "home": "Elena Goodman",
+      "away": "Ruby Ward",
+      "selection": "HOME",
+      "team": "Elena Goodman",
       "score": "Brak danych",
       "minute": "Brak danych",
-      "odds_before": 2.75,
-      "odds_now": 1.04,
-      "change_percent": -62.18
+      "odds_before": 2.2,
+      "odds_now": 1.0625,
+      "change_percent": -51.7
     }
   ]
 }
