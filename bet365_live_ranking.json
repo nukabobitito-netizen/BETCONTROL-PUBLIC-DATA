@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T21:37:03.849981+00:00",
+  "updated_at": "2026-11-18T21:53:19.204050+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50,
   "drops": [
@@ -14,22 +14,8 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 7.5,
-      "odds_now": 1.6154,
-      "change_percent": -78.46
-    },
-    {
-      "eventId": "204675612",
-      "sport": "Piłka nożna",
-      "competition": "Peru Liga 1",
-      "home": "Alianza Atletico",
-      "away": "FBC Melgar",
-      "selection": "AWAY",
-      "team": "FBC Melgar",
-      "score": "0:1",
-      "minute": "74'",
-      "odds_before": 5.0,
-      "odds_now": 1.9524,
-      "change_percent": -60.95
+      "odds_now": 1.25,
+      "change_percent": -83.33
     },
     {
       "eventId": "204812909",
@@ -44,20 +30,6 @@
       "odds_before": 2.75,
       "odds_now": 1.3333,
       "change_percent": -51.52
-    },
-    {
-      "eventId": "204815834",
-      "sport": "Tenis",
-      "competition": "UTR Pro Newport Beach",
-      "home": "Luca Ostovany",
-      "away": "Pavel Bushuev",
-      "selection": "HOME",
-      "team": "Luca Ostovany",
-      "score": "Brak danych",
-      "minute": "Brak danych",
-      "odds_before": 4.0,
-      "odds_now": 1.95,
-      "change_percent": -51.25
     }
   ]
 }
