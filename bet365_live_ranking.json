@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T21:05:15.913265+00:00",
+  "updated_at": "2026-11-18T21:06:52.403839+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50,
   "drops": [
@@ -11,11 +11,11 @@
       "away": "SPAS U19 (W)",
       "selection": "AWAY",
       "team": "SPAS U19 (W)",
-      "score": "13:17",
+      "score": "13:19",
       "minute": "Brak danych",
       "odds_before": 4.5,
-      "odds_now": 1.1667,
-      "change_percent": -74.07
+      "odds_now": 1.0625,
+      "change_percent": -76.39
     },
     {
       "eventId": "204813508",
@@ -28,8 +28,8 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 7.5,
-      "odds_now": 2.2,
-      "change_percent": -70.67
+      "odds_now": 2.0,
+      "change_percent": -73.33
     },
     {
       "eventId": "204412315",
@@ -54,7 +54,7 @@
       "selection": "HOME",
       "team": "Home Farm FC",
       "score": "3:1",
-      "minute": "59'",
+      "minute": "61'",
       "odds_before": 2.7,
       "odds_now": 1.0833,
       "change_percent": -59.88
@@ -68,24 +68,24 @@
       "selection": "HOME",
       "team": "Calpe",
       "score": "2:0",
-      "minute": "76'",
+      "minute": "78'",
       "odds_before": 2.25,
       "odds_now": 1.0152,
       "change_percent": -54.88
     },
     {
-      "eventId": "204674822",
+      "eventId": "204840025",
       "sport": "Piłka nożna",
-      "competition": "Spain Tercera Group 13",
-      "home": "Aguilas B",
-      "away": "UCAM Murcia CF B",
-      "selection": "HOME",
-      "team": "Aguilas B",
-      "score": "2:0",
+      "competition": "Switzerland 2. Liga Interregional",
+      "home": "FC Urania Geneve Sport",
+      "away": "FC Collex Bossy",
+      "selection": "AWAY",
+      "team": "FC Collex Bossy",
+      "score": "0:2",
       "minute": "79'",
       "odds_before": 2.15,
-      "odds_now": 1.01,
-      "change_percent": -53.02
+      "odds_now": 1.025,
+      "change_percent": -52.33
     },
     {
       "eventId": "204813511",
@@ -98,22 +98,8 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 2.625,
-      "odds_now": 1.25,
-      "change_percent": -52.38
-    },
-    {
-      "eventId": "204840025",
-      "sport": "Piłka nożna",
-      "competition": "Switzerland 2. Liga Interregional",
-      "home": "FC Urania Geneve Sport",
-      "away": "FC Collex Bossy",
-      "selection": "AWAY",
-      "team": "FC Collex Bossy",
-      "score": "0:2",
-      "minute": "77'",
-      "odds_before": 2.15,
-      "odds_now": 1.0303,
-      "change_percent": -52.08
+      "odds_now": 1.3,
+      "change_percent": -50.48
     }
   ]
 }
