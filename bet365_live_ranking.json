@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-18T21:53:19.204050+00:00",
+  "updated_at": "2026-11-18T22:39:34.747269+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50,
   "drops": [
     {
-      "eventId": "204813508",
-      "sport": "Tenis",
-      "competition": "M15 Olavarria",
-      "home": "Rocco Valente",
-      "away": "Tomas Luna",
+      "eventId": "204821820",
+      "sport": "Piłka nożna",
+      "competition": "Guatemala Segunda Division",
+      "home": "Deportivo Ayutla",
+      "away": "Nueva Concepcion",
       "selection": "AWAY",
-      "team": "Tomas Luna",
-      "score": "Brak danych",
-      "minute": "Brak danych",
-      "odds_before": 7.5,
+      "team": "Nueva Concepcion",
+      "score": "0:2",
+      "minute": "50'",
+      "odds_before": 6.25,
       "odds_now": 1.25,
-      "change_percent": -83.33
+      "change_percent": -80.0
     },
     {
       "eventId": "204812909",
@@ -28,8 +28,8 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 2.75,
-      "odds_now": 1.3333,
-      "change_percent": -51.52
+      "odds_now": 1.04,
+      "change_percent": -62.18
     }
   ]
 }
