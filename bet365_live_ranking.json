@@ -1,22 +1,8 @@
 {
-  "updated_at": "2026-11-18T21:06:52.403839+00:00",
+  "updated_at": "2026-11-18T21:12:13.660376+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50,
   "drops": [
-    {
-      "eventId": "204797288",
-      "sport": "Siatkówka",
-      "competition": "Serbia Regional Liga U19 Women",
-      "home": "As Batajnica U19 (W)",
-      "away": "SPAS U19 (W)",
-      "selection": "AWAY",
-      "team": "SPAS U19 (W)",
-      "score": "13:19",
-      "minute": "Brak danych",
-      "odds_before": 4.5,
-      "odds_now": 1.0625,
-      "change_percent": -76.39
-    },
     {
       "eventId": "204813508",
       "sport": "Tenis",
@@ -28,8 +14,22 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 7.5,
-      "odds_now": 2.0,
-      "change_percent": -73.33
+      "odds_now": 1.8333,
+      "change_percent": -75.56
+    },
+    {
+      "eventId": "204786829",
+      "sport": "Koszykówka",
+      "competition": "Copa Espana",
+      "home": "Real Valladolid",
+      "away": "Caja 87",
+      "selection": "HOME",
+      "team": "Real Valladolid",
+      "score": "Brak danych",
+      "minute": "Brak danych",
+      "odds_before": 5.0,
+      "odds_now": 1.3636,
+      "change_percent": -72.73
     },
     {
       "eventId": "204412315",
@@ -39,11 +39,11 @@
       "away": "Padova (W)",
       "selection": "HOME",
       "team": "Leonessa Volley Altamura (W)",
-      "score": "0:0",
+      "score": "4:1",
       "minute": "Brak danych",
       "odds_before": 4.0,
-      "odds_now": 1.5714,
-      "change_percent": -60.72
+      "odds_now": 1.25,
+      "change_percent": -68.75
     },
     {
       "eventId": "204840857",
@@ -54,38 +54,10 @@
       "selection": "HOME",
       "team": "Home Farm FC",
       "score": "3:1",
-      "minute": "61'",
+      "minute": "66'",
       "odds_before": 2.7,
-      "odds_now": 1.0833,
-      "change_percent": -59.88
-    },
-    {
-      "eventId": "204679285",
-      "sport": "Piłka nożna",
-      "competition": "Spain Regional League",
-      "home": "Calpe",
-      "away": "Gandia",
-      "selection": "HOME",
-      "team": "Calpe",
-      "score": "2:0",
-      "minute": "78'",
-      "odds_before": 2.25,
-      "odds_now": 1.0152,
-      "change_percent": -54.88
-    },
-    {
-      "eventId": "204840025",
-      "sport": "Piłka nożna",
-      "competition": "Switzerland 2. Liga Interregional",
-      "home": "FC Urania Geneve Sport",
-      "away": "FC Collex Bossy",
-      "selection": "AWAY",
-      "team": "FC Collex Bossy",
-      "score": "0:2",
-      "minute": "79'",
-      "odds_before": 2.15,
-      "odds_now": 1.025,
-      "change_percent": -52.33
+      "odds_now": 1.0625,
+      "change_percent": -60.65
     },
     {
       "eventId": "204813511",
@@ -98,8 +70,22 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 2.625,
-      "odds_now": 1.3,
-      "change_percent": -50.48
+      "odds_now": 1.2222,
+      "change_percent": -53.44
+    },
+    {
+      "eventId": "204432664",
+      "sport": "Koszykówka",
+      "competition": "FIBA Europe Cup",
+      "home": "Sporting CP",
+      "away": "Craiova",
+      "selection": "AWAY",
+      "team": "Craiova",
+      "score": "Brak danych",
+      "minute": "Brak danych",
+      "odds_before": 3.05,
+      "odds_now": 1.4545,
+      "change_percent": -52.31
     }
   ]
 }
