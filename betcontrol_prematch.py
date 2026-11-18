@@ -1,7 +1,7 @@
 """BETCONTROL — ranking zmian kursów przedmeczowych Bet365."""
 import json
 import time
-from datetime import datetime
+from datetime import datetime, timezone
 from threading import Lock
 from urllib.request import Request, urlopen
 from zoneinfo import ZoneInfo
@@ -50,7 +50,7 @@ table{width:100%;border-collapse:collapse}th,td{padding:12px 10px;text-align:lef
 </style></head><body><main>
 <div class="toolbar"><h1>BET<span class="accent">CONTROL</span></h1><a href="/" style="color:var(--blue);text-decoration:none;font-weight:600">Strona główna</a></div>
 <p>Ranking zmian kursów przedmeczowych · Bet365 · piłka nożna · 1X2 FULL_TIME · HOME / AWAY · historia 12 h</p>
-<p>Aktualizacja danych: <strong>{{ stamp }}</strong>{% if stale %} <span class="warn">· Dane z pamięci podręcznej</span>{% endif %}</p>
+<p>Aktualizacja danych: <strong>{{ stamp }}</strong>{% if stale %} <span class="warn">· Uwaga: dane mogą być nieaktualne</span>{% endif %}</p>
 {% if unavailable %}<section class="panel warn">Ranking jest chwilowo niedostępny. Spróbuj ponownie później.</section>{% else %}
 <section class="panel"><h2>Filtry kursów przedmeczowych</h2>
 <div class="filters">
@@ -94,9 +94,9 @@ $('count').textContent='Wyniki: '+rows.length;
 const body=$('rows');body.replaceChildren();$('empty').hidden=rows.length!==0;
 rows.forEach(x=>{const tr=document.createElement('tr');const match=cell(tr,clean(x.home)+' – '+clean(x.away));if(x.league){const small=document.createElement('small');small.textContent=[x.region,x.league].filter(Boolean).join(' · ');match.appendChild(small)}cell(tr,clean(x.selection));cell(tr,clean(x.odds_before));cell(tr,clean(x.odds_now));cell(tr,(num(x.change_percent)>0?'+':'')+clean(x.change_percent)+'%',x.direction==='drop'?'drop':'rise');body.appendChild(tr)});
 for(const [kind,valueId,matchId,oddsId] of [['drop','topDrop','topDropMatch','topDropOdds'],['rise','topRise','topRiseMatch','topRiseOdds']]){
-const item=rows.filter(x=>x.direction===kind).sort((a,b)=>Math.abs(num(b.change_percent))-Math.abs(num(a.change_percent)))[0];
+const item=all.filter(x=>x.direction===kind && Number.isFinite(num(x.change_percent))).sort((a,b)=>Math.abs(num(b.change_percent))-Math.abs(num(a.change_percent)))[0];
 $(valueId).textContent=item?(num(item.change_percent)>0?'+':'')+item.change_percent+'%':'Brak danych';
-$(matchId).textContent=item?clean(item.home)+' – '+clean(item.away):'Brak zmian w wybranych filtrach';
+$(matchId).textContent=item?clean(item.home)+' – '+clean(item.away):'Brak zarejestrowanych zmian';
 $(oddsId).textContent=item?'Kurs: '+clean(item.odds_before)+' → '+clean(item.odds_now):'Nie zarejestrowano zmiany kursu';
 }
 }
@@ -115,5 +115,13 @@ def ranking_prematch():
             stamp = datetime.fromisoformat(data["updated_at"].replace("Z", "+00:00")).astimezone(ZoneInfo("Europe/Warsaw")).strftime("%d.%m.%Y %H:%M")
         except (KeyError, ValueError, TypeError):
             pass
+    if data:
+        try:
+            updated = datetime.fromisoformat(data["updated_at"].replace("Z", "+00:00"))
+            if updated.tzinfo is None:
+                updated = updated.replace(tzinfo=timezone.utc)
+            stale = stale or (datetime.now(timezone.utc) - updated.astimezone(timezone.utc)).total_seconds() > 3600
+        except (KeyError, ValueError, TypeError):
+            stale = True
     payload = json.dumps(data or {}, ensure_ascii=False).replace("<", "\\u003c").replace(">", "\\u003e").replace("&", "\\u0026")
     return Response(render_template_string(HTML, stamp=stamp, stale=stale, unavailable=data is None, payload=payload), mimetype="text/html; charset=utf-8")
