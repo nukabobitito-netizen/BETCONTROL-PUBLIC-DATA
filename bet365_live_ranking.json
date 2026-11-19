@@ -1,50 +1,8 @@
 {
-  "updated_at": "2026-11-19T03:19:51.765948+00:00",
+  "updated_at": "2026-11-19T04:21:30.957722+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50,
   "drops": [
-    {
-      "eventId": "204804143",
-      "sport": "Koszykówka",
-      "competition": "NCAAB",
-      "home": "Oakland",
-      "away": "Arizona State",
-      "selection": "HOME",
-      "team": "Oakland",
-      "score": "Brak danych",
-      "minute": "Brak danych",
-      "odds_before": 22.0,
-      "odds_now": 2.6,
-      "change_percent": -88.18
-    },
-    {
-      "eventId": "204804160",
-      "sport": "Koszykówka",
-      "competition": "NCAAB",
-      "home": "North Dakota State",
-      "away": "Colorado State",
-      "selection": "HOME",
-      "team": "North Dakota State",
-      "score": "Brak danych",
-      "minute": "Brak danych",
-      "odds_before": 8.5,
-      "odds_now": 1.5882,
-      "change_percent": -81.32
-    },
-    {
-      "eventId": "204804139",
-      "sport": "Koszykówka",
-      "competition": "NCAAB",
-      "home": "Portland",
-      "away": "Colorado",
-      "selection": "HOME",
-      "team": "Portland",
-      "score": "Brak danych",
-      "minute": "Brak danych",
-      "odds_before": 10.0,
-      "odds_now": 2.3,
-      "change_percent": -77.0
-    },
     {
       "eventId": "204785499",
       "sport": "Koszykówka",
@@ -53,39 +11,25 @@
       "away": "National Tsinghua University (W)",
       "selection": "AWAY",
       "team": "National Tsinghua University (W)",
-      "score": "15:22",
+      "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 8.5,
-      "odds_now": 3.2,
-      "change_percent": -62.35
+      "odds_now": 1.1818,
+      "change_percent": -86.1
     },
     {
-      "eventId": "204822757",
+      "eventId": "204822758",
       "sport": "Tenis",
       "competition": "M15 Kuala Lumpur",
-      "home": "Azuma Visaya",
-      "away": "Darrshan Suresh",
+      "home": "David Eichenseher",
+      "away": "Gunawan Trismuwantara",
       "selection": "AWAY",
-      "team": "Darrshan Suresh",
+      "team": "Gunawan Trismuwantara",
       "score": "Brak danych",
       "minute": "Brak danych",
-      "odds_before": 10.0,
-      "odds_now": 4.0,
-      "change_percent": -60.0
-    },
-    {
-      "eventId": "204766852",
-      "sport": "Tenis",
-      "competition": "Challenger Kobe",
-      "home": "Benjamin Hassan",
-      "away": "Keegan Smith",
-      "selection": "HOME",
-      "team": "Benjamin Hassan",
-      "score": "Brak danych",
-      "minute": "Brak danych",
-      "odds_before": 2.375,
-      "odds_now": 1.01,
-      "change_percent": -57.47
+      "odds_before": 3.5,
+      "odds_now": 1.6154,
+      "change_percent": -53.85
     }
   ]
 }
