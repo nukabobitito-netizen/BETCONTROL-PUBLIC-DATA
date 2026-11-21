@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T23:30:15.153619+00:00",
+  "updated_at": "2026-11-21T23:35:13.905148+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 40.0,
   "drop_method": "odds_premium_above_one",
@@ -16,22 +16,8 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 4.25,
-      "odds_now": 1.1667,
-      "change_percent": -94.87
-    },
-    {
-      "eventId": "204856776",
-      "sport": "Piłka nożna",
-      "competition": "Mexico Liga Premier A",
-      "home": "Saltillo Soccer FC",
-      "away": "Halcones Negros FC",
-      "selection": "HOME",
-      "team": "Saltillo Soccer FC",
-      "score": "2:0",
-      "minute": "64'",
-      "odds_before": 3.6,
-      "odds_now": 1.1667,
-      "change_percent": -93.59
+      "odds_now": 1.0714,
+      "change_percent": -97.8
     },
     {
       "eventId": "204966184",
@@ -44,22 +30,22 @@
       "score": "1:4",
       "minute": "Brak danych",
       "odds_before": 1.8696,
-      "odds_now": 1.0769,
-      "change_percent": -91.16
+      "odds_now": 1.025,
+      "change_percent": -97.13
     },
     {
-      "eventId": "204951153",
-      "sport": "Siatkówka",
-      "competition": "Brazil Paulista U19 Women",
-      "home": "Pinheiros U19 (W)",
-      "away": "Osasco U19 (W)",
-      "selection": "AWAY",
-      "team": "Osasco U19 (W)",
-      "score": "20:22",
-      "minute": "Brak danych",
-      "odds_before": 2.375,
-      "odds_now": 1.25,
-      "change_percent": -81.82
+      "eventId": "204856776",
+      "sport": "Piłka nożna",
+      "competition": "Mexico Liga Premier A",
+      "home": "Saltillo Soccer FC",
+      "away": "Halcones Negros FC",
+      "selection": "HOME",
+      "team": "Saltillo Soccer FC",
+      "score": "2:0",
+      "minute": "69'",
+      "odds_before": 3.6,
+      "odds_now": 1.1111,
+      "change_percent": -95.73
     },
     {
       "eventId": "204987356",
@@ -72,8 +58,22 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 2.25,
-      "odds_now": 1.2857,
-      "change_percent": -77.14
+      "odds_now": 1.25,
+      "change_percent": -80.0
+    },
+    {
+      "eventId": "204856747",
+      "sport": "Piłka nożna",
+      "competition": "Mexico Liga TDP",
+      "home": "Pabellón FC",
+      "away": "Atletico ECCA",
+      "selection": "AWAY",
+      "team": "Atletico ECCA",
+      "score": "0:1",
+      "minute": "33'",
+      "odds_before": 3.3,
+      "odds_now": 1.6154,
+      "change_percent": -73.24
     },
     {
       "eventId": "204608217",
@@ -83,11 +83,53 @@
       "away": "Sedalo",
       "selection": "AWAY",
       "team": "Sedalo",
-      "score": "14:17",
+      "score": "17:19",
       "minute": "Brak danych",
       "odds_before": 3.2,
-      "odds_now": 1.58,
-      "change_percent": -73.64
+      "odds_now": 1.75,
+      "change_percent": -65.91
+    },
+    {
+      "eventId": "204750066",
+      "sport": "Piłka nożna",
+      "competition": "Mexico Primera Premier",
+      "home": "Tapachula Soconusco FC",
+      "away": "Irapuato",
+      "selection": "HOME",
+      "team": "Tapachula Soconusco FC",
+      "score": "0:0",
+      "minute": "27'",
+      "odds_before": 7.0,
+      "odds_now": 3.1,
+      "change_percent": -65.0
+    },
+    {
+      "eventId": "204608222",
+      "sport": "Piłka ręczna",
+      "competition": "Argentina LHC Oro Clausura",
+      "home": "Velez Sarsfield",
+      "away": "Vicente Lopez",
+      "selection": "AWAY",
+      "team": "Vicente Lopez",
+      "score": "5:6",
+      "minute": "Brak danych",
+      "odds_before": 4.25,
+      "odds_now": 2.15,
+      "change_percent": -64.62
+    },
+    {
+      "eventId": "204331007",
+      "sport": "Piłka nożna",
+      "competition": "USA MLS",
+      "home": "Inter Miami",
+      "away": "Columbus Crew",
+      "selection": "AWAY",
+      "team": "Columbus Crew",
+      "score": "0:1",
+      "minute": "24'",
+      "odds_before": 4.5,
+      "odds_now": 2.4,
+      "change_percent": -60.0
     },
     {
       "eventId": "204987358",
@@ -100,50 +142,22 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 4.0,
-      "odds_now": 1.8,
-      "change_percent": -73.33
+      "odds_now": 2.2,
+      "change_percent": -60.0
     },
     {
-      "eventId": "204750066",
+      "eventId": "203963327",
       "sport": "Piłka nożna",
-      "competition": "Mexico Primera Premier",
-      "home": "Tapachula Soconusco FC",
-      "away": "Irapuato",
-      "selection": "HOME",
-      "team": "Tapachula Soconusco FC",
-      "score": "0:0",
-      "minute": "22'",
-      "odds_before": 7.0,
-      "odds_now": 3.1,
-      "change_percent": -65.0
-    },
-    {
-      "eventId": "204331007",
-      "sport": "Piłka nożna",
-      "competition": "USA MLS",
-      "home": "Inter Miami",
-      "away": "Columbus Crew",
+      "competition": "Chile Liga de Primera",
+      "home": "Universidad de Concepcion",
+      "away": "Nublense",
       "selection": "AWAY",
-      "team": "Columbus Crew",
-      "score": "0:1",
-      "minute": "20'",
-      "odds_before": 4.5,
-      "odds_now": 2.5,
-      "change_percent": -57.14
-    },
-    {
-      "eventId": "204842749",
-      "sport": "Piłka nożna",
-      "competition": "Honduras Liga Nacional",
-      "home": "Estrella Roja",
-      "away": "Lobos UPNFM",
-      "selection": "AWAY",
-      "team": "Lobos UPNFM",
+      "team": "Nublense",
       "score": "0:0",
-      "minute": "15'",
-      "odds_before": 2.9,
-      "odds_now": 2.0,
-      "change_percent": -47.37
+      "minute": "3'",
+      "odds_before": 3.1,
+      "odds_now": 1.9091,
+      "change_percent": -56.71
     }
   ]
 }
