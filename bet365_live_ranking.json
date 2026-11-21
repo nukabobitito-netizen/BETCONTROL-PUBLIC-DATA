@@ -1,24 +1,10 @@
 {
-  "updated_at": "2026-11-21T22:05:13.023714+00:00",
+  "updated_at": "2026-11-21T22:10:14.090262+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 40.0,
   "drop_method": "odds_premium_above_one",
   "underdog_only": true,
   "drops": [
-    {
-      "eventId": "204943328",
-      "sport": "Koszykówka",
-      "competition": "Portugal Nacional 2A",
-      "home": "CD Jose Regio",
-      "away": "GDB Leca",
-      "selection": "AWAY",
-      "team": "GDB Leca",
-      "score": "Brak danych",
-      "minute": "Brak danych",
-      "odds_before": 12.0,
-      "odds_now": 1.2222,
-      "change_percent": -97.98
-    },
     {
       "eventId": "204839931",
       "sport": "Piłka nożna",
@@ -28,10 +14,24 @@
       "selection": "AWAY",
       "team": "Internacional Santa Tecla",
       "score": "0:2",
-      "minute": "45'",
+      "minute": "47'",
       "odds_before": 3.7,
       "odds_now": 1.1429,
       "change_percent": -94.71
+    },
+    {
+      "eventId": "204838368",
+      "sport": "Piłka ręczna",
+      "competition": "Portugal 3a Divisao",
+      "home": "GDC Azurara",
+      "away": "CD Rio Tinto",
+      "selection": "HOME",
+      "team": "GDC Azurara",
+      "score": "23:19",
+      "minute": "Brak danych",
+      "odds_before": 2.8,
+      "odds_now": 1.12,
+      "change_percent": -93.33
     },
     {
       "eventId": "204961549",
@@ -44,8 +44,22 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 2.15,
-      "odds_now": 1.1053,
-      "change_percent": -90.84
+      "odds_now": 1.0769,
+      "change_percent": -93.31
+    },
+    {
+      "eventId": "204943328",
+      "sport": "Koszykówka",
+      "competition": "Portugal Nacional 2A",
+      "home": "CD Jose Regio",
+      "away": "GDB Leca",
+      "selection": "AWAY",
+      "team": "GDB Leca",
+      "score": "Brak danych",
+      "minute": "Brak danych",
+      "odds_before": 12.0,
+      "odds_now": 2.22,
+      "change_percent": -88.91
     },
     {
       "eventId": "204966184",
@@ -70,10 +84,10 @@
       "selection": "AWAY",
       "team": "Lobos ULM",
       "score": "0:1",
-      "minute": "45'",
+      "minute": "47'",
       "odds_before": 4.1,
-      "odds_now": 1.5,
-      "change_percent": -83.87
+      "odds_now": 1.4444,
+      "change_percent": -85.66
     },
     {
       "eventId": "204967910",
@@ -86,8 +100,8 @@
       "score": "6:2",
       "minute": "Brak danych",
       "odds_before": 1.8696,
-      "odds_now": 1.1429,
-      "change_percent": -83.57
+      "odds_now": 1.1818,
+      "change_percent": -79.09
     },
     {
       "eventId": "204856727",
@@ -104,18 +118,74 @@
       "change_percent": -74.55
     },
     {
-      "eventId": "204938098",
-      "sport": "Koszykówka",
-      "competition": "Portugal Div 1 Women",
-      "home": "Carnide Clube (W)",
-      "away": "Alges (W)",
+      "eventId": "204840190",
+      "sport": "Piłka nożna",
+      "competition": "Honduras Liga Nacional",
+      "home": "Genesis de Comayagua",
+      "away": "CA Independiente Siguatepeque",
       "selection": "AWAY",
-      "team": "Alges (W)",
+      "team": "CA Independiente Siguatepeque",
+      "score": "0:1",
+      "minute": "51'",
+      "odds_before": 4.75,
+      "odds_now": 2.0,
+      "change_percent": -73.33
+    },
+    {
+      "eventId": "204838050",
+      "sport": "Piłka ręczna",
+      "competition": "Portugal 1st Div Women",
+      "home": "ABC Braga (W)",
+      "away": "Cale (W)",
+      "selection": "AWAY",
+      "team": "Cale (W)",
+      "score": "23:24",
+      "minute": "Brak danych",
+      "odds_before": 3.2,
+      "odds_now": 1.65,
+      "change_percent": -70.45
+    },
+    {
+      "eventId": "204838165",
+      "sport": "Koszykówka",
+      "competition": "Mexico Liga ABE",
+      "home": "Tec Mty Toluca",
+      "away": "Americana Del Noreste",
+      "selection": "AWAY",
+      "team": "Americana Del Noreste",
       "score": "Brak danych",
       "minute": "Brak danych",
-      "odds_before": 7.5,
-      "odds_now": 3.7,
-      "change_percent": -58.46
+      "odds_before": 8.25,
+      "odds_now": 3.9,
+      "change_percent": -60.0
+    },
+    {
+      "eventId": "204856776",
+      "sport": "Piłka nożna",
+      "competition": "Mexico Liga Premier A",
+      "home": "Saltillo Soccer FC",
+      "away": "Halcones Negros FC",
+      "selection": "HOME",
+      "team": "Saltillo Soccer FC",
+      "score": "1:0",
+      "minute": "3'",
+      "odds_before": 3.6,
+      "odds_now": 2.1,
+      "change_percent": -57.69
+    },
+    {
+      "eventId": "204913911",
+      "sport": "Piłka nożna",
+      "competition": "Saint Kitts & Nevis Premier League",
+      "home": "Garden Hotspurs",
+      "away": "Cayon",
+      "selection": "HOME",
+      "team": "Garden Hotspurs",
+      "score": "1:0",
+      "minute": "10'",
+      "odds_before": 8.5,
+      "odds_now": 4.3333,
+      "change_percent": -55.56
     },
     {
       "eventId": "204747114",
@@ -132,18 +202,18 @@
       "change_percent": -55.0
     },
     {
-      "eventId": "204913911",
-      "sport": "Piłka nożna",
-      "competition": "Saint Kitts & Nevis Premier League",
-      "home": "Garden Hotspurs",
-      "away": "Cayon",
+      "eventId": "204943336",
+      "sport": "Koszykówka",
+      "competition": "Portugal Nacional 2A",
+      "home": "Febres SC",
+      "away": "ASSSCC",
       "selection": "HOME",
-      "team": "Garden Hotspurs",
-      "score": "1:0",
-      "minute": "5'",
-      "odds_before": 8.5,
-      "odds_now": 4.5,
-      "change_percent": -53.33
+      "team": "Febres SC",
+      "score": "Brak danych",
+      "minute": "Brak danych",
+      "odds_before": 2.7,
+      "odds_now": 1.8,
+      "change_percent": -52.94
     },
     {
       "eventId": "204601348",
@@ -156,8 +226,8 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 7.5,
-      "odds_now": 4.5,
-      "change_percent": -46.15
+      "odds_now": 4.4,
+      "change_percent": -47.69
     }
   ]
 }
