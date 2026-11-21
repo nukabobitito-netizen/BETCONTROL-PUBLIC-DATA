@@ -1,6 +1,91 @@
 {
-  "updated_at": "2026-11-21T10:57:56.862289+00:00",
+  "updated_at": "2026-11-21T11:36:50.141015+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50,
-  "drops": []
+  "drops": [
+    {
+      "eventId": "204719628",
+      "sport": "Piłka nożna",
+      "competition": "Cambodia Premier League",
+      "home": "Phnom Penh Crown",
+      "away": "Kirivong Sok Sen Chey",
+      "selection": "AWAY",
+      "team": "Kirivong Sok Sen Chey",
+      "score": "0:1",
+      "minute": "36'",
+      "odds_before": 10.0,
+      "odds_now": 3.25,
+      "change_percent": -67.5
+    },
+    {
+      "eventId": "204719615",
+      "sport": "Piłka nożna",
+      "competition": "Moldova Divizia Nationala",
+      "home": "FC Politehnica Chisinau",
+      "away": "Zimbru Chisinau",
+      "selection": "HOME",
+      "team": "FC Politehnica Chisinau",
+      "score": "1:0",
+      "minute": "36'",
+      "odds_before": 5.25,
+      "odds_now": 2.1,
+      "change_percent": -60.0
+    },
+    {
+      "eventId": "204780747",
+      "sport": "Piłka nożna",
+      "competition": "Poland III Liga",
+      "home": "Jagiellonia Bialystok II",
+      "away": "Mazovia Minsk Mazowiecki",
+      "selection": "AWAY",
+      "team": "Mazovia Minsk Mazowiecki",
+      "score": "0:3",
+      "minute": "35'",
+      "odds_before": 2.7,
+      "odds_now": 1.0909,
+      "change_percent": -59.6
+    },
+    {
+      "eventId": "204784470",
+      "sport": "Piłka nożna",
+      "competition": "Poland Youth League",
+      "home": "Legia Warsaw U19",
+      "away": "Jagiellonia Bialystok U19",
+      "selection": "AWAY",
+      "team": "Jagiellonia Bialystok U19",
+      "score": "0:1",
+      "minute": "31'",
+      "odds_before": 4.75,
+      "odds_now": 2.1,
+      "change_percent": -55.79
+    },
+    {
+      "eventId": "204977715",
+      "sport": "Piłka nożna",
+      "competition": "Zambia Division 1",
+      "home": "Atletico Lusaka",
+      "away": "Kafue Celtic",
+      "selection": "AWAY",
+      "team": "Kafue Celtic",
+      "score": "0:1",
+      "minute": "36'",
+      "odds_before": 3.3,
+      "odds_now": 1.5714,
+      "change_percent": -52.38
+    },
+    {
+      "eventId": "204783648",
+      "sport": "Piłka nożna",
+      "competition": "Switzerland U19 Elite",
+      "home": "FC Thun U19",
+      "away": "FC Lausanne-Sport U19",
+      "selection": "HOME",
+      "team": "FC Thun U19",
+      "score": "4:0",
+      "minute": "34'",
+      "odds_before": 2.05,
+      "odds_now": 1.0152,
+      "change_percent": -50.48
+    }
+  ]
 }
