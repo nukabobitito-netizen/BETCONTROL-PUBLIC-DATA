@@ -1,24 +1,10 @@
 {
-  "updated_at": "2026-11-21T23:40:14.680007+00:00",
+  "updated_at": "2026-11-21T23:45:13.597718+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 40.0,
   "drop_method": "odds_premium_above_one",
   "underdog_only": true,
   "drops": [
-    {
-      "eventId": "204856776",
-      "sport": "Piłka nożna",
-      "competition": "Mexico Liga Premier A",
-      "home": "Saltillo Soccer FC",
-      "away": "Halcones Negros FC",
-      "selection": "HOME",
-      "team": "Saltillo Soccer FC",
-      "score": "3:0",
-      "minute": "74'",
-      "odds_before": 3.6,
-      "odds_now": 1.0152,
-      "change_percent": -99.42
-    },
     {
       "eventId": "204966184",
       "sport": "baseball",
@@ -34,20 +20,6 @@
       "change_percent": -98.85
     },
     {
-      "eventId": "204960447",
-      "sport": "Koszykówka",
-      "competition": "NCAAB",
-      "home": "Northeastern",
-      "away": "Stonehill",
-      "selection": "AWAY",
-      "team": "Stonehill",
-      "score": "Brak danych",
-      "minute": "Brak danych",
-      "odds_before": 4.25,
-      "odds_now": 1.04,
-      "change_percent": -98.77
-    },
-    {
       "eventId": "204852213",
       "sport": "Piłka nożna",
       "competition": "USA USL Super League Women",
@@ -56,10 +28,24 @@
       "selection": "HOME",
       "team": "Sporting JAX (W)",
       "score": "1:0",
-      "minute": "73'",
+      "minute": "78'",
       "odds_before": 2.5,
-      "odds_now": 1.1818,
-      "change_percent": -87.88
+      "odds_now": 1.125,
+      "change_percent": -91.67
+    },
+    {
+      "eventId": "204608222",
+      "sport": "Piłka ręczna",
+      "competition": "Argentina LHC Oro Clausura",
+      "home": "Velez Sarsfield",
+      "away": "Vicente Lopez",
+      "selection": "AWAY",
+      "team": "Vicente Lopez",
+      "score": "7:9",
+      "minute": "Brak danych",
+      "odds_before": 4.25,
+      "odds_now": 1.7,
+      "change_percent": -78.46
     },
     {
       "eventId": "204987356",
@@ -72,8 +58,22 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 2.25,
-      "odds_now": 1.3,
-      "change_percent": -76.0
+      "odds_now": 1.2857,
+      "change_percent": -77.14
+    },
+    {
+      "eventId": "204856747",
+      "sport": "Piłka nożna",
+      "competition": "Mexico Liga TDP",
+      "home": "Pabellón FC",
+      "away": "Atletico ECCA",
+      "selection": "AWAY",
+      "team": "Atletico ECCA",
+      "score": "0:1",
+      "minute": "43'",
+      "odds_before": 3.3,
+      "odds_now": 1.5714,
+      "change_percent": -75.16
     },
     {
       "eventId": "204987358",
@@ -86,22 +86,8 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 4.0,
-      "odds_now": 1.8,
-      "change_percent": -73.33
-    },
-    {
-      "eventId": "204856747",
-      "sport": "Piłka nożna",
-      "competition": "Mexico Liga TDP",
-      "home": "Pabellón FC",
-      "away": "Atletico ECCA",
-      "selection": "AWAY",
-      "team": "Atletico ECCA",
-      "score": "0:1",
-      "minute": "38'",
-      "odds_before": 3.3,
-      "odds_now": 1.6154,
-      "change_percent": -73.24
+      "odds_now": 2.05,
+      "change_percent": -65.0
     },
     {
       "eventId": "204750066",
@@ -112,24 +98,10 @@
       "selection": "HOME",
       "team": "Tapachula Soconusco FC",
       "score": "0:0",
-      "minute": "32'",
+      "minute": "37'",
       "odds_before": 7.0,
-      "odds_now": 3.0,
-      "change_percent": -66.67
-    },
-    {
-      "eventId": "204608222",
-      "sport": "Piłka ręczna",
-      "competition": "Argentina LHC Oro Clausura",
-      "home": "Velez Sarsfield",
-      "away": "Vicente Lopez",
-      "selection": "AWAY",
-      "team": "Vicente Lopez",
-      "score": "5:7",
-      "minute": "Brak danych",
-      "odds_before": 4.25,
-      "odds_now": 2.15,
-      "change_percent": -64.62
+      "odds_now": 3.2,
+      "change_percent": -63.33
     },
     {
       "eventId": "203962871",
@@ -140,10 +112,10 @@
       "selection": "AWAY",
       "team": "Leon",
       "score": "0:1",
-      "minute": "39'",
+      "minute": "44'",
       "odds_before": 2.65,
-      "odds_now": 1.6154,
-      "change_percent": -62.7
+      "odds_now": 1.6667,
+      "change_percent": -59.59
     },
     {
       "eventId": "204331007",
@@ -154,10 +126,24 @@
       "selection": "AWAY",
       "team": "Columbus Crew",
       "score": "0:1",
-      "minute": "29'",
+      "minute": "34'",
       "odds_before": 4.5,
       "odds_now": 2.5,
       "change_percent": -57.14
+    },
+    {
+      "eventId": "204979487",
+      "sport": "Tenis",
+      "competition": "M15 Santa Cruz MD",
+      "home": "Braga/de Krom",
+      "away": "Cuellar Lorberg/Suarez",
+      "selection": "AWAY",
+      "team": "Cuellar Lorberg/Suarez",
+      "score": "0:1",
+      "minute": "Brak danych",
+      "odds_before": 3.25,
+      "odds_now": 2.25,
+      "change_percent": -44.44
     }
   ]
 }
