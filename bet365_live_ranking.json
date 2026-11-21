@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T22:45:14.171945+00:00",
+  "updated_at": "2026-11-21T22:50:13.748687+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 40.0,
   "drop_method": "odds_premium_above_one",
@@ -14,24 +14,24 @@
       "selection": "AWAY",
       "team": "Internacional Santa Tecla",
       "score": "0:2",
-      "minute": "82'",
+      "minute": "87'",
       "odds_before": 3.7,
-      "odds_now": 1.0152,
-      "change_percent": -99.44
+      "odds_now": 1.01,
+      "change_percent": -99.63
     },
     {
-      "eventId": "204748243",
+      "eventId": "204856738",
       "sport": "Piłka nożna",
-      "competition": "Mexico Primera Premier",
-      "home": "Pioneros de Cancun",
-      "away": "Lobos ULM",
-      "selection": "AWAY",
-      "team": "Lobos ULM",
-      "score": "0:1",
-      "minute": "82'",
-      "odds_before": 4.1,
-      "odds_now": 1.0833,
-      "change_percent": -97.31
+      "competition": "Mexico Liga TDP",
+      "home": "Sufacen Tepic",
+      "away": "Atletico Nayarit",
+      "selection": "HOME",
+      "team": "Sufacen Tepic",
+      "score": "3:1",
+      "minute": "83'",
+      "odds_before": 4.5,
+      "odds_now": 1.025,
+      "change_percent": -99.29
     },
     {
       "eventId": "204961549",
@@ -44,8 +44,36 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 2.15,
-      "odds_now": 1.0357,
-      "change_percent": -96.9
+      "odds_now": 1.01,
+      "change_percent": -99.13
+    },
+    {
+      "eventId": "204748243",
+      "sport": "Piłka nożna",
+      "competition": "Mexico Primera Premier",
+      "home": "Pioneros de Cancun",
+      "away": "Lobos ULM",
+      "selection": "AWAY",
+      "team": "Lobos ULM",
+      "score": "0:1",
+      "minute": "87'",
+      "odds_before": 4.1,
+      "odds_now": 1.0625,
+      "change_percent": -97.98
+    },
+    {
+      "eventId": "204945653",
+      "sport": "Piłka nożna",
+      "competition": "Paraguay Copa EFE Women",
+      "home": "Deportivo Recoleta (W)",
+      "away": "Sportivo Ameliano (W)",
+      "selection": "AWAY",
+      "team": "Sportivo Ameliano (W)",
+      "score": "0:1",
+      "minute": "85'",
+      "odds_before": 13.0,
+      "odds_now": 1.4444,
+      "change_percent": -96.3
     },
     {
       "eventId": "204966184",
@@ -62,20 +90,6 @@
       "change_percent": -95.89
     },
     {
-      "eventId": "204856738",
-      "sport": "Piłka nożna",
-      "competition": "Mexico Liga TDP",
-      "home": "Sufacen Tepic",
-      "away": "Atletico Nayarit",
-      "selection": "HOME",
-      "team": "Sufacen Tepic",
-      "score": "2:1",
-      "minute": "77'",
-      "odds_before": 4.5,
-      "odds_now": 1.3,
-      "change_percent": -91.43
-    },
-    {
       "eventId": "204856727",
       "sport": "Piłka nożna",
       "competition": "Mexico Liga TDP",
@@ -84,24 +98,24 @@
       "selection": "AWAY",
       "team": "Ajolotes Lerma FC",
       "score": "0:1",
-      "minute": "76'",
+      "minute": "81'",
       "odds_before": 6.5,
-      "odds_now": 1.5714,
-      "change_percent": -89.61
+      "odds_now": 1.3636,
+      "change_percent": -93.39
     },
     {
-      "eventId": "204601348",
-      "sport": "Koszykówka",
-      "competition": "Portugal LBP",
-      "home": "Oliveirense",
-      "away": "Vitoria SC",
+      "eventId": "203963394",
+      "sport": "Piłka nożna",
+      "competition": "Ecuador LigaPro Serie A",
+      "home": "Universidad Catolica del Ecuador",
+      "away": "Barcelona Guayaquil",
       "selection": "AWAY",
-      "team": "Vitoria SC",
-      "score": "Brak danych",
-      "minute": "Brak danych",
-      "odds_before": 7.5,
-      "odds_now": 2.15,
-      "change_percent": -82.31
+      "team": "Barcelona Guayaquil",
+      "score": "0:1",
+      "minute": "60'",
+      "odds_before": 4.75,
+      "odds_now": 1.6154,
+      "change_percent": -83.59
     },
     {
       "eventId": "204960447",
@@ -118,20 +132,6 @@
       "change_percent": -80.77
     },
     {
-      "eventId": "204838165",
-      "sport": "Koszykówka",
-      "competition": "Mexico Liga ABE",
-      "home": "Tec Mty Toluca",
-      "away": "Americana Del Noreste",
-      "selection": "AWAY",
-      "team": "Americana Del Noreste",
-      "score": "Brak danych",
-      "minute": "Brak danych",
-      "odds_before": 8.25,
-      "odds_now": 3.0,
-      "change_percent": -72.41
-    },
-    {
       "eventId": "204960435",
       "sport": "Koszykówka",
       "competition": "NCAAB",
@@ -142,8 +142,8 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 2.2,
-      "odds_now": 1.3846,
-      "change_percent": -67.95
+      "odds_now": 1.3333,
+      "change_percent": -72.23
     },
     {
       "eventId": "204856776",
@@ -154,10 +154,10 @@
       "selection": "HOME",
       "team": "Saltillo Soccer FC",
       "score": "1:0",
-      "minute": "37'",
+      "minute": "43'",
       "odds_before": 3.6,
-      "odds_now": 1.9091,
-      "change_percent": -65.03
+      "odds_now": 2.0,
+      "change_percent": -61.54
     },
     {
       "eventId": "204608221",
@@ -186,6 +186,48 @@
       "odds_before": 2.15,
       "odds_now": 1.4762,
       "change_percent": -58.59
+    },
+    {
+      "eventId": "204967910",
+      "sport": "baseball",
+      "competition": "Venezuela Liga Professional",
+      "home": "Caribes de Anzoátegui",
+      "away": "Tigres de Aragua",
+      "selection": "HOME",
+      "team": "Caribes de Anzoátegui",
+      "score": "8:6",
+      "minute": "Brak danych",
+      "odds_before": 1.8696,
+      "odds_now": 1.3846,
+      "change_percent": -55.77
+    },
+    {
+      "eventId": "204601348",
+      "sport": "Koszykówka",
+      "competition": "Portugal LBP",
+      "home": "Oliveirense",
+      "away": "Vitoria SC",
+      "selection": "AWAY",
+      "team": "Vitoria SC",
+      "score": "Brak danych",
+      "minute": "Brak danych",
+      "odds_before": 7.5,
+      "odds_now": 4.2,
+      "change_percent": -50.77
+    },
+    {
+      "eventId": "204608222",
+      "sport": "Piłka ręczna",
+      "competition": "Argentina LHC Oro Clausura",
+      "home": "Velez Sarsfield",
+      "away": "Vicente Lopez",
+      "selection": "AWAY",
+      "team": "Vicente Lopez",
+      "score": "0:0",
+      "minute": "Brak danych",
+      "odds_before": 4.25,
+      "odds_now": 2.85,
+      "change_percent": -43.08
     }
   ]
 }
