@@ -1,24 +1,10 @@
 {
-  "updated_at": "2026-11-21T22:50:13.748687+00:00",
+  "updated_at": "2026-11-21T22:55:13.118758+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 40.0,
   "drop_method": "odds_premium_above_one",
   "underdog_only": true,
   "drops": [
-    {
-      "eventId": "204839931",
-      "sport": "Piłka nożna",
-      "competition": "El Salvador Apertura",
-      "home": "AD Isidro Metapan",
-      "away": "Internacional Santa Tecla",
-      "selection": "AWAY",
-      "team": "Internacional Santa Tecla",
-      "score": "0:2",
-      "minute": "87'",
-      "odds_before": 3.7,
-      "odds_now": 1.01,
-      "change_percent": -99.63
-    },
     {
       "eventId": "204856738",
       "sport": "Piłka nożna",
@@ -28,24 +14,10 @@
       "selection": "HOME",
       "team": "Sufacen Tepic",
       "score": "3:1",
-      "minute": "83'",
+      "minute": "87'",
       "odds_before": 4.5,
-      "odds_now": 1.025,
-      "change_percent": -99.29
-    },
-    {
-      "eventId": "204961549",
-      "sport": "Koszykówka",
-      "competition": "NCAAB",
-      "home": "Pennsylvania",
-      "away": "La Salle",
-      "selection": "HOME",
-      "team": "Pennsylvania",
-      "score": "Brak danych",
-      "minute": "Brak danych",
-      "odds_before": 2.15,
       "odds_now": 1.01,
-      "change_percent": -99.13
+      "change_percent": -99.71
     },
     {
       "eventId": "204748243",
@@ -56,24 +28,24 @@
       "selection": "AWAY",
       "team": "Lobos ULM",
       "score": "0:1",
-      "minute": "87'",
+      "minute": "92'",
       "odds_before": 4.1,
-      "odds_now": 1.0625,
-      "change_percent": -97.98
+      "odds_now": 1.04,
+      "change_percent": -98.71
     },
     {
-      "eventId": "204945653",
+      "eventId": "204856727",
       "sport": "Piłka nożna",
-      "competition": "Paraguay Copa EFE Women",
-      "home": "Deportivo Recoleta (W)",
-      "away": "Sportivo Ameliano (W)",
+      "competition": "Mexico Liga TDP",
+      "home": "Deportivo Metepec",
+      "away": "Ajolotes Lerma FC",
       "selection": "AWAY",
-      "team": "Sportivo Ameliano (W)",
+      "team": "Ajolotes Lerma FC",
       "score": "0:1",
-      "minute": "85'",
-      "odds_before": 13.0,
-      "odds_now": 1.4444,
-      "change_percent": -96.3
+      "minute": "86'",
+      "odds_before": 6.5,
+      "odds_now": 1.1818,
+      "change_percent": -96.69
     },
     {
       "eventId": "204966184",
@@ -86,22 +58,22 @@
       "score": "0:4",
       "minute": "Brak danych",
       "odds_before": 1.8696,
-      "odds_now": 1.0357,
-      "change_percent": -95.89
+      "odds_now": 1.0556,
+      "change_percent": -93.61
     },
     {
-      "eventId": "204856727",
-      "sport": "Piłka nożna",
-      "competition": "Mexico Liga TDP",
-      "home": "Deportivo Metepec",
-      "away": "Ajolotes Lerma FC",
+      "eventId": "204608221",
+      "sport": "Piłka ręczna",
+      "competition": "Argentina LHC Oro Clausura",
+      "home": "Bartolome Mitre",
+      "away": "AA Quilmes",
       "selection": "AWAY",
-      "team": "Ajolotes Lerma FC",
-      "score": "0:1",
-      "minute": "81'",
-      "odds_before": 6.5,
-      "odds_now": 1.3636,
-      "change_percent": -93.39
+      "team": "AA Quilmes",
+      "score": "0:4",
+      "minute": "Brak danych",
+      "odds_before": 2.1,
+      "odds_now": 1.09,
+      "change_percent": -91.82
     },
     {
       "eventId": "203963394",
@@ -112,7 +84,7 @@
       "selection": "AWAY",
       "team": "Barcelona Guayaquil",
       "score": "0:1",
-      "minute": "60'",
+      "minute": "65'",
       "odds_before": 4.75,
       "odds_now": 1.6154,
       "change_percent": -83.59
@@ -132,18 +104,18 @@
       "change_percent": -80.77
     },
     {
-      "eventId": "204960435",
-      "sport": "Koszykówka",
-      "competition": "NCAAB",
-      "home": "Albany",
-      "away": "Canisius",
+      "eventId": "204951153",
+      "sport": "Siatkówka",
+      "competition": "Brazil Paulista U19 Women",
+      "home": "Pinheiros U19 (W)",
+      "away": "Osasco U19 (W)",
       "selection": "AWAY",
-      "team": "Canisius",
-      "score": "Brak danych",
+      "team": "Osasco U19 (W)",
+      "score": "16:22",
       "minute": "Brak danych",
-      "odds_before": 2.2,
+      "odds_before": 2.375,
       "odds_now": 1.3333,
-      "change_percent": -72.23
+      "change_percent": -75.76
     },
     {
       "eventId": "204856776",
@@ -154,24 +126,24 @@
       "selection": "HOME",
       "team": "Saltillo Soccer FC",
       "score": "1:0",
-      "minute": "43'",
+      "minute": "45'",
       "odds_before": 3.6,
-      "odds_now": 2.0,
-      "change_percent": -61.54
+      "odds_now": 1.8333,
+      "change_percent": -67.95
     },
     {
-      "eventId": "204608221",
-      "sport": "Piłka ręczna",
-      "competition": "Argentina LHC Oro Clausura",
-      "home": "Bartolome Mitre",
-      "away": "AA Quilmes",
+      "eventId": "204960435",
+      "sport": "Koszykówka",
+      "competition": "NCAAB",
+      "home": "Albany",
+      "away": "Canisius",
       "selection": "AWAY",
-      "team": "AA Quilmes",
-      "score": "0:0",
+      "team": "Canisius",
+      "score": "Brak danych",
       "minute": "Brak danych",
-      "odds_before": 2.1,
-      "odds_now": 1.45,
-      "change_percent": -59.09
+      "odds_before": 2.2,
+      "odds_now": 1.4545,
+      "change_percent": -62.13
     },
     {
       "eventId": "204978807",
@@ -188,6 +160,34 @@
       "change_percent": -58.59
     },
     {
+      "eventId": "204987355",
+      "sport": "Tenis",
+      "competition": "UTR Pro Newport Beach",
+      "home": "Constantinos Djakouris",
+      "away": "Adam Chodur",
+      "selection": "AWAY",
+      "team": "Adam Chodur",
+      "score": "0:2",
+      "minute": "Brak danych",
+      "odds_before": 5.0,
+      "odds_now": 2.75,
+      "change_percent": -56.25
+    },
+    {
+      "eventId": "204986061",
+      "sport": "Tenis",
+      "competition": "UTR Pro Newport Beach Women",
+      "home": "Veronika Miroshnichenko",
+      "away": "Shachf Lieberman",
+      "selection": "AWAY",
+      "team": "Shachf Lieberman",
+      "score": "0:3",
+      "minute": "Brak danych",
+      "odds_before": 12.0,
+      "odds_now": 6.0,
+      "change_percent": -54.55
+    },
+    {
       "eventId": "204967910",
       "sport": "baseball",
       "competition": "Venezuela Liga Professional",
@@ -198,22 +198,8 @@
       "score": "8:6",
       "minute": "Brak danych",
       "odds_before": 1.8696,
-      "odds_now": 1.3846,
-      "change_percent": -55.77
-    },
-    {
-      "eventId": "204601348",
-      "sport": "Koszykówka",
-      "competition": "Portugal LBP",
-      "home": "Oliveirense",
-      "away": "Vitoria SC",
-      "selection": "AWAY",
-      "team": "Vitoria SC",
-      "score": "Brak danych",
-      "minute": "Brak danych",
-      "odds_before": 7.5,
-      "odds_now": 4.2,
-      "change_percent": -50.77
+      "odds_now": 1.4545,
+      "change_percent": -47.73
     },
     {
       "eventId": "204608222",
