@@ -1,23 +1,8 @@
 {
-  "updated_at": "2026-11-22T03:50:13.766422+00:00",
+  "updated_at": "2026-11-22T03:55:13.338514+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
-  "drops": [
-    {
-      "eventId": "202801739",
-      "sport": "Piłka nożna",
-      "competition": "Australia A-League",
-      "home": "Wellington Phoenix",
-      "away": "Macarthur FC",
-      "selection": "AWAY",
-      "team": "Macarthur FC",
-      "score": "1:2",
-      "minute": "92'",
-      "odds_before": 3.9,
-      "odds_now": 1.0303,
-      "change_percent": -73.58
-    }
-  ]
+  "drops": []
 }
