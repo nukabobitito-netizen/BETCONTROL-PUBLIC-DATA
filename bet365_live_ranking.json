@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T11:55:13.141353+00:00",
+  "updated_at": "2026-11-22T12:00:17.789850+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -105,39 +105,6 @@
       }
     },
     {
-      "eventId": "204776562",
-      "sport": "Piłka nożna",
-      "competition": "Spain Primera Division RFEF Group 1",
-      "home": "UD Ourense",
-      "away": "Racing Ferrol",
-      "selection": "HOME",
-      "team": "UD Ourense",
-      "score": "1:0",
-      "minute": "51'",
-      "odds_before": 3.9,
-      "odds_now": 1.8,
-      "change_percent": -53.85,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 3.0,
-            "opponent": 0.0
-          },
-          "dangerousAttacks": {
-            "selected": 23.0,
-            "opponent": 32.0
-          },
-          "corners": {
-            "selected": 1.0,
-            "opponent": 4.0
-          }
-        },
-        "advantage_count": 1,
-        "disadvantage_count": 2
-      }
-    },
-    {
       "eventId": "204674483",
       "sport": "Piłka nożna",
       "competition": "Spain Tercera Group 5",
@@ -179,10 +146,10 @@
       "selection": "AWAY",
       "team": "Resovia Rzeszow",
       "score": "0:1",
-      "minute": "45'",
+      "minute": "47'",
       "odds_before": 4.0,
-      "odds_now": 1.9524,
-      "change_percent": -51.19,
+      "odds_now": 1.9091,
+      "change_percent": -52.27,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -191,7 +158,7 @@
             "opponent": 4.0
           },
           "dangerousAttacks": {
-            "selected": 33.0,
+            "selected": 36.0,
             "opponent": 40.0
           },
           "corners": {
