@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T11:30:14.951741+00:00",
+  "updated_at": "2026-11-22T11:35:13.550318+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "AWAY",
       "team": "Annecy U19",
       "score": "2:4",
-      "minute": "69'",
+      "minute": "73'",
       "odds_before": 4.2,
-      "odds_now": 1.0714,
-      "change_percent": -74.49,
+      "odds_now": 1.0455,
+      "change_percent": -75.11,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
@@ -26,8 +26,8 @@
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 34.0,
-            "opponent": 30.0
+            "selected": 36.0,
+            "opponent": 31.0
           },
           "corners": {
             "selected": 7.0,
@@ -39,6 +39,39 @@
       }
     },
     {
+      "eventId": "204455620",
+      "sport": "Piłka nożna",
+      "competition": "Spain Segunda Division RFEF Group 4",
+      "home": "CP Mijas",
+      "away": "Las Palmas B",
+      "selection": "AWAY",
+      "team": "Las Palmas B",
+      "score": "0:1",
+      "minute": "35'",
+      "odds_before": 5.25,
+      "odds_now": 1.7273,
+      "change_percent": -67.1,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 1.0,
+            "opponent": 0.0
+          },
+          "dangerousAttacks": {
+            "selected": 21.0,
+            "opponent": 27.0
+          },
+          "corners": {
+            "selected": 2.0,
+            "opponent": 2.0
+          }
+        },
+        "advantage_count": 1,
+        "disadvantage_count": 1
+      }
+    },
+    {
       "eventId": "204776540",
       "sport": "Piłka nożna",
       "competition": "Thailand Premier League",
@@ -47,10 +80,10 @@
       "selection": "AWAY",
       "team": "Ayutthaya United",
       "score": "0:1",
-      "minute": "30'",
+      "minute": "35'",
       "odds_before": 7.0,
-      "odds_now": 2.375,
-      "change_percent": -66.07,
+      "odds_now": 2.4,
+      "change_percent": -65.71,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -60,48 +93,15 @@
           },
           "dangerousAttacks": {
             "selected": 15.0,
-            "opponent": 14.0
+            "opponent": 17.0
           },
           "corners": {
             "selected": 3.0,
             "opponent": 0.0
           }
         },
-        "advantage_count": 2,
-        "disadvantage_count": 1
-      }
-    },
-    {
-      "eventId": "204891789",
-      "sport": "Piłka nożna",
-      "competition": "Maldives Premier League",
-      "home": "ODI SC",
-      "away": "TC Sports Club",
-      "selection": "AWAY",
-      "team": "TC Sports Club",
-      "score": "0:1",
-      "minute": "33'",
-      "odds_before": 6.5,
-      "odds_now": 2.375,
-      "change_percent": -63.46,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 1.0
-          },
-          "dangerousAttacks": {
-            "selected": 13.0,
-            "opponent": 19.0
-          },
-          "corners": {
-            "selected": 1.0,
-            "opponent": 1.0
-          }
-        },
         "advantage_count": 1,
-        "disadvantage_count": 1
+        "disadvantage_count": 2
       }
     },
     {
@@ -113,10 +113,10 @@
       "selection": "AWAY",
       "team": "Quy Nhon United",
       "score": "1:2",
-      "minute": "75'",
+      "minute": "80'",
       "odds_before": 3.4,
-      "odds_now": 1.25,
-      "change_percent": -63.24,
+      "odds_now": 1.1818,
+      "change_percent": -65.24,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -125,16 +125,16 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 28.0,
-            "opponent": 35.0
+            "selected": 30.0,
+            "opponent": 37.0
           },
           "corners": {
             "selected": 3.0,
-            "opponent": 3.0
+            "opponent": 4.0
           }
         },
         "advantage_count": 1,
-        "disadvantage_count": 1
+        "disadvantage_count": 2
       }
     },
     {
@@ -146,7 +146,7 @@
       "selection": "AWAY",
       "team": "UD Tomares",
       "score": "0:1",
-      "minute": "30'",
+      "minute": "35'",
       "odds_before": 3.3,
       "odds_now": 1.25,
       "change_percent": -62.12,
@@ -155,11 +155,11 @@
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 4.0,
-            "opponent": 0.0
+            "opponent": 1.0
           },
           "dangerousAttacks": {
             "selected": 11.0,
-            "opponent": 8.0
+            "opponent": 9.0
           },
           "corners": {
             "selected": 3.0,
@@ -171,105 +171,6 @@
       }
     },
     {
-      "eventId": "204853515",
-      "sport": "Piłka nożna",
-      "competition": "Spain Tercera Group 9",
-      "home": "Arenas Armilla",
-      "away": "Recreativo Granada",
-      "selection": "AWAY",
-      "team": "Recreativo Granada",
-      "score": "0:1",
-      "minute": "29'",
-      "odds_before": 4.75,
-      "odds_now": 1.8,
-      "change_percent": -62.11,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 1.0,
-            "opponent": 1.0
-          },
-          "dangerousAttacks": {
-            "selected": 14.0,
-            "opponent": 24.0
-          },
-          "corners": {
-            "selected": 0.0,
-            "opponent": 2.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 2
-      }
-    },
-    {
-      "eventId": "204852626",
-      "sport": "Piłka nożna",
-      "competition": "Hungary NB III",
-      "home": "Ujpest II",
-      "away": "Sandorfalvi SK",
-      "selection": "AWAY",
-      "team": "Sandorfalvi SK",
-      "score": "1:1",
-      "minute": "69'",
-      "odds_before": 9.0,
-      "odds_now": 4.3333,
-      "change_percent": -51.85,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 3.0,
-            "opponent": 2.0
-          },
-          "dangerousAttacks": {
-            "selected": 32.0,
-            "opponent": 53.0
-          },
-          "corners": {
-            "selected": 1.0,
-            "opponent": 3.0
-          }
-        },
-        "advantage_count": 1,
-        "disadvantage_count": 2
-      }
-    },
-    {
-      "eventId": "204897226",
-      "sport": "Piłka nożna",
-      "competition": "France U19 League",
-      "home": "SA Merignac U19",
-      "away": "Beaucouze U19",
-      "selection": "AWAY",
-      "team": "Beaucouze U19",
-      "score": "0:1",
-      "minute": "71'",
-      "odds_before": 3.75,
-      "odds_now": 1.8333,
-      "change_percent": -51.11,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 6.0,
-            "opponent": 1.0
-          },
-          "dangerousAttacks": {
-            "selected": 26.0,
-            "opponent": 51.0
-          },
-          "corners": {
-            "selected": 4.0,
-            "opponent": 8.0
-          }
-        },
-        "advantage_count": 1,
-        "disadvantage_count": 2
-      }
-    },
-    {
       "eventId": "204855147",
       "sport": "Piłka nożna",
       "competition": "Spain Primera Federacion Women",
@@ -278,10 +179,10 @@
       "selection": "AWAY",
       "team": "Tenerife B (W)",
       "score": "0:1",
-      "minute": "70'",
+      "minute": "75'",
       "odds_before": 3.5,
-      "odds_now": 1.7273,
-      "change_percent": -50.65,
+      "odds_now": 1.4444,
+      "change_percent": -58.73,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -300,6 +201,72 @@
         },
         "advantage_count": 0,
         "disadvantage_count": 0
+      }
+    },
+    {
+      "eventId": "204897226",
+      "sport": "Piłka nożna",
+      "competition": "France U19 League",
+      "home": "SA Merignac U19",
+      "away": "Beaucouze U19",
+      "selection": "AWAY",
+      "team": "Beaucouze U19",
+      "score": "0:1",
+      "minute": "77'",
+      "odds_before": 3.75,
+      "odds_now": 1.6667,
+      "change_percent": -55.55,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 6.0,
+            "opponent": 1.0
+          },
+          "dangerousAttacks": {
+            "selected": 28.0,
+            "opponent": 55.0
+          },
+          "corners": {
+            "selected": 4.0,
+            "opponent": 8.0
+          }
+        },
+        "advantage_count": 1,
+        "disadvantage_count": 2
+      }
+    },
+    {
+      "eventId": "204674483",
+      "sport": "Piłka nożna",
+      "competition": "Spain Tercera Group 5",
+      "home": "CE Europa B",
+      "away": "CFJ Mollerussa",
+      "selection": "AWAY",
+      "team": "CFJ Mollerussa",
+      "score": "0:1",
+      "minute": "36'",
+      "odds_before": 3.8,
+      "odds_now": 1.8333,
+      "change_percent": -51.76,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 1.0,
+            "opponent": 0.0
+          },
+          "dangerousAttacks": {
+            "selected": 10.0,
+            "opponent": 14.0
+          },
+          "corners": {
+            "selected": 2.0,
+            "opponent": 2.0
+          }
+        },
+        "advantage_count": 1,
+        "disadvantage_count": 1
       }
     }
   ]
