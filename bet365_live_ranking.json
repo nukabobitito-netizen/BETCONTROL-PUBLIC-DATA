@@ -1,76 +1,10 @@
 {
-  "updated_at": "2026-11-22T15:25:13.409810+00:00",
+  "updated_at": "2026-11-22T15:30:18.807837+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
   "drops": [
-    {
-      "eventId": "204784225",
-      "sport": "Piłka nożna",
-      "competition": "Italy Serie D",
-      "home": "Club Atletico Palermo",
-      "away": "Reggina",
-      "selection": "HOME",
-      "team": "Club Atletico Palermo",
-      "score": "1:0",
-      "minute": "90'",
-      "odds_before": 5.5,
-      "odds_now": 1.0714,
-      "change_percent": -80.52,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 2.0
-          },
-          "dangerousAttacks": {
-            "selected": 42.0,
-            "opponent": 62.0
-          },
-          "corners": {
-            "selected": 3.0,
-            "opponent": 4.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 2
-      }
-    },
-    {
-      "eventId": "204897245",
-      "sport": "Piłka nożna",
-      "competition": "Italy Serie D",
-      "home": "Legnago Salus",
-      "away": "Calcio Schio",
-      "selection": "AWAY",
-      "team": "Calcio Schio",
-      "score": "0:1",
-      "minute": "91'",
-      "odds_before": 5.0,
-      "odds_now": 1.0303,
-      "change_percent": -79.39,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 3.0,
-            "opponent": 3.0
-          },
-          "dangerousAttacks": {
-            "selected": 31.0,
-            "opponent": 45.0
-          },
-          "corners": {
-            "selected": 5.0,
-            "opponent": 2.0
-          }
-        },
-        "advantage_count": 1,
-        "disadvantage_count": 1
-      }
-    },
     {
       "eventId": "204907643",
       "sport": "Piłka nożna",
@@ -80,10 +14,10 @@
       "selection": "AWAY",
       "team": "FC Sion II",
       "score": "0:2",
-      "minute": "49'",
+      "minute": "54'",
       "odds_before": 5.5,
-      "odds_now": 1.25,
-      "change_percent": -77.27,
+      "odds_now": 1.2222,
+      "change_percent": -77.78,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
@@ -92,8 +26,8 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 27.0,
-            "opponent": 24.0
+            "selected": 28.0,
+            "opponent": 26.0
           },
           "corners": {
             "selected": 2.0,
@@ -113,10 +47,10 @@
       "selection": "AWAY",
       "team": "KIF Orebro (W)",
       "score": "1:3",
-      "minute": "68'",
+      "minute": "73'",
       "odds_before": 4.3333,
-      "odds_now": 1.1429,
-      "change_percent": -73.63,
+      "odds_now": 1.1,
+      "change_percent": -74.62,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -125,82 +59,16 @@
             "opponent": 4.0
           },
           "dangerousAttacks": {
-            "selected": 49.0,
-            "opponent": 48.0
+            "selected": 51.0,
+            "opponent": 52.0
           },
           "corners": {
             "selected": 3.0,
-            "opponent": 6.0
-          }
-        },
-        "advantage_count": 2,
-        "disadvantage_count": 1
-      }
-    },
-    {
-      "eventId": "204897182",
-      "sport": "Piłka nożna",
-      "competition": "France Division 1 Women",
-      "home": "Paris FC (W)",
-      "away": "FC Fleury 91 (W)",
-      "selection": "AWAY",
-      "team": "FC Fleury 91 (W)",
-      "score": "0:1",
-      "minute": "65'",
-      "odds_before": 6.0,
-      "odds_now": 1.7273,
-      "change_percent": -71.21,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 3.0,
-            "opponent": 4.0
-          },
-          "dangerousAttacks": {
-            "selected": 13.0,
-            "opponent": 35.0
-          },
-          "corners": {
-            "selected": 3.0,
-            "opponent": 2.0
+            "opponent": 7.0
           }
         },
         "advantage_count": 1,
         "disadvantage_count": 2
-      }
-    },
-    {
-      "eventId": "204909712",
-      "sport": "Piłka nożna",
-      "competition": "France U19 League",
-      "home": "US Cap d'Ail U19",
-      "away": "SC Bastia U19",
-      "selection": "HOME",
-      "team": "US Cap d'Ail U19",
-      "score": "2:1",
-      "minute": "91'",
-      "odds_before": 3.5,
-      "odds_now": 1.05,
-      "change_percent": -70.0,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 10.0,
-            "opponent": 7.0
-          },
-          "dangerousAttacks": {
-            "selected": 46.0,
-            "opponent": 34.0
-          },
-          "corners": {
-            "selected": 5.0,
-            "opponent": 7.0
-          }
-        },
-        "advantage_count": 2,
-        "disadvantage_count": 1
       }
     },
     {
@@ -212,127 +80,61 @@
       "selection": "AWAY",
       "team": "Nottm Forest (W)",
       "score": "0:2",
-      "minute": "67'",
+      "minute": "73'",
       "odds_before": 3.4,
-      "odds_now": 1.0714,
-      "change_percent": -68.49,
+      "odds_now": 1.0556,
+      "change_percent": -68.95,
       "statistics_assessment": {
-        "status": "SUPPORTED",
+        "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 2.0,
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 67.0,
-            "opponent": 52.0
+            "selected": 72.0,
+            "opponent": 54.0
           },
           "corners": {
             "selected": 1.0,
-            "opponent": 1.0
+            "opponent": 2.0
           }
         },
         "advantage_count": 2,
-        "disadvantage_count": 0
+        "disadvantage_count": 1
       }
     },
     {
-      "eventId": "204878215",
+      "eventId": "204857399",
       "sport": "Piłka nożna",
-      "competition": "Switzerland 1.Liga Promotion",
-      "home": "FC Schaffhausen",
-      "away": "SC Cham",
-      "selection": "AWAY",
-      "team": "SC Cham",
-      "score": "1:4",
-      "minute": "66'",
-      "odds_before": 3.2,
-      "odds_now": 1.0152,
-      "change_percent": -68.27,
-      "statistics_assessment": {
-        "status": "SUPPORTED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 6.0,
-            "opponent": 1.0
-          },
-          "dangerousAttacks": {
-            "selected": 70.0,
-            "opponent": 33.0
-          },
-          "corners": {
-            "selected": 4.0,
-            "opponent": 1.0
-          }
-        },
-        "advantage_count": 3,
-        "disadvantage_count": 0
-      }
-    },
-    {
-      "eventId": "204909700",
-      "sport": "Piłka nożna",
-      "competition": "France National 2",
-      "home": "Sochaux II",
-      "away": "Thaon",
-      "selection": "AWAY",
-      "team": "Thaon",
-      "score": "2:3",
-      "minute": "89'",
-      "odds_before": 3.4,
-      "odds_now": 1.125,
-      "change_percent": -66.91,
-      "statistics_assessment": {
-        "status": "SUPPORTED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 7.0,
-            "opponent": 5.0
-          },
-          "dangerousAttacks": {
-            "selected": 54.0,
-            "opponent": 49.0
-          },
-          "corners": {
-            "selected": 6.0,
-            "opponent": 3.0
-          }
-        },
-        "advantage_count": 3,
-        "disadvantage_count": 0
-      }
-    },
-    {
-      "eventId": "203964754",
-      "sport": "Piłka nożna",
-      "competition": "England Super League Women",
-      "home": "Charlton (W)",
-      "away": "Aston Villa (W)",
+      "competition": "Serbia Prva Liga",
+      "home": "Jedinstvo UB",
+      "away": "Javor Ivanjica",
       "selection": "HOME",
-      "team": "Charlton (W)",
-      "score": "1:0",
-      "minute": "67'",
-      "odds_before": 4.5,
-      "odds_now": 1.5333,
-      "change_percent": -65.93,
+      "team": "Jedinstvo UB",
+      "score": "2:1",
+      "minute": "70'",
+      "odds_before": 4.0,
+      "odds_now": 1.3333,
+      "change_percent": -66.67,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 1.0,
-            "opponent": 0.0
+            "selected": 4.0,
+            "opponent": 7.0
           },
           "dangerousAttacks": {
-            "selected": 0.0,
-            "opponent": 0.0
+            "selected": 39.0,
+            "opponent": 37.0
           },
           "corners": {
-            "selected": 1.0,
-            "opponent": 9.0
+            "selected": 2.0,
+            "opponent": 4.0
           }
         },
         "advantage_count": 1,
-        "disadvantage_count": 1
+        "disadvantage_count": 2
       }
     },
     {
@@ -344,20 +146,20 @@
       "selection": "AWAY",
       "team": "Derthona",
       "score": "0:1",
-      "minute": "69'",
+      "minute": "74'",
       "odds_before": 3.3,
-      "odds_now": 1.2857,
-      "change_percent": -61.04,
+      "odds_now": 1.2222,
+      "change_percent": -62.96,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 6.0,
-            "opponent": 4.0
+            "opponent": 5.0
           },
           "dangerousAttacks": {
-            "selected": 39.0,
-            "opponent": 27.0
+            "selected": 41.0,
+            "opponent": 31.0
           },
           "corners": {
             "selected": 3.0,
@@ -369,39 +171,6 @@
       }
     },
     {
-      "eventId": "203235820",
-      "sport": "Piłka nożna",
-      "competition": "Portugal Segunda Liga",
-      "home": "Vizela",
-      "away": "Feirense",
-      "selection": "AWAY",
-      "team": "Feirense",
-      "score": "1:2",
-      "minute": "65'",
-      "odds_before": 3.9,
-      "odds_now": 1.5714,
-      "change_percent": -59.71,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 4.0
-          },
-          "dangerousAttacks": {
-            "selected": 16.0,
-            "opponent": 61.0
-          },
-          "corners": {
-            "selected": 0.0,
-            "opponent": 10.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 3
-      }
-    },
-    {
       "eventId": "204722550",
       "sport": "Piłka nożna",
       "competition": "Portugal Cup",
@@ -410,10 +179,10 @@
       "selection": "HOME",
       "team": "SC Vianense",
       "score": "1:0",
-      "minute": "61'",
+      "minute": "66'",
       "odds_before": 3.5,
-      "odds_now": 1.5,
-      "change_percent": -57.14,
+      "odds_now": 1.4,
+      "change_percent": -60.0,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
@@ -423,7 +192,7 @@
           },
           "dangerousAttacks": {
             "selected": 23.0,
-            "opponent": 16.0
+            "opponent": 19.0
           },
           "corners": {
             "selected": 3.0,
@@ -435,68 +204,35 @@
       }
     },
     {
-      "eventId": "204851074",
+      "eventId": "204785922",
       "sport": "Piłka nożna",
-      "competition": "England National League Division 1 Women",
-      "home": "Actonians (W)",
-      "away": "Cambridge Utd (W)",
+      "competition": "Belgium First Amateur Division",
+      "home": "KFC Merelbeke",
+      "away": "K Lyra-Lierse Berlaar",
       "selection": "AWAY",
-      "team": "Cambridge Utd (W)",
+      "team": "K Lyra-Lierse Berlaar",
       "score": "0:1",
-      "minute": "22'",
-      "odds_before": 7.0,
-      "odds_now": 3.0,
-      "change_percent": -57.14,
+      "minute": "68'",
+      "odds_before": 3.6,
+      "odds_now": 1.5,
+      "change_percent": -58.33,
       "statistics_assessment": {
-        "status": "AGAINST",
+        "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 3.0
+            "selected": 3.0,
+            "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 7.0,
-            "opponent": 22.0
+            "selected": 48.0,
+            "opponent": 81.0
           },
           "corners": {
-            "selected": 0.0,
-            "opponent": 1.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 3
-      }
-    },
-    {
-      "eventId": "204786338",
-      "sport": "Piłka nożna",
-      "competition": "Morocco GNF 2",
-      "home": "Chabab Ben Guerir",
-      "away": "US Yacoub El Mansour",
-      "selection": "HOME",
-      "team": "Chabab Ben Guerir",
-      "score": "1:0",
-      "minute": "25'",
-      "odds_before": 3.7,
-      "odds_now": 1.6154,
-      "change_percent": -56.34,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
             "selected": 1.0,
-            "opponent": 1.0
-          },
-          "dangerousAttacks": {
-            "selected": 9.0,
-            "opponent": 10.0
-          },
-          "corners": {
-            "selected": 0.0,
-            "opponent": 1.0
+            "opponent": 3.0
           }
         },
-        "advantage_count": 0,
+        "advantage_count": 1,
         "disadvantage_count": 2
       }
     },
@@ -509,10 +245,10 @@
       "selection": "HOME",
       "team": "Ipswich Town (W)",
       "score": "1:0",
-      "minute": "66'",
+      "minute": "71'",
       "odds_before": 3.4,
-      "odds_now": 1.5714,
-      "change_percent": -53.78,
+      "odds_now": 1.5,
+      "change_percent": -55.88,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -521,8 +257,8 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 28.0,
-            "opponent": 52.0
+            "selected": 30.0,
+            "opponent": 55.0
           },
           "corners": {
             "selected": 2.0,
@@ -534,6 +270,39 @@
       }
     },
     {
+      "eventId": "204786338",
+      "sport": "Piłka nożna",
+      "competition": "Morocco GNF 2",
+      "home": "Chabab Ben Guerir",
+      "away": "US Yacoub El Mansour",
+      "selection": "HOME",
+      "team": "Chabab Ben Guerir",
+      "score": "1:0",
+      "minute": "30'",
+      "odds_before": 3.7,
+      "odds_now": 1.6667,
+      "change_percent": -54.95,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 1.0,
+            "opponent": 2.0
+          },
+          "dangerousAttacks": {
+            "selected": 11.0,
+            "opponent": 13.0
+          },
+          "corners": {
+            "selected": 0.0,
+            "opponent": 3.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 3
+      }
+    },
+    {
       "eventId": "204784398",
       "sport": "Piłka nożna",
       "competition": "Luxembourg Division Nationale",
@@ -542,7 +311,7 @@
       "selection": "AWAY",
       "team": "Progres Niederkorn",
       "score": "0:1",
-      "minute": "26'",
+      "minute": "30'",
       "odds_before": 7.0,
       "odds_now": 3.4,
       "change_percent": -51.43,
@@ -551,19 +320,19 @@
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 1.0,
-            "opponent": 1.0
+            "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 5.0,
-            "opponent": 16.0
+            "selected": 6.0,
+            "opponent": 19.0
           },
           "corners": {
             "selected": 1.0,
-            "opponent": 3.0
+            "opponent": 4.0
           }
         },
         "advantage_count": 0,
-        "disadvantage_count": 2
+        "disadvantage_count": 3
       }
     }
   ]
