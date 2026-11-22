@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T06:20:13.308078+00:00",
+  "updated_at": "2026-11-22T06:25:15.696388+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,24 @@
       "selection": "AWAY",
       "team": "YSCC",
       "score": "0:1",
-      "minute": "61'",
+      "minute": "66'",
       "odds_before": 3.6,
-      "odds_now": 1.3636,
-      "change_percent": -62.12
+      "odds_now": 1.3333,
+      "change_percent": -62.96
+    },
+    {
+      "eventId": "203618685",
+      "sport": "Piłka nożna",
+      "competition": "South Korea K League 2",
+      "home": "Jeonnam Dragons",
+      "away": "Ansan Greeners FC",
+      "selection": "AWAY",
+      "team": "Ansan Greeners FC",
+      "score": "1:2",
+      "minute": "65'",
+      "odds_before": 3.6,
+      "odds_now": 1.6667,
+      "change_percent": -53.7
     },
     {
       "eventId": "204840201",
@@ -28,7 +42,7 @@
       "selection": "HOME",
       "team": "Bright Cerulean FC",
       "score": "0:0",
-      "minute": "62'",
+      "minute": "67'",
       "odds_before": 5.25,
       "odds_now": 2.5,
       "change_percent": -52.38
