@@ -1,52 +1,10 @@
 {
-  "updated_at": "2026-11-21T23:55:12.853155+00:00",
+  "updated_at": "2026-11-22T00:00:14.530155+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 40.0,
   "drop_method": "odds_premium_above_one",
   "underdog_only": true,
   "drops": [
-    {
-      "eventId": "204966184",
-      "sport": "baseball",
-      "competition": "Dominican Republic LIDOM",
-      "home": "Leones del Escogido",
-      "away": "Gigantes del Cibao",
-      "selection": "AWAY",
-      "team": "Gigantes del Cibao",
-      "score": "1:5",
-      "minute": "Brak danych",
-      "odds_before": 1.8696,
-      "odds_now": 1.0125,
-      "change_percent": -98.56
-    },
-    {
-      "eventId": "204852213",
-      "sport": "Piłka nożna",
-      "competition": "USA USL Super League Women",
-      "home": "Sporting JAX (W)",
-      "away": "Carolina Ascent (W)",
-      "selection": "HOME",
-      "team": "Sporting JAX (W)",
-      "score": "1:0",
-      "minute": "88'",
-      "odds_before": 2.5,
-      "odds_now": 1.0625,
-      "change_percent": -95.83
-    },
-    {
-      "eventId": "204987356",
-      "sport": "Tenis",
-      "competition": "UTR Pro Newport Beach",
-      "home": "Antreas Djakouris",
-      "away": "Mattias Southcombe",
-      "selection": "AWAY",
-      "team": "Mattias Southcombe",
-      "score": "Brak danych",
-      "minute": "Brak danych",
-      "odds_before": 2.25,
-      "odds_now": 1.0625,
-      "change_percent": -95.0
-    },
     {
       "eventId": "204856747",
       "sport": "Piłka nożna",
@@ -76,6 +34,20 @@
       "change_percent": -89.85
     },
     {
+      "eventId": "204331007",
+      "sport": "Piłka nożna",
+      "competition": "USA MLS",
+      "home": "Inter Miami",
+      "away": "Columbus Crew",
+      "selection": "AWAY",
+      "team": "Columbus Crew",
+      "score": "0:1",
+      "minute": "49'",
+      "odds_before": 4.5,
+      "odds_now": 1.4444,
+      "change_percent": -87.3
+    },
+    {
       "eventId": "204967910",
       "sport": "baseball",
       "competition": "Venezuela Liga Professional",
@@ -86,22 +58,22 @@
       "score": "11:8",
       "minute": "Brak danych",
       "odds_before": 1.8696,
-      "odds_now": 1.0909,
-      "change_percent": -89.55
+      "odds_now": 1.1176,
+      "change_percent": -86.48
     },
     {
-      "eventId": "204331007",
-      "sport": "Piłka nożna",
-      "competition": "USA MLS",
-      "home": "Inter Miami",
-      "away": "Columbus Crew",
+      "eventId": "204987356",
+      "sport": "Tenis",
+      "competition": "UTR Pro Newport Beach",
+      "home": "Antreas Djakouris",
+      "away": "Mattias Southcombe",
       "selection": "AWAY",
-      "team": "Columbus Crew",
-      "score": "0:1",
-      "minute": "44'",
-      "odds_before": 4.5,
-      "odds_now": 1.4,
-      "change_percent": -88.57
+      "team": "Mattias Southcombe",
+      "score": "Brak danych",
+      "minute": "Brak danych",
+      "odds_before": 2.25,
+      "odds_now": 1.1818,
+      "change_percent": -85.46
     },
     {
       "eventId": "203962871",
@@ -132,18 +104,18 @@
       "change_percent": -80.95
     },
     {
-      "eventId": "204608217",
-      "sport": "Piłka ręczna",
-      "competition": "Argentina LHC Oro Clausura",
-      "home": "Manuel Dorrego",
-      "away": "Sedalo",
-      "selection": "AWAY",
-      "team": "Sedalo",
-      "score": "27:28",
-      "minute": "Brak danych",
-      "odds_before": 3.2,
-      "odds_now": 1.42,
-      "change_percent": -80.91
+      "eventId": "203962868",
+      "sport": "Piłka nożna",
+      "competition": "Mexico Liga MX",
+      "home": "Pachuca",
+      "away": "Toluca",
+      "selection": "HOME",
+      "team": "Pachuca",
+      "score": "1:0",
+      "minute": "47'",
+      "odds_before": 2.5,
+      "odds_now": 1.4444,
+      "change_percent": -70.37
     },
     {
       "eventId": "203963327",
@@ -154,10 +126,24 @@
       "selection": "AWAY",
       "team": "Nublense",
       "score": "1:2",
-      "minute": "24'",
+      "minute": "29'",
       "odds_before": 3.1,
       "odds_now": 1.6667,
       "change_percent": -68.25
+    },
+    {
+      "eventId": "204979487",
+      "sport": "Tenis",
+      "competition": "M15 Santa Cruz MD",
+      "home": "Braga/de Krom",
+      "away": "Cuellar Lorberg/Suarez",
+      "selection": "AWAY",
+      "team": "Cuellar Lorberg/Suarez",
+      "score": "1:3",
+      "minute": "Brak danych",
+      "odds_before": 3.25,
+      "odds_now": 1.8,
+      "change_percent": -64.44
     },
     {
       "eventId": "204750066",
@@ -168,52 +154,24 @@
       "selection": "HOME",
       "team": "Tapachula Soconusco FC",
       "score": "0:0",
-      "minute": "47'",
+      "minute": "45'",
       "odds_before": 7.0,
-      "odds_now": 3.1,
-      "change_percent": -65.0
+      "odds_now": 3.5,
+      "change_percent": -58.33
     },
     {
-      "eventId": "204837308",
-      "sport": "Piłka nożna",
-      "competition": "Aruba Division Di Honor",
-      "home": "SV Caiquetio",
-      "away": "SV Deportivo Nacional",
-      "selection": "AWAY",
-      "team": "SV Deportivo Nacional",
-      "score": "0:1",
-      "minute": "63'",
-      "odds_before": 2.5,
-      "odds_now": 1.7273,
-      "change_percent": -51.51
-    },
-    {
-      "eventId": "204951153",
-      "sport": "Siatkówka",
-      "competition": "Brazil Paulista U19 Women",
-      "home": "Pinheiros U19 (W)",
-      "away": "Osasco U19 (W)",
-      "selection": "AWAY",
-      "team": "Osasco U19 (W)",
-      "score": "12:14",
-      "minute": "Brak danych",
-      "odds_before": 2.375,
-      "odds_now": 1.7273,
-      "change_percent": -47.11
-    },
-    {
-      "eventId": "204979487",
+      "eventId": "204994479",
       "sport": "Tenis",
-      "competition": "M15 Santa Cruz MD",
-      "home": "Braga/de Krom",
-      "away": "Cuellar Lorberg/Suarez",
-      "selection": "AWAY",
-      "team": "Cuellar Lorberg/Suarez",
-      "score": "1:2",
+      "competition": "Challenger Playford",
+      "home": "Ethan Cook",
+      "away": "Sam Ryan Ziegann",
+      "selection": "HOME",
+      "team": "Ethan Cook",
+      "score": "3:2",
       "minute": "Brak danych",
-      "odds_before": 3.25,
-      "odds_now": 2.2,
-      "change_percent": -46.67
+      "odds_before": 2.25,
+      "odds_now": 1.7,
+      "change_percent": -44.0
     }
   ]
 }
