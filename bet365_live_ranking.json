@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T04:40:13.609407+00:00",
+  "updated_at": "2026-11-22T04:45:12.830758+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,24 @@
       "selection": "AWAY",
       "team": "Perth Glory (W)",
       "score": "0:0",
-      "minute": "40'",
+      "minute": "45'",
       "odds_before": 8.0,
-      "odds_now": 3.25,
-      "change_percent": -59.38
+      "odds_now": 3.5,
+      "change_percent": -56.25
+    },
+    {
+      "eventId": "204789079",
+      "sport": "Piłka nożna",
+      "competition": "Japan Football League",
+      "home": "Yokogawa Musashino FC",
+      "away": "Honda FC",
+      "selection": "HOME",
+      "team": "Yokogawa Musashino FC",
+      "score": "1:0",
+      "minute": "45'",
+      "odds_before": 4.3333,
+      "odds_now": 2.1,
+      "change_percent": -51.54
     }
   ]
 }
