@@ -1,136 +1,70 @@
 {
-  "updated_at": "2026-11-22T18:15:24.789466+00:00",
+  "updated_at": "2026-11-22T19:04:45.624547+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
   "drops": [
     {
-      "eventId": "204945683",
+      "eventId": "203575631",
       "sport": "Piłka nożna",
-      "competition": "Senegal Premier League",
-      "home": "Guediawaye FC",
-      "away": "ASC Jaraaf",
+      "competition": "Spain Segunda",
+      "home": "Celta Fortuna",
+      "away": "Valladolid",
       "selection": "HOME",
-      "team": "Guediawaye FC",
+      "team": "Celta Fortuna",
       "score": "1:0",
-      "minute": "54'",
+      "minute": "77'",
       "odds_before": 3.5,
-      "odds_now": 1.3636,
-      "change_percent": -61.04,
-      "statistics_assessment": {
-        "status": "SUPPORTED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 5.0,
-            "opponent": 2.0
-          },
-          "dangerousAttacks": {
-            "selected": 53.0,
-            "opponent": 50.0
-          },
-          "corners": {
-            "selected": 3.0,
-            "opponent": 2.0
-          }
-        },
-        "advantage_count": 3,
-        "disadvantage_count": 0
-      }
-    },
-    {
-      "eventId": "204455471",
-      "sport": "Piłka nożna",
-      "competition": "Spain Segunda Division RFEF Group 2",
-      "home": "Terrassa",
-      "away": "CE Manresa",
-      "selection": "AWAY",
-      "team": "CE Manresa",
-      "score": "0:1",
-      "minute": "54'",
-      "odds_before": 3.5,
-      "odds_now": 1.5333,
-      "change_percent": -56.19,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 1.0,
-            "opponent": 0.0
-          },
-          "dangerousAttacks": {
-            "selected": 18.0,
-            "opponent": 22.0
-          },
-          "corners": {
-            "selected": 5.0,
-            "opponent": 4.0
-          }
-        },
-        "advantage_count": 2,
-        "disadvantage_count": 1
-      }
-    },
-    {
-      "eventId": "204792289",
-      "sport": "Piłka nożna",
-      "competition": "Spain Primera Division RFEF Group 1",
-      "home": "Merida",
-      "away": "Real Unión",
-      "selection": "AWAY",
-      "team": "Real Unión",
-      "score": "0:1",
-      "minute": "45'",
-      "odds_before": 3.3,
-      "odds_now": 1.5,
-      "change_percent": -54.55,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 2.0
-          },
-          "dangerousAttacks": {
-            "selected": 21.0,
-            "opponent": 20.0
-          },
-          "corners": {
-            "selected": 2.0,
-            "opponent": 4.0
-          }
-        },
-        "advantage_count": 1,
-        "disadvantage_count": 1
-      }
-    },
-    {
-      "eventId": "204455554",
-      "sport": "Piłka nożna",
-      "competition": "Spain Segunda Division RFEF Group 3",
-      "home": "Valencia Mestalla",
-      "away": "Alcoyano",
-      "selection": "AWAY",
-      "team": "Alcoyano",
-      "score": "0:1",
-      "minute": "58'",
-      "odds_before": 3.9,
-      "odds_now": 1.8333,
-      "change_percent": -52.99,
+      "odds_now": 1.25,
+      "change_percent": -64.29,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 1.0,
+            "selected": 2.0,
             "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 21.0,
-            "opponent": 90.0
+            "selected": 47.0,
+            "opponent": 51.0
+          },
+          "corners": {
+            "selected": 3.0,
+            "opponent": 6.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 3
+      }
+    },
+    {
+      "eventId": "204784361",
+      "sport": "Piłka nożna",
+      "competition": "Germany Bundesliga Women",
+      "home": "Mainz (W)",
+      "away": "Nurnberg (W)",
+      "selection": "HOME",
+      "team": "Mainz (W)",
+      "score": "1:0",
+      "minute": "75'",
+      "odds_before": 3.9,
+      "odds_now": 1.4444,
+      "change_percent": -62.96,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 2.0,
+            "opponent": 4.0
+          },
+          "dangerousAttacks": {
+            "selected": 22.0,
+            "opponent": 52.0
           },
           "corners": {
             "selected": 0.0,
-            "opponent": 2.0
+            "opponent": 7.0
           }
         },
         "advantage_count": 0,
