@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T03:00:15.927677+00:00",
+  "updated_at": "2026-11-22T03:05:12.707340+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "AWAY",
       "team": "Deportivo Fraijanes",
       "score": "2:3",
-      "minute": "87'",
+      "minute": "92'",
       "odds_before": 4.1,
-      "odds_now": 1.1667,
-      "change_percent": -71.54
+      "odds_now": 1.0303,
+      "change_percent": -74.87
     },
     {
       "eventId": "202801739",
@@ -28,10 +28,10 @@
       "selection": "AWAY",
       "team": "Macarthur FC",
       "score": "0:2",
-      "minute": "45'",
+      "minute": "47'",
       "odds_before": 3.9,
-      "odds_now": 1.25,
-      "change_percent": -67.95
+      "odds_now": 1.2222,
+      "change_percent": -68.66
     }
   ]
 }
