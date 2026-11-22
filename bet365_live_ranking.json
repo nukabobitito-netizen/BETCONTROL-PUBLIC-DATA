@@ -1,24 +1,10 @@
 {
-  "updated_at": "2026-11-22T06:40:12.615917+00:00",
+  "updated_at": "2026-11-22T06:45:13.082047+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
   "drops": [
-    {
-      "eventId": "204789081",
-      "sport": "Piłka nożna",
-      "competition": "Japan Football League",
-      "home": "Azul Claro Numazu",
-      "away": "YSCC",
-      "selection": "AWAY",
-      "team": "YSCC",
-      "score": "0:2",
-      "minute": "81'",
-      "odds_before": 3.6,
-      "odds_now": 1.0152,
-      "change_percent": -71.8
-    },
     {
       "eventId": "203618685",
       "sport": "Piłka nożna",
@@ -28,10 +14,10 @@
       "selection": "AWAY",
       "team": "Ansan Greeners FC",
       "score": "1:2",
-      "minute": "79'",
+      "minute": "85'",
       "odds_before": 3.6,
-      "odds_now": 1.4444,
-      "change_percent": -59.88
+      "odds_now": 1.2857,
+      "change_percent": -64.29
     }
   ]
 }
