@@ -1,10 +1,43 @@
 {
-  "updated_at": "2026-11-22T19:10:15.039556+00:00",
+  "updated_at": "2026-11-22T19:15:14.747096+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
   "drops": [
+    {
+      "eventId": "204784361",
+      "sport": "Piłka nożna",
+      "competition": "Germany Bundesliga Women",
+      "home": "Mainz (W)",
+      "away": "Nurnberg (W)",
+      "selection": "HOME",
+      "team": "Mainz (W)",
+      "score": "1:0",
+      "minute": "86'",
+      "odds_before": 3.9,
+      "odds_now": 1.2,
+      "change_percent": -69.23,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 2.0,
+            "opponent": 5.0
+          },
+          "dangerousAttacks": {
+            "selected": 25.0,
+            "opponent": 63.0
+          },
+          "corners": {
+            "selected": 0.0,
+            "opponent": 9.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 3
+      }
+    },
     {
       "eventId": "203575631",
       "sport": "Piłka nożna",
@@ -14,15 +47,15 @@
       "selection": "HOME",
       "team": "Celta Fortuna",
       "score": "1:0",
-      "minute": "83'",
+      "minute": "88'",
       "odds_before": 3.5,
-      "odds_now": 1.1818,
-      "change_percent": -66.23,
+      "odds_now": 1.25,
+      "change_percent": -64.29,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 2.0,
+            "selected": 3.0,
             "opponent": 6.0
           },
           "dangerousAttacks": {
@@ -39,39 +72,6 @@
       }
     },
     {
-      "eventId": "204784361",
-      "sport": "Piłka nożna",
-      "competition": "Germany Bundesliga Women",
-      "home": "Mainz (W)",
-      "away": "Nurnberg (W)",
-      "selection": "HOME",
-      "team": "Mainz (W)",
-      "score": "1:0",
-      "minute": "81'",
-      "odds_before": 3.9,
-      "odds_now": 1.3333,
-      "change_percent": -65.81,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 4.0
-          },
-          "dangerousAttacks": {
-            "selected": 23.0,
-            "opponent": 57.0
-          },
-          "corners": {
-            "selected": 0.0,
-            "opponent": 9.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 3
-      }
-    },
-    {
       "eventId": "204797239",
       "sport": "Piłka nożna",
       "competition": "Brazil Campeonato Paulista U20",
@@ -80,7 +80,7 @@
       "selection": "HOME",
       "team": "Corinthians U20",
       "score": "1:0",
-      "minute": "9'",
+      "minute": "14'",
       "odds_before": 4.1,
       "odds_now": 1.9524,
       "change_percent": -52.38,
@@ -93,7 +93,7 @@
           },
           "dangerousAttacks": {
             "selected": 0.0,
-            "opponent": 3.0
+            "opponent": 9.0
           },
           "corners": {
             "selected": 0.0,
