@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T20:35:16.452287+00:00",
+  "updated_at": "2026-11-22T20:40:18.813535+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -47,10 +47,10 @@
       "selection": "AWAY",
       "team": "Mushuc Runa",
       "score": "2:3",
-      "minute": "67'",
+      "minute": "72'",
       "odds_before": 4.75,
-      "odds_now": 1.6154,
-      "change_percent": -65.99,
+      "odds_now": 1.5333,
+      "change_percent": -67.72,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -80,7 +80,7 @@
       "selection": "AWAY",
       "team": "Leca",
       "score": "0:1",
-      "minute": "45'",
+      "minute": "46'",
       "odds_before": 6.0,
       "odds_now": 2.25,
       "change_percent": -62.5,
@@ -93,7 +93,7 @@
           },
           "dangerousAttacks": {
             "selected": 12.0,
-            "opponent": 38.0
+            "opponent": 39.0
           },
           "corners": {
             "selected": 0.0,
@@ -113,10 +113,10 @@
       "selection": "AWAY",
       "team": "CD Universidad San Martin",
       "score": "0:1",
-      "minute": "34'",
+      "minute": "39'",
       "odds_before": 4.2,
-      "odds_now": 1.9524,
-      "change_percent": -53.51,
+      "odds_now": 1.9091,
+      "change_percent": -54.55,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -126,7 +126,7 @@
           },
           "dangerousAttacks": {
             "selected": 8.0,
-            "opponent": 10.0
+            "opponent": 13.0
           },
           "corners": {
             "selected": 1.0,
