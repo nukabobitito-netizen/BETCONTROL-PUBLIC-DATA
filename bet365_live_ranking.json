@@ -1,8 +1,42 @@
 {
-  "updated_at": "2026-11-22T13:35:12.430680+00:00",
+  "updated_at": "2026-11-22T13:40:22.429815+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
-  "drops": []
+  "drops": [
+    {
+      "eventId": "204784202",
+      "sport": "Piłka nożna",
+      "competition": "Italy Serie D",
+      "home": "Siena",
+      "away": "ASD Sasso Marconi",
+      "selection": "AWAY",
+      "team": "ASD Sasso Marconi",
+      "score": "0:1",
+      "minute": "7'",
+      "odds_before": 8.0,
+      "odds_now": 3.1,
+      "change_percent": -61.25,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 1.0,
+            "opponent": 0.0
+          },
+          "dangerousAttacks": {
+            "selected": 0.0,
+            "opponent": 5.0
+          },
+          "corners": {
+            "selected": 0.0,
+            "opponent": 0.0
+          }
+        },
+        "advantage_count": 1,
+        "disadvantage_count": 1
+      }
+    }
+  ]
 }
