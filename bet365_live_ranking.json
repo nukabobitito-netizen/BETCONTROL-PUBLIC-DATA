@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T19:04:45.624547+00:00",
+  "updated_at": "2026-11-22T19:05:22.671587+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,7 +14,7 @@
       "selection": "HOME",
       "team": "Celta Fortuna",
       "score": "1:0",
-      "minute": "77'",
+      "minute": "78'",
       "odds_before": 3.5,
       "odds_now": 1.25,
       "change_percent": -64.29,
@@ -23,11 +23,11 @@
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 2.0,
-            "opponent": 3.0
+            "opponent": 4.0
           },
           "dangerousAttacks": {
             "selected": 47.0,
-            "opponent": 51.0
+            "opponent": 52.0
           },
           "corners": {
             "selected": 3.0,
@@ -47,7 +47,7 @@
       "selection": "HOME",
       "team": "Mainz (W)",
       "score": "1:0",
-      "minute": "75'",
+      "minute": "76'",
       "odds_before": 3.9,
       "odds_now": 1.4444,
       "change_percent": -62.96,
@@ -60,11 +60,11 @@
           },
           "dangerousAttacks": {
             "selected": 22.0,
-            "opponent": 52.0
+            "opponent": 54.0
           },
           "corners": {
             "selected": 0.0,
-            "opponent": 7.0
+            "opponent": 8.0
           }
         },
         "advantage_count": 0,
