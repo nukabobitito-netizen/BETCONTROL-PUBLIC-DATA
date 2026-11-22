@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T21:00:18.680234+00:00",
+  "updated_at": "2026-11-22T21:05:13.752159+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "AWAY",
       "team": "Mushuc Runa",
       "score": "2:3",
-      "minute": "92'",
+      "minute": "97'",
       "odds_before": 4.75,
-      "odds_now": 1.0833,
-      "change_percent": -77.19,
+      "odds_now": 1.02,
+      "change_percent": -78.53,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -26,8 +26,8 @@
             "opponent": 5.0
           },
           "dangerousAttacks": {
-            "selected": 15.0,
-            "opponent": 53.0
+            "selected": 18.0,
+            "opponent": 55.0
           },
           "corners": {
             "selected": 1.0,
@@ -47,10 +47,10 @@
       "selection": "HOME",
       "team": "Broki",
       "score": "1:0",
-      "minute": "62'",
+      "minute": "67'",
       "odds_before": 5.75,
-      "odds_now": 1.6154,
-      "change_percent": -71.91,
+      "odds_now": 1.5333,
+      "change_percent": -73.33,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
@@ -60,7 +60,7 @@
           },
           "dangerousAttacks": {
             "selected": 25.0,
-            "opponent": 16.0
+            "opponent": 17.0
           },
           "corners": {
             "selected": 3.0,
@@ -80,7 +80,7 @@
       "selection": "AWAY",
       "team": "CD Universidad San Martin",
       "score": "0:1",
-      "minute": "50'",
+      "minute": "55'",
       "odds_before": 4.2,
       "odds_now": 1.9524,
       "change_percent": -53.51,
