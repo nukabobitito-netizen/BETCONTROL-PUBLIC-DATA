@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-11-22T09:20:14.797712+00:00",
+  "updated_at": "2026-11-22T09:25:13.627168+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
   "drops": [
     {
-      "eventId": "204899925",
+      "eventId": "204858285",
       "sport": "Piłka nożna",
-      "competition": "Hong Kong 3rd Division",
-      "home": "Sai Kung",
-      "away": "Tuen Mun FC",
-      "selection": "HOME",
-      "team": "Sai Kung",
-      "score": "2:1",
-      "minute": "87'",
-      "odds_before": 4.3333,
-      "odds_now": 1.1,
-      "change_percent": -74.62
+      "competition": "Myanmar League 2",
+      "home": "Junior Lions",
+      "away": "Asia Lion FC",
+      "selection": "AWAY",
+      "team": "Asia Lion FC",
+      "score": "0:1",
+      "minute": "24'",
+      "odds_before": 8.0,
+      "odds_now": 2.875,
+      "change_percent": -64.06
     },
     {
       "eventId": "204795463",
@@ -28,7 +28,7 @@
       "selection": "HOME",
       "team": "Chattrakan City FC",
       "score": "1:0",
-      "minute": "49'",
+      "minute": "45'",
       "odds_before": 3.6,
       "odds_now": 1.5714,
       "change_percent": -56.35
