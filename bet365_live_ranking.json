@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T10:55:13.621161+00:00",
+  "updated_at": "2026-11-22T11:00:17.246901+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "AWAY",
       "team": "Penang",
       "score": "0:1",
-      "minute": "65'",
+      "minute": "70'",
       "odds_before": 3.25,
-      "odds_now": 1.5714,
-      "change_percent": -51.65,
+      "odds_now": 1.5,
+      "change_percent": -53.85,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -26,8 +26,8 @@
             "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 27.0,
-            "opponent": 63.0
+            "selected": 36.0,
+            "opponent": 65.0
           },
           "corners": {
             "selected": 3.0,
