@@ -1,196 +1,6 @@
 {
-  "created_at": "2026-11-22T13:24:35.594503+00:00",
+  "created_at": "2026-11-22T14:17:24.811369+00:00",
   "events": {
-    "203618688": {
-      "eventId": "203618688",
-      "sport": "soccer",
-      "home": "Paju Frontier FC",
-      "away": "Cheonan City",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 2.8,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 2.25,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "203618691": {
-      "eventId": "203618691",
-      "sport": "soccer",
-      "home": "Seoul E-Land FC",
-      "away": "Chungnam Asan FC",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 1.75,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 3.75,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204768031": {
-      "eventId": "204768031",
-      "sport": "soccer",
-      "home": "Sky Leader FC",
-      "away": "Citizen AA",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 3.2,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 1.8,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204852152": {
-      "eventId": "204852152",
-      "sport": "soccer",
-      "home": "Taiwan Power Company",
-      "away": "Tainan City",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 4.1,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 1.65,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204852139": {
-      "eventId": "204852139",
-      "sport": "soccer",
-      "home": "Taichung Rock FC",
-      "away": "Taipei City Tatung",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 4.75,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 1.5,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204840205": {
-      "eventId": "204840205",
-      "sport": "soccer",
-      "home": "Resources Capital FC",
-      "away": "Lucky Mile",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 1.0303,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 41.0,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204899925": {
-      "eventId": "204899925",
-      "sport": "soccer",
-      "home": "Sai Kung",
-      "away": "Tuen Mun FC",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 4.3333,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 1.5,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204852177": {
-      "eventId": "204852177",
-      "sport": "soccer",
-      "home": "Dingnan Ganlian FC",
-      "away": "Guizhou Zhucheng Athletic",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 2.375,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 2.7,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204946248": {
-      "eventId": "204946248",
-      "sport": "soccer",
-      "home": "MS ABDB",
-      "away": "Rimba Star",
-      "startTime": "2026-11-22T08:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 1.6154,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 3.75,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204786929": {
-      "eventId": "204786929",
-      "sport": "soccer",
-      "home": "Marumo Gallants Reserves",
-      "away": "Polokwane City Reserves",
-      "startTime": "2026-11-22T08:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 2.25,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 2.75,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
     "204853871": {
       "eventId": "204853871",
       "sport": "soccer",
@@ -15614,25 +15424,6 @@
         }
       }
     },
-    "205033413": {
-      "eventId": "205033413",
-      "sport": "soccer",
-      "home": "Qi Yi FC",
-      "away": "St. Joseph's",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 2.15,
-          "recorded_at": "2026-11-22T05:35:31.656123+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 2.5,
-          "recorded_at": "2026-11-22T05:35:31.656123+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
     "205034236": {
       "eventId": "205034236",
       "sport": "soccer",
@@ -15936,229 +15727,66 @@
           "price_source": "selection.odds"
         }
       }
+    },
+    "205012071": {
+      "eventId": "205012071",
+      "sport": "soccer",
+      "home": "Freeport",
+      "away": "Downtown FC",
+      "startTime": "2026-11-22T16:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.2,
+          "recorded_at": "2026-11-22T14:17:24.811369+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.8,
+          "recorded_at": "2026-11-22T14:17:24.811369+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205035052": {
+      "eventId": "205035052",
+      "sport": "soccer",
+      "home": "Al Jahra",
+      "away": "Yarmouk",
+      "startTime": "2026-11-22T16:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.2,
+          "recorded_at": "2026-11-22T14:17:24.811369+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.875,
+          "recorded_at": "2026-11-22T14:17:24.811369+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205035285": {
+      "eventId": "205035285",
+      "sport": "soccer",
+      "home": "FC Hegelmann II",
+      "away": "FK Sveikata",
+      "startTime": "2026-11-22T17:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.3333,
+          "recorded_at": "2026-11-22T14:17:24.811369+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 6.0,
+          "recorded_at": "2026-11-22T14:17:24.811369+00:00",
+          "price_source": "selection.odds"
+        }
+      }
     }
   },
   "selections": {
-    "203618688:HOME": {
-      "eventId": "203618688",
-      "sport": "soccer",
-      "home": "Paju Frontier FC",
-      "away": "Cheonan City",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "selection": "HOME",
-      "baseline": 2.8,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "203618688:AWAY": {
-      "eventId": "203618688",
-      "sport": "soccer",
-      "home": "Paju Frontier FC",
-      "away": "Cheonan City",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "selection": "AWAY",
-      "baseline": 2.25,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "203618691:HOME": {
-      "eventId": "203618691",
-      "sport": "soccer",
-      "home": "Seoul E-Land FC",
-      "away": "Chungnam Asan FC",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "selection": "HOME",
-      "baseline": 1.75,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "203618691:AWAY": {
-      "eventId": "203618691",
-      "sport": "soccer",
-      "home": "Seoul E-Land FC",
-      "away": "Chungnam Asan FC",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "selection": "AWAY",
-      "baseline": 3.75,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204768031:HOME": {
-      "eventId": "204768031",
-      "sport": "soccer",
-      "home": "Sky Leader FC",
-      "away": "Citizen AA",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "selection": "HOME",
-      "baseline": 3.2,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204768031:AWAY": {
-      "eventId": "204768031",
-      "sport": "soccer",
-      "home": "Sky Leader FC",
-      "away": "Citizen AA",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "selection": "AWAY",
-      "baseline": 1.8,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204852152:HOME": {
-      "eventId": "204852152",
-      "sport": "soccer",
-      "home": "Taiwan Power Company",
-      "away": "Tainan City",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "selection": "HOME",
-      "baseline": 4.1,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204852152:AWAY": {
-      "eventId": "204852152",
-      "sport": "soccer",
-      "home": "Taiwan Power Company",
-      "away": "Tainan City",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "selection": "AWAY",
-      "baseline": 1.65,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204852139:HOME": {
-      "eventId": "204852139",
-      "sport": "soccer",
-      "home": "Taichung Rock FC",
-      "away": "Taipei City Tatung",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "selection": "HOME",
-      "baseline": 4.75,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204852139:AWAY": {
-      "eventId": "204852139",
-      "sport": "soccer",
-      "home": "Taichung Rock FC",
-      "away": "Taipei City Tatung",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "selection": "AWAY",
-      "baseline": 1.5,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204840205:HOME": {
-      "eventId": "204840205",
-      "sport": "soccer",
-      "home": "Resources Capital FC",
-      "away": "Lucky Mile",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "selection": "HOME",
-      "baseline": 1.0303,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204840205:AWAY": {
-      "eventId": "204840205",
-      "sport": "soccer",
-      "home": "Resources Capital FC",
-      "away": "Lucky Mile",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "selection": "AWAY",
-      "baseline": 41.0,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204899925:HOME": {
-      "eventId": "204899925",
-      "sport": "soccer",
-      "home": "Sai Kung",
-      "away": "Tuen Mun FC",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "selection": "HOME",
-      "baseline": 4.3333,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204899925:AWAY": {
-      "eventId": "204899925",
-      "sport": "soccer",
-      "home": "Sai Kung",
-      "away": "Tuen Mun FC",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "selection": "AWAY",
-      "baseline": 1.5,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204852177:HOME": {
-      "eventId": "204852177",
-      "sport": "soccer",
-      "home": "Dingnan Ganlian FC",
-      "away": "Guizhou Zhucheng Athletic",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "selection": "HOME",
-      "baseline": 2.375,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204852177:AWAY": {
-      "eventId": "204852177",
-      "sport": "soccer",
-      "home": "Dingnan Ganlian FC",
-      "away": "Guizhou Zhucheng Athletic",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "selection": "AWAY",
-      "baseline": 2.7,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204946248:HOME": {
-      "eventId": "204946248",
-      "sport": "soccer",
-      "home": "MS ABDB",
-      "away": "Rimba Star",
-      "startTime": "2026-11-22T08:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 1.6154,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204946248:AWAY": {
-      "eventId": "204946248",
-      "sport": "soccer",
-      "home": "MS ABDB",
-      "away": "Rimba Star",
-      "startTime": "2026-11-22T08:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 3.75,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204786929:HOME": {
-      "eventId": "204786929",
-      "sport": "soccer",
-      "home": "Marumo Gallants Reserves",
-      "away": "Polokwane City Reserves",
-      "startTime": "2026-11-22T08:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 2.25,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204786929:AWAY": {
-      "eventId": "204786929",
-      "sport": "soccer",
-      "home": "Marumo Gallants Reserves",
-      "away": "Polokwane City Reserves",
-      "startTime": "2026-11-22T08:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 2.75,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
     "204853871:HOME": {
       "eventId": "204853871",
       "sport": "soccer",
@@ -34012,28 +33640,6 @@
       "recorded_at": "2026-11-22T02:41:14.766647+00:00",
       "price_source": "selection.odds"
     },
-    "205033413:HOME": {
-      "eventId": "205033413",
-      "sport": "soccer",
-      "home": "Qi Yi FC",
-      "away": "St. Joseph's",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "selection": "HOME",
-      "baseline": 2.15,
-      "recorded_at": "2026-11-22T05:35:31.656123+00:00",
-      "price_source": "selection.odds"
-    },
-    "205033413:AWAY": {
-      "eventId": "205033413",
-      "sport": "soccer",
-      "home": "Qi Yi FC",
-      "away": "St. Joseph's",
-      "startTime": "2026-11-22T07:30:00+00:00",
-      "selection": "AWAY",
-      "baseline": 2.5,
-      "recorded_at": "2026-11-22T05:35:31.656123+00:00",
-      "price_source": "selection.odds"
-    },
     "205034236:HOME": {
       "eventId": "205034236",
       "sport": "soccer",
@@ -34384,6 +33990,72 @@
       "selection": "AWAY",
       "baseline": 7.5,
       "recorded_at": "2026-11-22T13:24:35.594503+00:00",
+      "price_source": "selection.odds"
+    },
+    "205012071:HOME": {
+      "eventId": "205012071",
+      "sport": "soccer",
+      "home": "Freeport",
+      "away": "Downtown FC",
+      "startTime": "2026-11-22T16:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.2,
+      "recorded_at": "2026-11-22T14:17:24.811369+00:00",
+      "price_source": "selection.odds"
+    },
+    "205012071:AWAY": {
+      "eventId": "205012071",
+      "sport": "soccer",
+      "home": "Freeport",
+      "away": "Downtown FC",
+      "startTime": "2026-11-22T16:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.8,
+      "recorded_at": "2026-11-22T14:17:24.811369+00:00",
+      "price_source": "selection.odds"
+    },
+    "205035052:HOME": {
+      "eventId": "205035052",
+      "sport": "soccer",
+      "home": "Al Jahra",
+      "away": "Yarmouk",
+      "startTime": "2026-11-22T16:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.2,
+      "recorded_at": "2026-11-22T14:17:24.811369+00:00",
+      "price_source": "selection.odds"
+    },
+    "205035052:AWAY": {
+      "eventId": "205035052",
+      "sport": "soccer",
+      "home": "Al Jahra",
+      "away": "Yarmouk",
+      "startTime": "2026-11-22T16:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.875,
+      "recorded_at": "2026-11-22T14:17:24.811369+00:00",
+      "price_source": "selection.odds"
+    },
+    "205035285:HOME": {
+      "eventId": "205035285",
+      "sport": "soccer",
+      "home": "FC Hegelmann II",
+      "away": "FK Sveikata",
+      "startTime": "2026-11-22T17:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.3333,
+      "recorded_at": "2026-11-22T14:17:24.811369+00:00",
+      "price_source": "selection.odds"
+    },
+    "205035285:AWAY": {
+      "eventId": "205035285",
+      "sport": "soccer",
+      "home": "FC Hegelmann II",
+      "away": "FK Sveikata",
+      "startTime": "2026-11-22T17:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 6.0,
+      "recorded_at": "2026-11-22T14:17:24.811369+00:00",
       "price_source": "selection.odds"
     }
   }
