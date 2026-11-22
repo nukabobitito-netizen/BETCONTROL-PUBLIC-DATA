@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-11-22T18:01:05.303692+00:00",
+  "created_at": "2026-11-22T19:23:06.746060+00:00",
   "events": {
     "204988090": {
       "eventId": "204988090",
@@ -14744,6 +14744,262 @@
         "AWAY": {
           "baseline": 2.15,
           "recorded_at": "2026-11-22T18:01:05.303692+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205037246": {
+      "eventId": "205037246",
+      "sport": "soccer",
+      "home": "Miami United FC",
+      "away": "Miami FC U20",
+      "startTime": "2026-11-22T22:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.42,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 4.75,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205037349": {
+      "eventId": "205037349",
+      "sport": "soccer",
+      "home": "PVV",
+      "away": "SV Coronie Boys",
+      "startTime": "2026-11-22T22:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 3.1,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.0,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205030034": {
+      "eventId": "205030034",
+      "sport": "basketball",
+      "home": "UC Irvine",
+      "away": "Loyola Marymount",
+      "startTime": "2026-11-22T21:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.76,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.0,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205030028": {
+      "eventId": "205030028",
+      "sport": "basketball",
+      "home": "Liberty",
+      "away": "Richmond",
+      "startTime": "2026-11-22T21:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.8696,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.8696,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205030150": {
+      "eventId": "205030150",
+      "sport": "basketball",
+      "home": "Maryland Eastern Shore",
+      "away": "IU Indianapolis",
+      "startTime": "2026-11-22T21:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 5.5,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.14,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205040882": {
+      "eventId": "205040882",
+      "sport": "basketball",
+      "home": "Vikingos",
+      "away": "Geckos",
+      "startTime": "2026-11-22T21:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.9,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.3636,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205019436": {
+      "eventId": "205019436",
+      "sport": "basketball",
+      "home": "Cal State Fullerton",
+      "away": "Portland State",
+      "startTime": "2026-11-22T22:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.7,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.4444,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205030153": {
+      "eventId": "205030153",
+      "sport": "basketball",
+      "home": "Rice",
+      "away": "Lamar",
+      "startTime": "2026-11-22T22:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.1,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.7,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205020060": {
+      "eventId": "205020060",
+      "sport": "basketball",
+      "home": "UNC Asheville",
+      "away": "Samford",
+      "startTime": "2026-11-22T22:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 5.25,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.1429,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205020057": {
+      "eventId": "205020057",
+      "sport": "basketball",
+      "home": "NJIT",
+      "away": "Boston College",
+      "startTime": "2026-11-22T22:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 26.0,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205046989": {
+      "eventId": "205046989",
+      "sport": "basketball",
+      "home": "Colegio Los Leones (W)",
+      "away": "CD Boston College (W)",
+      "startTime": "2026-11-22T22:00:00+00:00",
+      "prematch": {
+        "AWAY": {
+          "baseline": 17.0,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204981844": {
+      "eventId": "204981844",
+      "sport": "tennis",
+      "home": "Ann Li",
+      "away": "Dalma Galfi",
+      "startTime": "2026-11-22T21:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.1,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 7.0,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204890719": {
+      "eventId": "204890719",
+      "sport": "volleyball",
+      "home": "Universidad San Martin (W)",
+      "away": "Latino Amisa (W)",
+      "startTime": "2026-11-22T21:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.01,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 15.0,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205063937": {
+      "eventId": "205063937",
+      "sport": "darts",
+      "home": "Gerwyn Price",
+      "away": "Gian van Veen",
+      "startTime": "2026-11-22T20:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.6154,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.3,
+          "recorded_at": "2026-11-22T19:23:06.746060+00:00",
           "price_source": "selection.odds"
         }
       }
@@ -31787,6 +32043,292 @@
       "selection": "AWAY",
       "baseline": 2.15,
       "recorded_at": "2026-11-22T18:01:05.303692+00:00",
+      "price_source": "selection.odds"
+    },
+    "205037246:HOME": {
+      "eventId": "205037246",
+      "sport": "soccer",
+      "home": "Miami United FC",
+      "away": "Miami FC U20",
+      "startTime": "2026-11-22T22:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.42,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+      "price_source": "selection.odds"
+    },
+    "205037246:AWAY": {
+      "eventId": "205037246",
+      "sport": "soccer",
+      "home": "Miami United FC",
+      "away": "Miami FC U20",
+      "startTime": "2026-11-22T22:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 4.75,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+      "price_source": "selection.odds"
+    },
+    "205037349:HOME": {
+      "eventId": "205037349",
+      "sport": "soccer",
+      "home": "PVV",
+      "away": "SV Coronie Boys",
+      "startTime": "2026-11-22T22:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 3.1,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+      "price_source": "selection.odds"
+    },
+    "205037349:AWAY": {
+      "eventId": "205037349",
+      "sport": "soccer",
+      "home": "PVV",
+      "away": "SV Coronie Boys",
+      "startTime": "2026-11-22T22:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.0,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+      "price_source": "selection.odds"
+    },
+    "205030034:HOME": {
+      "eventId": "205030034",
+      "sport": "basketball",
+      "home": "UC Irvine",
+      "away": "Loyola Marymount",
+      "startTime": "2026-11-22T21:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.76,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+      "price_source": "selection.odds"
+    },
+    "205030034:AWAY": {
+      "eventId": "205030034",
+      "sport": "basketball",
+      "home": "UC Irvine",
+      "away": "Loyola Marymount",
+      "startTime": "2026-11-22T21:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.0,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+      "price_source": "selection.odds"
+    },
+    "205030028:HOME": {
+      "eventId": "205030028",
+      "sport": "basketball",
+      "home": "Liberty",
+      "away": "Richmond",
+      "startTime": "2026-11-22T21:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.8696,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+      "price_source": "selection.odds"
+    },
+    "205030028:AWAY": {
+      "eventId": "205030028",
+      "sport": "basketball",
+      "home": "Liberty",
+      "away": "Richmond",
+      "startTime": "2026-11-22T21:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.8696,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+      "price_source": "selection.odds"
+    },
+    "205030150:HOME": {
+      "eventId": "205030150",
+      "sport": "basketball",
+      "home": "Maryland Eastern Shore",
+      "away": "IU Indianapolis",
+      "startTime": "2026-11-22T21:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 5.5,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+      "price_source": "selection.odds"
+    },
+    "205030150:AWAY": {
+      "eventId": "205030150",
+      "sport": "basketball",
+      "home": "Maryland Eastern Shore",
+      "away": "IU Indianapolis",
+      "startTime": "2026-11-22T21:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.14,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+      "price_source": "selection.odds"
+    },
+    "205040882:HOME": {
+      "eventId": "205040882",
+      "sport": "basketball",
+      "home": "Vikingos",
+      "away": "Geckos",
+      "startTime": "2026-11-22T21:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.9,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+      "price_source": "selection.odds"
+    },
+    "205040882:AWAY": {
+      "eventId": "205040882",
+      "sport": "basketball",
+      "home": "Vikingos",
+      "away": "Geckos",
+      "startTime": "2026-11-22T21:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.3636,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+      "price_source": "selection.odds"
+    },
+    "205019436:HOME": {
+      "eventId": "205019436",
+      "sport": "basketball",
+      "home": "Cal State Fullerton",
+      "away": "Portland State",
+      "startTime": "2026-11-22T22:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.7,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+      "price_source": "selection.odds"
+    },
+    "205019436:AWAY": {
+      "eventId": "205019436",
+      "sport": "basketball",
+      "home": "Cal State Fullerton",
+      "away": "Portland State",
+      "startTime": "2026-11-22T22:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.4444,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+      "price_source": "selection.odds"
+    },
+    "205030153:HOME": {
+      "eventId": "205030153",
+      "sport": "basketball",
+      "home": "Rice",
+      "away": "Lamar",
+      "startTime": "2026-11-22T22:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.1,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+      "price_source": "selection.odds"
+    },
+    "205030153:AWAY": {
+      "eventId": "205030153",
+      "sport": "basketball",
+      "home": "Rice",
+      "away": "Lamar",
+      "startTime": "2026-11-22T22:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.7,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+      "price_source": "selection.odds"
+    },
+    "205020060:HOME": {
+      "eventId": "205020060",
+      "sport": "basketball",
+      "home": "UNC Asheville",
+      "away": "Samford",
+      "startTime": "2026-11-22T22:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 5.25,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+      "price_source": "selection.odds"
+    },
+    "205020060:AWAY": {
+      "eventId": "205020060",
+      "sport": "basketball",
+      "home": "UNC Asheville",
+      "away": "Samford",
+      "startTime": "2026-11-22T22:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.1429,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+      "price_source": "selection.odds"
+    },
+    "205020057:HOME": {
+      "eventId": "205020057",
+      "sport": "basketball",
+      "home": "NJIT",
+      "away": "Boston College",
+      "startTime": "2026-11-22T22:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 26.0,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+      "price_source": "selection.odds"
+    },
+    "205046989:AWAY": {
+      "eventId": "205046989",
+      "sport": "basketball",
+      "home": "Colegio Los Leones (W)",
+      "away": "CD Boston College (W)",
+      "startTime": "2026-11-22T22:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 17.0,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+      "price_source": "selection.odds"
+    },
+    "204981844:HOME": {
+      "eventId": "204981844",
+      "sport": "tennis",
+      "home": "Ann Li",
+      "away": "Dalma Galfi",
+      "startTime": "2026-11-22T21:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.1,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+      "price_source": "selection.odds"
+    },
+    "204981844:AWAY": {
+      "eventId": "204981844",
+      "sport": "tennis",
+      "home": "Ann Li",
+      "away": "Dalma Galfi",
+      "startTime": "2026-11-22T21:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 7.0,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+      "price_source": "selection.odds"
+    },
+    "204890719:HOME": {
+      "eventId": "204890719",
+      "sport": "volleyball",
+      "home": "Universidad San Martin (W)",
+      "away": "Latino Amisa (W)",
+      "startTime": "2026-11-22T21:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.01,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+      "price_source": "selection.odds"
+    },
+    "204890719:AWAY": {
+      "eventId": "204890719",
+      "sport": "volleyball",
+      "home": "Universidad San Martin (W)",
+      "away": "Latino Amisa (W)",
+      "startTime": "2026-11-22T21:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 15.0,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+      "price_source": "selection.odds"
+    },
+    "205063937:HOME": {
+      "eventId": "205063937",
+      "sport": "darts",
+      "home": "Gerwyn Price",
+      "away": "Gian van Veen",
+      "startTime": "2026-11-22T20:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.6154,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
+      "price_source": "selection.odds"
+    },
+    "205063937:AWAY": {
+      "eventId": "205063937",
+      "sport": "darts",
+      "home": "Gerwyn Price",
+      "away": "Gian van Veen",
+      "startTime": "2026-11-22T20:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.3,
+      "recorded_at": "2026-11-22T19:23:06.746060+00:00",
       "price_source": "selection.odds"
     }
   }
