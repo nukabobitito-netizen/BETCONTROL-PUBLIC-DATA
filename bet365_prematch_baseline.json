@@ -1,177 +1,6 @@
 {
-  "created_at": "2026-11-22T09:26:17.281226+00:00",
+  "created_at": "2026-11-22T10:11:27.341570+00:00",
   "events": {
-    "204761510": {
-      "eventId": "204761510",
-      "sport": "soccer",
-      "home": "Melbourne Victory (W)",
-      "away": "Perth Glory (W)",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 1.42,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 6.5,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204768500": {
-      "eventId": "204768500",
-      "sport": "soccer",
-      "home": "Roasso Kumamoto",
-      "away": "Giravanz Kitakyushu",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 1.7273,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 3.7,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204761511": {
-      "eventId": "204761511",
-      "sport": "soccer",
-      "home": "Adelaide City",
-      "away": "Broadmeadow Magic",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 2.0,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 3.0,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204761519": {
-      "eventId": "204761519",
-      "sport": "soccer",
-      "home": "Avondale",
-      "away": "Wests APIA FC",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 2.6,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 2.2,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204789055": {
-      "eventId": "204789055",
-      "sport": "soccer",
-      "home": "Grulla Morioka FC",
-      "away": "J-Lease FC",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 2.25,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 2.75,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204789079": {
-      "eventId": "204789079",
-      "sport": "soccer",
-      "home": "Yokogawa Musashino FC",
-      "away": "Honda FC",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 4.3333,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 1.6,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204789063": {
-      "eventId": "204789063",
-      "sport": "soccer",
-      "home": "Minebea Mitsumi",
-      "away": "Reinmeer Aomori",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 2.75,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 2.25,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204789072": {
-      "eventId": "204789072",
-      "sport": "soccer",
-      "home": "Veertien Mie",
-      "away": "Criacao Shinjuku",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 2.3,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 2.75,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204854014": {
-      "eventId": "204854014",
-      "sport": "soccer",
-      "home": "Okinawa SV",
-      "away": "Maruyasu Okazaki",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 1.7,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 3.8,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
     "203618683": {
       "eventId": "203618683",
       "sport": "soccer",
@@ -16487,207 +16316,47 @@
           "price_source": "selection.odds"
         }
       }
+    },
+    "205007719": {
+      "eventId": "205007719",
+      "sport": "soccer",
+      "home": "LISCR FC",
+      "away": "Discoveries SA",
+      "startTime": "2026-11-22T12:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.2,
+          "recorded_at": "2026-11-22T10:11:27.341570+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 3.0,
+          "recorded_at": "2026-11-22T10:11:27.341570+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205006605": {
+      "eventId": "205006605",
+      "sport": "soccer",
+      "home": "District 17 FC",
+      "away": "NPA Anchors",
+      "startTime": "2026-11-22T12:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 3.0,
+          "recorded_at": "2026-11-22T10:11:27.341570+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.0,
+          "recorded_at": "2026-11-22T10:11:27.341570+00:00",
+          "price_source": "selection.odds"
+        }
+      }
     }
   },
   "selections": {
-    "204761510:HOME": {
-      "eventId": "204761510",
-      "sport": "soccer",
-      "home": "Melbourne Victory (W)",
-      "away": "Perth Glory (W)",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 1.42,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204761510:AWAY": {
-      "eventId": "204761510",
-      "sport": "soccer",
-      "home": "Melbourne Victory (W)",
-      "away": "Perth Glory (W)",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 6.5,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204768500:HOME": {
-      "eventId": "204768500",
-      "sport": "soccer",
-      "home": "Roasso Kumamoto",
-      "away": "Giravanz Kitakyushu",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 1.7273,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204768500:AWAY": {
-      "eventId": "204768500",
-      "sport": "soccer",
-      "home": "Roasso Kumamoto",
-      "away": "Giravanz Kitakyushu",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 3.7,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204761511:HOME": {
-      "eventId": "204761511",
-      "sport": "soccer",
-      "home": "Adelaide City",
-      "away": "Broadmeadow Magic",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 2.0,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204761511:AWAY": {
-      "eventId": "204761511",
-      "sport": "soccer",
-      "home": "Adelaide City",
-      "away": "Broadmeadow Magic",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 3.0,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204761519:HOME": {
-      "eventId": "204761519",
-      "sport": "soccer",
-      "home": "Avondale",
-      "away": "Wests APIA FC",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 2.6,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204761519:AWAY": {
-      "eventId": "204761519",
-      "sport": "soccer",
-      "home": "Avondale",
-      "away": "Wests APIA FC",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 2.2,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204789055:HOME": {
-      "eventId": "204789055",
-      "sport": "soccer",
-      "home": "Grulla Morioka FC",
-      "away": "J-Lease FC",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 2.25,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204789055:AWAY": {
-      "eventId": "204789055",
-      "sport": "soccer",
-      "home": "Grulla Morioka FC",
-      "away": "J-Lease FC",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 2.75,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204789079:HOME": {
-      "eventId": "204789079",
-      "sport": "soccer",
-      "home": "Yokogawa Musashino FC",
-      "away": "Honda FC",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 4.3333,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204789079:AWAY": {
-      "eventId": "204789079",
-      "sport": "soccer",
-      "home": "Yokogawa Musashino FC",
-      "away": "Honda FC",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 1.6,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204789063:HOME": {
-      "eventId": "204789063",
-      "sport": "soccer",
-      "home": "Minebea Mitsumi",
-      "away": "Reinmeer Aomori",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 2.75,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204789063:AWAY": {
-      "eventId": "204789063",
-      "sport": "soccer",
-      "home": "Minebea Mitsumi",
-      "away": "Reinmeer Aomori",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 2.25,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204789072:HOME": {
-      "eventId": "204789072",
-      "sport": "soccer",
-      "home": "Veertien Mie",
-      "away": "Criacao Shinjuku",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 2.3,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204789072:AWAY": {
-      "eventId": "204789072",
-      "sport": "soccer",
-      "home": "Veertien Mie",
-      "away": "Criacao Shinjuku",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 2.75,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204854014:HOME": {
-      "eventId": "204854014",
-      "sport": "soccer",
-      "home": "Okinawa SV",
-      "away": "Maruyasu Okazaki",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 1.7,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204854014:AWAY": {
-      "eventId": "204854014",
-      "sport": "soccer",
-      "home": "Okinawa SV",
-      "away": "Maruyasu Okazaki",
-      "startTime": "2026-11-22T04:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 3.8,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
     "203618683:HOME": {
       "eventId": "203618683",
       "sport": "soccer",
@@ -35573,6 +35242,50 @@
       "selection": "AWAY",
       "baseline": 9.0,
       "recorded_at": "2026-11-22T07:51:13.775892+00:00",
+      "price_source": "selection.odds"
+    },
+    "205007719:HOME": {
+      "eventId": "205007719",
+      "sport": "soccer",
+      "home": "LISCR FC",
+      "away": "Discoveries SA",
+      "startTime": "2026-11-22T12:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.2,
+      "recorded_at": "2026-11-22T10:11:27.341570+00:00",
+      "price_source": "selection.odds"
+    },
+    "205007719:AWAY": {
+      "eventId": "205007719",
+      "sport": "soccer",
+      "home": "LISCR FC",
+      "away": "Discoveries SA",
+      "startTime": "2026-11-22T12:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 3.0,
+      "recorded_at": "2026-11-22T10:11:27.341570+00:00",
+      "price_source": "selection.odds"
+    },
+    "205006605:HOME": {
+      "eventId": "205006605",
+      "sport": "soccer",
+      "home": "District 17 FC",
+      "away": "NPA Anchors",
+      "startTime": "2026-11-22T12:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 3.0,
+      "recorded_at": "2026-11-22T10:11:27.341570+00:00",
+      "price_source": "selection.odds"
+    },
+    "205006605:AWAY": {
+      "eventId": "205006605",
+      "sport": "soccer",
+      "home": "District 17 FC",
+      "away": "NPA Anchors",
+      "startTime": "2026-11-22T12:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.0,
+      "recorded_at": "2026-11-22T10:11:27.341570+00:00",
       "price_source": "selection.odds"
     }
   }
