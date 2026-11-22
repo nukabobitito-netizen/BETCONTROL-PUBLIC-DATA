@@ -1,10 +1,43 @@
 {
-  "updated_at": "2026-11-22T15:50:15.805035+00:00",
+  "updated_at": "2026-11-22T15:55:14.244758+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
   "drops": [
+    {
+      "eventId": "203186263",
+      "sport": "Piłka nożna",
+      "competition": "England Premier League",
+      "home": "Hull",
+      "away": "Brighton",
+      "selection": "HOME",
+      "team": "Hull",
+      "score": "1:0",
+      "minute": "93'",
+      "odds_before": 6.5,
+      "odds_now": 1.0152,
+      "change_percent": -84.38,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 4.0,
+            "opponent": 8.0
+          },
+          "dangerousAttacks": {
+            "selected": 30.0,
+            "opponent": 64.0
+          },
+          "corners": {
+            "selected": 3.0,
+            "opponent": 4.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 3
+      }
+    },
     {
       "eventId": "204907643",
       "sport": "Piłka nożna",
@@ -14,10 +47,10 @@
       "selection": "AWAY",
       "team": "FC Sion II",
       "score": "0:2",
-      "minute": "73'",
+      "minute": "79'",
       "odds_before": 5.5,
-      "odds_now": 1.0714,
-      "change_percent": -80.52,
+      "odds_now": 1.04,
+      "change_percent": -81.09,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -26,7 +59,7 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 36.0,
+            "selected": 38.0,
             "opponent": 37.0
           },
           "corners": {
@@ -34,74 +67,41 @@
             "opponent": 6.0
           }
         },
-        "advantage_count": 1,
-        "disadvantage_count": 2
+        "advantage_count": 2,
+        "disadvantage_count": 1
       }
     },
     {
-      "eventId": "205003982",
+      "eventId": "204722550",
       "sport": "Piłka nożna",
-      "competition": "Swedish Damallsvenskan Play-Off",
-      "home": "FC Rosengård (W)",
-      "away": "KIF Orebro (W)",
-      "selection": "AWAY",
-      "team": "KIF Orebro (W)",
-      "score": "2:3",
-      "minute": "93'",
-      "odds_before": 4.3333,
-      "odds_now": 1.125,
-      "change_percent": -74.04,
+      "competition": "Portugal Cup",
+      "home": "SC Vianense",
+      "away": "Rio Ave",
+      "selection": "HOME",
+      "team": "SC Vianense",
+      "score": "1:0",
+      "minute": "92'",
+      "odds_before": 3.5,
+      "odds_now": 1.0303,
+      "change_percent": -70.56,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 6.0,
-            "opponent": 5.0
+            "selected": 3.0,
+            "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 69.0,
-            "opponent": 71.0
+            "selected": 29.0,
+            "opponent": 33.0
           },
           "corners": {
-            "selected": 5.0,
-            "opponent": 9.0
+            "selected": 4.0,
+            "opponent": 1.0
           }
         },
         "advantage_count": 1,
-        "disadvantage_count": 2
-      }
-    },
-    {
-      "eventId": "204857399",
-      "sport": "Piłka nożna",
-      "competition": "Serbia Prva Liga",
-      "home": "Jedinstvo UB",
-      "away": "Javor Ivanjica",
-      "selection": "HOME",
-      "team": "Jedinstvo UB",
-      "score": "3:2",
-      "minute": "90'",
-      "odds_before": 4.0,
-      "odds_now": 1.0625,
-      "change_percent": -73.44,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 5.0,
-            "opponent": 8.0
-          },
-          "dangerousAttacks": {
-            "selected": 48.0,
-            "opponent": 48.0
-          },
-          "corners": {
-            "selected": 2.0,
-            "opponent": 5.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 2
+        "disadvantage_count": 1
       }
     },
     {
@@ -138,105 +138,6 @@
       }
     },
     {
-      "eventId": "204781624",
-      "sport": "Piłka nożna",
-      "competition": "England League Cup Women",
-      "home": "Ipswich Town (W)",
-      "away": "Southampton (W)",
-      "selection": "HOME",
-      "team": "Ipswich Town (W)",
-      "score": "1:0",
-      "minute": "91'",
-      "odds_before": 3.4,
-      "odds_now": 1.0625,
-      "change_percent": -68.75,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 4.0,
-            "opponent": 2.0
-          },
-          "dangerousAttacks": {
-            "selected": 34.0,
-            "opponent": 69.0
-          },
-          "corners": {
-            "selected": 2.0,
-            "opponent": 10.0
-          }
-        },
-        "advantage_count": 1,
-        "disadvantage_count": 2
-      }
-    },
-    {
-      "eventId": "204785922",
-      "sport": "Piłka nożna",
-      "competition": "Belgium First Amateur Division",
-      "home": "KFC Merelbeke",
-      "away": "K Lyra-Lierse Berlaar",
-      "selection": "AWAY",
-      "team": "K Lyra-Lierse Berlaar",
-      "score": "0:1",
-      "minute": "88'",
-      "odds_before": 3.6,
-      "odds_now": 1.125,
-      "change_percent": -68.75,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 5.0,
-            "opponent": 1.0
-          },
-          "dangerousAttacks": {
-            "selected": 64.0,
-            "opponent": 107.0
-          },
-          "corners": {
-            "selected": 1.0,
-            "opponent": 5.0
-          }
-        },
-        "advantage_count": 1,
-        "disadvantage_count": 2
-      }
-    },
-    {
-      "eventId": "204722550",
-      "sport": "Piłka nożna",
-      "competition": "Portugal Cup",
-      "home": "SC Vianense",
-      "away": "Rio Ave",
-      "selection": "HOME",
-      "team": "SC Vianense",
-      "score": "1:0",
-      "minute": "86'",
-      "odds_before": 3.5,
-      "odds_now": 1.125,
-      "change_percent": -67.86,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 3.0,
-            "opponent": 3.0
-          },
-          "dangerousAttacks": {
-            "selected": 27.0,
-            "opponent": 30.0
-          },
-          "corners": {
-            "selected": 4.0,
-            "opponent": 1.0
-          }
-        },
-        "advantage_count": 1,
-        "disadvantage_count": 1
-      }
-    },
-    {
       "eventId": "203186572",
       "sport": "Piłka nożna",
       "competition": "Sweden Allsvenskan",
@@ -245,10 +146,10 @@
       "selection": "AWAY",
       "team": "Halmstad",
       "score": "0:2",
-      "minute": "20'",
+      "minute": "26'",
       "odds_before": 3.25,
-      "odds_now": 1.2857,
-      "change_percent": -60.44,
+      "odds_now": 1.25,
+      "change_percent": -61.54,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
@@ -257,7 +158,7 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 6.0,
+            "selected": 10.0,
             "opponent": 4.0
           },
           "corners": {
@@ -311,7 +212,7 @@
       "selection": "HOME",
       "team": "Karmiotissa",
       "score": "1:0",
-      "minute": "48'",
+      "minute": "45'",
       "odds_before": 5.25,
       "odds_now": 2.2,
       "change_percent": -58.1,
@@ -323,7 +224,7 @@
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 17.0,
+            "selected": 18.0,
             "opponent": 45.0
           },
           "corners": {
@@ -344,28 +245,28 @@
       "selection": "AWAY",
       "team": "CD Roda",
       "score": "0:1",
-      "minute": "18'",
+      "minute": "24'",
       "odds_before": 4.1,
-      "odds_now": 1.8,
-      "change_percent": -56.1,
+      "odds_now": 1.7273,
+      "change_percent": -57.87,
       "statistics_assessment": {
-        "status": "MIXED",
+        "status": "SUPPORTED",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 2.0,
             "opponent": 0.0
           },
           "dangerousAttacks": {
-            "selected": 9.0,
-            "opponent": 11.0
+            "selected": 16.0,
+            "opponent": 12.0
           },
           "corners": {
-            "selected": 1.0,
+            "selected": 2.0,
             "opponent": 1.0
           }
         },
-        "advantage_count": 1,
-        "disadvantage_count": 1
+        "advantage_count": 3,
+        "disadvantage_count": 0
       }
     },
     {
