@@ -1,24 +1,10 @@
 {
-  "updated_at": "2026-11-22T00:25:14.765607+00:00",
+  "updated_at": "2026-11-22T00:30:14.763973+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 40.0,
   "drop_method": "odds_premium_above_one",
   "underdog_only": true,
   "drops": [
-    {
-      "eventId": "204331007",
-      "sport": "Piłka nożna",
-      "competition": "USA MLS",
-      "home": "Inter Miami",
-      "away": "Columbus Crew",
-      "selection": "AWAY",
-      "team": "Columbus Crew",
-      "score": "0:2",
-      "minute": "53'",
-      "odds_before": 4.5,
-      "odds_now": 1.0714,
-      "change_percent": -97.96
-    },
     {
       "eventId": "204856747",
       "sport": "Piłka nożna",
@@ -28,24 +14,10 @@
       "selection": "AWAY",
       "team": "Atletico ECCA",
       "score": "0:2",
-      "minute": "58'",
+      "minute": "63'",
       "odds_before": 3.3,
-      "odds_now": 1.0833,
-      "change_percent": -96.38
-    },
-    {
-      "eventId": "204608222",
-      "sport": "Piłka ręczna",
-      "competition": "Argentina LHC Oro Clausura",
-      "home": "Velez Sarsfield",
-      "away": "Vicente Lopez",
-      "selection": "AWAY",
-      "team": "Vicente Lopez",
-      "score": "14:16",
-      "minute": "Brak danych",
-      "odds_before": 4.25,
-      "odds_now": 1.28,
-      "change_percent": -91.38
+      "odds_now": 1.0625,
+      "change_percent": -97.28
     },
     {
       "eventId": "203962868",
@@ -56,24 +28,10 @@
       "selection": "HOME",
       "team": "Pachuca",
       "score": "1:0",
-      "minute": "72'",
+      "minute": "77'",
       "odds_before": 2.5,
-      "odds_now": 1.25,
-      "change_percent": -83.33
-    },
-    {
-      "eventId": "204994486",
-      "sport": "Tenis",
-      "competition": "Challenger Playford",
-      "home": "Jesse Delaney",
-      "away": "Chase Ferguson",
-      "selection": "HOME",
-      "team": "Jesse Delaney",
-      "score": "Brak danych",
-      "minute": "Brak danych",
-      "odds_before": 4.3333,
-      "odds_now": 1.6154,
-      "change_percent": -81.54
+      "odds_now": 1.2222,
+      "change_percent": -85.19
     },
     {
       "eventId": "204750066",
@@ -84,10 +42,10 @@
       "selection": "HOME",
       "team": "Tapachula Soconusco FC",
       "score": "1:0",
-      "minute": "55'",
+      "minute": "60'",
       "odds_before": 7.0,
-      "odds_now": 2.2,
-      "change_percent": -80.0
+      "odds_now": 2.05,
+      "change_percent": -82.5
     },
     {
       "eventId": "203963327",
@@ -111,11 +69,39 @@
       "away": "Vermont",
       "selection": "HOME",
       "team": "Brown",
-      "score": "28:19",
+      "score": "30:19",
       "minute": "Brak danych",
       "odds_before": 2.6,
-      "odds_now": 1.5556,
-      "change_percent": -65.27
+      "odds_now": 1.3846,
+      "change_percent": -75.96
+    },
+    {
+      "eventId": "204986064",
+      "sport": "Tenis",
+      "competition": "UTR Pro Newport Beach Women",
+      "home": "Elena Goodman",
+      "away": "Eduarda Piai",
+      "selection": "HOME",
+      "team": "Elena Goodman",
+      "score": "Brak danych",
+      "minute": "Brak danych",
+      "odds_before": 2.375,
+      "odds_now": 1.3333,
+      "change_percent": -75.76
+    },
+    {
+      "eventId": "204943411",
+      "sport": "Siatkówka",
+      "competition": "Uruguay Clausura Primera",
+      "home": "CBR",
+      "away": "Parada 6",
+      "selection": "HOME",
+      "team": "CBR",
+      "score": "3:2",
+      "minute": "Brak danych",
+      "odds_before": 2.2,
+      "odds_now": 1.4,
+      "change_percent": -66.67
     },
     {
       "eventId": "203964709",
@@ -132,6 +118,20 @@
       "change_percent": -63.8
     },
     {
+      "eventId": "204896866",
+      "sport": "Siatkówka",
+      "competition": "Mexico LVP",
+      "home": "Daneses Dorados Morelos",
+      "away": "Tapatios de Jalisco",
+      "selection": "HOME",
+      "team": "Daneses Dorados Morelos",
+      "score": "0:0",
+      "minute": "Brak danych",
+      "odds_before": 3.75,
+      "odds_now": 2.0,
+      "change_percent": -63.64
+    },
+    {
       "eventId": "204841169",
       "sport": "Piłka nożna",
       "competition": "Chile Primera B",
@@ -140,24 +140,38 @@
       "selection": "HOME",
       "team": "Deportes Copiapo",
       "score": "1:0",
-      "minute": "24'",
+      "minute": "29'",
       "odds_before": 2.6,
       "odds_now": 1.6667,
       "change_percent": -58.33
     },
     {
-      "eventId": "204943411",
-      "sport": "Siatkówka",
-      "competition": "Uruguay Clausura Primera",
-      "home": "CBR",
-      "away": "Parada 6",
-      "selection": "HOME",
-      "team": "CBR",
-      "score": "0:0",
+      "eventId": "204941934",
+      "sport": "Koszykówka",
+      "competition": "Colombia Liga",
+      "home": "Paisas",
+      "away": "Toros del Valle",
+      "selection": "AWAY",
+      "team": "Toros del Valle",
+      "score": "24:27",
       "minute": "Brak danych",
-      "odds_before": 2.2,
-      "odds_now": 1.5,
-      "change_percent": -58.33
+      "odds_before": 2.25,
+      "odds_now": 1.6667,
+      "change_percent": -46.66
+    },
+    {
+      "eventId": "204960488",
+      "sport": "Koszykówka",
+      "competition": "NCAAB",
+      "home": "Radford",
+      "away": "Chattanooga",
+      "selection": "HOME",
+      "team": "Radford",
+      "score": "27:23",
+      "minute": "Brak danych",
+      "odds_before": 3.8,
+      "odds_now": 2.6,
+      "change_percent": -42.86
     },
     {
       "eventId": "204987358",
@@ -170,64 +184,8 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 4.0,
-      "odds_now": 2.25,
-      "change_percent": -58.33
-    },
-    {
-      "eventId": "204941934",
-      "sport": "Koszykówka",
-      "competition": "Colombia Liga",
-      "home": "Paisas",
-      "away": "Toros del Valle",
-      "selection": "AWAY",
-      "team": "Toros del Valle",
-      "score": "18:24",
-      "minute": "Brak danych",
-      "odds_before": 2.25,
-      "odds_now": 1.5263,
-      "change_percent": -57.9
-    },
-    {
-      "eventId": "204896866",
-      "sport": "Siatkówka",
-      "competition": "Mexico LVP",
-      "home": "Daneses Dorados Morelos",
-      "away": "Tapatios de Jalisco",
-      "selection": "HOME",
-      "team": "Daneses Dorados Morelos",
-      "score": "22:19",
-      "minute": "Brak danych",
-      "odds_before": 3.75,
-      "odds_now": 2.2,
-      "change_percent": -56.36
-    },
-    {
-      "eventId": "204986066",
-      "sport": "Tenis",
-      "competition": "UTR Pro Newport Beach Women",
-      "home": "Tiffany Papazian",
-      "away": "Helene Schnack",
-      "selection": "HOME",
-      "team": "Tiffany Papazian",
-      "score": "3:0",
-      "minute": "Brak danych",
-      "odds_before": 2.2,
-      "odds_now": 1.5714,
-      "change_percent": -52.38
-    },
-    {
-      "eventId": "204960488",
-      "sport": "Koszykówka",
-      "competition": "NCAAB",
-      "home": "Radford",
-      "away": "Chattanooga",
-      "selection": "HOME",
-      "team": "Radford",
-      "score": "24:19",
-      "minute": "Brak danych",
-      "odds_before": 3.8,
-      "odds_now": 2.35,
-      "change_percent": -51.79
+      "odds_now": 2.75,
+      "change_percent": -41.67
     }
   ]
 }
