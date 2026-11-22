@@ -1,42 +1,8 @@
 {
-  "updated_at": "2026-11-22T12:50:12.938803+00:00",
+  "updated_at": "2026-11-22T12:55:12.741246+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
-  "drops": [
-    {
-      "eventId": "204734498",
-      "sport": "Piłka nożna",
-      "competition": "Spain Tercera Group 3",
-      "home": "CD Cayon",
-      "away": "Castro",
-      "selection": "AWAY",
-      "team": "Castro",
-      "score": "1:2",
-      "minute": "92'",
-      "odds_before": 6.0,
-      "odds_now": 1.05,
-      "change_percent": -82.5,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 6.0,
-            "opponent": 8.0
-          },
-          "dangerousAttacks": {
-            "selected": 22.0,
-            "opponent": 56.0
-          },
-          "corners": {
-            "selected": 4.0,
-            "opponent": 5.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 3
-      }
-    }
-  ]
+  "drops": []
 }
