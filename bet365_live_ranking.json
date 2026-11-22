@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T10:10:15.743992+00:00",
+  "updated_at": "2026-11-22T10:15:14.497421+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -13,29 +13,62 @@
       "away": "Asia Lion FC",
       "selection": "AWAY",
       "team": "Asia Lion FC",
-      "score": "0:1",
-      "minute": "50'",
+      "score": "0:2",
+      "minute": "55'",
       "odds_before": 8.0,
-      "odds_now": 2.25,
-      "change_percent": -71.88,
+      "odds_now": 1.3333,
+      "change_percent": -83.33,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 4.0,
-            "opponent": 1.0
+            "selected": 5.0,
+            "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 43.0,
-            "opponent": 49.0
+            "selected": 45.0,
+            "opponent": 55.0
           },
           "corners": {
             "selected": 1.0,
-            "opponent": 1.0
+            "opponent": 2.0
           }
         },
         "advantage_count": 1,
-        "disadvantage_count": 1
+        "disadvantage_count": 2
+      }
+    },
+    {
+      "eventId": "204795463",
+      "sport": "Piłka nożna",
+      "competition": "Thailand Division 3",
+      "home": "Chattrakan City FC",
+      "away": "Chiangmai FC",
+      "selection": "HOME",
+      "team": "Chattrakan City FC",
+      "score": "1:0",
+      "minute": "82'",
+      "odds_before": 3.6,
+      "odds_now": 1.125,
+      "change_percent": -68.75,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 2.0,
+            "opponent": 0.0
+          },
+          "dangerousAttacks": {
+            "selected": 21.0,
+            "opponent": 28.0
+          },
+          "corners": {
+            "selected": 3.0,
+            "opponent": 6.0
+          }
+        },
+        "advantage_count": 1,
+        "disadvantage_count": 2
       }
     },
     {
@@ -47,10 +80,10 @@
       "selection": "AWAY",
       "team": "ACS Juniorul 2014 (W)",
       "score": "0:1",
-      "minute": "47'",
+      "minute": "52'",
       "odds_before": 4.2,
-      "odds_now": 2.1,
-      "change_percent": -50.0,
+      "odds_now": 2.05,
+      "change_percent": -51.19,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -59,8 +92,8 @@
             "opponent": 6.0
           },
           "dangerousAttacks": {
-            "selected": 38.0,
-            "opponent": 32.0
+            "selected": 40.0,
+            "opponent": 35.0
           },
           "corners": {
             "selected": 4.0,
