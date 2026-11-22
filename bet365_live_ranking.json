@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T15:05:12.860515+00:00",
+  "updated_at": "2026-11-22T15:10:15.126105+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -47,10 +47,10 @@
       "selection": "AWAY",
       "team": "Calcio Schio",
       "score": "0:1",
-      "minute": "71'",
+      "minute": "76'",
       "odds_before": 5.0,
-      "odds_now": 1.3333,
-      "change_percent": -73.33,
+      "odds_now": 1.2857,
+      "change_percent": -74.29,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -59,12 +59,12 @@
             "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 23.0,
-            "opponent": 34.0
+            "selected": 24.0,
+            "opponent": 40.0
           },
           "corners": {
-            "selected": 3.0,
-            "opponent": 1.0
+            "selected": 4.0,
+            "opponent": 2.0
           }
         },
         "advantage_count": 1,
@@ -80,10 +80,10 @@
       "selection": "HOME",
       "team": "Scandicci",
       "score": "1:0",
-      "minute": "79'",
+      "minute": "84'",
       "odds_before": 4.5,
-      "odds_now": 1.3333,
-      "change_percent": -70.37,
+      "odds_now": 1.2,
+      "change_percent": -73.33,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -93,7 +93,7 @@
           },
           "dangerousAttacks": {
             "selected": 38.0,
-            "opponent": 64.0
+            "opponent": 67.0
           },
           "corners": {
             "selected": 1.0,
@@ -113,20 +113,20 @@
       "selection": "AWAY",
       "team": "GSD Ghiviborgo VDS",
       "score": "0:1",
-      "minute": "75'",
+      "minute": "80'",
       "odds_before": 4.2,
-      "odds_now": 1.2857,
-      "change_percent": -69.39,
+      "odds_now": 1.2222,
+      "change_percent": -70.9,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 8.0,
+            "selected": 9.0,
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 52.0,
-            "opponent": 45.0
+            "selected": 57.0,
+            "opponent": 47.0
           },
           "corners": {
             "selected": 6.0,
@@ -138,39 +138,6 @@
       }
     },
     {
-      "eventId": "204856414",
-      "sport": "Piłka nożna",
-      "competition": "Brazil Paulista Women",
-      "home": "Corinthians (W)",
-      "away": "Bragantino (W)",
-      "selection": "AWAY",
-      "team": "Bragantino (W)",
-      "score": "0:1",
-      "minute": "45'",
-      "odds_before": 6.0,
-      "odds_now": 2.1,
-      "change_percent": -65.0,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 3.0
-          },
-          "dangerousAttacks": {
-            "selected": 20.0,
-            "opponent": 35.0
-          },
-          "corners": {
-            "selected": 2.0,
-            "opponent": 3.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 3
-      }
-    },
-    {
       "eventId": "204897182",
       "sport": "Piłka nożna",
       "competition": "France Division 1 Women",
@@ -179,24 +146,123 @@
       "selection": "AWAY",
       "team": "FC Fleury 91 (W)",
       "score": "0:1",
-      "minute": "45'",
+      "minute": "50'",
       "odds_before": 6.0,
-      "odds_now": 2.1,
-      "change_percent": -65.0,
+      "odds_now": 2.0,
+      "change_percent": -66.67,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 3.0,
-            "opponent": 1.0
+            "opponent": 2.0
           },
           "dangerousAttacks": {
             "selected": 11.0,
-            "opponent": 24.0
+            "opponent": 29.0
           },
           "corners": {
             "selected": 2.0,
             "opponent": 1.0
+          }
+        },
+        "advantage_count": 2,
+        "disadvantage_count": 1
+      }
+    },
+    {
+      "eventId": "204856414",
+      "sport": "Piłka nożna",
+      "competition": "Brazil Paulista Women",
+      "home": "Corinthians (W)",
+      "away": "Bragantino (W)",
+      "selection": "AWAY",
+      "team": "Bragantino (W)",
+      "score": "0:1",
+      "minute": "47'",
+      "odds_before": 6.0,
+      "odds_now": 2.05,
+      "change_percent": -65.83,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 2.0,
+            "opponent": 3.0
+          },
+          "dangerousAttacks": {
+            "selected": 23.0,
+            "opponent": 36.0
+          },
+          "corners": {
+            "selected": 3.0,
+            "opponent": 3.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 2
+      }
+    },
+    {
+      "eventId": "203186190",
+      "sport": "Piłka nożna",
+      "competition": "Austria Bundesliga",
+      "home": "SCR Altach",
+      "away": "SK Sturm Graz",
+      "selection": "HOME",
+      "team": "SCR Altach",
+      "score": "1:0",
+      "minute": "81'",
+      "odds_before": 3.4,
+      "odds_now": 1.2,
+      "change_percent": -64.71,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 3.0,
+            "opponent": 4.0
+          },
+          "dangerousAttacks": {
+            "selected": 38.0,
+            "opponent": 50.0
+          },
+          "corners": {
+            "selected": 4.0,
+            "opponent": 6.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 3
+      }
+    },
+    {
+      "eventId": "204909712",
+      "sport": "Piłka nożna",
+      "competition": "France U19 League",
+      "home": "US Cap d'Ail U19",
+      "away": "SC Bastia U19",
+      "selection": "HOME",
+      "team": "US Cap d'Ail U19",
+      "score": "2:1",
+      "minute": "76'",
+      "odds_before": 3.5,
+      "odds_now": 1.25,
+      "change_percent": -64.29,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 9.0,
+            "opponent": 6.0
+          },
+          "dangerousAttacks": {
+            "selected": 38.0,
+            "opponent": 31.0
+          },
+          "corners": {
+            "selected": 5.0,
+            "opponent": 7.0
           }
         },
         "advantage_count": 2,
@@ -212,10 +278,10 @@
       "selection": "AWAY",
       "team": "Nottm Forest (W)",
       "score": "0:2",
-      "minute": "48'",
+      "minute": "53'",
       "odds_before": 3.4,
-      "odds_now": 1.2857,
-      "change_percent": -62.19,
+      "odds_now": 1.2222,
+      "change_percent": -64.05,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
@@ -224,8 +290,8 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 46.0,
-            "opponent": 35.0
+            "selected": 50.0,
+            "opponent": 38.0
           },
           "corners": {
             "selected": 0.0,
@@ -237,39 +303,6 @@
       }
     },
     {
-      "eventId": "203186190",
-      "sport": "Piłka nożna",
-      "competition": "Austria Bundesliga",
-      "home": "SCR Altach",
-      "away": "SK Sturm Graz",
-      "selection": "HOME",
-      "team": "SCR Altach",
-      "score": "1:0",
-      "minute": "76'",
-      "odds_before": 3.4,
-      "odds_now": 1.3,
-      "change_percent": -61.76,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 3.0,
-            "opponent": 4.0
-          },
-          "dangerousAttacks": {
-            "selected": 37.0,
-            "opponent": 48.0
-          },
-          "corners": {
-            "selected": 4.0,
-            "opponent": 6.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 3
-      }
-    },
-    {
       "eventId": "203964754",
       "sport": "Piłka nożna",
       "competition": "England Super League Women",
@@ -278,7 +311,7 @@
       "selection": "HOME",
       "team": "Charlton (W)",
       "score": "1:0",
-      "minute": "47'",
+      "minute": "52'",
       "odds_before": 4.5,
       "odds_now": 1.7273,
       "change_percent": -61.62,
@@ -295,7 +328,7 @@
           },
           "corners": {
             "selected": 1.0,
-            "opponent": 4.0
+            "opponent": 8.0
           }
         },
         "advantage_count": 1,
@@ -311,28 +344,28 @@
       "selection": "AWAY",
       "team": "Derthona",
       "score": "0:1",
-      "minute": "49'",
+      "minute": "55'",
       "odds_before": 3.3,
       "odds_now": 1.4444,
       "change_percent": -56.23,
       "statistics_assessment": {
-        "status": "MIXED",
+        "status": "SUPPORTED",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 6.0,
             "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 27.0,
-            "opponent": 19.0
+            "selected": 30.0,
+            "opponent": 22.0
           },
           "corners": {
-            "selected": 1.0,
+            "selected": 3.0,
             "opponent": 3.0
           }
         },
         "advantage_count": 2,
-        "disadvantage_count": 1
+        "disadvantage_count": 0
       }
     },
     {
@@ -344,10 +377,10 @@
       "selection": "AWAY",
       "team": "Feirense",
       "score": "1:2",
-      "minute": "45'",
+      "minute": "51'",
       "odds_before": 3.9,
-      "odds_now": 1.9091,
-      "change_percent": -51.05,
+      "odds_now": 1.8333,
+      "change_percent": -52.99,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -356,11 +389,44 @@
             "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 13.0,
-            "opponent": 38.0
+            "selected": 14.0,
+            "opponent": 44.0
           },
           "corners": {
             "selected": 0.0,
+            "opponent": 6.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 3
+      }
+    },
+    {
+      "eventId": "205003982",
+      "sport": "Piłka nożna",
+      "competition": "Swedish Damallsvenskan Play-Off",
+      "home": "FC Rosengård (W)",
+      "away": "KIF Orebro (W)",
+      "selection": "AWAY",
+      "team": "KIF Orebro (W)",
+      "score": "1:2",
+      "minute": "53'",
+      "odds_before": 4.3333,
+      "odds_now": 2.05,
+      "change_percent": -52.69,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 3.0,
+            "opponent": 4.0
+          },
+          "dangerousAttacks": {
+            "selected": 37.0,
+            "opponent": 44.0
+          },
+          "corners": {
+            "selected": 1.0,
             "opponent": 6.0
           }
         },
@@ -377,10 +443,10 @@
       "selection": "AWAY",
       "team": "SC Cham",
       "score": "1:2",
-      "minute": "46'",
+      "minute": "52'",
       "odds_before": 3.2,
-      "odds_now": 1.5714,
-      "change_percent": -50.89,
+      "odds_now": 1.5333,
+      "change_percent": -52.08,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
@@ -389,8 +455,8 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 50.0,
-            "opponent": 26.0
+            "selected": 54.0,
+            "opponent": 28.0
           },
           "corners": {
             "selected": 4.0,
