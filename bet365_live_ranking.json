@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T11:50:13.390256+00:00",
+  "updated_at": "2026-11-22T11:55:13.141353+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -36,105 +36,6 @@
         },
         "advantage_count": 1,
         "disadvantage_count": 2
-      }
-    },
-    {
-      "eventId": "204856873",
-      "sport": "Piłka nożna",
-      "competition": "Rwanda Womens League",
-      "home": "Inyemera WFC (W)",
-      "away": "Bugesera (W)",
-      "selection": "AWAY",
-      "team": "Bugesera (W)",
-      "score": "1:2",
-      "minute": "83'",
-      "odds_before": 4.1,
-      "odds_now": 1.1667,
-      "change_percent": -71.54,
-      "statistics_assessment": {
-        "status": "SUPPORTED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 3.0,
-            "opponent": 1.0
-          },
-          "dangerousAttacks": {
-            "selected": 75.0,
-            "opponent": 72.0
-          },
-          "corners": {
-            "selected": 2.0,
-            "opponent": 2.0
-          }
-        },
-        "advantage_count": 2,
-        "disadvantage_count": 0
-      }
-    },
-    {
-      "eventId": "204897226",
-      "sport": "Piłka nożna",
-      "competition": "France U19 League",
-      "home": "SA Merignac U19",
-      "away": "Beaucouze U19",
-      "selection": "AWAY",
-      "team": "Beaucouze U19",
-      "score": "0:1",
-      "minute": "92'",
-      "odds_before": 3.75,
-      "odds_now": 1.0714,
-      "change_percent": -71.43,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 7.0,
-            "opponent": 2.0
-          },
-          "dangerousAttacks": {
-            "selected": 35.0,
-            "opponent": 62.0
-          },
-          "corners": {
-            "selected": 4.0,
-            "opponent": 14.0
-          }
-        },
-        "advantage_count": 1,
-        "disadvantage_count": 2
-      }
-    },
-    {
-      "eventId": "204855147",
-      "sport": "Piłka nożna",
-      "competition": "Spain Primera Federacion Women",
-      "home": "Atletico Madrid (W) B",
-      "away": "Tenerife B (W)",
-      "selection": "AWAY",
-      "team": "Tenerife B (W)",
-      "score": "0:1",
-      "minute": "90'",
-      "odds_before": 3.5,
-      "odds_now": 1.0714,
-      "change_percent": -69.39,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 0.0,
-            "opponent": 0.0
-          },
-          "dangerousAttacks": {
-            "selected": 0.0,
-            "opponent": 0.0
-          },
-          "corners": {
-            "selected": 0.0,
-            "opponent": 0.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 0
       }
     },
     {
@@ -212,7 +113,7 @@
       "selection": "HOME",
       "team": "UD Ourense",
       "score": "1:0",
-      "minute": "47'",
+      "minute": "51'",
       "odds_before": 3.9,
       "odds_now": 1.8,
       "change_percent": -53.85,
@@ -224,12 +125,12 @@
             "opponent": 0.0
           },
           "dangerousAttacks": {
-            "selected": 22.0,
-            "opponent": 29.0
+            "selected": 23.0,
+            "opponent": 32.0
           },
           "corners": {
             "selected": 1.0,
-            "opponent": 3.0
+            "opponent": 4.0
           }
         },
         "advantage_count": 1,
