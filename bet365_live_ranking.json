@@ -1,38 +1,10 @@
 {
-  "updated_at": "2026-11-22T02:20:13.556154+00:00",
+  "updated_at": "2026-11-22T02:25:14.072558+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
   "drops": [
-    {
-      "eventId": "204851052",
-      "sport": "Piłka nożna",
-      "competition": "Mexico Liga Premier A",
-      "home": "La Tribu de Cd. Juárez",
-      "away": "Real Refineros FC",
-      "selection": "AWAY",
-      "team": "Real Refineros FC",
-      "score": "0:1",
-      "minute": "54'",
-      "odds_before": 7.5,
-      "odds_now": 2.375,
-      "change_percent": -68.33
-    },
-    {
-      "eventId": "204912731",
-      "sport": "Piłka nożna",
-      "competition": "Aruba Division Di Honor",
-      "home": "SV Sporting Aruba",
-      "away": "SV Dakota",
-      "selection": "HOME",
-      "team": "SV Sporting Aruba",
-      "score": "1:0",
-      "minute": "76'",
-      "odds_before": 3.9,
-      "odds_now": 1.2857,
-      "change_percent": -67.03
-    },
     {
       "eventId": "202801739",
       "sport": "Piłka nożna",
@@ -42,7 +14,7 @@
       "selection": "AWAY",
       "team": "Macarthur FC",
       "score": "0:2",
-      "minute": "19'",
+      "minute": "24'",
       "odds_before": 3.9,
       "odds_now": 1.3636,
       "change_percent": -65.04
@@ -56,10 +28,10 @@
       "selection": "AWAY",
       "team": "Deportivo Fraijanes",
       "score": "0:1",
-      "minute": "47'",
+      "minute": "52'",
       "odds_before": 4.1,
-      "odds_now": 1.9524,
-      "change_percent": -52.38
+      "odds_now": 1.8333,
+      "change_percent": -55.29
     }
   ]
 }
