@@ -1,43 +1,10 @@
 {
-  "updated_at": "2026-11-22T20:50:15.124112+00:00",
+  "updated_at": "2026-11-22T20:55:13.121228+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
   "drops": [
-    {
-      "eventId": "203962683",
-      "sport": "Piłka nożna",
-      "competition": "Bolivia Primera Division",
-      "home": "Real Potosi",
-      "away": "Bolivar",
-      "selection": "HOME",
-      "team": "Real Potosi",
-      "score": "1:0",
-      "minute": "93'",
-      "odds_before": 4.75,
-      "odds_now": 1.0625,
-      "change_percent": -77.63,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 4.0,
-            "opponent": 4.0
-          },
-          "dangerousAttacks": {
-            "selected": 29.0,
-            "opponent": 35.0
-          },
-          "corners": {
-            "selected": 0.0,
-            "opponent": 8.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 2
-      }
-    },
     {
       "eventId": "203963407",
       "sport": "Piłka nożna",
@@ -47,10 +14,10 @@
       "selection": "AWAY",
       "team": "Mushuc Runa",
       "score": "2:3",
-      "minute": "81'",
+      "minute": "87'",
       "odds_before": 4.75,
-      "odds_now": 1.3,
-      "change_percent": -72.63,
+      "odds_now": 1.1818,
+      "change_percent": -75.12,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -59,12 +26,12 @@
             "opponent": 5.0
           },
           "dangerousAttacks": {
-            "selected": 11.0,
-            "opponent": 42.0
+            "selected": 13.0,
+            "opponent": 52.0
           },
           "corners": {
             "selected": 1.0,
-            "opponent": 9.0
+            "opponent": 10.0
           }
         },
         "advantage_count": 0,
@@ -80,10 +47,10 @@
       "selection": "HOME",
       "team": "Broki",
       "score": "1:0",
-      "minute": "52'",
+      "minute": "57'",
       "odds_before": 5.75,
-      "odds_now": 1.7273,
-      "change_percent": -69.96,
+      "odds_now": 1.6667,
+      "change_percent": -71.01,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
@@ -92,8 +59,8 @@
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 23.0,
-            "opponent": 15.0
+            "selected": 24.0,
+            "opponent": 16.0
           },
           "corners": {
             "selected": 3.0,
@@ -113,7 +80,7 @@
       "selection": "AWAY",
       "team": "CD Universidad San Martin",
       "score": "0:1",
-      "minute": "48'",
+      "minute": "45'",
       "odds_before": 4.2,
       "odds_now": 1.8333,
       "change_percent": -56.35,
