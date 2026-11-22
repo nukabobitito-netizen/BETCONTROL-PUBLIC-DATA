@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T17:40:15.076418+00:00",
+  "updated_at": "2026-11-22T17:45:16.385357+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "AWAY",
       "team": "Pobla Mafumet",
       "score": "1:3",
-      "minute": "78'",
+      "minute": "83'",
       "odds_before": 4.75,
-      "odds_now": 1.0357,
-      "change_percent": -78.2,
+      "odds_now": 1.02,
+      "change_percent": -78.53,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -26,8 +26,8 @@
             "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 48.0,
-            "opponent": 97.0
+            "selected": 49.0,
+            "opponent": 104.0
           },
           "corners": {
             "selected": 4.0,
@@ -47,20 +47,20 @@
       "selection": "AWAY",
       "team": "Atletico Tordesillas",
       "score": "0:1",
-      "minute": "76'",
+      "minute": "81'",
       "odds_before": 5.0,
-      "odds_now": 1.3333,
-      "change_percent": -73.33,
+      "odds_now": 1.25,
+      "change_percent": -75.0,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 3.0,
-            "opponent": 1.0
+            "selected": 4.0,
+            "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 45.0,
-            "opponent": 73.0
+            "selected": 48.0,
+            "opponent": 80.0
           },
           "corners": {
             "selected": 3.0,
@@ -72,39 +72,6 @@
       }
     },
     {
-      "eventId": "204852536",
-      "sport": "Piłka nożna",
-      "competition": "Spain Tercera Group 1",
-      "home": "CD Estradense",
-      "away": "CD Arenteiro",
-      "selection": "AWAY",
-      "team": "CD Arenteiro",
-      "score": "0:2",
-      "minute": "82'",
-      "odds_before": 4.0,
-      "odds_now": 1.0909,
-      "change_percent": -72.73,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 4.0,
-            "opponent": 5.0
-          },
-          "dangerousAttacks": {
-            "selected": 19.0,
-            "opponent": 86.0
-          },
-          "corners": {
-            "selected": 2.0,
-            "opponent": 12.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 3
-      }
-    },
-    {
       "eventId": "203186197",
       "sport": "Piłka nożna",
       "competition": "Austria Bundesliga",
@@ -113,10 +80,10 @@
       "selection": "HOME",
       "team": "FK Austria Vienna",
       "score": "1:0",
-      "minute": "82'",
+      "minute": "87'",
       "odds_before": 4.5,
-      "odds_now": 1.3,
-      "change_percent": -71.11,
+      "odds_now": 1.1667,
+      "change_percent": -74.07,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -125,8 +92,8 @@
             "opponent": 0.0
           },
           "dangerousAttacks": {
-            "selected": 22.0,
-            "opponent": 42.0
+            "selected": 27.0,
+            "opponent": 43.0
           },
           "corners": {
             "selected": 4.0,
@@ -146,10 +113,10 @@
       "selection": "AWAY",
       "team": "Basconia",
       "score": "0:1",
-      "minute": "83'",
+      "minute": "88'",
       "odds_before": 4.0,
-      "odds_now": 1.2,
-      "change_percent": -70.0,
+      "odds_now": 1.125,
+      "change_percent": -71.88,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -159,48 +126,15 @@
           },
           "dangerousAttacks": {
             "selected": 30.0,
-            "opponent": 48.0
+            "opponent": 56.0
           },
           "corners": {
             "selected": 4.0,
-            "opponent": 5.0
+            "opponent": 7.0
           }
         },
         "advantage_count": 0,
         "disadvantage_count": 3
-      }
-    },
-    {
-      "eventId": "204455540",
-      "sport": "Piłka nożna",
-      "competition": "Spain Segunda Division RFEF Group 3",
-      "home": "Orihuela",
-      "away": "La Nucia",
-      "selection": "AWAY",
-      "team": "La Nucia",
-      "score": "0:1",
-      "minute": "83'",
-      "odds_before": 3.25,
-      "odds_now": 1.125,
-      "change_percent": -65.38,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 3.0,
-            "opponent": 2.0
-          },
-          "dangerousAttacks": {
-            "selected": 54.0,
-            "opponent": 48.0
-          },
-          "corners": {
-            "selected": 3.0,
-            "opponent": 7.0
-          }
-        },
-        "advantage_count": 2,
-        "disadvantage_count": 1
       }
     },
     {
@@ -212,10 +146,10 @@
       "selection": "HOME",
       "team": "JK Viljandi Tulevik",
       "score": "2:1",
-      "minute": "85'",
+      "minute": "90'",
       "odds_before": 3.3,
-      "odds_now": 1.2222,
-      "change_percent": -62.96,
+      "odds_now": 1.04,
+      "change_percent": -68.48,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -225,11 +159,143 @@
           },
           "dangerousAttacks": {
             "selected": 42.0,
-            "opponent": 58.0
+            "opponent": 69.0
           },
           "corners": {
             "selected": 4.0,
             "opponent": 5.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 2
+      }
+    },
+    {
+      "eventId": "204455540",
+      "sport": "Piłka nożna",
+      "competition": "Spain Segunda Division RFEF Group 3",
+      "home": "Orihuela",
+      "away": "La Nucia",
+      "selection": "AWAY",
+      "team": "La Nucia",
+      "score": "0:1",
+      "minute": "88'",
+      "odds_before": 3.25,
+      "odds_now": 1.0714,
+      "change_percent": -67.03,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 3.0,
+            "opponent": 4.0
+          },
+          "dangerousAttacks": {
+            "selected": 54.0,
+            "opponent": 57.0
+          },
+          "corners": {
+            "selected": 3.0,
+            "opponent": 8.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 3
+      }
+    },
+    {
+      "eventId": "204852536",
+      "sport": "Piłka nożna",
+      "competition": "Spain Tercera Group 1",
+      "home": "CD Estradense",
+      "away": "CD Arenteiro",
+      "selection": "AWAY",
+      "team": "CD Arenteiro",
+      "score": "1:2",
+      "minute": "87'",
+      "odds_before": 4.0,
+      "odds_now": 1.3636,
+      "change_percent": -65.91,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 4.0,
+            "opponent": 6.0
+          },
+          "dangerousAttacks": {
+            "selected": 19.0,
+            "opponent": 90.0
+          },
+          "corners": {
+            "selected": 2.0,
+            "opponent": 13.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 3
+      }
+    },
+    {
+      "eventId": "204852844",
+      "sport": "Piłka nożna",
+      "competition": "Spain Youth League",
+      "home": "CD Mosquito U19",
+      "away": "Arenas de Armilla CyD U19",
+      "selection": "AWAY",
+      "team": "Arenas de Armilla CyD U19",
+      "score": "0:1",
+      "minute": "71'",
+      "odds_before": 4.5,
+      "odds_now": 1.6154,
+      "change_percent": -64.1,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 1.0,
+            "opponent": 2.0
+          },
+          "dangerousAttacks": {
+            "selected": 61.0,
+            "opponent": 53.0
+          },
+          "corners": {
+            "selected": 1.0,
+            "opponent": 2.0
+          }
+        },
+        "advantage_count": 1,
+        "disadvantage_count": 2
+      }
+    },
+    {
+      "eventId": "204945683",
+      "sport": "Piłka nożna",
+      "competition": "Senegal Premier League",
+      "home": "Guediawaye FC",
+      "away": "ASC Jaraaf",
+      "selection": "HOME",
+      "team": "Guediawaye FC",
+      "score": "1:0",
+      "minute": "46'",
+      "odds_before": 3.5,
+      "odds_now": 1.4444,
+      "change_percent": -58.73,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 2.0,
+            "opponent": 2.0
+          },
+          "dangerousAttacks": {
+            "selected": 34.0,
+            "opponent": 43.0
+          },
+          "corners": {
+            "selected": 1.0,
+            "opponent": 2.0
           }
         },
         "advantage_count": 0,
