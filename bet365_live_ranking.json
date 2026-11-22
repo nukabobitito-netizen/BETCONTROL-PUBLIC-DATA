@@ -1,10 +1,43 @@
 {
-  "updated_at": "2026-11-22T14:15:14.567886+00:00",
+  "updated_at": "2026-11-22T14:20:12.935014+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
   "drops": [
+    {
+      "eventId": "204909720",
+      "sport": "Piłka nożna",
+      "competition": "Italy Eccellenza",
+      "home": "Atletico Racale",
+      "away": "Galatina",
+      "selection": "AWAY",
+      "team": "Galatina",
+      "score": "0:1",
+      "minute": "45'",
+      "odds_before": 4.5,
+      "odds_now": 1.6154,
+      "change_percent": -64.1,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 2.0,
+            "opponent": 3.0
+          },
+          "dangerousAttacks": {
+            "selected": 16.0,
+            "opponent": 17.0
+          },
+          "corners": {
+            "selected": 1.0,
+            "opponent": 4.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 3
+      }
+    },
     {
       "eventId": "204853254",
       "sport": "Piłka nożna",
@@ -22,15 +55,15 @@
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 1.0,
+            "selected": 2.0,
             "opponent": 5.0
           },
           "dangerousAttacks": {
-            "selected": 37.0,
+            "selected": 41.0,
             "opponent": 34.0
           },
           "corners": {
-            "selected": 3.0,
+            "selected": 4.0,
             "opponent": 1.0
           }
         },
@@ -47,10 +80,10 @@
       "selection": "AWAY",
       "team": "GSD Ghiviborgo VDS",
       "score": "0:1",
-      "minute": "43'",
+      "minute": "45'",
       "odds_before": 4.2,
-      "odds_now": 1.6667,
-      "change_percent": -60.32,
+      "odds_now": 1.6154,
+      "change_percent": -61.54,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
@@ -59,8 +92,8 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 34.0,
-            "opponent": 19.0
+            "selected": 35.0,
+            "opponent": 21.0
           },
           "corners": {
             "selected": 4.0,
@@ -113,10 +146,10 @@
       "selection": "AWAY",
       "team": "Bragantino (W)",
       "score": "0:1",
-      "minute": "14'",
+      "minute": "19'",
       "odds_before": 6.0,
-      "odds_now": 2.625,
-      "change_percent": -56.25,
+      "odds_now": 2.6,
+      "change_percent": -56.67,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -126,7 +159,7 @@
           },
           "dangerousAttacks": {
             "selected": 9.0,
-            "opponent": 11.0
+            "opponent": 13.0
           },
           "corners": {
             "selected": 1.0,
@@ -138,36 +171,36 @@
       }
     },
     {
-      "eventId": "204851540",
+      "eventId": "203964754",
       "sport": "Piłka nożna",
-      "competition": "Kosovo Superliga",
-      "home": "KF Drita",
-      "away": "KF Feronikeli",
-      "selection": "AWAY",
-      "team": "KF Feronikeli",
-      "score": "0:1",
-      "minute": "14'",
-      "odds_before": 6.0,
-      "odds_now": 2.75,
-      "change_percent": -54.17,
+      "competition": "England Super League Women",
+      "home": "Charlton (W)",
+      "away": "Aston Villa (W)",
+      "selection": "HOME",
+      "team": "Charlton (W)",
+      "score": "1:0",
+      "minute": "20'",
+      "odds_before": 4.5,
+      "odds_now": 2.05,
+      "change_percent": -54.44,
       "statistics_assessment": {
-        "status": "MIXED",
+        "status": "SUPPORTED",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 1.0,
             "opponent": 0.0
           },
           "dangerousAttacks": {
-            "selected": 13.0,
-            "opponent": 18.0
+            "selected": 0.0,
+            "opponent": 0.0
           },
           "corners": {
             "selected": 1.0,
-            "opponent": 1.0
+            "opponent": 0.0
           }
         },
-        "advantage_count": 1,
-        "disadvantage_count": 1
+        "advantage_count": 2,
+        "disadvantage_count": 0
       }
     }
   ]
