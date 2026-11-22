@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T14:05:13.206570+00:00",
+  "updated_at": "2026-11-22T14:10:18.402419+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,20 +14,20 @@
       "selection": "AWAY",
       "team": "Galatina",
       "score": "0:1",
-      "minute": "37'",
+      "minute": "42'",
       "odds_before": 4.5,
-      "odds_now": 1.7273,
-      "change_percent": -61.62,
+      "odds_now": 1.6667,
+      "change_percent": -62.96,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 2.0,
-            "opponent": 2.0
+            "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 10.0,
-            "opponent": 14.0
+            "selected": 14.0,
+            "opponent": 16.0
           },
           "corners": {
             "selected": 1.0,
@@ -35,7 +35,7 @@
           }
         },
         "advantage_count": 0,
-        "disadvantage_count": 2
+        "disadvantage_count": 3
       }
     },
     {
@@ -47,10 +47,10 @@
       "selection": "AWAY",
       "team": "ASD Varesina",
       "score": "0:1",
-      "minute": "35'",
+      "minute": "40'",
       "odds_before": 4.3333,
-      "odds_now": 1.7273,
-      "change_percent": -60.14,
+      "odds_now": 1.6667,
+      "change_percent": -61.54,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -59,8 +59,8 @@
             "opponent": 5.0
           },
           "dangerousAttacks": {
-            "selected": 33.0,
-            "opponent": 26.0
+            "selected": 36.0,
+            "opponent": 32.0
           },
           "corners": {
             "selected": 3.0,
@@ -80,7 +80,7 @@
       "selection": "AWAY",
       "team": "GSD Ghiviborgo VDS",
       "score": "0:1",
-      "minute": "33'",
+      "minute": "38'",
       "odds_before": 4.2,
       "odds_now": 1.7273,
       "change_percent": -58.87,
@@ -93,15 +93,48 @@
           },
           "dangerousAttacks": {
             "selected": 29.0,
-            "opponent": 9.0
+            "opponent": 18.0
           },
           "corners": {
             "selected": 3.0,
+            "opponent": 3.0
+          }
+        },
+        "advantage_count": 2,
+        "disadvantage_count": 0
+      }
+    },
+    {
+      "eventId": "204853264",
+      "sport": "Piłka nożna",
+      "competition": "Italy Serie D",
+      "home": "Scandicci",
+      "away": "Prato",
+      "selection": "HOME",
+      "team": "Scandicci",
+      "score": "1:0",
+      "minute": "41'",
+      "odds_before": 4.5,
+      "odds_now": 1.9524,
+      "change_percent": -56.61,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 1.0,
+            "opponent": 1.0
+          },
+          "dangerousAttacks": {
+            "selected": 25.0,
+            "opponent": 29.0
+          },
+          "corners": {
+            "selected": 0.0,
             "opponent": 0.0
           }
         },
-        "advantage_count": 3,
-        "disadvantage_count": 0
+        "advantage_count": 0,
+        "disadvantage_count": 1
       }
     },
     {
@@ -113,27 +146,60 @@
       "selection": "AWAY",
       "team": "KF Feronikeli",
       "score": "0:1",
-      "minute": "4'",
+      "minute": "9'",
       "odds_before": 6.0,
       "odds_now": 2.75,
       "change_percent": -54.17,
       "statistics_assessment": {
-        "status": "SUPPORTED",
+        "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 1.0,
             "opponent": 0.0
           },
           "dangerousAttacks": {
-            "selected": 7.0,
-            "opponent": 3.0
+            "selected": 9.0,
+            "opponent": 12.0
           },
           "corners": {
             "selected": 1.0,
             "opponent": 0.0
           }
         },
-        "advantage_count": 3,
+        "advantage_count": 2,
+        "disadvantage_count": 1
+      }
+    },
+    {
+      "eventId": "204856414",
+      "sport": "Piłka nożna",
+      "competition": "Brazil Paulista Women",
+      "home": "Corinthians (W)",
+      "away": "Bragantino (W)",
+      "selection": "AWAY",
+      "team": "Bragantino (W)",
+      "score": "0:1",
+      "minute": "9'",
+      "odds_before": 6.0,
+      "odds_now": 2.75,
+      "change_percent": -54.17,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 1.0,
+            "opponent": 1.0
+          },
+          "dangerousAttacks": {
+            "selected": 8.0,
+            "opponent": 7.0
+          },
+          "corners": {
+            "selected": 1.0,
+            "opponent": 1.0
+          }
+        },
+        "advantage_count": 1,
         "disadvantage_count": 0
       }
     }
