@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T05:25:13.400718+00:00",
+  "updated_at": "2026-11-22T05:30:18.963251+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "HOME",
       "team": "Yokogawa Musashino FC",
       "score": "2:0",
-      "minute": "68'",
+      "minute": "73'",
       "odds_before": 4.3333,
-      "odds_now": 1.1111,
-      "change_percent": -74.36
+      "odds_now": 1.0833,
+      "change_percent": -75.0
     },
     {
       "eventId": "204789081",
@@ -28,10 +28,10 @@
       "selection": "AWAY",
       "team": "YSCC",
       "score": "0:1",
-      "minute": "24'",
+      "minute": "29'",
       "odds_before": 3.6,
-      "odds_now": 1.6667,
-      "change_percent": -53.7
+      "odds_now": 1.6154,
+      "change_percent": -55.13
     }
   ]
 }
