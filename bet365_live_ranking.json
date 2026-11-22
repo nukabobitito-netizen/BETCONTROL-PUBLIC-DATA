@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T20:15:15.451473+00:00",
+  "updated_at": "2026-11-22T20:20:14.396525+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "AWAY",
       "team": "Mushuc Runa",
       "score": "1:3",
-      "minute": "47'",
+      "minute": "52'",
       "odds_before": 4.75,
-      "odds_now": 1.2222,
-      "change_percent": -74.27,
+      "odds_now": 1.2,
+      "change_percent": -74.74,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -26,8 +26,8 @@
             "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 10.0,
-            "opponent": 16.0
+            "selected": 11.0,
+            "opponent": 21.0
           },
           "corners": {
             "selected": 1.0,
@@ -47,10 +47,10 @@
       "selection": "HOME",
       "team": "Broki",
       "score": "1:0",
-      "minute": "39'",
+      "minute": "43'",
       "odds_before": 5.75,
-      "odds_now": 1.9524,
-      "change_percent": -66.05,
+      "odds_now": 1.9091,
+      "change_percent": -66.8,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
@@ -59,8 +59,8 @@
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 20.0,
-            "opponent": 11.0
+            "selected": 21.0,
+            "opponent": 12.0
           },
           "corners": {
             "selected": 3.0,
@@ -80,28 +80,61 @@
       "selection": "AWAY",
       "team": "Leca",
       "score": "0:1",
-      "minute": "42'",
+      "minute": "47'",
       "odds_before": 6.0,
-      "odds_now": 2.4,
-      "change_percent": -60.0,
+      "odds_now": 2.375,
+      "change_percent": -60.42,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 2.0,
+            "selected": 3.0,
             "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 10.0,
-            "opponent": 30.0
+            "selected": 12.0,
+            "opponent": 35.0
           },
           "corners": {
             "selected": 0.0,
-            "opponent": 1.0
+            "opponent": 2.0
           }
         },
         "advantage_count": 0,
-        "disadvantage_count": 3
+        "disadvantage_count": 2
+      }
+    },
+    {
+      "eventId": "205036805",
+      "sport": "Piłka nożna",
+      "competition": "Peru Liga 2",
+      "home": "Union Comercio",
+      "away": "CD Universidad San Martin",
+      "selection": "AWAY",
+      "team": "CD Universidad San Martin",
+      "score": "0:1",
+      "minute": "19'",
+      "odds_before": 4.2,
+      "odds_now": 2.1,
+      "change_percent": -50.0,
+      "statistics_assessment": {
+        "status": "SUPPORTED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 1.0,
+            "opponent": 0.0
+          },
+          "dangerousAttacks": {
+            "selected": 5.0,
+            "opponent": 2.0
+          },
+          "corners": {
+            "selected": 1.0,
+            "opponent": 0.0
+          }
+        },
+        "advantage_count": 3,
+        "disadvantage_count": 0
       }
     }
   ]
