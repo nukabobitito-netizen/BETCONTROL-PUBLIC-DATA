@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-11-22T00:35:55.260738+00:00",
+  "created_at": "2026-11-22T01:51:28.714588+00:00",
   "events": {
     "203962873": {
       "eventId": "203962873",
@@ -16541,6 +16541,158 @@
         "AWAY": {
           "baseline": 4.2,
           "recorded_at": "2026-11-22T00:35:55.260738+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205033821": {
+      "eventId": "205033821",
+      "sport": "soccer",
+      "home": "Adamas United SA",
+      "away": "Calcutta Port Trust",
+      "startTime": "2026-11-22T08:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.375,
+          "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.7,
+          "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205033815": {
+      "eventId": "205033815",
+      "sport": "soccer",
+      "home": "BNR Recreation Club",
+      "away": "Barisha SC",
+      "startTime": "2026-11-22T08:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.95,
+          "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 3.6,
+          "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204296036": {
+      "eventId": "204296036",
+      "sport": "soccer",
+      "home": "Instituto AC Cordoba",
+      "away": "Huracan",
+      "startTime": "2026-11-23T01:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.0,
+          "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 4.5,
+          "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204842924": {
+      "eventId": "204842924",
+      "sport": "soccer",
+      "home": "Diriangen",
+      "away": "Managua FC",
+      "startTime": "2026-11-23T01:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.5,
+          "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.45,
+          "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "203962880": {
+      "eventId": "203962880",
+      "sport": "soccer",
+      "home": "Queretaro",
+      "away": "Necaxa",
+      "startTime": "2026-11-23T01:10:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.0,
+          "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 3.2,
+          "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204836252": {
+      "eventId": "204836252",
+      "sport": "soccer",
+      "home": "Marquense",
+      "away": "Aurora",
+      "startTime": "2026-11-23T01:10:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.7,
+          "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 4.3333,
+          "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204842772": {
+      "eventId": "204842772",
+      "sport": "soccer",
+      "home": "Juticalpa",
+      "away": "Olancho FC",
+      "startTime": "2026-11-23T01:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 6.0,
+          "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.42,
+          "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204931375": {
+      "eventId": "204931375",
+      "sport": "soccer",
+      "home": "Vancouver Whitecaps",
+      "away": "Real Salt Lake",
+      "startTime": "2026-11-23T01:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.45,
+          "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 5.75,
+          "recorded_at": "2026-11-22T01:51:28.714588+00:00",
           "price_source": "selection.odds"
         }
       }
@@ -35696,6 +35848,182 @@
       "selection": "AWAY",
       "baseline": 4.2,
       "recorded_at": "2026-11-22T00:35:55.260738+00:00",
+      "price_source": "selection.odds"
+    },
+    "205033821:HOME": {
+      "eventId": "205033821",
+      "sport": "soccer",
+      "home": "Adamas United SA",
+      "away": "Calcutta Port Trust",
+      "startTime": "2026-11-22T08:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.375,
+      "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+      "price_source": "selection.odds"
+    },
+    "205033821:AWAY": {
+      "eventId": "205033821",
+      "sport": "soccer",
+      "home": "Adamas United SA",
+      "away": "Calcutta Port Trust",
+      "startTime": "2026-11-22T08:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.7,
+      "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+      "price_source": "selection.odds"
+    },
+    "205033815:HOME": {
+      "eventId": "205033815",
+      "sport": "soccer",
+      "home": "BNR Recreation Club",
+      "away": "Barisha SC",
+      "startTime": "2026-11-22T08:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.95,
+      "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+      "price_source": "selection.odds"
+    },
+    "205033815:AWAY": {
+      "eventId": "205033815",
+      "sport": "soccer",
+      "home": "BNR Recreation Club",
+      "away": "Barisha SC",
+      "startTime": "2026-11-22T08:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 3.6,
+      "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+      "price_source": "selection.odds"
+    },
+    "204296036:HOME": {
+      "eventId": "204296036",
+      "sport": "soccer",
+      "home": "Instituto AC Cordoba",
+      "away": "Huracan",
+      "startTime": "2026-11-23T01:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.0,
+      "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+      "price_source": "selection.odds"
+    },
+    "204296036:AWAY": {
+      "eventId": "204296036",
+      "sport": "soccer",
+      "home": "Instituto AC Cordoba",
+      "away": "Huracan",
+      "startTime": "2026-11-23T01:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 4.5,
+      "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+      "price_source": "selection.odds"
+    },
+    "204842924:HOME": {
+      "eventId": "204842924",
+      "sport": "soccer",
+      "home": "Diriangen",
+      "away": "Managua FC",
+      "startTime": "2026-11-23T01:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.5,
+      "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+      "price_source": "selection.odds"
+    },
+    "204842924:AWAY": {
+      "eventId": "204842924",
+      "sport": "soccer",
+      "home": "Diriangen",
+      "away": "Managua FC",
+      "startTime": "2026-11-23T01:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.45,
+      "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+      "price_source": "selection.odds"
+    },
+    "203962880:HOME": {
+      "eventId": "203962880",
+      "sport": "soccer",
+      "home": "Queretaro",
+      "away": "Necaxa",
+      "startTime": "2026-11-23T01:10:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.0,
+      "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+      "price_source": "selection.odds"
+    },
+    "203962880:AWAY": {
+      "eventId": "203962880",
+      "sport": "soccer",
+      "home": "Queretaro",
+      "away": "Necaxa",
+      "startTime": "2026-11-23T01:10:00+00:00",
+      "selection": "AWAY",
+      "baseline": 3.2,
+      "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+      "price_source": "selection.odds"
+    },
+    "204836252:HOME": {
+      "eventId": "204836252",
+      "sport": "soccer",
+      "home": "Marquense",
+      "away": "Aurora",
+      "startTime": "2026-11-23T01:10:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.7,
+      "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+      "price_source": "selection.odds"
+    },
+    "204836252:AWAY": {
+      "eventId": "204836252",
+      "sport": "soccer",
+      "home": "Marquense",
+      "away": "Aurora",
+      "startTime": "2026-11-23T01:10:00+00:00",
+      "selection": "AWAY",
+      "baseline": 4.3333,
+      "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+      "price_source": "selection.odds"
+    },
+    "204842772:HOME": {
+      "eventId": "204842772",
+      "sport": "soccer",
+      "home": "Juticalpa",
+      "away": "Olancho FC",
+      "startTime": "2026-11-23T01:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 6.0,
+      "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+      "price_source": "selection.odds"
+    },
+    "204842772:AWAY": {
+      "eventId": "204842772",
+      "sport": "soccer",
+      "home": "Juticalpa",
+      "away": "Olancho FC",
+      "startTime": "2026-11-23T01:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.42,
+      "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+      "price_source": "selection.odds"
+    },
+    "204931375:HOME": {
+      "eventId": "204931375",
+      "sport": "soccer",
+      "home": "Vancouver Whitecaps",
+      "away": "Real Salt Lake",
+      "startTime": "2026-11-23T01:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.45,
+      "recorded_at": "2026-11-22T01:51:28.714588+00:00",
+      "price_source": "selection.odds"
+    },
+    "204931375:AWAY": {
+      "eventId": "204931375",
+      "sport": "soccer",
+      "home": "Vancouver Whitecaps",
+      "away": "Real Salt Lake",
+      "startTime": "2026-11-23T01:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 5.75,
+      "recorded_at": "2026-11-22T01:51:28.714588+00:00",
       "price_source": "selection.odds"
     }
   }
