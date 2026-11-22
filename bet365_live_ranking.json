@@ -1,10 +1,43 @@
 {
-  "updated_at": "2026-11-22T20:40:18.813535+00:00",
+  "updated_at": "2026-11-22T20:45:13.083334+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
   "drops": [
+    {
+      "eventId": "203963407",
+      "sport": "Piłka nożna",
+      "competition": "Ecuador LigaPro Serie A",
+      "home": "Orense",
+      "away": "Mushuc Runa",
+      "selection": "AWAY",
+      "team": "Mushuc Runa",
+      "score": "2:3",
+      "minute": "77'",
+      "odds_before": 4.75,
+      "odds_now": 1.4444,
+      "change_percent": -69.59,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 3.0,
+            "opponent": 4.0
+          },
+          "dangerousAttacks": {
+            "selected": 11.0,
+            "opponent": 39.0
+          },
+          "corners": {
+            "selected": 1.0,
+            "opponent": 8.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 3
+      }
+    },
     {
       "eventId": "204986187",
       "sport": "Piłka nożna",
@@ -14,7 +47,7 @@
       "selection": "HOME",
       "team": "Broki",
       "score": "1:0",
-      "minute": "45'",
+      "minute": "47'",
       "odds_before": 5.75,
       "odds_now": 1.8333,
       "change_percent": -68.12,
@@ -39,39 +72,6 @@
       }
     },
     {
-      "eventId": "203963407",
-      "sport": "Piłka nożna",
-      "competition": "Ecuador LigaPro Serie A",
-      "home": "Orense",
-      "away": "Mushuc Runa",
-      "selection": "AWAY",
-      "team": "Mushuc Runa",
-      "score": "2:3",
-      "minute": "72'",
-      "odds_before": 4.75,
-      "odds_now": 1.5333,
-      "change_percent": -67.72,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 3.0,
-            "opponent": 4.0
-          },
-          "dangerousAttacks": {
-            "selected": 11.0,
-            "opponent": 34.0
-          },
-          "corners": {
-            "selected": 1.0,
-            "opponent": 8.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 3
-      }
-    },
-    {
       "eventId": "204722567",
       "sport": "Piłka nożna",
       "competition": "Portugal Cup",
@@ -80,10 +80,10 @@
       "selection": "AWAY",
       "team": "Leca",
       "score": "0:1",
-      "minute": "46'",
+      "minute": "51'",
       "odds_before": 6.0,
-      "odds_now": 2.25,
-      "change_percent": -62.5,
+      "odds_now": 2.1,
+      "change_percent": -65.0,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -92,8 +92,8 @@
             "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 12.0,
-            "opponent": 39.0
+            "selected": 14.0,
+            "opponent": 41.0
           },
           "corners": {
             "selected": 0.0,
@@ -113,7 +113,7 @@
       "selection": "AWAY",
       "team": "CD Universidad San Martin",
       "score": "0:1",
-      "minute": "39'",
+      "minute": "44'",
       "odds_before": 4.2,
       "odds_now": 1.9091,
       "change_percent": -54.55,
@@ -125,12 +125,12 @@
             "opponent": 0.0
           },
           "dangerousAttacks": {
-            "selected": 8.0,
-            "opponent": 13.0
+            "selected": 10.0,
+            "opponent": 18.0
           },
           "corners": {
-            "selected": 1.0,
-            "opponent": 1.0
+            "selected": 2.0,
+            "opponent": 2.0
           }
         },
         "advantage_count": 1,
