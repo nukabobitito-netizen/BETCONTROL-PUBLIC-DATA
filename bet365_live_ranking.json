@@ -1,24 +1,10 @@
 {
-  "updated_at": "2026-11-22T00:05:12.158987+00:00",
+  "updated_at": "2026-11-22T00:10:14.235785+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 40.0,
   "drop_method": "odds_premium_above_one",
   "underdog_only": true,
   "drops": [
-    {
-      "eventId": "204987356",
-      "sport": "Tenis",
-      "competition": "UTR Pro Newport Beach",
-      "home": "Antreas Djakouris",
-      "away": "Mattias Southcombe",
-      "selection": "AWAY",
-      "team": "Mattias Southcombe",
-      "score": "Brak danych",
-      "minute": "Brak danych",
-      "odds_before": 2.25,
-      "odds_now": 1.05,
-      "change_percent": -96.0
-    },
     {
       "eventId": "204856747",
       "sport": "Piłka nożna",
@@ -32,20 +18,6 @@
       "odds_before": 3.3,
       "odds_now": 1.125,
       "change_percent": -94.57
-    },
-    {
-      "eventId": "204608222",
-      "sport": "Piłka ręczna",
-      "competition": "Argentina LHC Oro Clausura",
-      "home": "Velez Sarsfield",
-      "away": "Vicente Lopez",
-      "selection": "AWAY",
-      "team": "Vicente Lopez",
-      "score": "8:11",
-      "minute": "Brak danych",
-      "odds_before": 4.25,
-      "odds_now": 1.33,
-      "change_percent": -89.85
     },
     {
       "eventId": "204331007",
@@ -62,6 +34,20 @@
       "change_percent": -87.3
     },
     {
+      "eventId": "204608222",
+      "sport": "Piłka ręczna",
+      "competition": "Argentina LHC Oro Clausura",
+      "home": "Velez Sarsfield",
+      "away": "Vicente Lopez",
+      "selection": "AWAY",
+      "team": "Vicente Lopez",
+      "score": "9:11",
+      "minute": "Brak danych",
+      "odds_before": 4.25,
+      "odds_now": 1.42,
+      "change_percent": -87.08
+    },
+    {
       "eventId": "203962871",
       "sport": "Piłka nożna",
       "competition": "Mexico Liga MX",
@@ -70,24 +56,24 @@
       "selection": "AWAY",
       "team": "Leon",
       "score": "0:1",
-      "minute": "45'",
+      "minute": "48'",
       "odds_before": 2.65,
-      "odds_now": 1.25,
-      "change_percent": -84.85
+      "odds_now": 1.2222,
+      "change_percent": -86.53
     },
     {
-      "eventId": "204967910",
-      "sport": "baseball",
-      "competition": "Venezuela Liga Professional",
-      "home": "Caribes de Anzoátegui",
-      "away": "Tigres de Aragua",
+      "eventId": "204987357",
+      "sport": "Tenis",
+      "competition": "UTR Pro Newport Beach",
+      "home": "Sander Juuhl Sivertsen",
+      "away": "Tygen Goldammer",
       "selection": "HOME",
-      "team": "Caribes de Anzoátegui",
-      "score": "11:8",
+      "team": "Sander Juuhl Sivertsen",
+      "score": "Brak danych",
       "minute": "Brak danych",
-      "odds_before": 1.8696,
-      "odds_now": 1.1333,
-      "change_percent": -84.67
+      "odds_before": 2.5,
+      "odds_now": 1.3,
+      "change_percent": -80.0
     },
     {
       "eventId": "204987358",
@@ -100,8 +86,50 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 4.0,
-      "odds_now": 1.6667,
-      "change_percent": -77.78
+      "odds_now": 1.7,
+      "change_percent": -76.67
+    },
+    {
+      "eventId": "203963327",
+      "sport": "Piłka nożna",
+      "competition": "Chile Liga de Primera",
+      "home": "Universidad de Concepcion",
+      "away": "Nublense",
+      "selection": "AWAY",
+      "team": "Nublense",
+      "score": "1:2",
+      "minute": "39'",
+      "odds_before": 3.1,
+      "odds_now": 1.5333,
+      "change_percent": -74.6
+    },
+    {
+      "eventId": "203962868",
+      "sport": "Piłka nożna",
+      "competition": "Mexico Liga MX",
+      "home": "Pachuca",
+      "away": "Toluca",
+      "selection": "HOME",
+      "team": "Pachuca",
+      "score": "1:0",
+      "minute": "57'",
+      "odds_before": 2.5,
+      "odds_now": 1.4,
+      "change_percent": -73.33
+    },
+    {
+      "eventId": "204994486",
+      "sport": "Tenis",
+      "competition": "Challenger Playford",
+      "home": "Jesse Delaney",
+      "away": "Chase Ferguson",
+      "selection": "HOME",
+      "team": "Jesse Delaney",
+      "score": "4:3",
+      "minute": "Brak danych",
+      "odds_before": 4.3333,
+      "odds_now": 2.05,
+      "change_percent": -68.5
     },
     {
       "eventId": "204994479",
@@ -114,64 +142,8 @@
       "score": "5:2",
       "minute": "Brak danych",
       "odds_before": 2.25,
-      "odds_now": 1.3333,
-      "change_percent": -73.34
-    },
-    {
-      "eventId": "203962868",
-      "sport": "Piłka nożna",
-      "competition": "Mexico Liga MX",
-      "home": "Pachuca",
-      "away": "Toluca",
-      "selection": "HOME",
-      "team": "Pachuca",
-      "score": "1:0",
-      "minute": "52'",
-      "odds_before": 2.5,
-      "odds_now": 1.4444,
-      "change_percent": -70.37
-    },
-    {
-      "eventId": "203963327",
-      "sport": "Piłka nożna",
-      "competition": "Chile Liga de Primera",
-      "home": "Universidad de Concepcion",
-      "away": "Nublense",
-      "selection": "AWAY",
-      "team": "Nublense",
-      "score": "1:2",
-      "minute": "33'",
-      "odds_before": 3.1,
-      "odds_now": 1.6667,
-      "change_percent": -68.25
-    },
-    {
-      "eventId": "204979487",
-      "sport": "Tenis",
-      "competition": "M15 Santa Cruz MD",
-      "home": "Braga/de Krom",
-      "away": "Cuellar Lorberg/Suarez",
-      "selection": "AWAY",
-      "team": "Cuellar Lorberg/Suarez",
-      "score": "1:4",
-      "minute": "Brak danych",
-      "odds_before": 3.25,
-      "odds_now": 1.8,
-      "change_percent": -64.44
-    },
-    {
-      "eventId": "204994486",
-      "sport": "Tenis",
-      "competition": "Challenger Playford",
-      "home": "Jesse Delaney",
-      "away": "Chase Ferguson",
-      "selection": "HOME",
-      "team": "Jesse Delaney",
-      "score": "3:2",
-      "minute": "Brak danych",
-      "odds_before": 4.3333,
-      "odds_now": 2.2,
-      "change_percent": -64.0
+      "odds_now": 1.4,
+      "change_percent": -68.0
     },
     {
       "eventId": "204750066",
@@ -186,6 +158,48 @@
       "odds_before": 7.0,
       "odds_now": 3.4,
       "change_percent": -60.0
+    },
+    {
+      "eventId": "204979487",
+      "sport": "Tenis",
+      "competition": "M15 Santa Cruz MD",
+      "home": "Braga/de Krom",
+      "away": "Cuellar Lorberg/Suarez",
+      "selection": "AWAY",
+      "team": "Cuellar Lorberg/Suarez",
+      "score": "3:4",
+      "minute": "Brak danych",
+      "odds_before": 3.25,
+      "odds_now": 2.0,
+      "change_percent": -55.56
+    },
+    {
+      "eventId": "204986064",
+      "sport": "Tenis",
+      "competition": "UTR Pro Newport Beach Women",
+      "home": "Elena Goodman",
+      "away": "Eduarda Piai",
+      "selection": "HOME",
+      "team": "Elena Goodman",
+      "score": "Brak danych",
+      "minute": "Brak danych",
+      "odds_before": 2.375,
+      "odds_now": 1.8,
+      "change_percent": -41.82
+    },
+    {
+      "eventId": "204896866",
+      "sport": "Siatkówka",
+      "competition": "Mexico LVP",
+      "home": "Daneses Dorados Morelos",
+      "away": "Tapatios de Jalisco",
+      "selection": "HOME",
+      "team": "Daneses Dorados Morelos",
+      "score": "10:8",
+      "minute": "Brak danych",
+      "odds_before": 3.75,
+      "odds_now": 2.625,
+      "change_percent": -40.91
     }
   ]
 }
