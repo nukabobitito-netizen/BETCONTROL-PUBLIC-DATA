@@ -1,24 +1,10 @@
 {
-  "updated_at": "2026-11-22T00:55:14.380536+00:00",
+  "updated_at": "2026-11-22T01:00:18.747783+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 40.0,
   "drop_method": "odds_premium_above_one",
   "underdog_only": true,
   "drops": [
-    {
-      "eventId": "203962871",
-      "sport": "Piłka nożna",
-      "competition": "Mexico Liga MX",
-      "home": "Santos Laguna",
-      "away": "Leon",
-      "selection": "AWAY",
-      "team": "Leon",
-      "score": "1:2",
-      "minute": "93'",
-      "odds_before": 2.65,
-      "odds_now": 1.0152,
-      "change_percent": -99.08
-    },
     {
       "eventId": "204986064",
       "sport": "Tenis",
@@ -30,22 +16,22 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 2.375,
-      "odds_now": 1.04,
-      "change_percent": -97.09
+      "odds_now": 1.01,
+      "change_percent": -99.27
     },
     {
-      "eventId": "204943411",
-      "sport": "Siatkówka",
-      "competition": "Uruguay Clausura Primera",
-      "home": "CBR",
-      "away": "Parada 6",
-      "selection": "HOME",
-      "team": "CBR",
-      "score": "0:0",
-      "minute": "Brak danych",
-      "odds_before": 2.2,
-      "odds_now": 1.125,
-      "change_percent": -89.58
+      "eventId": "203963327",
+      "sport": "Piłka nożna",
+      "competition": "Chile Liga de Primera",
+      "home": "Universidad de Concepcion",
+      "away": "Nublense",
+      "selection": "AWAY",
+      "team": "Nublense",
+      "score": "1:3",
+      "minute": "69'",
+      "odds_before": 3.1,
+      "odds_now": 1.0357,
+      "change_percent": -98.3
     },
     {
       "eventId": "204960488",
@@ -62,18 +48,18 @@
       "change_percent": -84.13
     },
     {
-      "eventId": "204967910",
-      "sport": "baseball",
-      "competition": "Venezuela Liga Professional",
-      "home": "Caribes de Anzoátegui",
-      "away": "Tigres de Aragua",
+      "eventId": "204943411",
+      "sport": "Siatkówka",
+      "competition": "Uruguay Clausura Primera",
+      "home": "CBR",
+      "away": "Parada 6",
       "selection": "HOME",
-      "team": "Caribes de Anzoátegui",
-      "score": "13:13",
+      "team": "CBR",
+      "score": "2:5",
       "minute": "Brak danych",
-      "odds_before": 1.8696,
-      "odds_now": 1.1429,
-      "change_percent": -83.57
+      "odds_before": 2.2,
+      "odds_now": 1.2222,
+      "change_percent": -81.48
     },
     {
       "eventId": "204965687",
@@ -83,11 +69,11 @@
       "away": "Universitario de Deportes (W)",
       "selection": "HOME",
       "team": "Circolo (W)",
-      "score": "1:3",
+      "score": "7:7",
       "minute": "Brak danych",
       "odds_before": 7.0,
-      "odds_now": 2.625,
-      "change_percent": -72.92
+      "odds_now": 2.25,
+      "change_percent": -79.17
     },
     {
       "eventId": "204967915",
@@ -102,6 +88,48 @@
       "odds_before": 1.9524,
       "odds_now": 1.3125,
       "change_percent": -67.19
+    },
+    {
+      "eventId": "204601344",
+      "sport": "Koszykówka",
+      "competition": "Argentina Liga Nacional",
+      "home": "La Union Formosa",
+      "away": "Independiente de Oliva",
+      "selection": "AWAY",
+      "team": "Independiente de Oliva",
+      "score": "Brak danych",
+      "minute": "Brak danych",
+      "odds_before": 2.12,
+      "odds_now": 1.3704,
+      "change_percent": -66.93
+    },
+    {
+      "eventId": "204941934",
+      "sport": "Koszykówka",
+      "competition": "Colombia Liga",
+      "home": "Paisas",
+      "away": "Toros del Valle",
+      "selection": "AWAY",
+      "team": "Toros del Valle",
+      "score": "Brak danych",
+      "minute": "Brak danych",
+      "odds_before": 2.25,
+      "odds_now": 1.4762,
+      "change_percent": -61.9
+    },
+    {
+      "eventId": "204986008",
+      "sport": "Tenis",
+      "competition": "W75 Sydney",
+      "home": "Olivia Gadecki",
+      "away": "Joanna Garland",
+      "selection": "HOME",
+      "team": "Olivia Gadecki",
+      "score": "5:5",
+      "minute": "Brak danych",
+      "odds_before": 3.0,
+      "odds_now": 1.8,
+      "change_percent": -60.0
     },
     {
       "eventId": "204960467",
@@ -146,32 +174,18 @@
       "change_percent": -51.51
     },
     {
-      "eventId": "204601344",
-      "sport": "Koszykówka",
-      "competition": "Argentina Liga Nacional",
-      "home": "La Union Formosa",
-      "away": "Independiente de Oliva",
-      "selection": "AWAY",
-      "team": "Independiente de Oliva",
-      "score": "22:29",
-      "minute": "Brak danych",
-      "odds_before": 2.12,
-      "odds_now": 1.5556,
-      "change_percent": -50.39
-    },
-    {
-      "eventId": "204987361",
+      "eventId": "204986067",
       "sport": "Tenis",
-      "competition": "UTR Pro Newport Beach",
-      "home": "Oskar Grzegorzewski",
-      "away": "Max K Fardanesh",
-      "selection": "HOME",
-      "team": "Oskar Grzegorzewski",
-      "score": "3:2",
+      "competition": "UTR Pro Newport Beach Women",
+      "home": "Tia Messerli",
+      "away": "Ruby Ward",
+      "selection": "AWAY",
+      "team": "Ruby Ward",
+      "score": "0:2",
       "minute": "Brak danych",
-      "odds_before": 2.0,
-      "odds_now": 1.5,
-      "change_percent": -50.0
+      "odds_before": 2.625,
+      "odds_now": 1.95,
+      "change_percent": -41.54
     }
   ]
 }
