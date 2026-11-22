@@ -1,10 +1,24 @@
 {
-  "updated_at": "2026-11-22T00:40:17.723255+00:00",
+  "updated_at": "2026-11-22T00:45:12.870597+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 40.0,
   "drop_method": "odds_premium_above_one",
   "underdog_only": true,
   "drops": [
+    {
+      "eventId": "204967910",
+      "sport": "baseball",
+      "competition": "Venezuela Liga Professional",
+      "home": "Caribes de Anzoátegui",
+      "away": "Tigres de Aragua",
+      "selection": "HOME",
+      "team": "Caribes de Anzoátegui",
+      "score": "13:11",
+      "minute": "Brak danych",
+      "odds_before": 1.8696,
+      "odds_now": 1.0769,
+      "change_percent": -91.16
+    },
     {
       "eventId": "204986064",
       "sport": "Tenis",
@@ -16,8 +30,8 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 2.375,
-      "odds_now": 1.05,
-      "change_percent": -96.36
+      "odds_now": 1.125,
+      "change_percent": -90.91
     },
     {
       "eventId": "204856747",
@@ -28,10 +42,10 @@
       "selection": "AWAY",
       "team": "Atletico ECCA",
       "score": "1:2",
-      "minute": "73'",
+      "minute": "78'",
       "odds_before": 3.3,
-      "odds_now": 1.3333,
-      "change_percent": -85.51
+      "odds_now": 1.25,
+      "change_percent": -89.13
     },
     {
       "eventId": "203963327",
@@ -42,10 +56,24 @@
       "selection": "AWAY",
       "team": "Nublense",
       "score": "1:2",
-      "minute": "49'",
+      "minute": "54'",
       "odds_before": 3.1,
-      "odds_now": 1.4444,
-      "change_percent": -78.84
+      "odds_now": 1.4,
+      "change_percent": -80.95
+    },
+    {
+      "eventId": "204896866",
+      "sport": "Siatkówka",
+      "competition": "Mexico LVP",
+      "home": "Daneses Dorados Morelos",
+      "away": "Tapatios de Jalisco",
+      "selection": "HOME",
+      "team": "Daneses Dorados Morelos",
+      "score": "14:13",
+      "minute": "Brak danych",
+      "odds_before": 3.75,
+      "odds_now": 1.6667,
+      "change_percent": -75.76
     },
     {
       "eventId": "204960467",
@@ -58,36 +86,22 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 2.6,
-      "odds_now": 1.3571,
-      "change_percent": -77.68
+      "odds_now": 1.4,
+      "change_percent": -75.0
     },
     {
-      "eventId": "204896866",
+      "eventId": "204965687",
       "sport": "Siatkówka",
-      "competition": "Mexico LVP",
-      "home": "Daneses Dorados Morelos",
-      "away": "Tapatios de Jalisco",
+      "competition": "Peru League Women",
+      "home": "Circolo (W)",
+      "away": "Universitario de Deportes (W)",
       "selection": "HOME",
-      "team": "Daneses Dorados Morelos",
-      "score": "9:8",
+      "team": "Circolo (W)",
+      "score": "21:17",
       "minute": "Brak danych",
-      "odds_before": 3.75,
-      "odds_now": 1.7273,
-      "change_percent": -73.55
-    },
-    {
-      "eventId": "204987357",
-      "sport": "Tenis",
-      "competition": "UTR Pro Newport Beach",
-      "home": "Sander Juuhl Sivertsen",
-      "away": "Tygen Goldammer",
-      "selection": "HOME",
-      "team": "Sander Juuhl Sivertsen",
-      "score": "Brak danych",
-      "minute": "Brak danych",
-      "odds_before": 2.5,
-      "odds_now": 1.5714,
-      "change_percent": -61.91
+      "odds_before": 7.0,
+      "odds_now": 3.25,
+      "change_percent": -62.5
     },
     {
       "eventId": "204941934",
@@ -100,8 +114,36 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 2.25,
-      "odds_now": 1.5263,
-      "change_percent": -57.9
+      "odds_now": 1.4762,
+      "change_percent": -61.9
+    },
+    {
+      "eventId": "204601344",
+      "sport": "Koszykówka",
+      "competition": "Argentina Liga Nacional",
+      "home": "La Union Formosa",
+      "away": "Independiente de Oliva",
+      "selection": "AWAY",
+      "team": "Independiente de Oliva",
+      "score": "9:21",
+      "minute": "Brak danych",
+      "odds_before": 2.12,
+      "odds_now": 1.4348,
+      "change_percent": -61.18
+    },
+    {
+      "eventId": "204967915",
+      "sport": "baseball",
+      "competition": "Venezuela Liga Professional",
+      "home": "Leones del Caracas",
+      "away": "Navegantes del Magallanes",
+      "selection": "AWAY",
+      "team": "Navegantes del Magallanes",
+      "score": "0:1",
+      "minute": "Brak danych",
+      "odds_before": 1.9524,
+      "odds_now": 1.3704,
+      "change_percent": -61.11
     },
     {
       "eventId": "204841169",
@@ -112,24 +154,10 @@
       "selection": "HOME",
       "team": "Deportes Copiapo",
       "score": "1:0",
-      "minute": "39'",
+      "minute": "44'",
       "odds_before": 2.6,
       "odds_now": 1.7273,
       "change_percent": -54.54
-    },
-    {
-      "eventId": "204943411",
-      "sport": "Siatkówka",
-      "competition": "Uruguay Clausura Primera",
-      "home": "CBR",
-      "away": "Parada 6",
-      "selection": "HOME",
-      "team": "CBR",
-      "score": "12:13",
-      "minute": "Brak danych",
-      "odds_before": 2.2,
-      "odds_now": 1.6667,
-      "change_percent": -44.44
     },
     {
       "eventId": "204960488",
@@ -142,8 +170,8 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 3.8,
-      "odds_now": 2.6,
-      "change_percent": -42.86
+      "odds_now": 2.5,
+      "change_percent": -46.43
     }
   ]
 }
