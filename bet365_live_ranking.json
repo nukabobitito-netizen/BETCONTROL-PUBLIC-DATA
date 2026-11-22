@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T05:45:14.397207+00:00",
+  "updated_at": "2026-11-22T05:50:16.200930+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "AWAY",
       "team": "YSCC",
       "score": "0:1",
-      "minute": "44'",
+      "minute": "45'",
       "odds_before": 3.6,
-      "odds_now": 1.5,
-      "change_percent": -58.33
+      "odds_now": 1.4444,
+      "change_percent": -59.88
     }
   ]
 }
