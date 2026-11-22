@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T17:10:15.940180+00:00",
+  "updated_at": "2026-11-22T17:15:15.024575+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,7 +14,7 @@
       "selection": "AWAY",
       "team": "Madrid CFF (W)",
       "score": "0:2",
-      "minute": "46'",
+      "minute": "51'",
       "odds_before": 4.3333,
       "odds_now": 1.0357,
       "change_percent": -76.1,
@@ -26,12 +26,12 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 25.0,
-            "opponent": 17.0
+            "selected": 26.0,
+            "opponent": 20.0
           },
           "corners": {
-            "selected": 1.0,
-            "opponent": 1.0
+            "selected": 2.0,
+            "opponent": 2.0
           }
         },
         "advantage_count": 2,
@@ -47,10 +47,10 @@
       "selection": "AWAY",
       "team": "Pobla Mafumet",
       "score": "0:1",
-      "minute": "49'",
+      "minute": "54'",
       "odds_before": 4.75,
-      "odds_now": 1.7273,
-      "change_percent": -63.64,
+      "odds_now": 1.6667,
+      "change_percent": -64.91,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -59,45 +59,12 @@
             "opponent": 0.0
           },
           "dangerousAttacks": {
-            "selected": 35.0,
-            "opponent": 51.0
+            "selected": 37.0,
+            "opponent": 54.0
           },
           "corners": {
             "selected": 3.0,
             "opponent": 5.0
-          }
-        },
-        "advantage_count": 1,
-        "disadvantage_count": 2
-      }
-    },
-    {
-      "eventId": "204895468",
-      "sport": "Piłka nożna",
-      "competition": "Estonia Esiliiga Play-Offs",
-      "home": "JK Viljandi Tulevik",
-      "away": "FC Tallinn",
-      "selection": "HOME",
-      "team": "JK Viljandi Tulevik",
-      "score": "2:0",
-      "minute": "55'",
-      "odds_before": 3.3,
-      "odds_now": 1.2,
-      "change_percent": -63.64,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 3.0,
-            "opponent": 2.0
-          },
-          "dangerousAttacks": {
-            "selected": 26.0,
-            "opponent": 38.0
-          },
-          "corners": {
-            "selected": 1.0,
-            "opponent": 3.0
           }
         },
         "advantage_count": 1,
@@ -113,24 +80,24 @@
       "selection": "AWAY",
       "team": "Fortuna Sittard",
       "score": "0:1",
-      "minute": "66'",
+      "minute": "71'",
       "odds_before": 4.3333,
-      "odds_now": 1.6667,
-      "change_percent": -61.54,
+      "odds_now": 1.5714,
+      "change_percent": -63.74,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 1.0,
-            "opponent": 5.0
+            "opponent": 6.0
           },
           "dangerousAttacks": {
             "selected": 15.0,
-            "opponent": 49.0
+            "opponent": 54.0
           },
           "corners": {
             "selected": 1.0,
-            "opponent": 9.0
+            "opponent": 10.0
           }
         },
         "advantage_count": 0,
@@ -146,10 +113,10 @@
       "selection": "AWAY",
       "team": "Atletico Tordesillas",
       "score": "0:1",
-      "minute": "46'",
+      "minute": "51'",
       "odds_before": 5.0,
-      "odds_now": 1.9524,
-      "change_percent": -60.95,
+      "odds_now": 1.9091,
+      "change_percent": -61.82,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -158,8 +125,8 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 24.0,
-            "opponent": 44.0
+            "selected": 26.0,
+            "opponent": 50.0
           },
           "corners": {
             "selected": 1.0,
@@ -179,10 +146,10 @@
       "selection": "HOME",
       "team": "Botev Plovdiv",
       "score": "2:1",
-      "minute": "51'",
+      "minute": "55'",
       "odds_before": 5.25,
-      "odds_now": 2.1,
-      "change_percent": -60.0,
+      "odds_now": 2.05,
+      "change_percent": -60.95,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -191,16 +158,49 @@
             "opponent": 4.0
           },
           "dangerousAttacks": {
-            "selected": 30.0,
-            "opponent": 62.0
+            "selected": 31.0,
+            "opponent": 68.0
           },
           "corners": {
             "selected": 2.0,
-            "opponent": 4.0
+            "opponent": 5.0
           }
         },
         "advantage_count": 0,
         "disadvantage_count": 3
+      }
+    },
+    {
+      "eventId": "204455554",
+      "sport": "Piłka nożna",
+      "competition": "Spain Segunda Division RFEF Group 3",
+      "home": "Valencia Mestalla",
+      "away": "Alcoyano",
+      "selection": "AWAY",
+      "team": "Alcoyano",
+      "score": "0:1",
+      "minute": "15'",
+      "odds_before": 3.9,
+      "odds_now": 1.9091,
+      "change_percent": -51.05,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 1.0,
+            "opponent": 1.0
+          },
+          "dangerousAttacks": {
+            "selected": 7.0,
+            "opponent": 26.0
+          },
+          "corners": {
+            "selected": 0.0,
+            "opponent": 1.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 2
       }
     }
   ]
