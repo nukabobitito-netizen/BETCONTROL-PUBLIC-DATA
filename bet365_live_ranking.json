@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T12:05:14.355213+00:00",
+  "updated_at": "2026-11-22T12:10:13.613455+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "AWAY",
       "team": "Las Palmas B",
       "score": "0:2",
-      "minute": "46'",
+      "minute": "52'",
       "odds_before": 5.25,
-      "odds_now": 1.2222,
-      "change_percent": -76.72,
+      "odds_now": 1.2,
+      "change_percent": -77.14,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -26,8 +26,8 @@
             "opponent": 0.0
           },
           "dangerousAttacks": {
-            "selected": 27.0,
-            "opponent": 52.0
+            "selected": 31.0,
+            "opponent": 57.0
           },
           "corners": {
             "selected": 2.0,
@@ -47,10 +47,10 @@
       "selection": "AWAY",
       "team": "UD Tomares",
       "score": "0:2",
-      "minute": "48'",
+      "minute": "53'",
       "odds_before": 3.3,
-      "odds_now": 1.0625,
-      "change_percent": -67.8,
+      "odds_now": 1.0556,
+      "change_percent": -68.01,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
@@ -59,8 +59,8 @@
             "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 16.0,
-            "opponent": 15.0
+            "selected": 17.0,
+            "opponent": 16.0
           },
           "corners": {
             "selected": 3.0,
@@ -72,39 +72,6 @@
       }
     },
     {
-      "eventId": "204792014",
-      "sport": "Piłka nożna",
-      "competition": "North Macedonia First League",
-      "home": "Bregalnica Stip",
-      "away": "FC Struga Trim & Lum",
-      "selection": "HOME",
-      "team": "Bregalnica Stip",
-      "score": "1:0",
-      "minute": "47'",
-      "odds_before": 4.0,
-      "odds_now": 1.5,
-      "change_percent": -62.5,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 3.0,
-            "opponent": 1.0
-          },
-          "dangerousAttacks": {
-            "selected": 32.0,
-            "opponent": 35.0
-          },
-          "corners": {
-            "selected": 9.0,
-            "opponent": 2.0
-          }
-        },
-        "advantage_count": 2,
-        "disadvantage_count": 1
-      }
-    },
-    {
       "eventId": "203578644",
       "sport": "Piłka nożna",
       "competition": "Poland II Liga",
@@ -113,28 +80,28 @@
       "selection": "AWAY",
       "team": "Resovia Rzeszow",
       "score": "0:1",
-      "minute": "51'",
+      "minute": "57'",
       "odds_before": 4.0,
-      "odds_now": 1.8,
-      "change_percent": -55.0,
+      "odds_now": 1.6667,
+      "change_percent": -58.33,
       "statistics_assessment": {
-        "status": "AGAINST",
+        "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 4.0,
+            "selected": 5.0,
             "opponent": 4.0
           },
           "dangerousAttacks": {
-            "selected": 42.0,
-            "opponent": 43.0
+            "selected": 50.0,
+            "opponent": 48.0
           },
           "corners": {
             "selected": 4.0,
             "opponent": 7.0
           }
         },
-        "advantage_count": 0,
-        "disadvantage_count": 2
+        "advantage_count": 2,
+        "disadvantage_count": 1
       }
     },
     {
@@ -146,27 +113,27 @@
       "selection": "AWAY",
       "team": "CFJ Mollerussa",
       "score": "0:1",
-      "minute": "49'",
+      "minute": "54'",
       "odds_before": 3.8,
-      "odds_now": 1.7273,
-      "change_percent": -54.54,
+      "odds_now": 1.6667,
+      "change_percent": -56.14,
       "statistics_assessment": {
-        "status": "MIXED",
+        "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 1.0,
-            "opponent": 0.0
+            "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 14.0,
-            "opponent": 20.0
+            "selected": 15.0,
+            "opponent": 22.0
           },
           "corners": {
             "selected": 2.0,
-            "opponent": 3.0
+            "opponent": 5.0
           }
         },
-        "advantage_count": 1,
+        "advantage_count": 0,
         "disadvantage_count": 2
       }
     }
