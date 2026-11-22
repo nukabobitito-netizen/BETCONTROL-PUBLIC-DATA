@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T16:15:15.710937+00:00",
+  "updated_at": "2026-11-22T16:20:23.960789+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "HOME",
       "team": "Chabab Ben Guerir",
       "score": "2:0",
-      "minute": "53'",
+      "minute": "59'",
       "odds_before": 3.7,
-      "odds_now": 1.1,
-      "change_percent": -70.27,
+      "odds_now": 1.0833,
+      "change_percent": -70.72,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -26,12 +26,12 @@
             "opponent": 5.0
           },
           "dangerousAttacks": {
-            "selected": 17.0,
-            "opponent": 25.0
+            "selected": 19.0,
+            "opponent": 29.0
           },
           "corners": {
-            "selected": 1.0,
-            "opponent": 7.0
+            "selected": 2.0,
+            "opponent": 8.0
           }
         },
         "advantage_count": 0,
@@ -72,39 +72,6 @@
       }
     },
     {
-      "eventId": "204854406",
-      "sport": "Piłka nożna",
-      "competition": "Spain Tercera Group 16",
-      "home": "Cenicero",
-      "away": "CD Alfaro",
-      "selection": "HOME",
-      "team": "Cenicero",
-      "score": "1:0",
-      "minute": "45'",
-      "odds_before": 6.5,
-      "odds_now": 2.2,
-      "change_percent": -66.15,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 4.0,
-            "opponent": 5.0
-          },
-          "dangerousAttacks": {
-            "selected": 24.0,
-            "opponent": 26.0
-          },
-          "corners": {
-            "selected": 3.0,
-            "opponent": 0.0
-          }
-        },
-        "advantage_count": 1,
-        "disadvantage_count": 2
-      }
-    },
-    {
       "eventId": "204853020",
       "sport": "Piłka nożna",
       "competition": "Spain Tercera Group 6",
@@ -113,10 +80,10 @@
       "selection": "AWAY",
       "team": "CD Roda",
       "score": "0:1",
-      "minute": "43'",
+      "minute": "45'",
       "odds_before": 4.1,
-      "odds_now": 1.6154,
-      "change_percent": -60.6,
+      "odds_now": 1.5714,
+      "change_percent": -61.67,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -126,7 +93,7 @@
           },
           "dangerousAttacks": {
             "selected": 21.0,
-            "opponent": 30.0
+            "opponent": 34.0
           },
           "corners": {
             "selected": 2.0,
@@ -146,10 +113,10 @@
       "selection": "HOME",
       "team": "Karmiotissa",
       "score": "1:0",
-      "minute": "51'",
+      "minute": "57'",
       "odds_before": 5.25,
-      "odds_now": 2.1,
-      "change_percent": -60.0,
+      "odds_now": 2.05,
+      "change_percent": -60.95,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -158,12 +125,12 @@
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 18.0,
-            "opponent": 53.0
+            "selected": 20.0,
+            "opponent": 56.0
           },
           "corners": {
             "selected": 4.0,
-            "opponent": 6.0
+            "opponent": 7.0
           }
         },
         "advantage_count": 0,
@@ -179,10 +146,10 @@
       "selection": "HOME",
       "team": "UD Leiria U19",
       "score": "1:0",
-      "minute": "53'",
+      "minute": "59'",
       "odds_before": 3.2,
-      "odds_now": 1.5,
-      "change_percent": -53.12,
+      "odds_now": 1.4444,
+      "change_percent": -54.86,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -191,16 +158,49 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 34.0,
-            "opponent": 37.0
+            "selected": 37.0,
+            "opponent": 42.0
           },
           "corners": {
             "selected": 5.0,
-            "opponent": 2.0
+            "opponent": 4.0
           }
         },
         "advantage_count": 1,
         "disadvantage_count": 1
+      }
+    },
+    {
+      "eventId": "204789388",
+      "sport": "Piłka nożna",
+      "competition": "Spain Primera Women",
+      "home": "Tenerife (W)",
+      "away": "Madrid CFF (W)",
+      "selection": "AWAY",
+      "team": "Madrid CFF (W)",
+      "score": "0:0",
+      "minute": "20'",
+      "odds_before": 4.3333,
+      "odds_now": 2.05,
+      "change_percent": -52.69,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 0.0,
+            "opponent": 1.0
+          },
+          "dangerousAttacks": {
+            "selected": 4.0,
+            "opponent": 11.0
+          },
+          "corners": {
+            "selected": 0.0,
+            "opponent": 1.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 3
       }
     }
   ]
