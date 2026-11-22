@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T13:50:16.272612+00:00",
+  "updated_at": "2026-11-22T13:55:12.779462+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "AWAY",
       "team": "ASD Varesina",
       "score": "0:1",
-      "minute": "20'",
+      "minute": "25'",
       "odds_before": 4.3333,
-      "odds_now": 1.8333,
-      "change_percent": -57.69,
+      "odds_now": 1.8,
+      "change_percent": -58.46,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -26,8 +26,8 @@
             "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 20.0,
-            "opponent": 12.0
+            "selected": 22.0,
+            "opponent": 16.0
           },
           "corners": {
             "selected": 3.0,
