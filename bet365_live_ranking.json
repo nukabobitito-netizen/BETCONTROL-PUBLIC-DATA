@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T14:35:13.394950+00:00",
+  "updated_at": "2026-11-22T14:40:13.522318+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "AWAY",
       "team": "Galatina",
       "score": "0:1",
-      "minute": "51'",
+      "minute": "56'",
       "odds_before": 4.5,
-      "odds_now": 1.5714,
-      "change_percent": -65.08,
+      "odds_now": 1.5333,
+      "change_percent": -65.93,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -26,16 +26,49 @@
             "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 16.0,
-            "opponent": 22.0
+            "selected": 17.0,
+            "opponent": 26.0
           },
           "corners": {
             "selected": 1.0,
-            "opponent": 4.0
+            "opponent": 5.0
           }
         },
         "advantage_count": 0,
         "disadvantage_count": 3
+      }
+    },
+    {
+      "eventId": "204897182",
+      "sport": "Piłka nożna",
+      "competition": "France Division 1 Women",
+      "home": "Paris FC (W)",
+      "away": "FC Fleury 91 (W)",
+      "selection": "AWAY",
+      "team": "FC Fleury 91 (W)",
+      "score": "0:1",
+      "minute": "40'",
+      "odds_before": 6.0,
+      "odds_now": 2.2,
+      "change_percent": -63.33,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 3.0,
+            "opponent": 1.0
+          },
+          "dangerousAttacks": {
+            "selected": 10.0,
+            "opponent": 20.0
+          },
+          "corners": {
+            "selected": 2.0,
+            "opponent": 0.0
+          }
+        },
+        "advantage_count": 2,
+        "disadvantage_count": 1
       }
     },
     {
@@ -47,10 +80,10 @@
       "selection": "AWAY",
       "team": "Como 1907 (W)",
       "score": "0:2",
-      "minute": "33'",
+      "minute": "38'",
       "odds_before": 3.4,
-      "odds_now": 1.2857,
-      "change_percent": -62.19,
+      "odds_now": 1.25,
+      "change_percent": -63.24,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -59,12 +92,12 @@
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 19.0,
-            "opponent": 24.0
+            "selected": 21.0,
+            "opponent": 26.0
           },
           "corners": {
             "selected": 4.0,
-            "opponent": 2.0
+            "opponent": 3.0
           }
         },
         "advantage_count": 2,
@@ -80,10 +113,10 @@
       "selection": "AWAY",
       "team": "GSD Ghiviborgo VDS",
       "score": "0:1",
-      "minute": "45'",
+      "minute": "50'",
       "odds_before": 4.2,
-      "odds_now": 1.6154,
-      "change_percent": -61.54,
+      "odds_now": 1.5714,
+      "change_percent": -62.59,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
@@ -92,15 +125,15 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 35.0,
-            "opponent": 22.0
+            "selected": 39.0,
+            "opponent": 26.0
           },
           "corners": {
             "selected": 4.0,
-            "opponent": 3.0
+            "opponent": 4.0
           }
         },
-        "advantage_count": 3,
+        "advantage_count": 2,
         "disadvantage_count": 0
       }
     },
@@ -113,10 +146,10 @@
       "selection": "AWAY",
       "team": "Bragantino (W)",
       "score": "0:1",
-      "minute": "34'",
+      "minute": "39'",
       "odds_before": 6.0,
-      "odds_now": 2.375,
-      "change_percent": -60.42,
+      "odds_now": 2.3,
+      "change_percent": -61.67,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -126,7 +159,7 @@
           },
           "dangerousAttacks": {
             "selected": 14.0,
-            "opponent": 23.0
+            "opponent": 29.0
           },
           "corners": {
             "selected": 2.0,
@@ -134,6 +167,39 @@
           }
         },
         "advantage_count": 0,
+        "disadvantage_count": 2
+      }
+    },
+    {
+      "eventId": "203964959",
+      "sport": "Piłka nożna",
+      "competition": "Italy Serie C Group B",
+      "home": "Torres",
+      "away": "Spezia",
+      "selection": "HOME",
+      "team": "Torres",
+      "score": "1:0",
+      "minute": "50'",
+      "odds_before": 4.3333,
+      "odds_now": 1.7273,
+      "change_percent": -60.14,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 1.0,
+            "opponent": 3.0
+          },
+          "dangerousAttacks": {
+            "selected": 27.0,
+            "opponent": 28.0
+          },
+          "corners": {
+            "selected": 3.0,
+            "opponent": 2.0
+          }
+        },
+        "advantage_count": 1,
         "disadvantage_count": 2
       }
     },
@@ -146,10 +212,10 @@
       "selection": "HOME",
       "team": "Charlton (W)",
       "score": "1:0",
-      "minute": "35'",
+      "minute": "40'",
       "odds_before": 4.5,
-      "odds_now": 1.8333,
-      "change_percent": -59.26,
+      "odds_now": 1.8,
+      "change_percent": -60.0,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -163,44 +229,11 @@
           },
           "corners": {
             "selected": 1.0,
-            "opponent": 1.0
+            "opponent": 2.0
           }
         },
         "advantage_count": 1,
-        "disadvantage_count": 0
-      }
-    },
-    {
-      "eventId": "204781636",
-      "sport": "Piłka nożna",
-      "competition": "England League Cup Women",
-      "home": "Newcastle (W)",
-      "away": "Nottm Forest (W)",
-      "selection": "AWAY",
-      "team": "Nottm Forest (W)",
-      "score": "0:2",
-      "minute": "34'",
-      "odds_before": 3.4,
-      "odds_now": 1.4,
-      "change_percent": -58.82,
-      "statistics_assessment": {
-        "status": "SUPPORTED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 1.0
-          },
-          "dangerousAttacks": {
-            "selected": 31.0,
-            "opponent": 26.0
-          },
-          "corners": {
-            "selected": 0.0,
-            "opponent": 0.0
-          }
-        },
-        "advantage_count": 2,
-        "disadvantage_count": 0
+        "disadvantage_count": 1
       }
     },
     {
@@ -212,12 +245,12 @@
       "selection": "HOME",
       "team": "Scandicci",
       "score": "1:0",
-      "minute": "50'",
+      "minute": "55'",
       "odds_before": 4.5,
-      "odds_now": 1.9091,
-      "change_percent": -57.58,
+      "odds_now": 1.8,
+      "change_percent": -60.0,
       "statistics_assessment": {
-        "status": "MIXED",
+        "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 1.0,
@@ -225,15 +258,48 @@
           },
           "dangerousAttacks": {
             "selected": 31.0,
-            "opponent": 38.0
+            "opponent": 44.0
+          },
+          "corners": {
+            "selected": 0.0,
+            "opponent": 3.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 2
+      }
+    },
+    {
+      "eventId": "204781636",
+      "sport": "Piłka nożna",
+      "competition": "England League Cup Women",
+      "home": "Newcastle (W)",
+      "away": "Nottm Forest (W)",
+      "selection": "AWAY",
+      "team": "Nottm Forest (W)",
+      "score": "0:2",
+      "minute": "39'",
+      "odds_before": 3.4,
+      "odds_now": 1.3636,
+      "change_percent": -59.89,
+      "statistics_assessment": {
+        "status": "SUPPORTED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 2.0,
+            "opponent": 1.0
+          },
+          "dangerousAttacks": {
+            "selected": 36.0,
+            "opponent": 31.0
           },
           "corners": {
             "selected": 0.0,
             "opponent": 0.0
           }
         },
-        "advantage_count": 0,
-        "disadvantage_count": 1
+        "advantage_count": 2,
+        "disadvantage_count": 0
       }
     },
     {
@@ -245,10 +311,10 @@
       "selection": "AWAY",
       "team": "Saltdean United (W)",
       "score": "0:1",
-      "minute": "31'",
+      "minute": "36'",
       "odds_before": 7.5,
-      "odds_now": 3.6,
-      "change_percent": -52.0,
+      "odds_now": 3.4,
+      "change_percent": -54.67,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -258,11 +324,11 @@
           },
           "dangerousAttacks": {
             "selected": 10.0,
-            "opponent": 21.0
+            "opponent": 24.0
           },
           "corners": {
             "selected": 1.0,
-            "opponent": 4.0
+            "opponent": 5.0
           }
         },
         "advantage_count": 0,
