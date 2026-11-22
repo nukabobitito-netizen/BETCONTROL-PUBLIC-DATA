@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-11-22T14:50:15.327534+00:00",
+  "updated_at": "2026-11-22T15:00:16.686004+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
   "drops": [
     {
-      "eventId": "204853266",
+      "eventId": "204907643",
       "sport": "Piłka nożna",
-      "competition": "Italy Serie D",
-      "home": "ASD Rondinella Marzocco",
-      "away": "GSD Ghiviborgo VDS",
+      "competition": "Switzerland 1.Liga Classic",
+      "home": "USI Azzurri",
+      "away": "FC Sion II",
       "selection": "AWAY",
-      "team": "GSD Ghiviborgo VDS",
-      "score": "0:1",
-      "minute": "60'",
-      "odds_before": 4.2,
-      "odds_now": 1.4444,
-      "change_percent": -65.61,
+      "team": "FC Sion II",
+      "score": "0:2",
+      "minute": "43'",
+      "odds_before": 5.5,
+      "odds_now": 1.3333,
+      "change_percent": -75.76,
       "statistics_assessment": {
-        "status": "MIXED",
+        "status": "SUPPORTED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 7.0,
-            "opponent": 2.0
+            "selected": 3.0,
+            "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 41.0,
-            "opponent": 35.0
+            "selected": 23.0,
+            "opponent": 21.0
           },
           "corners": {
-            "selected": 4.0,
-            "opponent": 5.0
+            "selected": 1.0,
+            "opponent": 1.0
           }
         },
         "advantage_count": 2,
-        "disadvantage_count": 1
+        "disadvantage_count": 0
       }
     },
     {
@@ -47,10 +47,10 @@
       "selection": "AWAY",
       "team": "Calcio Schio",
       "score": "0:1",
-      "minute": "56'",
+      "minute": "67'",
       "odds_before": 5.0,
-      "odds_now": 1.7273,
-      "change_percent": -65.45,
+      "odds_now": 1.4,
+      "change_percent": -72.0,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -59,16 +59,82 @@
             "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 19.0,
-            "opponent": 27.0
+            "selected": 21.0,
+            "opponent": 33.0
           },
           "corners": {
             "selected": 3.0,
-            "opponent": 0.0
+            "opponent": 1.0
           }
         },
         "advantage_count": 1,
         "disadvantage_count": 1
+      }
+    },
+    {
+      "eventId": "204853264",
+      "sport": "Piłka nożna",
+      "competition": "Italy Serie D",
+      "home": "Scandicci",
+      "away": "Prato",
+      "selection": "HOME",
+      "team": "Scandicci",
+      "score": "1:0",
+      "minute": "75'",
+      "odds_before": 4.5,
+      "odds_now": 1.4444,
+      "change_percent": -67.9,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 1.0,
+            "opponent": 1.0
+          },
+          "dangerousAttacks": {
+            "selected": 38.0,
+            "opponent": 60.0
+          },
+          "corners": {
+            "selected": 1.0,
+            "opponent": 5.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 2
+      }
+    },
+    {
+      "eventId": "204853266",
+      "sport": "Piłka nożna",
+      "competition": "Italy Serie D",
+      "home": "ASD Rondinella Marzocco",
+      "away": "GSD Ghiviborgo VDS",
+      "selection": "AWAY",
+      "team": "GSD Ghiviborgo VDS",
+      "score": "0:1",
+      "minute": "70'",
+      "odds_before": 4.2,
+      "odds_now": 1.3636,
+      "change_percent": -67.53,
+      "statistics_assessment": {
+        "status": "SUPPORTED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 8.0,
+            "opponent": 2.0
+          },
+          "dangerousAttacks": {
+            "selected": 49.0,
+            "opponent": 43.0
+          },
+          "corners": {
+            "selected": 5.0,
+            "opponent": 5.0
+          }
+        },
+        "advantage_count": 2,
+        "disadvantage_count": 0
       }
     },
     {
@@ -138,36 +204,69 @@
       }
     },
     {
-      "eventId": "204853264",
+      "eventId": "204781636",
       "sport": "Piłka nożna",
-      "competition": "Italy Serie D",
-      "home": "Scandicci",
-      "away": "Prato",
-      "selection": "HOME",
-      "team": "Scandicci",
-      "score": "1:0",
-      "minute": "64'",
-      "odds_before": 4.5,
-      "odds_now": 1.6154,
-      "change_percent": -64.1,
+      "competition": "England League Cup Women",
+      "home": "Newcastle (W)",
+      "away": "Nottm Forest (W)",
+      "selection": "AWAY",
+      "team": "Nottm Forest (W)",
+      "score": "0:2",
+      "minute": "45'",
+      "odds_before": 3.4,
+      "odds_now": 1.25,
+      "change_percent": -63.24,
       "statistics_assessment": {
-        "status": "AGAINST",
+        "status": "SUPPORTED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 1.0,
+            "selected": 2.0,
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 34.0,
-            "opponent": 50.0
+            "selected": 43.0,
+            "opponent": 33.0
           },
           "corners": {
             "selected": 0.0,
-            "opponent": 3.0
+            "opponent": 0.0
           }
         },
-        "advantage_count": 0,
-        "disadvantage_count": 2
+        "advantage_count": 2,
+        "disadvantage_count": 0
+      }
+    },
+    {
+      "eventId": "204909712",
+      "sport": "Piłka nożna",
+      "competition": "France U19 League",
+      "home": "US Cap d'Ail U19",
+      "away": "SC Bastia U19",
+      "selection": "HOME",
+      "team": "US Cap d'Ail U19",
+      "score": "1:0",
+      "minute": "66'",
+      "odds_before": 3.5,
+      "odds_now": 1.3333,
+      "change_percent": -61.91,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 8.0,
+            "opponent": 5.0
+          },
+          "dangerousAttacks": {
+            "selected": 33.0,
+            "opponent": 25.0
+          },
+          "corners": {
+            "selected": 5.0,
+            "opponent": 6.0
+          }
+        },
+        "advantage_count": 2,
+        "disadvantage_count": 1
       }
     },
     {
@@ -204,69 +303,36 @@
       }
     },
     {
-      "eventId": "204781636",
+      "eventId": "203186190",
       "sport": "Piłka nożna",
-      "competition": "England League Cup Women",
-      "home": "Newcastle (W)",
-      "away": "Nottm Forest (W)",
-      "selection": "AWAY",
-      "team": "Nottm Forest (W)",
-      "score": "0:2",
-      "minute": "45'",
+      "competition": "Austria Bundesliga",
+      "home": "SCR Altach",
+      "away": "SK Sturm Graz",
+      "selection": "HOME",
+      "team": "SCR Altach",
+      "score": "1:0",
+      "minute": "71'",
       "odds_before": 3.4,
-      "odds_now": 1.3333,
-      "change_percent": -60.79,
+      "odds_now": 1.3636,
+      "change_percent": -59.89,
       "statistics_assessment": {
-        "status": "SUPPORTED",
+        "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 2.0,
-            "opponent": 1.0
+            "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 43.0,
-            "opponent": 33.0
+            "selected": 35.0,
+            "opponent": 43.0
           },
           "corners": {
-            "selected": 0.0,
-            "opponent": 0.0
+            "selected": 4.0,
+            "opponent": 5.0
           }
         },
-        "advantage_count": 2,
-        "disadvantage_count": 0
-      }
-    },
-    {
-      "eventId": "204907643",
-      "sport": "Piłka nożna",
-      "competition": "Switzerland 1.Liga Classic",
-      "home": "USI Azzurri",
-      "away": "FC Sion II",
-      "selection": "AWAY",
-      "team": "FC Sion II",
-      "score": "0:1",
-      "minute": "32'",
-      "odds_before": 5.5,
-      "odds_now": 2.2,
-      "change_percent": -60.0,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 1.0
-          },
-          "dangerousAttacks": {
-            "selected": 16.0,
-            "opponent": 19.0
-          },
-          "corners": {
-            "selected": 0.0,
-            "opponent": 0.0
-          }
-        },
-        "advantage_count": 1,
-        "disadvantage_count": 1
+        "advantage_count": 0,
+        "disadvantage_count": 3
       }
     },
     {
