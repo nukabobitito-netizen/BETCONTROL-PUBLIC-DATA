@@ -1,253 +1,6 @@
 {
-  "created_at": "2026-11-22T05:35:31.656123+00:00",
+  "created_at": "2026-11-22T07:51:13.775892+00:00",
   "events": {
-    "203962873": {
-      "eventId": "203962873",
-      "sport": "soccer",
-      "home": "Unam Pumas",
-      "away": "Monterrey",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 2.6,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 2.6,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204759286": {
-      "eventId": "204759286",
-      "sport": "soccer",
-      "home": "Washington Spirit (W)",
-      "away": "Kansas City Current (W)",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 2.35,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 2.5,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204842918": {
-      "eventId": "204842918",
-      "sport": "soccer",
-      "home": "San Marcos FC",
-      "away": "Real Esteli",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 5.25,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 1.45,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204851154": {
-      "eventId": "204851154",
-      "sport": "soccer",
-      "home": "Canterbury United (W)",
-      "away": "West Coast Rangers (W)",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 8.5,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 1.25,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204851150": {
-      "eventId": "204851150",
-      "sport": "soccer",
-      "home": "CF Wellington United (W)",
-      "away": "Wellington Phoenix Reserves (W)",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 1.3,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 7.5,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204851152": {
-      "eventId": "204851152",
-      "sport": "soccer",
-      "home": "Fencibles United (W)",
-      "away": "Auckland United (W)",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 7.5,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 1.3,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204786879": {
-      "eventId": "204786879",
-      "sport": "soccer",
-      "home": "Nueva Santa Rosa CDF",
-      "away": "Deportivo Fraijanes",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 1.6154,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 3.9,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204756449": {
-      "eventId": "204756449",
-      "sport": "soccer",
-      "home": "Club Celaya",
-      "away": "Zacatepec FC",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 1.48,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 5.0,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204851062": {
-      "eventId": "204851062",
-      "sport": "soccer",
-      "home": "Vaqueros Reynosa",
-      "away": "Ciervos FC",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 1.1429,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 12.0,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204726638": {
-      "eventId": "204726638",
-      "sport": "soccer",
-      "home": "Once Caldas",
-      "away": "Atletico Nacional",
-      "startTime": "2026-11-22T01:15:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 3.0,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 2.35,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204842757": {
-      "eventId": "204842757",
-      "sport": "soccer",
-      "home": "Real Espana",
-      "away": "CD Marathon",
-      "startTime": "2026-11-22T01:30:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 2.5,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 2.6,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204851584": {
-      "eventId": "204851584",
-      "sport": "soccer",
-      "home": "Dallas Trinity (W)",
-      "away": "Lexington SC (W)",
-      "startTime": "2026-11-22T01:30:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 2.55,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 2.45,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204909050": {
-      "eventId": "204909050",
-      "sport": "soccer",
-      "home": "CD Arabe Unido",
-      "away": "San Francisco FC",
-      "startTime": "2026-11-22T01:30:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 2.2,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 2.9,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
     "202801739": {
       "eventId": "202801739",
       "sport": "soccer",
@@ -16848,295 +16601,47 @@
           "price_source": "selection.odds"
         }
       }
+    },
+    "204789410": {
+      "eventId": "204789410",
+      "sport": "soccer",
+      "home": "NTV Beleza (W)",
+      "away": "INAC Leonessa (W)",
+      "startTime": "2026-11-23T06:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.75,
+          "recorded_at": "2026-11-22T07:51:13.775892+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 3.75,
+          "recorded_at": "2026-11-22T07:51:13.775892+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204904990": {
+      "eventId": "204904990",
+      "sport": "soccer",
+      "home": "Garhwal Heroes FC",
+      "away": "The Dream Team FC",
+      "startTime": "2026-11-23T06:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.2,
+          "recorded_at": "2026-11-22T07:51:13.775892+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 9.0,
+          "recorded_at": "2026-11-22T07:51:13.775892+00:00",
+          "price_source": "selection.odds"
+        }
+      }
     }
   },
   "selections": {
-    "203962873:HOME": {
-      "eventId": "203962873",
-      "sport": "soccer",
-      "home": "Unam Pumas",
-      "away": "Monterrey",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 2.6,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "203962873:AWAY": {
-      "eventId": "203962873",
-      "sport": "soccer",
-      "home": "Unam Pumas",
-      "away": "Monterrey",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 2.6,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204759286:HOME": {
-      "eventId": "204759286",
-      "sport": "soccer",
-      "home": "Washington Spirit (W)",
-      "away": "Kansas City Current (W)",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 2.35,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204759286:AWAY": {
-      "eventId": "204759286",
-      "sport": "soccer",
-      "home": "Washington Spirit (W)",
-      "away": "Kansas City Current (W)",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 2.5,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204842918:HOME": {
-      "eventId": "204842918",
-      "sport": "soccer",
-      "home": "San Marcos FC",
-      "away": "Real Esteli",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 5.25,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204842918:AWAY": {
-      "eventId": "204842918",
-      "sport": "soccer",
-      "home": "San Marcos FC",
-      "away": "Real Esteli",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 1.45,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204851154:HOME": {
-      "eventId": "204851154",
-      "sport": "soccer",
-      "home": "Canterbury United (W)",
-      "away": "West Coast Rangers (W)",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 8.5,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204851154:AWAY": {
-      "eventId": "204851154",
-      "sport": "soccer",
-      "home": "Canterbury United (W)",
-      "away": "West Coast Rangers (W)",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 1.25,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204851150:HOME": {
-      "eventId": "204851150",
-      "sport": "soccer",
-      "home": "CF Wellington United (W)",
-      "away": "Wellington Phoenix Reserves (W)",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 1.3,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204851150:AWAY": {
-      "eventId": "204851150",
-      "sport": "soccer",
-      "home": "CF Wellington United (W)",
-      "away": "Wellington Phoenix Reserves (W)",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 7.5,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204851152:HOME": {
-      "eventId": "204851152",
-      "sport": "soccer",
-      "home": "Fencibles United (W)",
-      "away": "Auckland United (W)",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 7.5,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204851152:AWAY": {
-      "eventId": "204851152",
-      "sport": "soccer",
-      "home": "Fencibles United (W)",
-      "away": "Auckland United (W)",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 1.3,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204786879:HOME": {
-      "eventId": "204786879",
-      "sport": "soccer",
-      "home": "Nueva Santa Rosa CDF",
-      "away": "Deportivo Fraijanes",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 1.6154,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204786879:AWAY": {
-      "eventId": "204786879",
-      "sport": "soccer",
-      "home": "Nueva Santa Rosa CDF",
-      "away": "Deportivo Fraijanes",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 3.9,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204756449:HOME": {
-      "eventId": "204756449",
-      "sport": "soccer",
-      "home": "Club Celaya",
-      "away": "Zacatepec FC",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 1.48,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204756449:AWAY": {
-      "eventId": "204756449",
-      "sport": "soccer",
-      "home": "Club Celaya",
-      "away": "Zacatepec FC",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 5.0,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204851062:HOME": {
-      "eventId": "204851062",
-      "sport": "soccer",
-      "home": "Vaqueros Reynosa",
-      "away": "Ciervos FC",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 1.1429,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204851062:AWAY": {
-      "eventId": "204851062",
-      "sport": "soccer",
-      "home": "Vaqueros Reynosa",
-      "away": "Ciervos FC",
-      "startTime": "2026-11-22T01:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 12.0,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204726638:HOME": {
-      "eventId": "204726638",
-      "sport": "soccer",
-      "home": "Once Caldas",
-      "away": "Atletico Nacional",
-      "startTime": "2026-11-22T01:15:00+00:00",
-      "selection": "HOME",
-      "baseline": 3.0,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204726638:AWAY": {
-      "eventId": "204726638",
-      "sport": "soccer",
-      "home": "Once Caldas",
-      "away": "Atletico Nacional",
-      "startTime": "2026-11-22T01:15:00+00:00",
-      "selection": "AWAY",
-      "baseline": 2.35,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204842757:HOME": {
-      "eventId": "204842757",
-      "sport": "soccer",
-      "home": "Real Espana",
-      "away": "CD Marathon",
-      "startTime": "2026-11-22T01:30:00+00:00",
-      "selection": "HOME",
-      "baseline": 2.5,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204842757:AWAY": {
-      "eventId": "204842757",
-      "sport": "soccer",
-      "home": "Real Espana",
-      "away": "CD Marathon",
-      "startTime": "2026-11-22T01:30:00+00:00",
-      "selection": "AWAY",
-      "baseline": 2.6,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204851584:HOME": {
-      "eventId": "204851584",
-      "sport": "soccer",
-      "home": "Dallas Trinity (W)",
-      "away": "Lexington SC (W)",
-      "startTime": "2026-11-22T01:30:00+00:00",
-      "selection": "HOME",
-      "baseline": 2.55,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204851584:AWAY": {
-      "eventId": "204851584",
-      "sport": "soccer",
-      "home": "Dallas Trinity (W)",
-      "away": "Lexington SC (W)",
-      "startTime": "2026-11-22T01:30:00+00:00",
-      "selection": "AWAY",
-      "baseline": 2.45,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204909050:HOME": {
-      "eventId": "204909050",
-      "sport": "soccer",
-      "home": "CD Arabe Unido",
-      "away": "San Francisco FC",
-      "startTime": "2026-11-22T01:30:00+00:00",
-      "selection": "HOME",
-      "baseline": 2.2,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204909050:AWAY": {
-      "eventId": "204909050",
-      "sport": "soccer",
-      "home": "CD Arabe Unido",
-      "away": "San Francisco FC",
-      "startTime": "2026-11-22T01:30:00+00:00",
-      "selection": "AWAY",
-      "baseline": 2.9,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
     "202801739:HOME": {
       "eventId": "202801739",
       "sport": "soccer",
@@ -36352,6 +35857,50 @@
       "selection": "AWAY",
       "baseline": 1.2857,
       "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+      "price_source": "selection.odds"
+    },
+    "204789410:HOME": {
+      "eventId": "204789410",
+      "sport": "soccer",
+      "home": "NTV Beleza (W)",
+      "away": "INAC Leonessa (W)",
+      "startTime": "2026-11-23T06:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.75,
+      "recorded_at": "2026-11-22T07:51:13.775892+00:00",
+      "price_source": "selection.odds"
+    },
+    "204789410:AWAY": {
+      "eventId": "204789410",
+      "sport": "soccer",
+      "home": "NTV Beleza (W)",
+      "away": "INAC Leonessa (W)",
+      "startTime": "2026-11-23T06:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 3.75,
+      "recorded_at": "2026-11-22T07:51:13.775892+00:00",
+      "price_source": "selection.odds"
+    },
+    "204904990:HOME": {
+      "eventId": "204904990",
+      "sport": "soccer",
+      "home": "Garhwal Heroes FC",
+      "away": "The Dream Team FC",
+      "startTime": "2026-11-23T06:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.2,
+      "recorded_at": "2026-11-22T07:51:13.775892+00:00",
+      "price_source": "selection.odds"
+    },
+    "204904990:AWAY": {
+      "eventId": "204904990",
+      "sport": "soccer",
+      "home": "Garhwal Heroes FC",
+      "away": "The Dream Team FC",
+      "startTime": "2026-11-23T06:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 9.0,
+      "recorded_at": "2026-11-22T07:51:13.775892+00:00",
       "price_source": "selection.odds"
     }
   }
