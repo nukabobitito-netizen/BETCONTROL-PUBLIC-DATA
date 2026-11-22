@@ -1,272 +1,6 @@
 {
-  "created_at": "2026-11-22T10:51:52.657889+00:00",
+  "created_at": "2026-11-22T11:31:54.963571+00:00",
   "events": {
-    "203618683": {
-      "eventId": "203618683",
-      "sport": "soccer",
-      "home": "Daegu FC",
-      "away": "Gimhae FC 2008",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 1.3,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 7.5,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "203618685": {
-      "eventId": "203618685",
-      "sport": "soccer",
-      "home": "Jeonnam Dragons",
-      "away": "Ansan Greeners FC",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 1.8,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 3.6,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "203565196": {
-      "eventId": "203565196",
-      "sport": "soccer",
-      "home": "Tokushima Vortis",
-      "away": "Shonan Bellmare",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 2.45,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 2.55,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204768499": {
-      "eventId": "204768499",
-      "sport": "soccer",
-      "home": "Renofa Yamaguchi",
-      "away": "Reilac Shiga",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 1.5,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 4.75,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "203632277": {
-      "eventId": "203632277",
-      "sport": "soccer",
-      "home": "Gimcheon Sangmu FC",
-      "away": "Jeju SK",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 2.4,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 2.6,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "203632280": {
-      "eventId": "203632280",
-      "sport": "soccer",
-      "home": "Gwangju FC",
-      "away": "Bucheon FC 1995",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 2.25,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 2.875,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204789081": {
-      "eventId": "204789081",
-      "sport": "soccer",
-      "home": "Azul Claro Numazu",
-      "away": "YSCC",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 1.8,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 3.6,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204840201": {
-      "eventId": "204840201",
-      "sport": "soccer",
-      "home": "Bright Cerulean FC",
-      "away": "Sham Shui Po",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 5.25,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 1.4,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204899907": {
-      "eventId": "204899907",
-      "sport": "soccer",
-      "home": "CityLinkers SW",
-      "away": "ERSA FC",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 1.0833,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 15.0,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204789159": {
-      "eventId": "204789159",
-      "sport": "soccer",
-      "home": "Vissel Kobe U21",
-      "away": "FC Tokyo U21",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 2.2,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 2.45,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204789152": {
-      "eventId": "204789152",
-      "sport": "soccer",
-      "home": "Gamba Osaka U21",
-      "away": "Tokyo Verdy U21",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 1.8,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 3.1,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204764330": {
-      "eventId": "204764330",
-      "sport": "soccer",
-      "home": "Tung Sing",
-      "away": "Hoi King",
-      "startTime": "2026-11-22T05:30:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 1.7273,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 3.4,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204840203": {
-      "eventId": "204840203",
-      "sport": "soccer",
-      "home": "Leaper FC",
-      "away": "Kui Tan SC",
-      "startTime": "2026-11-22T05:30:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 2.5,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 2.1,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204899919": {
-      "eventId": "204899919",
-      "sport": "soccer",
-      "home": "KCDRSC",
-      "away": "Mutual",
-      "startTime": "2026-11-22T05:30:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 1.2222,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 8.0,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
     "204765296": {
       "eventId": "204765296",
       "sport": "soccer",
@@ -16354,317 +16088,28 @@
           "price_source": "selection.odds"
         }
       }
+    },
+    "205011577": {
+      "eventId": "205011577",
+      "sport": "soccer",
+      "home": "Mighty Gunners",
+      "away": "Khomas Nampol",
+      "startTime": "2026-11-22T13:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.5714,
+          "recorded_at": "2026-11-22T11:31:54.963571+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 5.5,
+          "recorded_at": "2026-11-22T11:31:54.963571+00:00",
+          "price_source": "selection.odds"
+        }
+      }
     }
   },
   "selections": {
-    "203618683:HOME": {
-      "eventId": "203618683",
-      "sport": "soccer",
-      "home": "Daegu FC",
-      "away": "Gimhae FC 2008",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 1.3,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "203618683:AWAY": {
-      "eventId": "203618683",
-      "sport": "soccer",
-      "home": "Daegu FC",
-      "away": "Gimhae FC 2008",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 7.5,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "203618685:HOME": {
-      "eventId": "203618685",
-      "sport": "soccer",
-      "home": "Jeonnam Dragons",
-      "away": "Ansan Greeners FC",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 1.8,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "203618685:AWAY": {
-      "eventId": "203618685",
-      "sport": "soccer",
-      "home": "Jeonnam Dragons",
-      "away": "Ansan Greeners FC",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 3.6,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "203565196:HOME": {
-      "eventId": "203565196",
-      "sport": "soccer",
-      "home": "Tokushima Vortis",
-      "away": "Shonan Bellmare",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 2.45,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "203565196:AWAY": {
-      "eventId": "203565196",
-      "sport": "soccer",
-      "home": "Tokushima Vortis",
-      "away": "Shonan Bellmare",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 2.55,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204768499:HOME": {
-      "eventId": "204768499",
-      "sport": "soccer",
-      "home": "Renofa Yamaguchi",
-      "away": "Reilac Shiga",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 1.5,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204768499:AWAY": {
-      "eventId": "204768499",
-      "sport": "soccer",
-      "home": "Renofa Yamaguchi",
-      "away": "Reilac Shiga",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 4.75,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "203632277:HOME": {
-      "eventId": "203632277",
-      "sport": "soccer",
-      "home": "Gimcheon Sangmu FC",
-      "away": "Jeju SK",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 2.4,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "203632277:AWAY": {
-      "eventId": "203632277",
-      "sport": "soccer",
-      "home": "Gimcheon Sangmu FC",
-      "away": "Jeju SK",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 2.6,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "203632280:HOME": {
-      "eventId": "203632280",
-      "sport": "soccer",
-      "home": "Gwangju FC",
-      "away": "Bucheon FC 1995",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 2.25,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "203632280:AWAY": {
-      "eventId": "203632280",
-      "sport": "soccer",
-      "home": "Gwangju FC",
-      "away": "Bucheon FC 1995",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 2.875,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204789081:HOME": {
-      "eventId": "204789081",
-      "sport": "soccer",
-      "home": "Azul Claro Numazu",
-      "away": "YSCC",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 1.8,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204789081:AWAY": {
-      "eventId": "204789081",
-      "sport": "soccer",
-      "home": "Azul Claro Numazu",
-      "away": "YSCC",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 3.6,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204840201:HOME": {
-      "eventId": "204840201",
-      "sport": "soccer",
-      "home": "Bright Cerulean FC",
-      "away": "Sham Shui Po",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 5.25,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204840201:AWAY": {
-      "eventId": "204840201",
-      "sport": "soccer",
-      "home": "Bright Cerulean FC",
-      "away": "Sham Shui Po",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 1.4,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204899907:HOME": {
-      "eventId": "204899907",
-      "sport": "soccer",
-      "home": "CityLinkers SW",
-      "away": "ERSA FC",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 1.0833,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204899907:AWAY": {
-      "eventId": "204899907",
-      "sport": "soccer",
-      "home": "CityLinkers SW",
-      "away": "ERSA FC",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 15.0,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204789159:HOME": {
-      "eventId": "204789159",
-      "sport": "soccer",
-      "home": "Vissel Kobe U21",
-      "away": "FC Tokyo U21",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 2.2,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204789159:AWAY": {
-      "eventId": "204789159",
-      "sport": "soccer",
-      "home": "Vissel Kobe U21",
-      "away": "FC Tokyo U21",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 2.45,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204789152:HOME": {
-      "eventId": "204789152",
-      "sport": "soccer",
-      "home": "Gamba Osaka U21",
-      "away": "Tokyo Verdy U21",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 1.8,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204789152:AWAY": {
-      "eventId": "204789152",
-      "sport": "soccer",
-      "home": "Gamba Osaka U21",
-      "away": "Tokyo Verdy U21",
-      "startTime": "2026-11-22T05:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 3.1,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204764330:HOME": {
-      "eventId": "204764330",
-      "sport": "soccer",
-      "home": "Tung Sing",
-      "away": "Hoi King",
-      "startTime": "2026-11-22T05:30:00+00:00",
-      "selection": "HOME",
-      "baseline": 1.7273,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204764330:AWAY": {
-      "eventId": "204764330",
-      "sport": "soccer",
-      "home": "Tung Sing",
-      "away": "Hoi King",
-      "startTime": "2026-11-22T05:30:00+00:00",
-      "selection": "AWAY",
-      "baseline": 3.4,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204840203:HOME": {
-      "eventId": "204840203",
-      "sport": "soccer",
-      "home": "Leaper FC",
-      "away": "Kui Tan SC",
-      "startTime": "2026-11-22T05:30:00+00:00",
-      "selection": "HOME",
-      "baseline": 2.5,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204840203:AWAY": {
-      "eventId": "204840203",
-      "sport": "soccer",
-      "home": "Leaper FC",
-      "away": "Kui Tan SC",
-      "startTime": "2026-11-22T05:30:00+00:00",
-      "selection": "AWAY",
-      "baseline": 2.1,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204899919:HOME": {
-      "eventId": "204899919",
-      "sport": "soccer",
-      "home": "KCDRSC",
-      "away": "Mutual",
-      "startTime": "2026-11-22T05:30:00+00:00",
-      "selection": "HOME",
-      "baseline": 1.2222,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204899919:AWAY": {
-      "eventId": "204899919",
-      "sport": "soccer",
-      "home": "KCDRSC",
-      "away": "Mutual",
-      "startTime": "2026-11-22T05:30:00+00:00",
-      "selection": "AWAY",
-      "baseline": 8.0,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
     "204765296:HOME": {
       "eventId": "204765296",
       "sport": "soccer",
@@ -35286,6 +34731,28 @@
       "selection": "AWAY",
       "baseline": 2.0,
       "recorded_at": "2026-11-22T10:11:27.341570+00:00",
+      "price_source": "selection.odds"
+    },
+    "205011577:HOME": {
+      "eventId": "205011577",
+      "sport": "soccer",
+      "home": "Mighty Gunners",
+      "away": "Khomas Nampol",
+      "startTime": "2026-11-22T13:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.5714,
+      "recorded_at": "2026-11-22T11:31:54.963571+00:00",
+      "price_source": "selection.odds"
+    },
+    "205011577:AWAY": {
+      "eventId": "205011577",
+      "sport": "soccer",
+      "home": "Mighty Gunners",
+      "away": "Khomas Nampol",
+      "startTime": "2026-11-22T13:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 5.5,
+      "recorded_at": "2026-11-22T11:31:54.963571+00:00",
       "price_source": "selection.odds"
     }
   }
