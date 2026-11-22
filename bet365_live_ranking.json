@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T08:45:14.547748+00:00",
+  "updated_at": "2026-11-22T08:50:19.921762+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,24 @@
       "selection": "HOME",
       "team": "Taiwan Power Company",
       "score": "1:0",
-      "minute": "55'",
+      "minute": "60'",
       "odds_before": 4.1,
-      "odds_now": 1.7273,
-      "change_percent": -57.87
+      "odds_now": 1.6667,
+      "change_percent": -59.35
+    },
+    {
+      "eventId": "204795463",
+      "sport": "Piłka nożna",
+      "competition": "Thailand Division 3",
+      "home": "Chattrakan City FC",
+      "away": "Chiangmai FC",
+      "selection": "HOME",
+      "team": "Chattrakan City FC",
+      "score": "1:0",
+      "minute": "20'",
+      "odds_before": 3.6,
+      "odds_now": 1.8,
+      "change_percent": -50.0
     }
   ]
 }
