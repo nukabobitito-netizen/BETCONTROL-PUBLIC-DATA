@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T17:35:14.691794+00:00",
+  "updated_at": "2026-11-22T17:40:15.076418+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,61 +14,28 @@
       "selection": "AWAY",
       "team": "Pobla Mafumet",
       "score": "1:3",
-      "minute": "74'",
+      "minute": "78'",
       "odds_before": 4.75,
-      "odds_now": 1.0625,
-      "change_percent": -77.63,
+      "odds_now": 1.0357,
+      "change_percent": -78.2,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 7.0,
-            "opponent": 2.0
+            "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 46.0,
-            "opponent": 83.0
+            "selected": 48.0,
+            "opponent": 97.0
           },
           "corners": {
             "selected": 4.0,
-            "opponent": 7.0
+            "opponent": 8.0
           }
         },
         "advantage_count": 1,
         "disadvantage_count": 2
-      }
-    },
-    {
-      "eventId": "203186396",
-      "sport": "Piłka nożna",
-      "competition": "Netherlands Eredivisie",
-      "home": "Go Ahead Eagles",
-      "away": "Fortuna Sittard",
-      "selection": "AWAY",
-      "team": "Fortuna Sittard",
-      "score": "0:1",
-      "minute": "91'",
-      "odds_before": 4.3333,
-      "odds_now": 1.0303,
-      "change_percent": -76.22,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 1.0,
-            "opponent": 11.0
-          },
-          "dangerousAttacks": {
-            "selected": 19.0,
-            "opponent": 65.0
-          },
-          "corners": {
-            "selected": 1.0,
-            "opponent": 12.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 3
       }
     },
     {
@@ -80,10 +47,10 @@
       "selection": "AWAY",
       "team": "Atletico Tordesillas",
       "score": "0:1",
-      "minute": "71'",
+      "minute": "76'",
       "odds_before": 5.0,
-      "odds_now": 1.4,
-      "change_percent": -72.0,
+      "odds_now": 1.3333,
+      "change_percent": -73.33,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -92,8 +59,8 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 44.0,
-            "opponent": 66.0
+            "selected": 45.0,
+            "opponent": 73.0
           },
           "corners": {
             "selected": 3.0,
@@ -113,24 +80,24 @@
       "selection": "AWAY",
       "team": "CD Arenteiro",
       "score": "0:2",
-      "minute": "78'",
+      "minute": "82'",
       "odds_before": 4.0,
-      "odds_now": 1.1667,
-      "change_percent": -70.83,
+      "odds_now": 1.0909,
+      "change_percent": -72.73,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 3.0,
+            "selected": 4.0,
             "opponent": 5.0
           },
           "dangerousAttacks": {
-            "selected": 17.0,
-            "opponent": 81.0
+            "selected": 19.0,
+            "opponent": 86.0
           },
           "corners": {
-            "selected": 1.0,
-            "opponent": 11.0
+            "selected": 2.0,
+            "opponent": 12.0
           }
         },
         "advantage_count": 0,
@@ -146,10 +113,10 @@
       "selection": "HOME",
       "team": "FK Austria Vienna",
       "score": "1:0",
-      "minute": "77'",
+      "minute": "82'",
       "odds_before": 4.5,
-      "odds_now": 1.4,
-      "change_percent": -68.89,
+      "odds_now": 1.3,
+      "change_percent": -71.11,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -158,8 +125,8 @@
             "opponent": 0.0
           },
           "dangerousAttacks": {
-            "selected": 21.0,
-            "opponent": 38.0
+            "selected": 22.0,
+            "opponent": 42.0
           },
           "corners": {
             "selected": 4.0,
@@ -179,10 +146,10 @@
       "selection": "AWAY",
       "team": "Basconia",
       "score": "0:1",
-      "minute": "78'",
+      "minute": "83'",
       "odds_before": 4.0,
-      "odds_now": 1.3,
-      "change_percent": -67.5,
+      "odds_now": 1.2,
+      "change_percent": -70.0,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -191,8 +158,8 @@
             "opponent": 5.0
           },
           "dangerousAttacks": {
-            "selected": 29.0,
-            "opponent": 45.0
+            "selected": 30.0,
+            "opponent": 48.0
           },
           "corners": {
             "selected": 4.0,
@@ -204,6 +171,39 @@
       }
     },
     {
+      "eventId": "204455540",
+      "sport": "Piłka nożna",
+      "competition": "Spain Segunda Division RFEF Group 3",
+      "home": "Orihuela",
+      "away": "La Nucia",
+      "selection": "AWAY",
+      "team": "La Nucia",
+      "score": "0:1",
+      "minute": "83'",
+      "odds_before": 3.25,
+      "odds_now": 1.125,
+      "change_percent": -65.38,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 3.0,
+            "opponent": 2.0
+          },
+          "dangerousAttacks": {
+            "selected": 54.0,
+            "opponent": 48.0
+          },
+          "corners": {
+            "selected": 3.0,
+            "opponent": 7.0
+          }
+        },
+        "advantage_count": 2,
+        "disadvantage_count": 1
+      }
+    },
+    {
       "eventId": "204895468",
       "sport": "Piłka nożna",
       "competition": "Estonia Esiliiga Play-Offs",
@@ -212,10 +212,10 @@
       "selection": "HOME",
       "team": "JK Viljandi Tulevik",
       "score": "2:1",
-      "minute": "80'",
+      "minute": "85'",
       "odds_before": 3.3,
-      "odds_now": 1.3333,
-      "change_percent": -59.6,
+      "odds_now": 1.2222,
+      "change_percent": -62.96,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -224,8 +224,8 @@
             "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 40.0,
-            "opponent": 53.0
+            "selected": 42.0,
+            "opponent": 58.0
           },
           "corners": {
             "selected": 4.0,
