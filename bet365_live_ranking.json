@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T20:20:14.396525+00:00",
+  "updated_at": "2026-11-22T20:25:12.323692+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "AWAY",
       "team": "Mushuc Runa",
       "score": "1:3",
-      "minute": "52'",
+      "minute": "57'",
       "odds_before": 4.75,
-      "odds_now": 1.2,
-      "change_percent": -74.74,
+      "odds_now": 1.1429,
+      "change_percent": -75.94,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -27,7 +27,7 @@
           },
           "dangerousAttacks": {
             "selected": 11.0,
-            "opponent": 21.0
+            "opponent": 26.0
           },
           "corners": {
             "selected": 1.0,
@@ -47,10 +47,10 @@
       "selection": "HOME",
       "team": "Broki",
       "score": "1:0",
-      "minute": "43'",
+      "minute": "45'",
       "odds_before": 5.75,
-      "odds_now": 1.9091,
-      "change_percent": -66.8,
+      "odds_now": 1.8333,
+      "change_percent": -68.12,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
@@ -59,8 +59,8 @@
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 21.0,
-            "opponent": 12.0
+            "selected": 22.0,
+            "opponent": 14.0
           },
           "corners": {
             "selected": 3.0,
@@ -80,10 +80,10 @@
       "selection": "AWAY",
       "team": "Leca",
       "score": "0:1",
-      "minute": "47'",
+      "minute": "45'",
       "odds_before": 6.0,
-      "odds_now": 2.375,
-      "change_percent": -60.42,
+      "odds_now": 2.3,
+      "change_percent": -61.67,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -93,7 +93,7 @@
           },
           "dangerousAttacks": {
             "selected": 12.0,
-            "opponent": 35.0
+            "opponent": 38.0
           },
           "corners": {
             "selected": 0.0,
@@ -113,27 +113,27 @@
       "selection": "AWAY",
       "team": "CD Universidad San Martin",
       "score": "0:1",
-      "minute": "19'",
+      "minute": "24'",
       "odds_before": 4.2,
       "odds_now": 2.1,
       "change_percent": -50.0,
       "statistics_assessment": {
-        "status": "SUPPORTED",
+        "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 1.0,
             "opponent": 0.0
           },
           "dangerousAttacks": {
-            "selected": 5.0,
-            "opponent": 2.0
+            "selected": 6.0,
+            "opponent": 6.0
           },
           "corners": {
             "selected": 1.0,
-            "opponent": 0.0
+            "opponent": 1.0
           }
         },
-        "advantage_count": 3,
+        "advantage_count": 1,
         "disadvantage_count": 0
       }
     }
