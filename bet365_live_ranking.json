@@ -1,10 +1,24 @@
 {
-  "updated_at": "2026-11-22T00:50:13.152425+00:00",
+  "updated_at": "2026-11-22T00:55:14.380536+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 40.0,
   "drop_method": "odds_premium_above_one",
   "underdog_only": true,
   "drops": [
+    {
+      "eventId": "203962871",
+      "sport": "Piłka nożna",
+      "competition": "Mexico Liga MX",
+      "home": "Santos Laguna",
+      "away": "Leon",
+      "selection": "AWAY",
+      "team": "Leon",
+      "score": "1:2",
+      "minute": "93'",
+      "odds_before": 2.65,
+      "odds_now": 1.0152,
+      "change_percent": -99.08
+    },
     {
       "eventId": "204986064",
       "sport": "Tenis",
@@ -16,8 +30,8 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 2.375,
-      "odds_now": 1.1667,
-      "change_percent": -87.88
+      "odds_now": 1.04,
+      "change_percent": -97.09
     },
     {
       "eventId": "204943411",
@@ -27,53 +41,11 @@
       "away": "Parada 6",
       "selection": "HOME",
       "team": "CBR",
-      "score": "21:19",
+      "score": "0:0",
       "minute": "Brak danych",
       "odds_before": 2.2,
-      "odds_now": 1.2222,
-      "change_percent": -81.48
-    },
-    {
-      "eventId": "203963327",
-      "sport": "Piłka nożna",
-      "competition": "Chile Liga de Primera",
-      "home": "Universidad de Concepcion",
-      "away": "Nublense",
-      "selection": "AWAY",
-      "team": "Nublense",
-      "score": "1:2",
-      "minute": "58'",
-      "odds_before": 3.1,
-      "odds_now": 1.4,
-      "change_percent": -80.95
-    },
-    {
-      "eventId": "204896866",
-      "sport": "Siatkówka",
-      "competition": "Mexico LVP",
-      "home": "Daneses Dorados Morelos",
-      "away": "Tapatios de Jalisco",
-      "selection": "HOME",
-      "team": "Daneses Dorados Morelos",
-      "score": "18:16",
-      "minute": "Brak danych",
-      "odds_before": 3.75,
-      "odds_now": 1.5333,
-      "change_percent": -80.61
-    },
-    {
-      "eventId": "204967915",
-      "sport": "baseball",
-      "competition": "Venezuela Liga Professional",
-      "home": "Leones del Caracas",
-      "away": "Navegantes del Magallanes",
-      "selection": "AWAY",
-      "team": "Navegantes del Magallanes",
-      "score": "0:2",
-      "minute": "Brak danych",
-      "odds_before": 1.9524,
-      "odds_now": 1.2,
-      "change_percent": -79.0
+      "odds_now": 1.125,
+      "change_percent": -89.58
     },
     {
       "eventId": "204960488",
@@ -86,8 +58,22 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 3.8,
-      "odds_now": 1.6061,
-      "change_percent": -78.35
+      "odds_now": 1.4444,
+      "change_percent": -84.13
+    },
+    {
+      "eventId": "204967910",
+      "sport": "baseball",
+      "competition": "Venezuela Liga Professional",
+      "home": "Caribes de Anzoátegui",
+      "away": "Tigres de Aragua",
+      "selection": "HOME",
+      "team": "Caribes de Anzoátegui",
+      "score": "13:13",
+      "minute": "Brak danych",
+      "odds_before": 1.8696,
+      "odds_now": 1.1429,
+      "change_percent": -83.57
     },
     {
       "eventId": "204965687",
@@ -97,11 +83,25 @@
       "away": "Universitario de Deportes (W)",
       "selection": "HOME",
       "team": "Circolo (W)",
-      "score": "0:0",
+      "score": "1:3",
       "minute": "Brak danych",
       "odds_before": 7.0,
       "odds_now": 2.625,
       "change_percent": -72.92
+    },
+    {
+      "eventId": "204967915",
+      "sport": "baseball",
+      "competition": "Venezuela Liga Professional",
+      "home": "Leones del Caracas",
+      "away": "Navegantes del Magallanes",
+      "selection": "AWAY",
+      "team": "Navegantes del Magallanes",
+      "score": "0:2",
+      "minute": "Brak danych",
+      "odds_before": 1.9524,
+      "odds_now": 1.3125,
+      "change_percent": -67.19
     },
     {
       "eventId": "204960467",
@@ -130,6 +130,48 @@
       "odds_before": 2.6,
       "odds_now": 1.7273,
       "change_percent": -54.54
+    },
+    {
+      "eventId": "204970561",
+      "sport": "Koszykówka",
+      "competition": "NCAAB",
+      "home": "Michigan",
+      "away": "Villanova",
+      "selection": "AWAY",
+      "team": "Villanova",
+      "score": "Brak danych",
+      "minute": "Brak danych",
+      "odds_before": 2.375,
+      "odds_now": 1.6667,
+      "change_percent": -51.51
+    },
+    {
+      "eventId": "204601344",
+      "sport": "Koszykówka",
+      "competition": "Argentina Liga Nacional",
+      "home": "La Union Formosa",
+      "away": "Independiente de Oliva",
+      "selection": "AWAY",
+      "team": "Independiente de Oliva",
+      "score": "22:29",
+      "minute": "Brak danych",
+      "odds_before": 2.12,
+      "odds_now": 1.5556,
+      "change_percent": -50.39
+    },
+    {
+      "eventId": "204987361",
+      "sport": "Tenis",
+      "competition": "UTR Pro Newport Beach",
+      "home": "Oskar Grzegorzewski",
+      "away": "Max K Fardanesh",
+      "selection": "HOME",
+      "team": "Oskar Grzegorzewski",
+      "score": "3:2",
+      "minute": "Brak danych",
+      "odds_before": 2.0,
+      "odds_now": 1.5,
+      "change_percent": -50.0
     }
   ]
 }
