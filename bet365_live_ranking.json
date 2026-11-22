@@ -1,24 +1,10 @@
 {
-  "updated_at": "2026-11-22T00:45:12.870597+00:00",
+  "updated_at": "2026-11-22T00:50:13.152425+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 40.0,
   "drop_method": "odds_premium_above_one",
   "underdog_only": true,
   "drops": [
-    {
-      "eventId": "204967910",
-      "sport": "baseball",
-      "competition": "Venezuela Liga Professional",
-      "home": "Caribes de Anzoátegui",
-      "away": "Tigres de Aragua",
-      "selection": "HOME",
-      "team": "Caribes de Anzoátegui",
-      "score": "13:11",
-      "minute": "Brak danych",
-      "odds_before": 1.8696,
-      "odds_now": 1.0769,
-      "change_percent": -91.16
-    },
     {
       "eventId": "204986064",
       "sport": "Tenis",
@@ -30,22 +16,22 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 2.375,
-      "odds_now": 1.125,
-      "change_percent": -90.91
+      "odds_now": 1.1667,
+      "change_percent": -87.88
     },
     {
-      "eventId": "204856747",
-      "sport": "Piłka nożna",
-      "competition": "Mexico Liga TDP",
-      "home": "Pabellón FC",
-      "away": "Atletico ECCA",
-      "selection": "AWAY",
-      "team": "Atletico ECCA",
-      "score": "1:2",
-      "minute": "78'",
-      "odds_before": 3.3,
-      "odds_now": 1.25,
-      "change_percent": -89.13
+      "eventId": "204943411",
+      "sport": "Siatkówka",
+      "competition": "Uruguay Clausura Primera",
+      "home": "CBR",
+      "away": "Parada 6",
+      "selection": "HOME",
+      "team": "CBR",
+      "score": "21:19",
+      "minute": "Brak danych",
+      "odds_before": 2.2,
+      "odds_now": 1.2222,
+      "change_percent": -81.48
     },
     {
       "eventId": "203963327",
@@ -56,7 +42,7 @@
       "selection": "AWAY",
       "team": "Nublense",
       "score": "1:2",
-      "minute": "54'",
+      "minute": "58'",
       "odds_before": 3.1,
       "odds_now": 1.4,
       "change_percent": -80.95
@@ -69,67 +55,11 @@
       "away": "Tapatios de Jalisco",
       "selection": "HOME",
       "team": "Daneses Dorados Morelos",
-      "score": "14:13",
+      "score": "18:16",
       "minute": "Brak danych",
       "odds_before": 3.75,
-      "odds_now": 1.6667,
-      "change_percent": -75.76
-    },
-    {
-      "eventId": "204960467",
-      "sport": "Koszykówka",
-      "competition": "NCAAB",
-      "home": "Brown",
-      "away": "Vermont",
-      "selection": "HOME",
-      "team": "Brown",
-      "score": "Brak danych",
-      "minute": "Brak danych",
-      "odds_before": 2.6,
-      "odds_now": 1.4,
-      "change_percent": -75.0
-    },
-    {
-      "eventId": "204965687",
-      "sport": "Siatkówka",
-      "competition": "Peru League Women",
-      "home": "Circolo (W)",
-      "away": "Universitario de Deportes (W)",
-      "selection": "HOME",
-      "team": "Circolo (W)",
-      "score": "21:17",
-      "minute": "Brak danych",
-      "odds_before": 7.0,
-      "odds_now": 3.25,
-      "change_percent": -62.5
-    },
-    {
-      "eventId": "204941934",
-      "sport": "Koszykówka",
-      "competition": "Colombia Liga",
-      "home": "Paisas",
-      "away": "Toros del Valle",
-      "selection": "AWAY",
-      "team": "Toros del Valle",
-      "score": "Brak danych",
-      "minute": "Brak danych",
-      "odds_before": 2.25,
-      "odds_now": 1.4762,
-      "change_percent": -61.9
-    },
-    {
-      "eventId": "204601344",
-      "sport": "Koszykówka",
-      "competition": "Argentina Liga Nacional",
-      "home": "La Union Formosa",
-      "away": "Independiente de Oliva",
-      "selection": "AWAY",
-      "team": "Independiente de Oliva",
-      "score": "9:21",
-      "minute": "Brak danych",
-      "odds_before": 2.12,
-      "odds_now": 1.4348,
-      "change_percent": -61.18
+      "odds_now": 1.5333,
+      "change_percent": -80.61
     },
     {
       "eventId": "204967915",
@@ -139,25 +69,11 @@
       "away": "Navegantes del Magallanes",
       "selection": "AWAY",
       "team": "Navegantes del Magallanes",
-      "score": "0:1",
+      "score": "0:2",
       "minute": "Brak danych",
       "odds_before": 1.9524,
-      "odds_now": 1.3704,
-      "change_percent": -61.11
-    },
-    {
-      "eventId": "204841169",
-      "sport": "Piłka nożna",
-      "competition": "Chile Primera B",
-      "home": "Deportes Copiapo",
-      "away": "CD Antofagasta",
-      "selection": "HOME",
-      "team": "Deportes Copiapo",
-      "score": "1:0",
-      "minute": "44'",
-      "odds_before": 2.6,
-      "odds_now": 1.7273,
-      "change_percent": -54.54
+      "odds_now": 1.2,
+      "change_percent": -79.0
     },
     {
       "eventId": "204960488",
@@ -170,8 +86,50 @@
       "score": "Brak danych",
       "minute": "Brak danych",
       "odds_before": 3.8,
-      "odds_now": 2.5,
-      "change_percent": -46.43
+      "odds_now": 1.6061,
+      "change_percent": -78.35
+    },
+    {
+      "eventId": "204965687",
+      "sport": "Siatkówka",
+      "competition": "Peru League Women",
+      "home": "Circolo (W)",
+      "away": "Universitario de Deportes (W)",
+      "selection": "HOME",
+      "team": "Circolo (W)",
+      "score": "0:0",
+      "minute": "Brak danych",
+      "odds_before": 7.0,
+      "odds_now": 2.625,
+      "change_percent": -72.92
+    },
+    {
+      "eventId": "204960467",
+      "sport": "Koszykówka",
+      "competition": "NCAAB",
+      "home": "Brown",
+      "away": "Vermont",
+      "selection": "HOME",
+      "team": "Brown",
+      "score": "Brak danych",
+      "minute": "Brak danych",
+      "odds_before": 2.6,
+      "odds_now": 1.7143,
+      "change_percent": -55.36
+    },
+    {
+      "eventId": "204841169",
+      "sport": "Piłka nożna",
+      "competition": "Chile Primera B",
+      "home": "Deportes Copiapo",
+      "away": "CD Antofagasta",
+      "selection": "HOME",
+      "team": "Deportes Copiapo",
+      "score": "1:0",
+      "minute": "45'",
+      "odds_before": 2.6,
+      "odds_now": 1.7273,
+      "change_percent": -54.54
     }
   ]
 }
