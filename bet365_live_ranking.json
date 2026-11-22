@@ -1,10 +1,24 @@
 {
-  "updated_at": "2026-11-22T02:25:14.072558+00:00",
+  "updated_at": "2026-11-22T02:30:14.214066+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
   "drops": [
+    {
+      "eventId": "204912731",
+      "sport": "Piłka nożna",
+      "competition": "Aruba Division Di Honor",
+      "home": "SV Sporting Aruba",
+      "away": "SV Dakota",
+      "selection": "HOME",
+      "team": "SV Sporting Aruba",
+      "score": "1:0",
+      "minute": "86'",
+      "odds_before": 3.9,
+      "odds_now": 1.1429,
+      "change_percent": -70.69
+    },
     {
       "eventId": "202801739",
       "sport": "Piłka nożna",
@@ -14,10 +28,10 @@
       "selection": "AWAY",
       "team": "Macarthur FC",
       "score": "0:2",
-      "minute": "24'",
+      "minute": "29'",
       "odds_before": 3.9,
-      "odds_now": 1.3636,
-      "change_percent": -65.04
+      "odds_now": 1.3333,
+      "change_percent": -65.81
     },
     {
       "eventId": "204786879",
@@ -28,7 +42,7 @@
       "selection": "AWAY",
       "team": "Deportivo Fraijanes",
       "score": "0:1",
-      "minute": "52'",
+      "minute": "57'",
       "odds_before": 4.1,
       "odds_now": 1.8333,
       "change_percent": -55.29
