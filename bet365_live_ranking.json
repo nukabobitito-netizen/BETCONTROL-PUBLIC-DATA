@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-11-22T16:25:14.119725+00:00",
+  "updated_at": "2026-11-22T16:30:16.154643+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
   "drops": [
     {
-      "eventId": "204786338",
+      "eventId": "204789388",
       "sport": "Piłka nożna",
-      "competition": "Morocco GNF 2",
-      "home": "Chabab Ben Guerir",
-      "away": "US Yacoub El Mansour",
-      "selection": "HOME",
-      "team": "Chabab Ben Guerir",
-      "score": "2:0",
-      "minute": "63'",
-      "odds_before": 3.7,
-      "odds_now": 1.0625,
-      "change_percent": -71.28,
+      "competition": "Spain Primera Women",
+      "home": "Tenerife (W)",
+      "away": "Madrid CFF (W)",
+      "selection": "AWAY",
+      "team": "Madrid CFF (W)",
+      "score": "0:1",
+      "minute": "30'",
+      "odds_before": 4.3333,
+      "odds_now": 1.2857,
+      "change_percent": -70.33,
       "statistics_assessment": {
-        "status": "AGAINST",
+        "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 5.0
+            "selected": 1.0,
+            "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 19.0,
-            "opponent": 31.0
+            "selected": 12.0,
+            "opponent": 11.0
           },
           "corners": {
-            "selected": 2.0,
-            "opponent": 8.0
+            "selected": 0.0,
+            "opponent": 1.0
           }
         },
-        "advantage_count": 0,
-        "disadvantage_count": 3
+        "advantage_count": 1,
+        "disadvantage_count": 1
       }
     },
     {
@@ -105,6 +105,39 @@
       }
     },
     {
+      "eventId": "204895468",
+      "sport": "Piłka nożna",
+      "competition": "Estonia Esiliiga Play-Offs",
+      "home": "JK Viljandi Tulevik",
+      "away": "FC Tallinn",
+      "selection": "HOME",
+      "team": "JK Viljandi Tulevik",
+      "score": "2:0",
+      "minute": "31'",
+      "odds_before": 3.3,
+      "odds_now": 1.3636,
+      "change_percent": -58.68,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 2.0,
+            "opponent": 0.0
+          },
+          "dangerousAttacks": {
+            "selected": 13.0,
+            "opponent": 23.0
+          },
+          "corners": {
+            "selected": 0.0,
+            "opponent": 3.0
+          }
+        },
+        "advantage_count": 1,
+        "disadvantage_count": 2
+      }
+    },
+    {
       "eventId": "204909093",
       "sport": "Piłka nożna",
       "competition": "Portugal U19 League",
@@ -113,10 +146,10 @@
       "selection": "HOME",
       "team": "UD Leiria U19",
       "score": "1:0",
-      "minute": "63'",
+      "minute": "68'",
       "odds_before": 3.2,
-      "odds_now": 1.4444,
-      "change_percent": -54.86,
+      "odds_now": 1.4,
+      "change_percent": -56.25,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -125,8 +158,8 @@
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 37.0,
-            "opponent": 47.0
+            "selected": 41.0,
+            "opponent": 50.0
           },
           "corners": {
             "selected": 5.0,
@@ -135,39 +168,6 @@
         },
         "advantage_count": 1,
         "disadvantage_count": 2
-      }
-    },
-    {
-      "eventId": "204789388",
-      "sport": "Piłka nożna",
-      "competition": "Spain Primera Women",
-      "home": "Tenerife (W)",
-      "away": "Madrid CFF (W)",
-      "selection": "AWAY",
-      "team": "Madrid CFF (W)",
-      "score": "0:0",
-      "minute": "25'",
-      "odds_before": 4.3333,
-      "odds_now": 2.1,
-      "change_percent": -51.54,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 0.0,
-            "opponent": 1.0
-          },
-          "dangerousAttacks": {
-            "selected": 8.0,
-            "opponent": 11.0
-          },
-          "corners": {
-            "selected": 0.0,
-            "opponent": 1.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 3
       }
     }
   ]
