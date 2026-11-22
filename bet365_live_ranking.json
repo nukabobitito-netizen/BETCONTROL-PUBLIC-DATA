@@ -1,10 +1,76 @@
 {
-  "updated_at": "2026-11-22T16:30:16.154643+00:00",
+  "updated_at": "2026-11-22T16:35:14.638121+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
   "drops": [
+    {
+      "eventId": "204786338",
+      "sport": "Piłka nożna",
+      "competition": "Morocco GNF 2",
+      "home": "Chabab Ben Guerir",
+      "away": "US Yacoub El Mansour",
+      "selection": "HOME",
+      "team": "Chabab Ben Guerir",
+      "score": "2:0",
+      "minute": "74'",
+      "odds_before": 3.7,
+      "odds_now": 1.0303,
+      "change_percent": -72.15,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 2.0,
+            "opponent": 6.0
+          },
+          "dangerousAttacks": {
+            "selected": 22.0,
+            "opponent": 37.0
+          },
+          "corners": {
+            "selected": 2.0,
+            "opponent": 11.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 3
+      }
+    },
+    {
+      "eventId": "204852846",
+      "sport": "Piłka nożna",
+      "competition": "Spain Youth League",
+      "home": "Getafe U19",
+      "away": "Rayo Majadahonda U19",
+      "selection": "AWAY",
+      "team": "Rayo Majadahonda U19",
+      "score": "0:1",
+      "minute": "74'",
+      "odds_before": 4.75,
+      "odds_now": 1.4,
+      "change_percent": -70.53,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 6.0,
+            "opponent": 2.0
+          },
+          "dangerousAttacks": {
+            "selected": 26.0,
+            "opponent": 38.0
+          },
+          "corners": {
+            "selected": 3.0,
+            "opponent": 4.0
+          }
+        },
+        "advantage_count": 1,
+        "disadvantage_count": 2
+      }
+    },
     {
       "eventId": "204789388",
       "sport": "Piłka nożna",
@@ -14,7 +80,7 @@
       "selection": "AWAY",
       "team": "Madrid CFF (W)",
       "score": "0:1",
-      "minute": "30'",
+      "minute": "35'",
       "odds_before": 4.3333,
       "odds_now": 1.2857,
       "change_percent": -70.33,
@@ -26,16 +92,16 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 12.0,
-            "opponent": 11.0
+            "selected": 14.0,
+            "opponent": 12.0
           },
           "corners": {
-            "selected": 0.0,
+            "selected": 1.0,
             "opponent": 1.0
           }
         },
         "advantage_count": 1,
-        "disadvantage_count": 1
+        "disadvantage_count": 0
       }
     },
     {
@@ -47,28 +113,61 @@
       "selection": "AWAY",
       "team": "Halmstad",
       "score": "0:3",
-      "minute": "45'",
+      "minute": "49'",
       "odds_before": 3.25,
       "odds_now": 1.025,
       "change_percent": -68.46,
       "statistics_assessment": {
-        "status": "MIXED",
+        "status": "SUPPORTED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 4.0,
+            "selected": 5.0,
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 16.0,
-            "opponent": 17.0
+            "selected": 20.0,
+            "opponent": 18.0
           },
           "corners": {
             "selected": 0.0,
             "opponent": 0.0
           }
         },
-        "advantage_count": 1,
-        "disadvantage_count": 1
+        "advantage_count": 2,
+        "disadvantage_count": 0
+      }
+    },
+    {
+      "eventId": "204786600",
+      "sport": "Piłka nożna",
+      "competition": "Portugal Campeonato Nacional Women",
+      "home": "Valadares Gaia FC (W)",
+      "away": "Torreense (W)",
+      "selection": "HOME",
+      "team": "Valadares Gaia FC (W)",
+      "score": "1:0",
+      "minute": "71'",
+      "odds_before": 4.5,
+      "odds_now": 1.4444,
+      "change_percent": -67.9,
+      "statistics_assessment": {
+        "status": "SUPPORTED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 5.0,
+            "opponent": 4.0
+          },
+          "dangerousAttacks": {
+            "selected": 61.0,
+            "opponent": 48.0
+          },
+          "corners": {
+            "selected": 3.0,
+            "opponent": 3.0
+          }
+        },
+        "advantage_count": 2,
+        "disadvantage_count": 0
       }
     },
     {
@@ -80,10 +179,10 @@
       "selection": "AWAY",
       "team": "CD Roda",
       "score": "0:1",
-      "minute": "45'",
+      "minute": "47'",
       "odds_before": 4.1,
-      "odds_now": 1.5714,
-      "change_percent": -61.67,
+      "odds_now": 1.5333,
+      "change_percent": -62.6,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -92,8 +191,8 @@
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 21.0,
-            "opponent": 34.0
+            "selected": 22.0,
+            "opponent": 37.0
           },
           "corners": {
             "selected": 2.0,
@@ -113,10 +212,10 @@
       "selection": "HOME",
       "team": "JK Viljandi Tulevik",
       "score": "2:0",
-      "minute": "31'",
+      "minute": "36'",
       "odds_before": 3.3,
-      "odds_now": 1.3636,
-      "change_percent": -58.68,
+      "odds_now": 1.3333,
+      "change_percent": -59.6,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -125,11 +224,11 @@
             "opponent": 0.0
           },
           "dangerousAttacks": {
-            "selected": 13.0,
-            "opponent": 23.0
+            "selected": 16.0,
+            "opponent": 27.0
           },
           "corners": {
-            "selected": 0.0,
+            "selected": 1.0,
             "opponent": 3.0
           }
         },
@@ -146,28 +245,94 @@
       "selection": "HOME",
       "team": "UD Leiria U19",
       "score": "1:0",
-      "minute": "68'",
+      "minute": "74'",
       "odds_before": 3.2,
-      "odds_now": 1.4,
-      "change_percent": -56.25,
+      "odds_now": 1.3333,
+      "change_percent": -58.33,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 1.0,
+            "selected": 2.0,
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 41.0,
-            "opponent": 50.0
+            "selected": 43.0,
+            "opponent": 55.0
           },
           "corners": {
             "selected": 5.0,
-            "opponent": 4.0
+            "opponent": 5.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 1
+      }
+    },
+    {
+      "eventId": "203576113",
+      "sport": "Piłka nożna",
+      "competition": "Bulgaria First League",
+      "home": "Botev Plovdiv",
+      "away": "CSKA Sofia",
+      "selection": "HOME",
+      "team": "Botev Plovdiv",
+      "score": "1:0",
+      "minute": "33'",
+      "odds_before": 5.25,
+      "odds_now": 2.25,
+      "change_percent": -57.14,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 2.0,
+            "opponent": 2.0
+          },
+          "dangerousAttacks": {
+            "selected": 24.0,
+            "opponent": 35.0
+          },
+          "corners": {
+            "selected": 2.0,
+            "opponent": 1.0
           }
         },
         "advantage_count": 1,
-        "disadvantage_count": 2
+        "disadvantage_count": 1
+      }
+    },
+    {
+      "eventId": "204855079",
+      "sport": "Piłka nożna",
+      "competition": "Spain Tercera Group 18",
+      "home": "Villarrobledo",
+      "away": "Marchamalo",
+      "selection": "AWAY",
+      "team": "Marchamalo",
+      "score": "0:1",
+      "minute": "35'",
+      "odds_before": 3.8,
+      "odds_now": 1.8,
+      "change_percent": -52.63,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 2.0,
+            "opponent": 1.0
+          },
+          "dangerousAttacks": {
+            "selected": 11.0,
+            "opponent": 13.0
+          },
+          "corners": {
+            "selected": 1.0,
+            "opponent": 0.0
+          }
+        },
+        "advantage_count": 2,
+        "disadvantage_count": 1
       }
     }
   ]
