@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T10:15:14.497421+00:00",
+  "updated_at": "2026-11-22T10:20:13.679579+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -13,21 +13,21 @@
       "away": "Asia Lion FC",
       "selection": "AWAY",
       "team": "Asia Lion FC",
-      "score": "0:2",
-      "minute": "55'",
+      "score": "0:3",
+      "minute": "60'",
       "odds_before": 8.0,
-      "odds_now": 1.3333,
-      "change_percent": -83.33,
+      "odds_now": 1.0714,
+      "change_percent": -86.61,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 5.0,
+            "selected": 6.0,
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 45.0,
-            "opponent": 55.0
+            "selected": 46.0,
+            "opponent": 57.0
           },
           "corners": {
             "selected": 1.0,
@@ -47,20 +47,20 @@
       "selection": "HOME",
       "team": "Chattrakan City FC",
       "score": "1:0",
-      "minute": "82'",
+      "minute": "87'",
       "odds_before": 3.6,
-      "odds_now": 1.125,
-      "change_percent": -68.75,
+      "odds_now": 1.0833,
+      "change_percent": -69.91,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 2.0,
+            "selected": 3.0,
             "opponent": 0.0
           },
           "dangerousAttacks": {
-            "selected": 21.0,
-            "opponent": 28.0
+            "selected": 24.0,
+            "opponent": 29.0
           },
           "corners": {
             "selected": 3.0,
@@ -80,10 +80,10 @@
       "selection": "AWAY",
       "team": "ACS Juniorul 2014 (W)",
       "score": "0:1",
-      "minute": "52'",
+      "minute": "57'",
       "odds_before": 4.2,
-      "odds_now": 2.05,
-      "change_percent": -51.19,
+      "odds_now": 1.9524,
+      "change_percent": -53.51,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -92,8 +92,8 @@
             "opponent": 6.0
           },
           "dangerousAttacks": {
-            "selected": 40.0,
-            "opponent": 35.0
+            "selected": 43.0,
+            "opponent": 37.0
           },
           "corners": {
             "selected": 4.0,
