@@ -1,10 +1,43 @@
 {
-  "updated_at": "2026-11-22T20:45:13.083334+00:00",
+  "updated_at": "2026-11-22T20:50:15.124112+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
   "drops": [
+    {
+      "eventId": "203962683",
+      "sport": "Piłka nożna",
+      "competition": "Bolivia Primera Division",
+      "home": "Real Potosi",
+      "away": "Bolivar",
+      "selection": "HOME",
+      "team": "Real Potosi",
+      "score": "1:0",
+      "minute": "93'",
+      "odds_before": 4.75,
+      "odds_now": 1.0625,
+      "change_percent": -77.63,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 4.0,
+            "opponent": 4.0
+          },
+          "dangerousAttacks": {
+            "selected": 29.0,
+            "opponent": 35.0
+          },
+          "corners": {
+            "selected": 0.0,
+            "opponent": 8.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 2
+      }
+    },
     {
       "eventId": "203963407",
       "sport": "Piłka nożna",
@@ -14,24 +47,24 @@
       "selection": "AWAY",
       "team": "Mushuc Runa",
       "score": "2:3",
-      "minute": "77'",
+      "minute": "81'",
       "odds_before": 4.75,
-      "odds_now": 1.4444,
-      "change_percent": -69.59,
+      "odds_now": 1.3,
+      "change_percent": -72.63,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 3.0,
-            "opponent": 4.0
+            "opponent": 5.0
           },
           "dangerousAttacks": {
             "selected": 11.0,
-            "opponent": 39.0
+            "opponent": 42.0
           },
           "corners": {
             "selected": 1.0,
-            "opponent": 8.0
+            "opponent": 9.0
           }
         },
         "advantage_count": 0,
@@ -47,10 +80,10 @@
       "selection": "HOME",
       "team": "Broki",
       "score": "1:0",
-      "minute": "47'",
+      "minute": "52'",
       "odds_before": 5.75,
-      "odds_now": 1.8333,
-      "change_percent": -68.12,
+      "odds_now": 1.7273,
+      "change_percent": -69.96,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
@@ -59,8 +92,8 @@
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 22.0,
-            "opponent": 14.0
+            "selected": 23.0,
+            "opponent": 15.0
           },
           "corners": {
             "selected": 3.0,
@@ -72,39 +105,6 @@
       }
     },
     {
-      "eventId": "204722567",
-      "sport": "Piłka nożna",
-      "competition": "Portugal Cup",
-      "home": "UD Leiria",
-      "away": "Leca",
-      "selection": "AWAY",
-      "team": "Leca",
-      "score": "0:1",
-      "minute": "51'",
-      "odds_before": 6.0,
-      "odds_now": 2.1,
-      "change_percent": -65.0,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 3.0,
-            "opponent": 3.0
-          },
-          "dangerousAttacks": {
-            "selected": 14.0,
-            "opponent": 41.0
-          },
-          "corners": {
-            "selected": 0.0,
-            "opponent": 2.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 2
-      }
-    },
-    {
       "eventId": "205036805",
       "sport": "Piłka nożna",
       "competition": "Peru Liga 2",
@@ -113,10 +113,10 @@
       "selection": "AWAY",
       "team": "CD Universidad San Martin",
       "score": "0:1",
-      "minute": "44'",
+      "minute": "48'",
       "odds_before": 4.2,
-      "odds_now": 1.9091,
-      "change_percent": -54.55,
+      "odds_now": 1.8333,
+      "change_percent": -56.35,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -126,7 +126,7 @@
           },
           "dangerousAttacks": {
             "selected": 10.0,
-            "opponent": 18.0
+            "opponent": 20.0
           },
           "corners": {
             "selected": 2.0,
