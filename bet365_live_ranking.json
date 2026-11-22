@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T02:35:13.822909+00:00",
+  "updated_at": "2026-11-22T02:40:13.860577+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "HOME",
       "team": "SV Sporting Aruba",
       "score": "1:0",
-      "minute": "90'",
+      "minute": "95'",
       "odds_before": 3.9,
-      "odds_now": 1.125,
-      "change_percent": -71.15
+      "odds_now": 1.0303,
+      "change_percent": -73.58
     },
     {
       "eventId": "202801739",
@@ -28,7 +28,7 @@
       "selection": "AWAY",
       "team": "Macarthur FC",
       "score": "0:2",
-      "minute": "34'",
+      "minute": "39'",
       "odds_before": 3.9,
       "odds_now": 1.2857,
       "change_percent": -67.03
