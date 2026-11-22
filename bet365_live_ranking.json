@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T18:05:13.756924+00:00",
+  "updated_at": "2026-11-22T18:10:15.099636+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,28 +14,28 @@
       "selection": "HOME",
       "team": "Guediawaye FC",
       "score": "1:0",
-      "minute": "45'",
+      "minute": "48'",
       "odds_before": 3.5,
       "odds_now": 1.4,
       "change_percent": -60.0,
       "statistics_assessment": {
-        "status": "MIXED",
+        "status": "SUPPORTED",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 4.0,
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 41.0,
-            "opponent": 43.0
+            "selected": 47.0,
+            "opponent": 44.0
           },
           "corners": {
-            "selected": 2.0,
+            "selected": 3.0,
             "opponent": 2.0
           }
         },
-        "advantage_count": 1,
-        "disadvantage_count": 1
+        "advantage_count": 3,
+        "disadvantage_count": 0
       }
     },
     {
@@ -47,7 +47,7 @@
       "selection": "AWAY",
       "team": "Real Unión",
       "score": "0:1",
-      "minute": "50'",
+      "minute": "45'",
       "odds_before": 3.3,
       "odds_now": 1.5,
       "change_percent": -54.55,
@@ -69,6 +69,39 @@
         },
         "advantage_count": 1,
         "disadvantage_count": 1
+      }
+    },
+    {
+      "eventId": "204455554",
+      "sport": "Piłka nożna",
+      "competition": "Spain Segunda Division RFEF Group 3",
+      "home": "Valencia Mestalla",
+      "away": "Alcoyano",
+      "selection": "AWAY",
+      "team": "Alcoyano",
+      "score": "0:1",
+      "minute": "52'",
+      "odds_before": 3.9,
+      "odds_now": 1.8333,
+      "change_percent": -52.99,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 1.0,
+            "opponent": 3.0
+          },
+          "dangerousAttacks": {
+            "selected": 19.0,
+            "opponent": 85.0
+          },
+          "corners": {
+            "selected": 0.0,
+            "opponent": 2.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 3
       }
     }
   ]
