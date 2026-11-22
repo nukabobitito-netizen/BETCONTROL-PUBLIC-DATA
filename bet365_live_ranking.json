@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T12:25:13.397111+00:00",
+  "updated_at": "2026-11-22T12:30:16.552035+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "AWAY",
       "team": "Las Palmas B",
       "score": "0:2",
-      "minute": "66'",
+      "minute": "71'",
       "odds_before": 5.25,
-      "odds_now": 1.0909,
-      "change_percent": -79.22,
+      "odds_now": 1.0714,
+      "change_percent": -79.59,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -26,8 +26,8 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 42.0,
-            "opponent": 73.0
+            "selected": 48.0,
+            "opponent": 81.0
           },
           "corners": {
             "selected": 3.0,
@@ -47,23 +47,23 @@
       "selection": "AWAY",
       "team": "UD Tomares",
       "score": "0:2",
-      "minute": "68'",
+      "minute": "73'",
       "odds_before": 3.3,
-      "odds_now": 1.0303,
-      "change_percent": -68.78,
+      "odds_now": 1.025,
+      "change_percent": -68.94,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 6.0,
-            "opponent": 3.0
+            "opponent": 4.0
           },
           "dangerousAttacks": {
-            "selected": 23.0,
-            "opponent": 21.0
+            "selected": 26.0,
+            "opponent": 23.0
           },
           "corners": {
-            "selected": 5.0,
+            "selected": 6.0,
             "opponent": 3.0
           }
         },
@@ -80,10 +80,10 @@
       "selection": "AWAY",
       "team": "UD Ibiza",
       "score": "0:2",
-      "minute": "62'",
+      "minute": "67'",
       "odds_before": 3.2,
-      "odds_now": 1.125,
-      "change_percent": -64.84,
+      "odds_now": 1.0833,
+      "change_percent": -66.15,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -93,7 +93,7 @@
           },
           "dangerousAttacks": {
             "selected": 10.0,
-            "opponent": 33.0
+            "opponent": 39.0
           },
           "corners": {
             "selected": 2.0,
@@ -113,24 +113,24 @@
       "selection": "AWAY",
       "team": "Resovia Rzeszow",
       "score": "0:1",
-      "minute": "72'",
+      "minute": "77'",
       "odds_before": 4.0,
-      "odds_now": 1.4444,
-      "change_percent": -63.89,
+      "odds_now": 1.4,
+      "change_percent": -65.0,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 6.0,
-            "opponent": 7.0
+            "opponent": 8.0
           },
           "dangerousAttacks": {
-            "selected": 60.0,
-            "opponent": 61.0
+            "selected": 62.0,
+            "opponent": 70.0
           },
           "corners": {
             "selected": 4.0,
-            "opponent": 7.0
+            "opponent": 8.0
           }
         },
         "advantage_count": 0,
@@ -146,10 +146,10 @@
       "selection": "AWAY",
       "team": "CFJ Mollerussa",
       "score": "0:1",
-      "minute": "69'",
+      "minute": "74'",
       "odds_before": 3.8,
-      "odds_now": 1.4,
-      "change_percent": -63.16,
+      "odds_now": 1.3636,
+      "change_percent": -64.12,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -158,12 +158,45 @@
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 22.0,
-            "opponent": 28.0
+            "selected": 25.0,
+            "opponent": 31.0
           },
           "corners": {
-            "selected": 3.0,
-            "opponent": 5.0
+            "selected": 4.0,
+            "opponent": 6.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 3
+      }
+    },
+    {
+      "eventId": "204792334",
+      "sport": "Piłka nożna",
+      "competition": "Spain Tercera Group 6",
+      "home": "CD San Vicente",
+      "away": "Utiel",
+      "selection": "AWAY",
+      "team": "Utiel",
+      "score": "0:1",
+      "minute": "68'",
+      "odds_before": 3.3,
+      "odds_now": 1.4,
+      "change_percent": -57.58,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 1.0,
+            "opponent": 2.0
+          },
+          "dangerousAttacks": {
+            "selected": 16.0,
+            "opponent": 32.0
+          },
+          "corners": {
+            "selected": 1.0,
+            "opponent": 3.0
           }
         },
         "advantage_count": 0,
