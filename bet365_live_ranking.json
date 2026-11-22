@@ -1,25 +1,58 @@
 {
-  "updated_at": "2026-11-22T14:45:14.787481+00:00",
+  "updated_at": "2026-11-22T14:50:15.327534+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
   "drops": [
     {
-      "eventId": "204909720",
+      "eventId": "204853266",
       "sport": "Piłka nożna",
-      "competition": "Italy Eccellenza",
-      "home": "Atletico Racale",
-      "away": "Galatina",
+      "competition": "Italy Serie D",
+      "home": "ASD Rondinella Marzocco",
+      "away": "GSD Ghiviborgo VDS",
       "selection": "AWAY",
-      "team": "Galatina",
+      "team": "GSD Ghiviborgo VDS",
       "score": "0:1",
-      "minute": "61'",
-      "odds_before": 4.5,
+      "minute": "60'",
+      "odds_before": 4.2,
       "odds_now": 1.4444,
-      "change_percent": -67.9,
+      "change_percent": -65.61,
       "statistics_assessment": {
-        "status": "AGAINST",
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 7.0,
+            "opponent": 2.0
+          },
+          "dangerousAttacks": {
+            "selected": 41.0,
+            "opponent": 35.0
+          },
+          "corners": {
+            "selected": 4.0,
+            "opponent": 5.0
+          }
+        },
+        "advantage_count": 2,
+        "disadvantage_count": 1
+      }
+    },
+    {
+      "eventId": "204897245",
+      "sport": "Piłka nożna",
+      "competition": "Italy Serie D",
+      "home": "Legnago Salus",
+      "away": "Calcio Schio",
+      "selection": "AWAY",
+      "team": "Calcio Schio",
+      "score": "0:1",
+      "minute": "56'",
+      "odds_before": 5.0,
+      "odds_now": 1.7273,
+      "change_percent": -65.45,
+      "statistics_assessment": {
+        "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 3.0,
@@ -27,15 +60,48 @@
           },
           "dangerousAttacks": {
             "selected": 19.0,
-            "opponent": 30.0
+            "opponent": 27.0
+          },
+          "corners": {
+            "selected": 3.0,
+            "opponent": 0.0
+          }
+        },
+        "advantage_count": 1,
+        "disadvantage_count": 1
+      }
+    },
+    {
+      "eventId": "204856414",
+      "sport": "Piłka nożna",
+      "competition": "Brazil Paulista Women",
+      "home": "Corinthians (W)",
+      "away": "Bragantino (W)",
+      "selection": "AWAY",
+      "team": "Bragantino (W)",
+      "score": "0:1",
+      "minute": "45'",
+      "odds_before": 6.0,
+      "odds_now": 2.1,
+      "change_percent": -65.0,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 2.0,
+            "opponent": 3.0
+          },
+          "dangerousAttacks": {
+            "selected": 20.0,
+            "opponent": 35.0
           },
           "corners": {
             "selected": 2.0,
-            "opponent": 5.0
+            "opponent": 3.0
           }
         },
         "advantage_count": 0,
-        "disadvantage_count": 2
+        "disadvantage_count": 3
       }
     },
     {
@@ -59,8 +125,8 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 10.0,
-            "opponent": 23.0
+            "selected": 11.0,
+            "opponent": 24.0
           },
           "corners": {
             "selected": 2.0,
@@ -72,69 +138,36 @@
       }
     },
     {
-      "eventId": "204853266",
+      "eventId": "204853264",
       "sport": "Piłka nożna",
       "competition": "Italy Serie D",
-      "home": "ASD Rondinella Marzocco",
-      "away": "GSD Ghiviborgo VDS",
-      "selection": "AWAY",
-      "team": "GSD Ghiviborgo VDS",
-      "score": "0:1",
-      "minute": "55'",
-      "odds_before": 4.2,
-      "odds_now": 1.5333,
-      "change_percent": -63.49,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 7.0,
-            "opponent": 2.0
-          },
-          "dangerousAttacks": {
-            "selected": 39.0,
-            "opponent": 29.0
-          },
-          "corners": {
-            "selected": 4.0,
-            "opponent": 5.0
-          }
-        },
-        "advantage_count": 2,
-        "disadvantage_count": 1
-      }
-    },
-    {
-      "eventId": "204856414",
-      "sport": "Piłka nożna",
-      "competition": "Brazil Paulista Women",
-      "home": "Corinthians (W)",
-      "away": "Bragantino (W)",
-      "selection": "AWAY",
-      "team": "Bragantino (W)",
-      "score": "0:1",
-      "minute": "44'",
-      "odds_before": 6.0,
-      "odds_now": 2.2,
-      "change_percent": -63.33,
+      "home": "Scandicci",
+      "away": "Prato",
+      "selection": "HOME",
+      "team": "Scandicci",
+      "score": "1:0",
+      "minute": "64'",
+      "odds_before": 4.5,
+      "odds_now": 1.6154,
+      "change_percent": -64.1,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 3.0
+            "selected": 1.0,
+            "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 17.0,
-            "opponent": 32.0
+            "selected": 34.0,
+            "opponent": 50.0
           },
           "corners": {
-            "selected": 2.0,
+            "selected": 0.0,
             "opponent": 3.0
           }
         },
         "advantage_count": 0,
-        "disadvantage_count": 3
+        "disadvantage_count": 2
       }
     },
     {
@@ -171,39 +204,6 @@
       }
     },
     {
-      "eventId": "204853264",
-      "sport": "Piłka nożna",
-      "competition": "Italy Serie D",
-      "home": "Scandicci",
-      "away": "Prato",
-      "selection": "HOME",
-      "team": "Scandicci",
-      "score": "1:0",
-      "minute": "60'",
-      "odds_before": 4.5,
-      "odds_now": 1.7273,
-      "change_percent": -61.62,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 1.0,
-            "opponent": 1.0
-          },
-          "dangerousAttacks": {
-            "selected": 33.0,
-            "opponent": 46.0
-          },
-          "corners": {
-            "selected": 0.0,
-            "opponent": 3.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 2
-      }
-    },
-    {
       "eventId": "204781636",
       "sport": "Piłka nożna",
       "competition": "England League Cup Women",
@@ -212,7 +212,7 @@
       "selection": "AWAY",
       "team": "Nottm Forest (W)",
       "score": "0:2",
-      "minute": "44'",
+      "minute": "45'",
       "odds_before": 3.4,
       "odds_now": 1.3333,
       "change_percent": -60.79,
@@ -224,7 +224,7 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 41.0,
+            "selected": 43.0,
             "opponent": 33.0
           },
           "corners": {
@@ -245,10 +245,10 @@
       "selection": "AWAY",
       "team": "FC Sion II",
       "score": "0:1",
-      "minute": "28'",
+      "minute": "32'",
       "odds_before": 5.5,
-      "odds_now": 2.25,
-      "change_percent": -59.09,
+      "odds_now": 2.2,
+      "change_percent": -60.0,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -257,8 +257,8 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 14.0,
-            "opponent": 16.0
+            "selected": 16.0,
+            "opponent": 19.0
           },
           "corners": {
             "selected": 0.0,
@@ -278,7 +278,7 @@
       "selection": "AWAY",
       "team": "Derthona",
       "score": "0:1",
-      "minute": "46'",
+      "minute": "45'",
       "odds_before": 3.3,
       "odds_now": 1.5,
       "change_percent": -54.55,
@@ -291,7 +291,7 @@
           },
           "dangerousAttacks": {
             "selected": 24.0,
-            "opponent": 15.0
+            "opponent": 16.0
           },
           "corners": {
             "selected": 1.0,
@@ -303,36 +303,36 @@
       }
     },
     {
-      "eventId": "203235820",
+      "eventId": "204878215",
       "sport": "Piłka nożna",
-      "competition": "Portugal Segunda Liga",
-      "home": "Vizela",
-      "away": "Feirense",
+      "competition": "Switzerland 1.Liga Promotion",
+      "home": "FC Schaffhausen",
+      "away": "SC Cham",
       "selection": "AWAY",
-      "team": "Feirense",
+      "team": "SC Cham",
       "score": "1:2",
-      "minute": "44'",
-      "odds_before": 3.9,
-      "odds_now": 1.9091,
-      "change_percent": -51.05,
+      "minute": "45'",
+      "odds_before": 3.2,
+      "odds_now": 1.5714,
+      "change_percent": -50.89,
       "statistics_assessment": {
-        "status": "AGAINST",
+        "status": "SUPPORTED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 3.0
+            "selected": 4.0,
+            "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 12.0,
-            "opponent": 34.0
+            "selected": 48.0,
+            "opponent": 25.0
           },
           "corners": {
-            "selected": 0.0,
-            "opponent": 5.0
+            "selected": 4.0,
+            "opponent": 0.0
           }
         },
-        "advantage_count": 0,
-        "disadvantage_count": 3
+        "advantage_count": 3,
+        "disadvantage_count": 0
       }
     }
   ]
