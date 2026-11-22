@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T16:55:25.883386+00:00",
+  "updated_at": "2026-11-22T17:00:20.516644+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,28 +14,28 @@
       "selection": "HOME",
       "team": "Cenicero",
       "score": "2:1",
-      "minute": "82'",
+      "minute": "87'",
       "odds_before": 6.5,
-      "odds_now": 1.3636,
-      "change_percent": -79.02,
+      "odds_now": 1.2,
+      "change_percent": -81.54,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 7.0,
-            "opponent": 8.0
+            "selected": 8.0,
+            "opponent": 9.0
           },
           "dangerousAttacks": {
-            "selected": 45.0,
-            "opponent": 63.0
+            "selected": 50.0,
+            "opponent": 69.0
           },
           "corners": {
             "selected": 5.0,
-            "opponent": 5.0
+            "opponent": 6.0
           }
         },
         "advantage_count": 0,
-        "disadvantage_count": 2
+        "disadvantage_count": 3
       }
     },
     {
@@ -72,39 +72,6 @@
       }
     },
     {
-      "eventId": "204786600",
-      "sport": "Piłka nożna",
-      "competition": "Portugal Campeonato Nacional Women",
-      "home": "Valadares Gaia FC (W)",
-      "away": "Torreense (W)",
-      "selection": "HOME",
-      "team": "Valadares Gaia FC (W)",
-      "score": "1:0",
-      "minute": "91'",
-      "odds_before": 4.5,
-      "odds_now": 1.0833,
-      "change_percent": -75.93,
-      "statistics_assessment": {
-        "status": "SUPPORTED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 5.0,
-            "opponent": 5.0
-          },
-          "dangerousAttacks": {
-            "selected": 76.0,
-            "opponent": 56.0
-          },
-          "corners": {
-            "selected": 4.0,
-            "opponent": 3.0
-          }
-        },
-        "advantage_count": 2,
-        "disadvantage_count": 0
-      }
-    },
-    {
       "eventId": "203576113",
       "sport": "Piłka nożna",
       "competition": "Bulgaria First League",
@@ -115,8 +82,8 @@
       "score": "2:0",
       "minute": "45'",
       "odds_before": 5.25,
-      "odds_now": 1.3333,
-      "change_percent": -74.6,
+      "odds_now": 1.3636,
+      "change_percent": -74.03,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -146,20 +113,20 @@
       "selection": "AWAY",
       "team": "AD Almudevar",
       "score": "1:2",
-      "minute": "67'",
+      "minute": "72'",
       "odds_before": 3.8,
-      "odds_now": 1.2857,
-      "change_percent": -66.17,
+      "odds_now": 1.25,
+      "change_percent": -67.11,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 3.0,
+            "selected": 4.0,
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 42.0,
-            "opponent": 37.0
+            "selected": 44.0,
+            "opponent": 41.0
           },
           "corners": {
             "selected": 8.0,
@@ -179,7 +146,7 @@
       "selection": "HOME",
       "team": "JK Viljandi Tulevik",
       "score": "2:0",
-      "minute": "45'",
+      "minute": "46'",
       "odds_before": 3.3,
       "odds_now": 1.2857,
       "change_percent": -61.04,
@@ -234,39 +201,6 @@
         },
         "advantage_count": 1,
         "disadvantage_count": 2
-      }
-    },
-    {
-      "eventId": "203186396",
-      "sport": "Piłka nożna",
-      "competition": "Netherlands Eredivisie",
-      "home": "Go Ahead Eagles",
-      "away": "Fortuna Sittard",
-      "selection": "AWAY",
-      "team": "Fortuna Sittard",
-      "score": "0:1",
-      "minute": "51'",
-      "odds_before": 4.3333,
-      "odds_now": 2.05,
-      "change_percent": -52.69,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 1.0,
-            "opponent": 3.0
-          },
-          "dangerousAttacks": {
-            "selected": 9.0,
-            "opponent": 39.0
-          },
-          "corners": {
-            "selected": 1.0,
-            "opponent": 8.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 3
       }
     }
   ]
