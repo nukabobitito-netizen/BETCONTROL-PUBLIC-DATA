@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T10:25:11.928354+00:00",
+  "updated_at": "2026-11-22T10:30:19.535232+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,24 +14,24 @@
       "selection": "AWAY",
       "team": "Asia Lion FC",
       "score": "0:3",
-      "minute": "65'",
+      "minute": "70'",
       "odds_before": 8.0,
-      "odds_now": 1.05,
-      "change_percent": -86.88,
+      "odds_now": 1.0357,
+      "change_percent": -87.05,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 6.0,
-            "opponent": 2.0
+            "opponent": 4.0
           },
           "dangerousAttacks": {
-            "selected": 50.0,
-            "opponent": 63.0
+            "selected": 51.0,
+            "opponent": 70.0
           },
           "corners": {
             "selected": 1.0,
-            "opponent": 3.0
+            "opponent": 4.0
           }
         },
         "advantage_count": 1,
@@ -47,28 +47,61 @@
       "selection": "HOME",
       "team": "Chattrakan City FC",
       "score": "1:0",
-      "minute": "92'",
+      "minute": "97'",
       "odds_before": 3.6,
-      "odds_now": 1.0625,
-      "change_percent": -70.49,
+      "odds_now": 1.01,
+      "change_percent": -71.94,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 4.0,
+            "selected": 5.0,
             "opponent": 0.0
           },
           "dangerousAttacks": {
-            "selected": 24.0,
-            "opponent": 31.0
+            "selected": 26.0,
+            "opponent": 34.0
           },
           "corners": {
-            "selected": 3.0,
+            "selected": 4.0,
             "opponent": 6.0
           }
         },
         "advantage_count": 1,
         "disadvantage_count": 2
+      }
+    },
+    {
+      "eventId": "204856873",
+      "sport": "Piłka nożna",
+      "competition": "Rwanda Womens League",
+      "home": "Inyemera WFC (W)",
+      "away": "Bugesera (W)",
+      "selection": "AWAY",
+      "team": "Bugesera (W)",
+      "score": "0:1",
+      "minute": "22'",
+      "odds_before": 4.1,
+      "odds_now": 1.9524,
+      "change_percent": -52.38,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 2.0,
+            "opponent": 0.0
+          },
+          "dangerousAttacks": {
+            "selected": 25.0,
+            "opponent": 17.0
+          },
+          "corners": {
+            "selected": 0.0,
+            "opponent": 1.0
+          }
+        },
+        "advantage_count": 2,
+        "disadvantage_count": 1
       }
     }
   ]
