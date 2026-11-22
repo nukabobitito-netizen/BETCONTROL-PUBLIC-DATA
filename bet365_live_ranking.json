@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T15:00:16.686004+00:00",
+  "updated_at": "2026-11-22T15:05:12.860515+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,27 +14,27 @@
       "selection": "AWAY",
       "team": "FC Sion II",
       "score": "0:2",
-      "minute": "43'",
+      "minute": "45'",
       "odds_before": 5.5,
-      "odds_now": 1.3333,
-      "change_percent": -75.76,
+      "odds_now": 1.2857,
+      "change_percent": -76.62,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 3.0,
+            "selected": 4.0,
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 23.0,
+            "selected": 24.0,
             "opponent": 21.0
           },
           "corners": {
-            "selected": 1.0,
+            "selected": 2.0,
             "opponent": 1.0
           }
         },
-        "advantage_count": 2,
+        "advantage_count": 3,
         "disadvantage_count": 0
       }
     },
@@ -47,10 +47,10 @@
       "selection": "AWAY",
       "team": "Calcio Schio",
       "score": "0:1",
-      "minute": "67'",
+      "minute": "71'",
       "odds_before": 5.0,
-      "odds_now": 1.4,
-      "change_percent": -72.0,
+      "odds_now": 1.3333,
+      "change_percent": -73.33,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -59,8 +59,8 @@
             "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 21.0,
-            "opponent": 33.0
+            "selected": 23.0,
+            "opponent": 34.0
           },
           "corners": {
             "selected": 3.0,
@@ -80,10 +80,10 @@
       "selection": "HOME",
       "team": "Scandicci",
       "score": "1:0",
-      "minute": "75'",
+      "minute": "79'",
       "odds_before": 4.5,
-      "odds_now": 1.4444,
-      "change_percent": -67.9,
+      "odds_now": 1.3333,
+      "change_percent": -70.37,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -93,7 +93,7 @@
           },
           "dangerousAttacks": {
             "selected": 38.0,
-            "opponent": 60.0
+            "opponent": 64.0
           },
           "corners": {
             "selected": 1.0,
@@ -113,10 +113,10 @@
       "selection": "AWAY",
       "team": "GSD Ghiviborgo VDS",
       "score": "0:1",
-      "minute": "70'",
+      "minute": "75'",
       "odds_before": 4.2,
-      "odds_now": 1.3636,
-      "change_percent": -67.53,
+      "odds_now": 1.2857,
+      "change_percent": -69.39,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
@@ -125,15 +125,15 @@
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 49.0,
-            "opponent": 43.0
+            "selected": 52.0,
+            "opponent": 45.0
           },
           "corners": {
-            "selected": 5.0,
+            "selected": 6.0,
             "opponent": 5.0
           }
         },
-        "advantage_count": 2,
+        "advantage_count": 3,
         "disadvantage_count": 0
       }
     },
@@ -212,10 +212,10 @@
       "selection": "AWAY",
       "team": "Nottm Forest (W)",
       "score": "0:2",
-      "minute": "45'",
+      "minute": "48'",
       "odds_before": 3.4,
-      "odds_now": 1.25,
-      "change_percent": -63.24,
+      "odds_now": 1.2857,
+      "change_percent": -62.19,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
@@ -224,8 +224,8 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 43.0,
-            "opponent": 33.0
+            "selected": 46.0,
+            "opponent": 35.0
           },
           "corners": {
             "selected": 0.0,
@@ -237,36 +237,36 @@
       }
     },
     {
-      "eventId": "204909712",
+      "eventId": "203186190",
       "sport": "Piłka nożna",
-      "competition": "France U19 League",
-      "home": "US Cap d'Ail U19",
-      "away": "SC Bastia U19",
+      "competition": "Austria Bundesliga",
+      "home": "SCR Altach",
+      "away": "SK Sturm Graz",
       "selection": "HOME",
-      "team": "US Cap d'Ail U19",
+      "team": "SCR Altach",
       "score": "1:0",
-      "minute": "66'",
-      "odds_before": 3.5,
-      "odds_now": 1.3333,
-      "change_percent": -61.91,
+      "minute": "76'",
+      "odds_before": 3.4,
+      "odds_now": 1.3,
+      "change_percent": -61.76,
       "statistics_assessment": {
-        "status": "MIXED",
+        "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 8.0,
-            "opponent": 5.0
+            "selected": 3.0,
+            "opponent": 4.0
           },
           "dangerousAttacks": {
-            "selected": 33.0,
-            "opponent": 25.0
+            "selected": 37.0,
+            "opponent": 48.0
           },
           "corners": {
-            "selected": 5.0,
+            "selected": 4.0,
             "opponent": 6.0
           }
         },
-        "advantage_count": 2,
-        "disadvantage_count": 1
+        "advantage_count": 0,
+        "disadvantage_count": 3
       }
     },
     {
@@ -278,7 +278,7 @@
       "selection": "HOME",
       "team": "Charlton (W)",
       "score": "1:0",
-      "minute": "45'",
+      "minute": "47'",
       "odds_before": 4.5,
       "odds_now": 1.7273,
       "change_percent": -61.62,
@@ -303,39 +303,6 @@
       }
     },
     {
-      "eventId": "203186190",
-      "sport": "Piłka nożna",
-      "competition": "Austria Bundesliga",
-      "home": "SCR Altach",
-      "away": "SK Sturm Graz",
-      "selection": "HOME",
-      "team": "SCR Altach",
-      "score": "1:0",
-      "minute": "71'",
-      "odds_before": 3.4,
-      "odds_now": 1.3636,
-      "change_percent": -59.89,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 3.0
-          },
-          "dangerousAttacks": {
-            "selected": 35.0,
-            "opponent": 43.0
-          },
-          "corners": {
-            "selected": 4.0,
-            "opponent": 5.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 3
-      }
-    },
-    {
       "eventId": "204853213",
       "sport": "Piłka nożna",
       "competition": "Italy Serie D",
@@ -344,20 +311,20 @@
       "selection": "AWAY",
       "team": "Derthona",
       "score": "0:1",
-      "minute": "45'",
+      "minute": "49'",
       "odds_before": 3.3,
-      "odds_now": 1.5,
-      "change_percent": -54.55,
+      "odds_now": 1.4444,
+      "change_percent": -56.23,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 5.0,
-            "opponent": 2.0
+            "selected": 6.0,
+            "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 24.0,
-            "opponent": 16.0
+            "selected": 27.0,
+            "opponent": 19.0
           },
           "corners": {
             "selected": 1.0,
@@ -369,6 +336,39 @@
       }
     },
     {
+      "eventId": "203235820",
+      "sport": "Piłka nożna",
+      "competition": "Portugal Segunda Liga",
+      "home": "Vizela",
+      "away": "Feirense",
+      "selection": "AWAY",
+      "team": "Feirense",
+      "score": "1:2",
+      "minute": "45'",
+      "odds_before": 3.9,
+      "odds_now": 1.9091,
+      "change_percent": -51.05,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 2.0,
+            "opponent": 3.0
+          },
+          "dangerousAttacks": {
+            "selected": 13.0,
+            "opponent": 38.0
+          },
+          "corners": {
+            "selected": 0.0,
+            "opponent": 6.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 3
+      }
+    },
+    {
       "eventId": "204878215",
       "sport": "Piłka nożna",
       "competition": "Switzerland 1.Liga Promotion",
@@ -377,7 +377,7 @@
       "selection": "AWAY",
       "team": "SC Cham",
       "score": "1:2",
-      "minute": "45'",
+      "minute": "46'",
       "odds_before": 3.2,
       "odds_now": 1.5714,
       "change_percent": -50.89,
@@ -389,8 +389,8 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 48.0,
-            "opponent": 25.0
+            "selected": 50.0,
+            "opponent": 26.0
           },
           "corners": {
             "selected": 4.0,
