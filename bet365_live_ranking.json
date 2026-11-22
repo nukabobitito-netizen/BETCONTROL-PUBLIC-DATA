@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T09:55:14.407809+00:00",
+  "updated_at": "2026-11-22T10:00:18.170489+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -47,10 +47,10 @@
       "selection": "HOME",
       "team": "Chattrakan City FC",
       "score": "1:0",
-      "minute": "62'",
+      "minute": "67'",
       "odds_before": 3.6,
-      "odds_now": 1.4444,
-      "change_percent": -59.88,
+      "odds_now": 1.4,
+      "change_percent": -61.11,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -59,8 +59,8 @@
             "opponent": 0.0
           },
           "dangerousAttacks": {
-            "selected": 17.0,
-            "opponent": 21.0
+            "selected": 19.0,
+            "opponent": 24.0
           },
           "corners": {
             "selected": 2.0,
