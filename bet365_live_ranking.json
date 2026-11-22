@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T01:50:12.758492+00:00",
+  "updated_at": "2026-11-22T01:55:12.727698+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "AWAY",
       "team": "Real Refineros FC",
       "score": "0:1",
-      "minute": "43'",
+      "minute": "45'",
       "odds_before": 7.5,
-      "odds_now": 2.625,
-      "change_percent": -65.0
+      "odds_now": 2.6,
+      "change_percent": -65.33
     },
     {
       "eventId": "204851152",
@@ -32,6 +32,20 @@
       "odds_before": 7.5,
       "odds_now": 3.6,
       "change_percent": -52.0
+    },
+    {
+      "eventId": "204786879",
+      "sport": "Piłka nożna",
+      "competition": "Guatemala Primera Division",
+      "home": "Nueva Santa Rosa CDF",
+      "away": "Deportivo Fraijanes",
+      "selection": "AWAY",
+      "team": "Deportivo Fraijanes",
+      "score": "0:1",
+      "minute": "44'",
+      "odds_before": 4.1,
+      "odds_now": 2.05,
+      "change_percent": -50.0
     }
   ]
 }
