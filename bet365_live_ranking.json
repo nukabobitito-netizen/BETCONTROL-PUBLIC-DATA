@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T11:25:14.413045+00:00",
+  "updated_at": "2026-11-22T11:30:14.951741+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,28 +14,28 @@
       "selection": "AWAY",
       "team": "Annecy U19",
       "score": "2:4",
-      "minute": "64'",
+      "minute": "69'",
       "odds_before": 4.2,
-      "odds_now": 1.0909,
-      "change_percent": -74.03,
+      "odds_now": 1.0714,
+      "change_percent": -74.49,
       "statistics_assessment": {
-        "status": "MIXED",
+        "status": "SUPPORTED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 9.0,
+            "selected": 10.0,
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 29.0,
+            "selected": 34.0,
             "opponent": 30.0
           },
           "corners": {
-            "selected": 6.0,
+            "selected": 7.0,
             "opponent": 5.0
           }
         },
-        "advantage_count": 2,
-        "disadvantage_count": 1
+        "advantage_count": 3,
+        "disadvantage_count": 0
       }
     },
     {
@@ -47,7 +47,7 @@
       "selection": "AWAY",
       "team": "Ayutthaya United",
       "score": "0:1",
-      "minute": "25'",
+      "minute": "30'",
       "odds_before": 7.0,
       "odds_now": 2.375,
       "change_percent": -66.07,
@@ -59,8 +59,8 @@
             "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 14.0,
-            "opponent": 9.0
+            "selected": 15.0,
+            "opponent": 14.0
           },
           "corners": {
             "selected": 3.0,
@@ -68,6 +68,39 @@
           }
         },
         "advantage_count": 2,
+        "disadvantage_count": 1
+      }
+    },
+    {
+      "eventId": "204891789",
+      "sport": "Piłka nożna",
+      "competition": "Maldives Premier League",
+      "home": "ODI SC",
+      "away": "TC Sports Club",
+      "selection": "AWAY",
+      "team": "TC Sports Club",
+      "score": "0:1",
+      "minute": "33'",
+      "odds_before": 6.5,
+      "odds_now": 2.375,
+      "change_percent": -63.46,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 2.0,
+            "opponent": 1.0
+          },
+          "dangerousAttacks": {
+            "selected": 13.0,
+            "opponent": 19.0
+          },
+          "corners": {
+            "selected": 1.0,
+            "opponent": 1.0
+          }
+        },
+        "advantage_count": 1,
         "disadvantage_count": 1
       }
     },
@@ -80,7 +113,7 @@
       "selection": "AWAY",
       "team": "Quy Nhon United",
       "score": "1:2",
-      "minute": "70'",
+      "minute": "75'",
       "odds_before": 3.4,
       "odds_now": 1.25,
       "change_percent": -63.24,
@@ -88,19 +121,19 @@
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 4.0,
+            "selected": 5.0,
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 26.0,
-            "opponent": 31.0
+            "selected": 28.0,
+            "opponent": 35.0
           },
           "corners": {
             "selected": 3.0,
-            "opponent": 2.0
+            "opponent": 3.0
           }
         },
-        "advantage_count": 2,
+        "advantage_count": 1,
         "disadvantage_count": 1
       }
     },
@@ -113,7 +146,7 @@
       "selection": "AWAY",
       "team": "UD Tomares",
       "score": "0:1",
-      "minute": "25'",
+      "minute": "30'",
       "odds_before": 3.3,
       "odds_now": 1.25,
       "change_percent": -62.12,
@@ -121,19 +154,19 @@
         "status": "SUPPORTED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 3.0,
+            "selected": 4.0,
             "opponent": 0.0
           },
           "dangerousAttacks": {
-            "selected": 9.0,
-            "opponent": 7.0
+            "selected": 11.0,
+            "opponent": 8.0
           },
           "corners": {
-            "selected": 2.0,
+            "selected": 3.0,
             "opponent": 2.0
           }
         },
-        "advantage_count": 2,
+        "advantage_count": 3,
         "disadvantage_count": 0
       }
     },
@@ -146,7 +179,7 @@
       "selection": "AWAY",
       "team": "Recreativo Granada",
       "score": "0:1",
-      "minute": "24'",
+      "minute": "29'",
       "odds_before": 4.75,
       "odds_now": 1.8,
       "change_percent": -62.11,
@@ -158,12 +191,12 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 13.0,
-            "opponent": 18.0
+            "selected": 14.0,
+            "opponent": 24.0
           },
           "corners": {
             "selected": 0.0,
-            "opponent": 1.0
+            "opponent": 2.0
           }
         },
         "advantage_count": 0,
@@ -179,27 +212,27 @@
       "selection": "AWAY",
       "team": "Sandorfalvi SK",
       "score": "1:1",
-      "minute": "64'",
+      "minute": "69'",
       "odds_before": 9.0,
-      "odds_now": 4.0,
-      "change_percent": -55.56,
+      "odds_now": 4.3333,
+      "change_percent": -51.85,
       "statistics_assessment": {
-        "status": "AGAINST",
+        "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 2.0,
+            "selected": 3.0,
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 27.0,
-            "opponent": 49.0
+            "selected": 32.0,
+            "opponent": 53.0
           },
           "corners": {
-            "selected": 0.0,
+            "selected": 1.0,
             "opponent": 3.0
           }
         },
-        "advantage_count": 0,
+        "advantage_count": 1,
         "disadvantage_count": 2
       }
     },
@@ -212,10 +245,10 @@
       "selection": "AWAY",
       "team": "Beaucouze U19",
       "score": "0:1",
-      "minute": "66'",
+      "minute": "71'",
       "odds_before": 3.75,
-      "odds_now": 1.8,
-      "change_percent": -52.0,
+      "odds_now": 1.8333,
+      "change_percent": -51.11,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -224,8 +257,8 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 25.0,
-            "opponent": 47.0
+            "selected": 26.0,
+            "opponent": 51.0
           },
           "corners": {
             "selected": 4.0,
@@ -234,6 +267,39 @@
         },
         "advantage_count": 1,
         "disadvantage_count": 2
+      }
+    },
+    {
+      "eventId": "204855147",
+      "sport": "Piłka nożna",
+      "competition": "Spain Primera Federacion Women",
+      "home": "Atletico Madrid (W) B",
+      "away": "Tenerife B (W)",
+      "selection": "AWAY",
+      "team": "Tenerife B (W)",
+      "score": "0:1",
+      "minute": "70'",
+      "odds_before": 3.5,
+      "odds_now": 1.7273,
+      "change_percent": -50.65,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 0.0,
+            "opponent": 0.0
+          },
+          "dangerousAttacks": {
+            "selected": 0.0,
+            "opponent": 0.0
+          },
+          "corners": {
+            "selected": 0.0,
+            "opponent": 0.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 0
       }
     }
   ]
