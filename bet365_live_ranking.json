@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T17:25:15.121421+00:00",
+  "updated_at": "2026-11-22T17:30:16.486462+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "AWAY",
       "team": "Pobla Mafumet",
       "score": "0:3",
-      "minute": "64'",
+      "minute": "69'",
       "odds_before": 4.75,
-      "odds_now": 1.02,
-      "change_percent": -78.53,
+      "odds_now": 1.0125,
+      "change_percent": -78.68,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -26,49 +26,16 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 40.0,
-            "opponent": 66.0
+            "selected": 44.0,
+            "opponent": 73.0
           },
           "corners": {
-            "selected": 3.0,
-            "opponent": 5.0
+            "selected": 4.0,
+            "opponent": 6.0
           }
         },
         "advantage_count": 1,
         "disadvantage_count": 2
-      }
-    },
-    {
-      "eventId": "204986183",
-      "sport": "Piłka nożna",
-      "competition": "Ivory Coast Ligue 2",
-      "home": "Athletic Adjame",
-      "away": "Lanfiara FC",
-      "selection": "AWAY",
-      "team": "Lanfiara FC",
-      "score": "1:2",
-      "minute": "91'",
-      "odds_before": 4.5,
-      "odds_now": 1.0303,
-      "change_percent": -77.1,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 6.0,
-            "opponent": 2.0
-          },
-          "dangerousAttacks": {
-            "selected": 53.0,
-            "opponent": 52.0
-          },
-          "corners": {
-            "selected": 2.0,
-            "opponent": 4.0
-          }
-        },
-        "advantage_count": 2,
-        "disadvantage_count": 1
       }
     },
     {
@@ -80,10 +47,10 @@
       "selection": "AWAY",
       "team": "Madrid CFF (W)",
       "score": "0:2",
-      "minute": "61'",
+      "minute": "66'",
       "odds_before": 4.3333,
-      "odds_now": 1.0303,
-      "change_percent": -76.22,
+      "odds_now": 1.025,
+      "change_percent": -76.35,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -92,8 +59,8 @@
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 31.0,
-            "opponent": 23.0
+            "selected": 35.0,
+            "opponent": 30.0
           },
           "corners": {
             "selected": 2.0,
@@ -113,24 +80,24 @@
       "selection": "AWAY",
       "team": "Fortuna Sittard",
       "score": "0:1",
-      "minute": "81'",
+      "minute": "86'",
       "odds_before": 4.3333,
-      "odds_now": 1.3333,
-      "change_percent": -69.23,
+      "odds_now": 1.1667,
+      "change_percent": -73.08,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 1.0,
-            "opponent": 10.0
+            "opponent": 11.0
           },
           "dangerousAttacks": {
             "selected": 16.0,
-            "opponent": 61.0
+            "opponent": 65.0
           },
           "corners": {
             "selected": 1.0,
-            "opponent": 11.0
+            "opponent": 12.0
           }
         },
         "advantage_count": 0,
@@ -146,10 +113,10 @@
       "selection": "AWAY",
       "team": "Atletico Tordesillas",
       "score": "0:1",
-      "minute": "61'",
+      "minute": "67'",
       "odds_before": 5.0,
-      "odds_now": 1.6667,
-      "change_percent": -66.67,
+      "odds_now": 1.5333,
+      "change_percent": -69.33,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -158,15 +125,15 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 34.0,
-            "opponent": 62.0
+            "selected": 41.0,
+            "opponent": 64.0
           },
           "corners": {
-            "selected": 2.0,
+            "selected": 3.0,
             "opponent": 2.0
           }
         },
-        "advantage_count": 1,
+        "advantage_count": 2,
         "disadvantage_count": 1
       }
     },
@@ -179,20 +146,20 @@
       "selection": "AWAY",
       "team": "CD Arenteiro",
       "score": "0:2",
-      "minute": "68'",
+      "minute": "73'",
       "odds_before": 4.0,
-      "odds_now": 1.3333,
-      "change_percent": -66.67,
+      "odds_now": 1.25,
+      "change_percent": -68.75,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 3.0,
-            "opponent": 3.0
+            "opponent": 4.0
           },
           "dangerousAttacks": {
-            "selected": 15.0,
-            "opponent": 64.0
+            "selected": 17.0,
+            "opponent": 72.0
           },
           "corners": {
             "selected": 1.0,
@@ -200,7 +167,7 @@
           }
         },
         "advantage_count": 0,
-        "disadvantage_count": 2
+        "disadvantage_count": 3
       }
     },
     {
@@ -212,23 +179,23 @@
       "selection": "AWAY",
       "team": "Basconia",
       "score": "0:1",
-      "minute": "68'",
+      "minute": "74'",
       "odds_before": 4.0,
-      "odds_now": 1.4444,
-      "change_percent": -63.89,
+      "odds_now": 1.4,
+      "change_percent": -65.0,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 2.0,
+            "selected": 3.0,
             "opponent": 5.0
           },
           "dangerousAttacks": {
-            "selected": 24.0,
-            "opponent": 42.0
+            "selected": 26.0,
+            "opponent": 44.0
           },
           "corners": {
-            "selected": 3.0,
+            "selected": 4.0,
             "opponent": 5.0
           }
         },
@@ -245,10 +212,10 @@
       "selection": "HOME",
       "team": "JK Viljandi Tulevik",
       "score": "2:1",
-      "minute": "70'",
+      "minute": "76'",
       "odds_before": 3.3,
-      "odds_now": 1.5714,
-      "change_percent": -52.38,
+      "odds_now": 1.4444,
+      "change_percent": -56.23,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -257,8 +224,8 @@
             "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 36.0,
-            "opponent": 46.0
+            "selected": 37.0,
+            "opponent": 50.0
           },
           "corners": {
             "selected": 4.0,
@@ -267,39 +234,6 @@
         },
         "advantage_count": 0,
         "disadvantage_count": 2
-      }
-    },
-    {
-      "eventId": "204792289",
-      "sport": "Piłka nożna",
-      "competition": "Spain Primera Division RFEF Group 1",
-      "home": "Merida",
-      "away": "Real Unión",
-      "selection": "AWAY",
-      "team": "Real Unión",
-      "score": "0:1",
-      "minute": "11'",
-      "odds_before": 3.3,
-      "odds_now": 1.6154,
-      "change_percent": -51.05,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 1.0,
-            "opponent": 0.0
-          },
-          "dangerousAttacks": {
-            "selected": 3.0,
-            "opponent": 4.0
-          },
-          "corners": {
-            "selected": 1.0,
-            "opponent": 0.0
-          }
-        },
-        "advantage_count": 2,
-        "disadvantage_count": 1
       }
     }
   ]
