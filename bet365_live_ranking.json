@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T12:40:15.000409+00:00",
+  "updated_at": "2026-11-22T12:45:24.584548+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "AWAY",
       "team": "Castro",
       "score": "1:2",
-      "minute": "82'",
+      "minute": "87'",
       "odds_before": 6.0,
-      "odds_now": 1.4,
-      "change_percent": -76.67,
+      "odds_now": 1.1429,
+      "change_percent": -80.95,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -27,7 +27,7 @@
           },
           "dangerousAttacks": {
             "selected": 21.0,
-            "opponent": 47.0
+            "opponent": 49.0
           },
           "corners": {
             "selected": 4.0,
@@ -36,72 +36,6 @@
         },
         "advantage_count": 0,
         "disadvantage_count": 2
-      }
-    },
-    {
-      "eventId": "203578644",
-      "sport": "Piłka nożna",
-      "competition": "Poland II Liga",
-      "home": "Hutnik Krakow",
-      "away": "Resovia Rzeszow",
-      "selection": "AWAY",
-      "team": "Resovia Rzeszow",
-      "score": "0:1",
-      "minute": "87'",
-      "odds_before": 4.0,
-      "odds_now": 1.1667,
-      "change_percent": -70.83,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 6.0,
-            "opponent": 10.0
-          },
-          "dangerousAttacks": {
-            "selected": 64.0,
-            "opponent": 82.0
-          },
-          "corners": {
-            "selected": 4.0,
-            "opponent": 13.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 3
-      }
-    },
-    {
-      "eventId": "204853578",
-      "sport": "Piłka nożna",
-      "competition": "Spain Tercera Group 10",
-      "home": "Chiclana",
-      "away": "UD Tomares",
-      "selection": "AWAY",
-      "team": "UD Tomares",
-      "score": "0:2",
-      "minute": "83'",
-      "odds_before": 3.3,
-      "odds_now": 1.01,
-      "change_percent": -69.39,
-      "statistics_assessment": {
-        "status": "SUPPORTED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 6.0,
-            "opponent": 4.0
-          },
-          "dangerousAttacks": {
-            "selected": 28.0,
-            "opponent": 28.0
-          },
-          "corners": {
-            "selected": 6.0,
-            "opponent": 3.0
-          }
-        },
-        "advantage_count": 2,
-        "disadvantage_count": 0
       }
     },
     {
@@ -113,10 +47,10 @@
       "selection": "AWAY",
       "team": "CFJ Mollerussa",
       "score": "0:1",
-      "minute": "84'",
+      "minute": "89'",
       "odds_before": 3.8,
-      "odds_now": 1.1818,
-      "change_percent": -68.9,
+      "odds_now": 1.1,
+      "change_percent": -71.05,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -125,8 +59,8 @@
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 28.0,
-            "opponent": 35.0
+            "selected": 30.0,
+            "opponent": 37.0
           },
           "corners": {
             "selected": 4.0,
@@ -138,39 +72,6 @@
       }
     },
     {
-      "eventId": "204792304",
-      "sport": "Piłka nożna",
-      "competition": "Spain Primera Division RFEF Group 2",
-      "home": "Huesca",
-      "away": "UD Ibiza",
-      "selection": "AWAY",
-      "team": "UD Ibiza",
-      "score": "0:2",
-      "minute": "77'",
-      "odds_before": 3.2,
-      "odds_now": 1.0357,
-      "change_percent": -67.63,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 5.0
-          },
-          "dangerousAttacks": {
-            "selected": 15.0,
-            "opponent": 42.0
-          },
-          "corners": {
-            "selected": 2.0,
-            "opponent": 10.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 3
-      }
-    },
-    {
       "eventId": "204734506",
       "sport": "Piłka nożna",
       "competition": "Spain Tercera Group 15",
@@ -179,20 +80,20 @@
       "selection": "AWAY",
       "team": "CD Pamplona",
       "score": "0:1",
-      "minute": "85'",
+      "minute": "90'",
       "odds_before": 3.6,
-      "odds_now": 1.1667,
-      "change_percent": -67.59,
+      "odds_now": 1.0714,
+      "change_percent": -70.24,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 4.0,
+            "selected": 5.0,
             "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 39.0,
-            "opponent": 62.0
+            "selected": 46.0,
+            "opponent": 63.0
           },
           "corners": {
             "selected": 4.0,
@@ -204,32 +105,32 @@
       }
     },
     {
-      "eventId": "204792334",
+      "eventId": "204792304",
       "sport": "Piłka nożna",
-      "competition": "Spain Tercera Group 6",
-      "home": "CD San Vicente",
-      "away": "Utiel",
+      "competition": "Spain Primera Division RFEF Group 2",
+      "home": "Huesca",
+      "away": "UD Ibiza",
       "selection": "AWAY",
-      "team": "Utiel",
-      "score": "0:1",
-      "minute": "78'",
-      "odds_before": 3.3,
-      "odds_now": 1.2222,
-      "change_percent": -62.96,
+      "team": "UD Ibiza",
+      "score": "0:2",
+      "minute": "82'",
+      "odds_before": 3.2,
+      "odds_now": 1.0152,
+      "change_percent": -68.27,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 1.0,
-            "opponent": 2.0
+            "selected": 2.0,
+            "opponent": 5.0
           },
           "dangerousAttacks": {
             "selected": 17.0,
-            "opponent": 36.0
+            "opponent": 46.0
           },
           "corners": {
             "selected": 2.0,
-            "opponent": 3.0
+            "opponent": 10.0
           }
         },
         "advantage_count": 0,
