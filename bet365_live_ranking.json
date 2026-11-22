@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T17:20:16.051440+00:00",
+  "updated_at": "2026-11-22T17:25:15.121421+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -13,21 +13,21 @@
       "away": "Pobla Mafumet",
       "selection": "AWAY",
       "team": "Pobla Mafumet",
-      "score": "0:2",
-      "minute": "59'",
+      "score": "0:3",
+      "minute": "64'",
       "odds_before": 4.75,
-      "odds_now": 1.1111,
-      "change_percent": -76.61,
+      "odds_now": 1.02,
+      "change_percent": -78.53,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 6.0,
+            "selected": 7.0,
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 38.0,
-            "opponent": 61.0
+            "selected": 40.0,
+            "opponent": 66.0
           },
           "corners": {
             "selected": 3.0,
@@ -39,6 +39,72 @@
       }
     },
     {
+      "eventId": "204986183",
+      "sport": "Piłka nożna",
+      "competition": "Ivory Coast Ligue 2",
+      "home": "Athletic Adjame",
+      "away": "Lanfiara FC",
+      "selection": "AWAY",
+      "team": "Lanfiara FC",
+      "score": "1:2",
+      "minute": "91'",
+      "odds_before": 4.5,
+      "odds_now": 1.0303,
+      "change_percent": -77.1,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 6.0,
+            "opponent": 2.0
+          },
+          "dangerousAttacks": {
+            "selected": 53.0,
+            "opponent": 52.0
+          },
+          "corners": {
+            "selected": 2.0,
+            "opponent": 4.0
+          }
+        },
+        "advantage_count": 2,
+        "disadvantage_count": 1
+      }
+    },
+    {
+      "eventId": "204789388",
+      "sport": "Piłka nożna",
+      "competition": "Spain Primera Women",
+      "home": "Tenerife (W)",
+      "away": "Madrid CFF (W)",
+      "selection": "AWAY",
+      "team": "Madrid CFF (W)",
+      "score": "0:2",
+      "minute": "61'",
+      "odds_before": 4.3333,
+      "odds_now": 1.0303,
+      "change_percent": -76.22,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 4.0,
+            "opponent": 2.0
+          },
+          "dangerousAttacks": {
+            "selected": 31.0,
+            "opponent": 23.0
+          },
+          "corners": {
+            "selected": 2.0,
+            "opponent": 5.0
+          }
+        },
+        "advantage_count": 2,
+        "disadvantage_count": 1
+      }
+    },
+    {
       "eventId": "203186396",
       "sport": "Piłka nożna",
       "competition": "Netherlands Eredivisie",
@@ -47,20 +113,20 @@
       "selection": "AWAY",
       "team": "Fortuna Sittard",
       "score": "0:1",
-      "minute": "76'",
+      "minute": "81'",
       "odds_before": 4.3333,
-      "odds_now": 1.4444,
-      "change_percent": -66.67,
+      "odds_now": 1.3333,
+      "change_percent": -69.23,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 1.0,
-            "opponent": 8.0
+            "opponent": 10.0
           },
           "dangerousAttacks": {
-            "selected": 15.0,
-            "opponent": 57.0
+            "selected": 16.0,
+            "opponent": 61.0
           },
           "corners": {
             "selected": 1.0,
@@ -80,20 +146,20 @@
       "selection": "AWAY",
       "team": "Atletico Tordesillas",
       "score": "0:1",
-      "minute": "56'",
+      "minute": "61'",
       "odds_before": 5.0,
-      "odds_now": 1.8,
-      "change_percent": -64.0,
+      "odds_now": 1.6667,
+      "change_percent": -66.67,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 2.0,
+            "selected": 3.0,
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 29.0,
-            "opponent": 57.0
+            "selected": 34.0,
+            "opponent": 62.0
           },
           "corners": {
             "selected": 2.0,
@@ -101,6 +167,138 @@
           }
         },
         "advantage_count": 1,
+        "disadvantage_count": 1
+      }
+    },
+    {
+      "eventId": "204852536",
+      "sport": "Piłka nożna",
+      "competition": "Spain Tercera Group 1",
+      "home": "CD Estradense",
+      "away": "CD Arenteiro",
+      "selection": "AWAY",
+      "team": "CD Arenteiro",
+      "score": "0:2",
+      "minute": "68'",
+      "odds_before": 4.0,
+      "odds_now": 1.3333,
+      "change_percent": -66.67,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 3.0,
+            "opponent": 3.0
+          },
+          "dangerousAttacks": {
+            "selected": 15.0,
+            "opponent": 64.0
+          },
+          "corners": {
+            "selected": 1.0,
+            "opponent": 11.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 2
+      }
+    },
+    {
+      "eventId": "204455389",
+      "sport": "Piłka nożna",
+      "competition": "Spain Segunda Division RFEF Group 1",
+      "home": "Bergantinos",
+      "away": "Basconia",
+      "selection": "AWAY",
+      "team": "Basconia",
+      "score": "0:1",
+      "minute": "68'",
+      "odds_before": 4.0,
+      "odds_now": 1.4444,
+      "change_percent": -63.89,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 2.0,
+            "opponent": 5.0
+          },
+          "dangerousAttacks": {
+            "selected": 24.0,
+            "opponent": 42.0
+          },
+          "corners": {
+            "selected": 3.0,
+            "opponent": 5.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 3
+      }
+    },
+    {
+      "eventId": "204895468",
+      "sport": "Piłka nożna",
+      "competition": "Estonia Esiliiga Play-Offs",
+      "home": "JK Viljandi Tulevik",
+      "away": "FC Tallinn",
+      "selection": "HOME",
+      "team": "JK Viljandi Tulevik",
+      "score": "2:1",
+      "minute": "70'",
+      "odds_before": 3.3,
+      "odds_now": 1.5714,
+      "change_percent": -52.38,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 3.0,
+            "opponent": 3.0
+          },
+          "dangerousAttacks": {
+            "selected": 36.0,
+            "opponent": 46.0
+          },
+          "corners": {
+            "selected": 4.0,
+            "opponent": 5.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 2
+      }
+    },
+    {
+      "eventId": "204792289",
+      "sport": "Piłka nożna",
+      "competition": "Spain Primera Division RFEF Group 1",
+      "home": "Merida",
+      "away": "Real Unión",
+      "selection": "AWAY",
+      "team": "Real Unión",
+      "score": "0:1",
+      "minute": "11'",
+      "odds_before": 3.3,
+      "odds_now": 1.6154,
+      "change_percent": -51.05,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 1.0,
+            "opponent": 0.0
+          },
+          "dangerousAttacks": {
+            "selected": 3.0,
+            "opponent": 4.0
+          },
+          "corners": {
+            "selected": 1.0,
+            "opponent": 0.0
+          }
+        },
+        "advantage_count": 2,
         "disadvantage_count": 1
       }
     }
