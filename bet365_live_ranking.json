@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T09:30:14.233921+00:00",
+  "updated_at": "2026-11-22T09:35:19.805323+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,62 @@
       "selection": "AWAY",
       "team": "Asia Lion FC",
       "score": "0:1",
-      "minute": "29'",
+      "minute": "34'",
       "odds_before": 8.0,
       "odds_now": 2.75,
-      "change_percent": -65.62
+      "change_percent": -65.62,
+      "statistics_assessment": {
+        "status": "SUPPORTED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 2.0,
+            "opponent": 1.0
+          },
+          "dangerousAttacks": {
+            "selected": 33.0,
+            "opponent": 28.0
+          },
+          "corners": {
+            "selected": 0.0,
+            "opponent": 0.0
+          }
+        },
+        "advantage_count": 2,
+        "disadvantage_count": 0
+      }
+    },
+    {
+      "eventId": "204795463",
+      "sport": "Piłka nożna",
+      "competition": "Thailand Division 3",
+      "home": "Chattrakan City FC",
+      "away": "Chiangmai FC",
+      "selection": "HOME",
+      "team": "Chattrakan City FC",
+      "score": "1:0",
+      "minute": "45'",
+      "odds_before": 3.6,
+      "odds_now": 1.5714,
+      "change_percent": -56.35,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 1.0,
+            "opponent": 0.0
+          },
+          "dangerousAttacks": {
+            "selected": 14.0,
+            "opponent": 18.0
+          },
+          "corners": {
+            "selected": 1.0,
+            "opponent": 3.0
+          }
+        },
+        "advantage_count": 1,
+        "disadvantage_count": 2
+      }
     }
   ]
 }
