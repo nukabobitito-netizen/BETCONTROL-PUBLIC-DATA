@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T17:50:14.152101+00:00",
+  "updated_at": "2026-11-22T18:00:15.788005+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,127 +14,61 @@
       "selection": "AWAY",
       "team": "Arenas de Armilla CyD U19",
       "score": "0:2",
-      "minute": "75'",
+      "minute": "85'",
       "odds_before": 4.5,
-      "odds_now": 1.0714,
-      "change_percent": -76.19,
+      "odds_now": 1.02,
+      "change_percent": -77.33,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 3.0,
+            "opponent": 5.0
+          },
+          "dangerousAttacks": {
+            "selected": 68.0,
+            "opponent": 73.0
+          },
+          "corners": {
+            "selected": 1.0,
+            "opponent": 4.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 3
+      }
+    },
+    {
+      "eventId": "203965185",
+      "sport": "Piłka nożna",
+      "competition": "Belgium First Division A",
+      "home": "Anderlecht",
+      "away": "OH Leuven",
+      "selection": "AWAY",
+      "team": "OH Leuven",
+      "score": "0:1",
+      "minute": "28'",
+      "odds_before": 5.5,
+      "odds_now": 1.8333,
+      "change_percent": -66.67,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 2.0,
-            "opponent": 2.0
+            "opponent": 0.0
           },
           "dangerousAttacks": {
-            "selected": 63.0,
-            "opponent": 59.0
+            "selected": 12.0,
+            "opponent": 12.0
           },
           "corners": {
-            "selected": 1.0,
-            "opponent": 2.0
+            "selected": 0.0,
+            "opponent": 0.0
           }
         },
         "advantage_count": 1,
-        "disadvantage_count": 1
-      }
-    },
-    {
-      "eventId": "204455389",
-      "sport": "Piłka nożna",
-      "competition": "Spain Segunda Division RFEF Group 1",
-      "home": "Bergantinos",
-      "away": "Basconia",
-      "selection": "AWAY",
-      "team": "Basconia",
-      "score": "0:1",
-      "minute": "93'",
-      "odds_before": 4.0,
-      "odds_now": 1.02,
-      "change_percent": -74.5,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 4.0,
-            "opponent": 5.0
-          },
-          "dangerousAttacks": {
-            "selected": 30.0,
-            "opponent": 67.0
-          },
-          "corners": {
-            "selected": 4.0,
-            "opponent": 8.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 3
-      }
-    },
-    {
-      "eventId": "204852536",
-      "sport": "Piłka nożna",
-      "competition": "Spain Tercera Group 1",
-      "home": "CD Estradense",
-      "away": "CD Arenteiro",
-      "selection": "AWAY",
-      "team": "CD Arenteiro",
-      "score": "1:2",
-      "minute": "92'",
-      "odds_before": 4.0,
-      "odds_now": 1.1429,
-      "change_percent": -71.43,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 4.0,
-            "opponent": 6.0
-          },
-          "dangerousAttacks": {
-            "selected": 19.0,
-            "opponent": 94.0
-          },
-          "corners": {
-            "selected": 2.0,
-            "opponent": 13.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 3
-      }
-    },
-    {
-      "eventId": "204455540",
-      "sport": "Piłka nożna",
-      "competition": "Spain Segunda Division RFEF Group 3",
-      "home": "Orihuela",
-      "away": "La Nucia",
-      "selection": "AWAY",
-      "team": "La Nucia",
-      "score": "0:1",
-      "minute": "93'",
-      "odds_before": 3.25,
-      "odds_now": 1.025,
-      "change_percent": -68.46,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 3.0,
-            "opponent": 4.0
-          },
-          "dangerousAttacks": {
-            "selected": 56.0,
-            "opponent": 60.0
-          },
-          "corners": {
-            "selected": 3.0,
-            "opponent": 9.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 3
+        "disadvantage_count": 0
       }
     },
     {
