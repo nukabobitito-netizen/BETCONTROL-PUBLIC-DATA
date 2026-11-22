@@ -1,76 +1,10 @@
 {
-  "updated_at": "2026-11-22T18:00:15.788005+00:00",
+  "updated_at": "2026-11-22T18:05:13.756924+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
   "drops": [
-    {
-      "eventId": "204852844",
-      "sport": "Piłka nożna",
-      "competition": "Spain Youth League",
-      "home": "CD Mosquito U19",
-      "away": "Arenas de Armilla CyD U19",
-      "selection": "AWAY",
-      "team": "Arenas de Armilla CyD U19",
-      "score": "0:2",
-      "minute": "85'",
-      "odds_before": 4.5,
-      "odds_now": 1.02,
-      "change_percent": -77.33,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 3.0,
-            "opponent": 5.0
-          },
-          "dangerousAttacks": {
-            "selected": 68.0,
-            "opponent": 73.0
-          },
-          "corners": {
-            "selected": 1.0,
-            "opponent": 4.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 3
-      }
-    },
-    {
-      "eventId": "203965185",
-      "sport": "Piłka nożna",
-      "competition": "Belgium First Division A",
-      "home": "Anderlecht",
-      "away": "OH Leuven",
-      "selection": "AWAY",
-      "team": "OH Leuven",
-      "score": "0:1",
-      "minute": "28'",
-      "odds_before": 5.5,
-      "odds_now": 1.8333,
-      "change_percent": -66.67,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 0.0
-          },
-          "dangerousAttacks": {
-            "selected": 12.0,
-            "opponent": 12.0
-          },
-          "corners": {
-            "selected": 0.0,
-            "opponent": 0.0
-          }
-        },
-        "advantage_count": 1,
-        "disadvantage_count": 0
-      }
-    },
     {
       "eventId": "204945683",
       "sport": "Piłka nożna",
@@ -98,6 +32,39 @@
           "corners": {
             "selected": 2.0,
             "opponent": 2.0
+          }
+        },
+        "advantage_count": 1,
+        "disadvantage_count": 1
+      }
+    },
+    {
+      "eventId": "204792289",
+      "sport": "Piłka nożna",
+      "competition": "Spain Primera Division RFEF Group 1",
+      "home": "Merida",
+      "away": "Real Unión",
+      "selection": "AWAY",
+      "team": "Real Unión",
+      "score": "0:1",
+      "minute": "50'",
+      "odds_before": 3.3,
+      "odds_now": 1.5,
+      "change_percent": -54.55,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 2.0,
+            "opponent": 2.0
+          },
+          "dangerousAttacks": {
+            "selected": 21.0,
+            "opponent": 20.0
+          },
+          "corners": {
+            "selected": 2.0,
+            "opponent": 4.0
           }
         },
         "advantage_count": 1,
