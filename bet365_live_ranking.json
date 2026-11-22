@@ -1,43 +1,10 @@
 {
-  "updated_at": "2026-11-22T17:05:14.417217+00:00",
+  "updated_at": "2026-11-22T17:10:15.940180+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
   "drops": [
-    {
-      "eventId": "204854406",
-      "sport": "Piłka nożna",
-      "competition": "Spain Tercera Group 16",
-      "home": "Cenicero",
-      "away": "CD Alfaro",
-      "selection": "HOME",
-      "team": "Cenicero",
-      "score": "2:1",
-      "minute": "92'",
-      "odds_before": 6.5,
-      "odds_now": 1.0303,
-      "change_percent": -84.15,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 8.0,
-            "opponent": 10.0
-          },
-          "dangerousAttacks": {
-            "selected": 53.0,
-            "opponent": 77.0
-          },
-          "corners": {
-            "selected": 6.0,
-            "opponent": 10.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 3
-      }
-    },
     {
       "eventId": "204789388",
       "sport": "Piłka nożna",
@@ -47,7 +14,7 @@
       "selection": "AWAY",
       "team": "Madrid CFF (W)",
       "score": "0:2",
-      "minute": "45'",
+      "minute": "46'",
       "odds_before": 4.3333,
       "odds_now": 1.0357,
       "change_percent": -76.1,
@@ -55,7 +22,7 @@
         "status": "SUPPORTED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 3.0,
+            "selected": 4.0,
             "opponent": 1.0
           },
           "dangerousAttacks": {
@@ -72,69 +39,36 @@
       }
     },
     {
-      "eventId": "203576113",
+      "eventId": "204852807",
       "sport": "Piłka nożna",
-      "competition": "Bulgaria First League",
-      "home": "Botev Plovdiv",
-      "away": "CSKA Sofia",
-      "selection": "HOME",
-      "team": "Botev Plovdiv",
-      "score": "2:0",
-      "minute": "45'",
-      "odds_before": 5.25,
-      "odds_now": 1.3333,
-      "change_percent": -74.6,
+      "competition": "Spain Tercera Group 5",
+      "home": "Badalona",
+      "away": "Pobla Mafumet",
+      "selection": "AWAY",
+      "team": "Pobla Mafumet",
+      "score": "0:1",
+      "minute": "49'",
+      "odds_before": 4.75,
+      "odds_now": 1.7273,
+      "change_percent": -63.64,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 3.0,
-            "opponent": 3.0
+            "selected": 5.0,
+            "opponent": 0.0
           },
           "dangerousAttacks": {
-            "selected": 30.0,
+            "selected": 35.0,
             "opponent": 51.0
           },
           "corners": {
-            "selected": 2.0,
-            "opponent": 2.0
+            "selected": 3.0,
+            "opponent": 5.0
           }
         },
-        "advantage_count": 0,
-        "disadvantage_count": 1
-      }
-    },
-    {
-      "eventId": "204907752",
-      "sport": "Piłka nożna",
-      "competition": "Spain Tercera Group 17",
-      "home": "Epila CF",
-      "away": "AD Almudevar",
-      "selection": "AWAY",
-      "team": "AD Almudevar",
-      "score": "1:2",
-      "minute": "77'",
-      "odds_before": 3.8,
-      "odds_now": 1.1818,
-      "change_percent": -68.9,
-      "statistics_assessment": {
-        "status": "SUPPORTED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 4.0,
-            "opponent": 2.0
-          },
-          "dangerousAttacks": {
-            "selected": 46.0,
-            "opponent": 41.0
-          },
-          "corners": {
-            "selected": 9.0,
-            "opponent": 4.0
-          }
-        },
-        "advantage_count": 3,
-        "disadvantage_count": 0
+        "advantage_count": 1,
+        "disadvantage_count": 2
       }
     },
     {
@@ -146,57 +80,24 @@
       "selection": "HOME",
       "team": "JK Viljandi Tulevik",
       "score": "2:0",
-      "minute": "50'",
+      "minute": "55'",
       "odds_before": 3.3,
-      "odds_now": 1.25,
-      "change_percent": -62.12,
+      "odds_now": 1.2,
+      "change_percent": -63.64,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 1.0
+            "selected": 3.0,
+            "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 22.0,
-            "opponent": 34.0
+            "selected": 26.0,
+            "opponent": 38.0
           },
           "corners": {
             "selected": 1.0,
             "opponent": 3.0
-          }
-        },
-        "advantage_count": 1,
-        "disadvantage_count": 2
-      }
-    },
-    {
-      "eventId": "204455689",
-      "sport": "Piłka nożna",
-      "competition": "Spain Segunda Division RFEF Group 5",
-      "home": "CF Talavera",
-      "away": "Atletico Tordesillas",
-      "selection": "AWAY",
-      "team": "Atletico Tordesillas",
-      "score": "0:1",
-      "minute": "45'",
-      "odds_before": 5.0,
-      "odds_now": 2.0,
-      "change_percent": -60.0,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 1.0
-          },
-          "dangerousAttacks": {
-            "selected": 22.0,
-            "opponent": 43.0
-          },
-          "corners": {
-            "selected": 1.0,
-            "opponent": 2.0
           }
         },
         "advantage_count": 1,
@@ -212,10 +113,10 @@
       "selection": "AWAY",
       "team": "Fortuna Sittard",
       "score": "0:1",
-      "minute": "61'",
+      "minute": "66'",
       "odds_before": 4.3333,
-      "odds_now": 1.9091,
-      "change_percent": -55.94,
+      "odds_now": 1.6667,
+      "change_percent": -61.54,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -224,12 +125,78 @@
             "opponent": 5.0
           },
           "dangerousAttacks": {
-            "selected": 12.0,
-            "opponent": 44.0
+            "selected": 15.0,
+            "opponent": 49.0
           },
           "corners": {
             "selected": 1.0,
             "opponent": 9.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 3
+      }
+    },
+    {
+      "eventId": "204455689",
+      "sport": "Piłka nożna",
+      "competition": "Spain Segunda Division RFEF Group 5",
+      "home": "CF Talavera",
+      "away": "Atletico Tordesillas",
+      "selection": "AWAY",
+      "team": "Atletico Tordesillas",
+      "score": "0:1",
+      "minute": "46'",
+      "odds_before": 5.0,
+      "odds_now": 1.9524,
+      "change_percent": -60.95,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 2.0,
+            "opponent": 1.0
+          },
+          "dangerousAttacks": {
+            "selected": 24.0,
+            "opponent": 44.0
+          },
+          "corners": {
+            "selected": 1.0,
+            "opponent": 2.0
+          }
+        },
+        "advantage_count": 1,
+        "disadvantage_count": 2
+      }
+    },
+    {
+      "eventId": "203576113",
+      "sport": "Piłka nożna",
+      "competition": "Bulgaria First League",
+      "home": "Botev Plovdiv",
+      "away": "CSKA Sofia",
+      "selection": "HOME",
+      "team": "Botev Plovdiv",
+      "score": "2:1",
+      "minute": "51'",
+      "odds_before": 5.25,
+      "odds_now": 2.1,
+      "change_percent": -60.0,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 3.0,
+            "opponent": 4.0
+          },
+          "dangerousAttacks": {
+            "selected": 30.0,
+            "opponent": 62.0
+          },
+          "corners": {
+            "selected": 2.0,
+            "opponent": 4.0
           }
         },
         "advantage_count": 0,
