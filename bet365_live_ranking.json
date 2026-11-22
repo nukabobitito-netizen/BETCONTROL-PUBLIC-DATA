@@ -1,23 +1,8 @@
 {
-  "updated_at": "2026-11-22T06:50:12.652942+00:00",
+  "updated_at": "2026-11-22T06:55:13.059350+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
-  "drops": [
-    {
-      "eventId": "203618685",
-      "sport": "Piłka nożna",
-      "competition": "South Korea K League 2",
-      "home": "Jeonnam Dragons",
-      "away": "Ansan Greeners FC",
-      "selection": "AWAY",
-      "team": "Ansan Greeners FC",
-      "score": "1:2",
-      "minute": "90'",
-      "odds_before": 3.6,
-      "odds_now": 1.125,
-      "change_percent": -68.75
-    }
-  ]
+  "drops": []
 }
