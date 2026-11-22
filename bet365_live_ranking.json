@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T10:20:13.679579+00:00",
+  "updated_at": "2026-11-22T10:25:11.928354+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "AWAY",
       "team": "Asia Lion FC",
       "score": "0:3",
-      "minute": "60'",
+      "minute": "65'",
       "odds_before": 8.0,
-      "odds_now": 1.0714,
-      "change_percent": -86.61,
+      "odds_now": 1.05,
+      "change_percent": -86.88,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -26,12 +26,12 @@
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 46.0,
-            "opponent": 57.0
+            "selected": 50.0,
+            "opponent": 63.0
           },
           "corners": {
             "selected": 1.0,
-            "opponent": 2.0
+            "opponent": 3.0
           }
         },
         "advantage_count": 1,
@@ -47,20 +47,20 @@
       "selection": "HOME",
       "team": "Chattrakan City FC",
       "score": "1:0",
-      "minute": "87'",
+      "minute": "92'",
       "odds_before": 3.6,
-      "odds_now": 1.0833,
-      "change_percent": -69.91,
+      "odds_now": 1.0625,
+      "change_percent": -70.49,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 3.0,
+            "selected": 4.0,
             "opponent": 0.0
           },
           "dangerousAttacks": {
             "selected": 24.0,
-            "opponent": 29.0
+            "opponent": 31.0
           },
           "corners": {
             "selected": 3.0,
@@ -69,39 +69,6 @@
         },
         "advantage_count": 1,
         "disadvantage_count": 2
-      }
-    },
-    {
-      "eventId": "204893809",
-      "sport": "Piłka nożna",
-      "competition": "Romania Liga 2 Women",
-      "home": "CS Concordia Chiajna (W)",
-      "away": "ACS Juniorul 2014 (W)",
-      "selection": "AWAY",
-      "team": "ACS Juniorul 2014 (W)",
-      "score": "0:1",
-      "minute": "57'",
-      "odds_before": 4.2,
-      "odds_now": 1.9524,
-      "change_percent": -53.51,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 5.0,
-            "opponent": 6.0
-          },
-          "dangerousAttacks": {
-            "selected": 43.0,
-            "opponent": 37.0
-          },
-          "corners": {
-            "selected": 4.0,
-            "opponent": 2.0
-          }
-        },
-        "advantage_count": 2,
-        "disadvantage_count": 1
       }
     }
   ]
