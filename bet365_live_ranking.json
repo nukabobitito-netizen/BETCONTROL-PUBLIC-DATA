@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T12:10:13.613455+00:00",
+  "updated_at": "2026-11-22T12:15:14.627712+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "AWAY",
       "team": "Las Palmas B",
       "score": "0:2",
-      "minute": "52'",
+      "minute": "56'",
       "odds_before": 5.25,
-      "odds_now": 1.2,
-      "change_percent": -77.14,
+      "odds_now": 1.1429,
+      "change_percent": -78.23,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -26,11 +26,11 @@
             "opponent": 0.0
           },
           "dangerousAttacks": {
-            "selected": 31.0,
-            "opponent": 57.0
+            "selected": 34.0,
+            "opponent": 61.0
           },
           "corners": {
-            "selected": 2.0,
+            "selected": 3.0,
             "opponent": 4.0
           }
         },
@@ -47,27 +47,27 @@
       "selection": "AWAY",
       "team": "UD Tomares",
       "score": "0:2",
-      "minute": "53'",
+      "minute": "58'",
       "odds_before": 3.3,
-      "odds_now": 1.0556,
-      "change_percent": -68.01,
+      "odds_now": 1.0455,
+      "change_percent": -68.32,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 5.0,
+            "selected": 6.0,
             "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 17.0,
+            "selected": 20.0,
             "opponent": 16.0
           },
           "corners": {
-            "selected": 3.0,
+            "selected": 5.0,
             "opponent": 3.0
           }
         },
-        "advantage_count": 2,
+        "advantage_count": 3,
         "disadvantage_count": 0
       }
     },
@@ -80,28 +80,28 @@
       "selection": "AWAY",
       "team": "Resovia Rzeszow",
       "score": "0:1",
-      "minute": "57'",
+      "minute": "61'",
       "odds_before": 4.0,
-      "odds_now": 1.6667,
-      "change_percent": -58.33,
+      "odds_now": 1.6154,
+      "change_percent": -59.61,
       "statistics_assessment": {
-        "status": "MIXED",
+        "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 5.0,
-            "opponent": 4.0
+            "opponent": 5.0
           },
           "dangerousAttacks": {
-            "selected": 50.0,
-            "opponent": 48.0
+            "selected": 53.0,
+            "opponent": 55.0
           },
           "corners": {
             "selected": 4.0,
             "opponent": 7.0
           }
         },
-        "advantage_count": 2,
-        "disadvantage_count": 1
+        "advantage_count": 0,
+        "disadvantage_count": 2
       }
     },
     {
@@ -113,10 +113,10 @@
       "selection": "AWAY",
       "team": "CFJ Mollerussa",
       "score": "0:1",
-      "minute": "54'",
+      "minute": "59'",
       "odds_before": 3.8,
-      "odds_now": 1.6667,
-      "change_percent": -56.14,
+      "odds_now": 1.6154,
+      "change_percent": -57.49,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -125,8 +125,8 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 15.0,
-            "opponent": 22.0
+            "selected": 18.0,
+            "opponent": 24.0
           },
           "corners": {
             "selected": 2.0,
