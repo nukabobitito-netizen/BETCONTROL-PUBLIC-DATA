@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-11-22T03:31:54.620958+00:00",
+  "created_at": "2026-11-22T05:35:31.656123+00:00",
   "events": {
     "203962873": {
       "eventId": "203962873",
@@ -16712,6 +16712,139 @@
         "AWAY": {
           "baseline": 3.0,
           "recorded_at": "2026-11-22T02:41:14.766647+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205033413": {
+      "eventId": "205033413",
+      "sport": "soccer",
+      "home": "Qi Yi FC",
+      "away": "St. Joseph's",
+      "startTime": "2026-11-22T07:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.15,
+          "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.5,
+          "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205034236": {
+      "eventId": "205034236",
+      "sport": "soccer",
+      "home": "Lemi Kura (W)",
+      "away": "Kedus Giorgis (W)",
+      "startTime": "2026-11-22T11:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.4,
+          "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 7.0,
+          "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205004761": {
+      "eventId": "205004761",
+      "sport": "soccer",
+      "home": "Sloboda Tuzla (W)",
+      "away": "ZNK Iskra Bugojno (W)",
+      "startTime": "2026-11-22T12:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.25,
+          "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.5,
+          "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204942671": {
+      "eventId": "204942671",
+      "sport": "soccer",
+      "home": "Fuerte San Francisco Reserves",
+      "away": "CD INCA Aruba Reserves",
+      "startTime": "2026-11-22T18:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.2,
+          "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.7,
+          "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204789398": {
+      "eventId": "204789398",
+      "sport": "soccer",
+      "home": "Nojima (W)",
+      "away": "Omiya Ardija (W)",
+      "startTime": "2026-11-23T04:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.85,
+          "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 3.6,
+          "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204789393": {
+      "eventId": "204789393",
+      "sport": "soccer",
+      "home": "Albirex Niigata (W)",
+      "away": "Sanfrecce Hiroshima (W)",
+      "startTime": "2026-11-23T04:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 3.8,
+          "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.75,
+          "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204789400": {
+      "eventId": "204789400",
+      "sport": "soccer",
+      "home": "AC Nagano Parceiro (W)",
+      "away": "Urawa Red Diamonds (W)",
+      "startTime": "2026-11-23T05:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 7.5,
+          "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.2857,
+          "recorded_at": "2026-11-22T05:35:31.656123+00:00",
           "price_source": "selection.odds"
         }
       }
@@ -36065,6 +36198,160 @@
       "selection": "AWAY",
       "baseline": 3.0,
       "recorded_at": "2026-11-22T02:41:14.766647+00:00",
+      "price_source": "selection.odds"
+    },
+    "205033413:HOME": {
+      "eventId": "205033413",
+      "sport": "soccer",
+      "home": "Qi Yi FC",
+      "away": "St. Joseph's",
+      "startTime": "2026-11-22T07:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.15,
+      "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+      "price_source": "selection.odds"
+    },
+    "205033413:AWAY": {
+      "eventId": "205033413",
+      "sport": "soccer",
+      "home": "Qi Yi FC",
+      "away": "St. Joseph's",
+      "startTime": "2026-11-22T07:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.5,
+      "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+      "price_source": "selection.odds"
+    },
+    "205034236:HOME": {
+      "eventId": "205034236",
+      "sport": "soccer",
+      "home": "Lemi Kura (W)",
+      "away": "Kedus Giorgis (W)",
+      "startTime": "2026-11-22T11:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.4,
+      "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+      "price_source": "selection.odds"
+    },
+    "205034236:AWAY": {
+      "eventId": "205034236",
+      "sport": "soccer",
+      "home": "Lemi Kura (W)",
+      "away": "Kedus Giorgis (W)",
+      "startTime": "2026-11-22T11:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 7.0,
+      "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+      "price_source": "selection.odds"
+    },
+    "205004761:HOME": {
+      "eventId": "205004761",
+      "sport": "soccer",
+      "home": "Sloboda Tuzla (W)",
+      "away": "ZNK Iskra Bugojno (W)",
+      "startTime": "2026-11-22T12:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.25,
+      "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+      "price_source": "selection.odds"
+    },
+    "205004761:AWAY": {
+      "eventId": "205004761",
+      "sport": "soccer",
+      "home": "Sloboda Tuzla (W)",
+      "away": "ZNK Iskra Bugojno (W)",
+      "startTime": "2026-11-22T12:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.5,
+      "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+      "price_source": "selection.odds"
+    },
+    "204942671:HOME": {
+      "eventId": "204942671",
+      "sport": "soccer",
+      "home": "Fuerte San Francisco Reserves",
+      "away": "CD INCA Aruba Reserves",
+      "startTime": "2026-11-22T18:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.2,
+      "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+      "price_source": "selection.odds"
+    },
+    "204942671:AWAY": {
+      "eventId": "204942671",
+      "sport": "soccer",
+      "home": "Fuerte San Francisco Reserves",
+      "away": "CD INCA Aruba Reserves",
+      "startTime": "2026-11-22T18:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.7,
+      "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+      "price_source": "selection.odds"
+    },
+    "204789398:HOME": {
+      "eventId": "204789398",
+      "sport": "soccer",
+      "home": "Nojima (W)",
+      "away": "Omiya Ardija (W)",
+      "startTime": "2026-11-23T04:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.85,
+      "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+      "price_source": "selection.odds"
+    },
+    "204789398:AWAY": {
+      "eventId": "204789398",
+      "sport": "soccer",
+      "home": "Nojima (W)",
+      "away": "Omiya Ardija (W)",
+      "startTime": "2026-11-23T04:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 3.6,
+      "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+      "price_source": "selection.odds"
+    },
+    "204789393:HOME": {
+      "eventId": "204789393",
+      "sport": "soccer",
+      "home": "Albirex Niigata (W)",
+      "away": "Sanfrecce Hiroshima (W)",
+      "startTime": "2026-11-23T04:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 3.8,
+      "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+      "price_source": "selection.odds"
+    },
+    "204789393:AWAY": {
+      "eventId": "204789393",
+      "sport": "soccer",
+      "home": "Albirex Niigata (W)",
+      "away": "Sanfrecce Hiroshima (W)",
+      "startTime": "2026-11-23T04:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.75,
+      "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+      "price_source": "selection.odds"
+    },
+    "204789400:HOME": {
+      "eventId": "204789400",
+      "sport": "soccer",
+      "home": "AC Nagano Parceiro (W)",
+      "away": "Urawa Red Diamonds (W)",
+      "startTime": "2026-11-23T05:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 7.5,
+      "recorded_at": "2026-11-22T05:35:31.656123+00:00",
+      "price_source": "selection.odds"
+    },
+    "204789400:AWAY": {
+      "eventId": "204789400",
+      "sport": "soccer",
+      "home": "AC Nagano Parceiro (W)",
+      "away": "Urawa Red Diamonds (W)",
+      "startTime": "2026-11-23T05:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.2857,
+      "recorded_at": "2026-11-22T05:35:31.656123+00:00",
       "price_source": "selection.odds"
     }
   }
