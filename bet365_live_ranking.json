@@ -1,43 +1,10 @@
 {
-  "updated_at": "2026-11-22T16:00:16.521582+00:00",
+  "updated_at": "2026-11-22T16:05:16.040511+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
   "drops": [
-    {
-      "eventId": "204854406",
-      "sport": "Piłka nożna",
-      "competition": "Spain Tercera Group 16",
-      "home": "Cenicero",
-      "away": "CD Alfaro",
-      "selection": "HOME",
-      "team": "Cenicero",
-      "score": "1:0",
-      "minute": "45'",
-      "odds_before": 6.5,
-      "odds_now": 1.9091,
-      "change_percent": -70.63,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 4.0,
-            "opponent": 5.0
-          },
-          "dangerousAttacks": {
-            "selected": 24.0,
-            "opponent": 26.0
-          },
-          "corners": {
-            "selected": 3.0,
-            "opponent": 0.0
-          }
-        },
-        "advantage_count": 1,
-        "disadvantage_count": 2
-      }
-    },
     {
       "eventId": "204786338",
       "sport": "Piłka nożna",
@@ -72,6 +39,39 @@
       }
     },
     {
+      "eventId": "204854406",
+      "sport": "Piłka nożna",
+      "competition": "Spain Tercera Group 16",
+      "home": "Cenicero",
+      "away": "CD Alfaro",
+      "selection": "HOME",
+      "team": "Cenicero",
+      "score": "1:0",
+      "minute": "45'",
+      "odds_before": 6.5,
+      "odds_now": 2.05,
+      "change_percent": -68.46,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 4.0,
+            "opponent": 5.0
+          },
+          "dangerousAttacks": {
+            "selected": 24.0,
+            "opponent": 26.0
+          },
+          "corners": {
+            "selected": 3.0,
+            "opponent": 0.0
+          }
+        },
+        "advantage_count": 1,
+        "disadvantage_count": 2
+      }
+    },
+    {
       "eventId": "203186572",
       "sport": "Piłka nożna",
       "competition": "Sweden Allsvenskan",
@@ -80,7 +80,7 @@
       "selection": "AWAY",
       "team": "Halmstad",
       "score": "0:2",
-      "minute": "31'",
+      "minute": "35'",
       "odds_before": 3.25,
       "odds_now": 1.2222,
       "change_percent": -62.39,
@@ -92,8 +92,8 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 11.0,
-            "opponent": 6.0
+            "selected": 16.0,
+            "opponent": 12.0
           },
           "corners": {
             "selected": 0.0,
@@ -113,28 +113,61 @@
       "selection": "AWAY",
       "team": "Residence Walferdange",
       "score": "1:2",
-      "minute": "45'",
+      "minute": "48'",
       "odds_before": 5.25,
-      "odds_now": 2.1,
-      "change_percent": -60.0,
+      "odds_now": 2.05,
+      "change_percent": -60.95,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 4.0,
+            "opponent": 4.0
+          },
+          "dangerousAttacks": {
+            "selected": 12.0,
+            "opponent": 23.0
+          },
+          "corners": {
+            "selected": 2.0,
+            "opponent": 8.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 2
+      }
+    },
+    {
+      "eventId": "204853020",
+      "sport": "Piłka nożna",
+      "competition": "Spain Tercera Group 6",
+      "home": "UD Vall De Uxo",
+      "away": "CD Roda",
+      "selection": "AWAY",
+      "team": "CD Roda",
+      "score": "0:1",
+      "minute": "33'",
+      "odds_before": 4.1,
+      "odds_now": 1.6667,
+      "change_percent": -59.35,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 4.0,
-            "opponent": 3.0
+            "selected": 3.0,
+            "opponent": 0.0
           },
           "dangerousAttacks": {
-            "selected": 12.0,
-            "opponent": 21.0
+            "selected": 19.0,
+            "opponent": 20.0
           },
           "corners": {
             "selected": 2.0,
-            "opponent": 6.0
+            "opponent": 1.0
           }
         },
-        "advantage_count": 1,
-        "disadvantage_count": 2
+        "advantage_count": 2,
+        "disadvantage_count": 1
       }
     },
     {
@@ -171,69 +204,36 @@
       }
     },
     {
-      "eventId": "204853020",
+      "eventId": "204909656",
       "sport": "Piłka nożna",
-      "competition": "Spain Tercera Group 6",
-      "home": "UD Vall De Uxo",
-      "away": "CD Roda",
+      "competition": "Brazil Campeonato Mineiro Women",
+      "home": "Cruzeiro (W)",
+      "away": "Atletico Mineiro (W)",
       "selection": "AWAY",
-      "team": "CD Roda",
-      "score": "0:1",
-      "minute": "28'",
-      "odds_before": 4.1,
-      "odds_now": 1.7273,
-      "change_percent": -57.87,
+      "team": "Atletico Mineiro (W)",
+      "score": "1:1",
+      "minute": "90'",
+      "odds_before": 5.0,
+      "odds_now": 2.25,
+      "change_percent": -55.0,
       "statistics_assessment": {
-        "status": "SUPPORTED",
+        "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 0.0
+            "selected": 5.0,
+            "opponent": 5.0
           },
           "dangerousAttacks": {
-            "selected": 18.0,
-            "opponent": 16.0
+            "selected": 31.0,
+            "opponent": 41.0
           },
           "corners": {
-            "selected": 2.0,
-            "opponent": 1.0
+            "selected": 8.0,
+            "opponent": 5.0
           }
         },
-        "advantage_count": 3,
-        "disadvantage_count": 0
-      }
-    },
-    {
-      "eventId": "204784398",
-      "sport": "Piłka nożna",
-      "competition": "Luxembourg Division Nationale",
-      "home": "FC 03 Differdange",
-      "away": "Progres Niederkorn",
-      "selection": "AWAY",
-      "team": "Progres Niederkorn",
-      "score": "1:2",
-      "minute": "45'",
-      "odds_before": 7.0,
-      "odds_now": 3.25,
-      "change_percent": -53.57,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 3.0
-          },
-          "dangerousAttacks": {
-            "selected": 17.0,
-            "opponent": 30.0
-          },
-          "corners": {
-            "selected": 1.0,
-            "opponent": 4.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 3
+        "advantage_count": 1,
+        "disadvantage_count": 1
       }
     },
     {
@@ -278,7 +278,7 @@
       "selection": "AWAY",
       "team": "Union Molinense CF",
       "score": "0:1",
-      "minute": "45'",
+      "minute": "46'",
       "odds_before": 3.3,
       "odds_now": 1.6154,
       "change_percent": -51.05,
@@ -290,8 +290,8 @@
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 31.0,
-            "opponent": 47.0
+            "selected": 33.0,
+            "opponent": 49.0
           },
           "corners": {
             "selected": 1.0,
