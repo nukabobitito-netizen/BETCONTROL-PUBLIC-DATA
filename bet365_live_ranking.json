@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T12:00:17.789850+00:00",
+  "updated_at": "2026-11-22T12:05:14.355213+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "AWAY",
       "team": "Las Palmas B",
       "score": "0:2",
-      "minute": "45'",
+      "minute": "46'",
       "odds_before": 5.25,
-      "odds_now": 1.2,
-      "change_percent": -77.14,
+      "odds_now": 1.2222,
+      "change_percent": -76.72,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -27,11 +27,11 @@
           },
           "dangerousAttacks": {
             "selected": 27.0,
-            "opponent": 49.0
+            "opponent": 52.0
           },
           "corners": {
             "selected": 2.0,
-            "opponent": 3.0
+            "opponent": 4.0
           }
         },
         "advantage_count": 1,
@@ -47,7 +47,7 @@
       "selection": "AWAY",
       "team": "UD Tomares",
       "score": "0:2",
-      "minute": "45'",
+      "minute": "48'",
       "odds_before": 3.3,
       "odds_now": 1.0625,
       "change_percent": -67.8,
@@ -56,11 +56,11 @@
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 5.0,
-            "opponent": 2.0
+            "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 15.0,
-            "opponent": 13.0
+            "selected": 16.0,
+            "opponent": 15.0
           },
           "corners": {
             "selected": 3.0,
@@ -80,61 +80,28 @@
       "selection": "HOME",
       "team": "Bregalnica Stip",
       "score": "1:0",
-      "minute": "45'",
+      "minute": "47'",
       "odds_before": 4.0,
-      "odds_now": 1.5333,
-      "change_percent": -61.67,
+      "odds_now": 1.5,
+      "change_percent": -62.5,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 2.0,
+            "selected": 3.0,
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 29.0,
+            "selected": 32.0,
             "opponent": 35.0
           },
           "corners": {
-            "selected": 8.0,
+            "selected": 9.0,
             "opponent": 2.0
           }
         },
         "advantage_count": 2,
         "disadvantage_count": 1
-      }
-    },
-    {
-      "eventId": "204674483",
-      "sport": "Piłka nożna",
-      "competition": "Spain Tercera Group 5",
-      "home": "CE Europa B",
-      "away": "CFJ Mollerussa",
-      "selection": "AWAY",
-      "team": "CFJ Mollerussa",
-      "score": "0:1",
-      "minute": "45'",
-      "odds_before": 3.8,
-      "odds_now": 1.8,
-      "change_percent": -52.63,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 1.0,
-            "opponent": 0.0
-          },
-          "dangerousAttacks": {
-            "selected": 14.0,
-            "opponent": 17.0
-          },
-          "corners": {
-            "selected": 2.0,
-            "opponent": 3.0
-          }
-        },
-        "advantage_count": 1,
-        "disadvantage_count": 2
       }
     },
     {
@@ -146,28 +113,61 @@
       "selection": "AWAY",
       "team": "Resovia Rzeszow",
       "score": "0:1",
-      "minute": "47'",
+      "minute": "51'",
       "odds_before": 4.0,
-      "odds_now": 1.9091,
-      "change_percent": -52.27,
+      "odds_now": 1.8,
+      "change_percent": -55.0,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 3.0,
+            "selected": 4.0,
             "opponent": 4.0
           },
           "dangerousAttacks": {
-            "selected": 36.0,
-            "opponent": 40.0
+            "selected": 42.0,
+            "opponent": 43.0
           },
           "corners": {
-            "selected": 3.0,
+            "selected": 4.0,
             "opponent": 7.0
           }
         },
         "advantage_count": 0,
-        "disadvantage_count": 3
+        "disadvantage_count": 2
+      }
+    },
+    {
+      "eventId": "204674483",
+      "sport": "Piłka nożna",
+      "competition": "Spain Tercera Group 5",
+      "home": "CE Europa B",
+      "away": "CFJ Mollerussa",
+      "selection": "AWAY",
+      "team": "CFJ Mollerussa",
+      "score": "0:1",
+      "minute": "49'",
+      "odds_before": 3.8,
+      "odds_now": 1.7273,
+      "change_percent": -54.54,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 1.0,
+            "opponent": 0.0
+          },
+          "dangerousAttacks": {
+            "selected": 14.0,
+            "opponent": 20.0
+          },
+          "corners": {
+            "selected": 2.0,
+            "opponent": 3.0
+          }
+        },
+        "advantage_count": 1,
+        "disadvantage_count": 2
       }
     }
   ]
