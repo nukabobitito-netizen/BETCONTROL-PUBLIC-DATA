@@ -1,75 +1,8 @@
 {
-  "updated_at": "2026-11-22T10:40:15.168092+00:00",
+  "updated_at": "2026-11-22T10:45:13.949583+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
-  "drops": [
-    {
-      "eventId": "204858285",
-      "sport": "Piłka nożna",
-      "competition": "Myanmar League 2",
-      "home": "Junior Lions",
-      "away": "Asia Lion FC",
-      "selection": "AWAY",
-      "team": "Asia Lion FC",
-      "score": "0:3",
-      "minute": "80'",
-      "odds_before": 8.0,
-      "odds_now": 1.0125,
-      "change_percent": -87.34,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 8.0,
-            "opponent": 4.0
-          },
-          "dangerousAttacks": {
-            "selected": 57.0,
-            "opponent": 80.0
-          },
-          "corners": {
-            "selected": 1.0,
-            "opponent": 5.0
-          }
-        },
-        "advantage_count": 1,
-        "disadvantage_count": 2
-      }
-    },
-    {
-      "eventId": "204856873",
-      "sport": "Piłka nożna",
-      "competition": "Rwanda Womens League",
-      "home": "Inyemera WFC (W)",
-      "away": "Bugesera (W)",
-      "selection": "AWAY",
-      "team": "Bugesera (W)",
-      "score": "0:1",
-      "minute": "32'",
-      "odds_before": 4.1,
-      "odds_now": 1.7273,
-      "change_percent": -57.87,
-      "statistics_assessment": {
-        "status": "SUPPORTED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 0.0
-          },
-          "dangerousAttacks": {
-            "selected": 37.0,
-            "opponent": 21.0
-          },
-          "corners": {
-            "selected": 1.0,
-            "opponent": 1.0
-          }
-        },
-        "advantage_count": 2,
-        "disadvantage_count": 0
-      }
-    }
-  ]
+  "drops": []
 }
