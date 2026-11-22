@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T09:40:13.407547+00:00",
+  "updated_at": "2026-11-22T09:45:13.777837+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,27 +14,27 @@
       "selection": "AWAY",
       "team": "Asia Lion FC",
       "score": "0:1",
-      "minute": "39'",
+      "minute": "44'",
       "odds_before": 8.0,
-      "odds_now": 2.6,
-      "change_percent": -67.5,
+      "odds_now": 2.5,
+      "change_percent": -68.75,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 2.0,
+            "selected": 3.0,
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 36.0,
-            "opponent": 31.0
+            "selected": 38.0,
+            "opponent": 37.0
           },
           "corners": {
             "selected": 1.0,
-            "opponent": 0.0
+            "opponent": 1.0
           }
         },
-        "advantage_count": 3,
+        "advantage_count": 2,
         "disadvantage_count": 0
       }
     },
@@ -47,10 +47,10 @@
       "selection": "HOME",
       "team": "Chattrakan City FC",
       "score": "1:0",
-      "minute": "47'",
+      "minute": "52'",
       "odds_before": 3.6,
-      "odds_now": 1.5714,
-      "change_percent": -56.35,
+      "odds_now": 1.5333,
+      "change_percent": -57.41,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -60,11 +60,11 @@
           },
           "dangerousAttacks": {
             "selected": 14.0,
-            "opponent": 18.0
+            "opponent": 20.0
           },
           "corners": {
             "selected": 1.0,
-            "opponent": 3.0
+            "opponent": 4.0
           }
         },
         "advantage_count": 1,
