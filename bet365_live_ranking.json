@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T10:05:14.151177+00:00",
+  "updated_at": "2026-11-22T10:10:15.743992+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,20 +14,20 @@
       "selection": "AWAY",
       "team": "Asia Lion FC",
       "score": "0:1",
-      "minute": "45'",
+      "minute": "50'",
       "odds_before": 8.0,
-      "odds_now": 2.375,
-      "change_percent": -70.31,
+      "odds_now": 2.25,
+      "change_percent": -71.88,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 3.0,
+            "selected": 4.0,
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 41.0,
-            "opponent": 42.0
+            "selected": 43.0,
+            "opponent": 49.0
           },
           "corners": {
             "selected": 1.0,
@@ -39,36 +39,36 @@
       }
     },
     {
-      "eventId": "204795463",
+      "eventId": "204893809",
       "sport": "Piłka nożna",
-      "competition": "Thailand Division 3",
-      "home": "Chattrakan City FC",
-      "away": "Chiangmai FC",
-      "selection": "HOME",
-      "team": "Chattrakan City FC",
-      "score": "1:0",
-      "minute": "72'",
-      "odds_before": 3.6,
-      "odds_now": 1.3333,
-      "change_percent": -62.96,
+      "competition": "Romania Liga 2 Women",
+      "home": "CS Concordia Chiajna (W)",
+      "away": "ACS Juniorul 2014 (W)",
+      "selection": "AWAY",
+      "team": "ACS Juniorul 2014 (W)",
+      "score": "0:1",
+      "minute": "47'",
+      "odds_before": 4.2,
+      "odds_now": 2.1,
+      "change_percent": -50.0,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 0.0
+            "selected": 5.0,
+            "opponent": 6.0
           },
           "dangerousAttacks": {
-            "selected": 19.0,
-            "opponent": 25.0
+            "selected": 38.0,
+            "opponent": 32.0
           },
           "corners": {
-            "selected": 3.0,
-            "opponent": 6.0
+            "selected": 4.0,
+            "opponent": 2.0
           }
         },
-        "advantage_count": 1,
-        "disadvantage_count": 2
+        "advantage_count": 2,
+        "disadvantage_count": 1
       }
     }
   ]
