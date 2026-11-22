@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T16:10:14.257267+00:00",
+  "updated_at": "2026-11-22T16:15:15.710937+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "HOME",
       "team": "Chabab Ben Guerir",
       "score": "2:0",
-      "minute": "48'",
+      "minute": "53'",
       "odds_before": 3.7,
-      "odds_now": 1.125,
-      "change_percent": -69.59,
+      "odds_now": 1.1,
+      "change_percent": -70.27,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -26,16 +26,49 @@
             "opponent": 5.0
           },
           "dangerousAttacks": {
-            "selected": 15.0,
-            "opponent": 24.0
+            "selected": 17.0,
+            "opponent": 25.0
           },
           "corners": {
-            "selected": 0.0,
+            "selected": 1.0,
             "opponent": 7.0
           }
         },
         "advantage_count": 0,
         "disadvantage_count": 3
+      }
+    },
+    {
+      "eventId": "203186572",
+      "sport": "Piłka nożna",
+      "competition": "Sweden Allsvenskan",
+      "home": "Brommapojkarna",
+      "away": "Halmstad",
+      "selection": "AWAY",
+      "team": "Halmstad",
+      "score": "0:3",
+      "minute": "45'",
+      "odds_before": 3.25,
+      "odds_now": 1.025,
+      "change_percent": -68.46,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 4.0,
+            "opponent": 2.0
+          },
+          "dangerousAttacks": {
+            "selected": 16.0,
+            "opponent": 17.0
+          },
+          "corners": {
+            "selected": 0.0,
+            "opponent": 0.0
+          }
+        },
+        "advantage_count": 1,
+        "disadvantage_count": 1
       }
     },
     {
@@ -72,39 +105,6 @@
       }
     },
     {
-      "eventId": "203186572",
-      "sport": "Piłka nożna",
-      "competition": "Sweden Allsvenskan",
-      "home": "Brommapojkarna",
-      "away": "Halmstad",
-      "selection": "AWAY",
-      "team": "Halmstad",
-      "score": "0:2",
-      "minute": "40'",
-      "odds_before": 3.25,
-      "odds_now": 1.2,
-      "change_percent": -63.08,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 2.0
-          },
-          "dangerousAttacks": {
-            "selected": 16.0,
-            "opponent": 13.0
-          },
-          "corners": {
-            "selected": 0.0,
-            "opponent": 0.0
-          }
-        },
-        "advantage_count": 1,
-        "disadvantage_count": 0
-      }
-    },
-    {
       "eventId": "204853020",
       "sport": "Piłka nożna",
       "competition": "Spain Tercera Group 6",
@@ -113,7 +113,7 @@
       "selection": "AWAY",
       "team": "CD Roda",
       "score": "0:1",
-      "minute": "38'",
+      "minute": "43'",
       "odds_before": 4.1,
       "odds_now": 1.6154,
       "change_percent": -60.6,
@@ -125,8 +125,8 @@
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 19.0,
-            "opponent": 27.0
+            "selected": 21.0,
+            "opponent": 30.0
           },
           "corners": {
             "selected": 2.0,
@@ -146,10 +146,10 @@
       "selection": "HOME",
       "team": "Karmiotissa",
       "score": "1:0",
-      "minute": "46'",
+      "minute": "51'",
       "odds_before": 5.25,
-      "odds_now": 2.2,
-      "change_percent": -58.1,
+      "odds_now": 2.1,
+      "change_percent": -60.0,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -159,7 +159,7 @@
           },
           "dangerousAttacks": {
             "selected": 18.0,
-            "opponent": 47.0
+            "opponent": 53.0
           },
           "corners": {
             "selected": 4.0,
@@ -179,10 +179,10 @@
       "selection": "HOME",
       "team": "UD Leiria U19",
       "score": "1:0",
-      "minute": "48'",
+      "minute": "53'",
       "odds_before": 3.2,
-      "odds_now": 1.5333,
-      "change_percent": -52.08,
+      "odds_now": 1.5,
+      "change_percent": -53.12,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -191,16 +191,16 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 32.0,
-            "opponent": 32.0
+            "selected": 34.0,
+            "opponent": 37.0
           },
           "corners": {
-            "selected": 4.0,
+            "selected": 5.0,
             "opponent": 2.0
           }
         },
         "advantage_count": 1,
-        "disadvantage_count": 0
+        "disadvantage_count": 1
       }
     }
   ]
