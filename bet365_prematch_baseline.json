@@ -1,272 +1,6 @@
 {
-  "created_at": "2026-11-22T11:31:54.963571+00:00",
+  "created_at": "2026-11-22T13:24:35.594503+00:00",
   "events": {
-    "204765296": {
-      "eventId": "204765296",
-      "sport": "soccer",
-      "home": "FC Osaka",
-      "away": "Kamatamare Sanuki",
-      "startTime": "2026-11-22T06:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 1.48,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 5.5,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204789162": {
-      "eventId": "204789162",
-      "sport": "soccer",
-      "home": "Jubilo Iwata U21",
-      "away": "V-Varen Nagasaki U21",
-      "startTime": "2026-11-22T06:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 1.8333,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 3.0,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204852185": {
-      "eventId": "204852185",
-      "sport": "soccer",
-      "home": "Beijing (W)",
-      "away": "Wuhan Jiangda University (W)",
-      "startTime": "2026-11-22T06:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 2.0,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 3.25,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204852183": {
-      "eventId": "204852183",
-      "sport": "soccer",
-      "home": "Shanghai Shengli (W)",
-      "away": "Zhejiang Hangzhou (W)",
-      "startTime": "2026-11-22T06:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 1.2,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 11.0,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204852179": {
-      "eventId": "204852179",
-      "sport": "soccer",
-      "home": "Jiangsu Suning (W)",
-      "away": "Liaoning Shenbei Hefeng (W)",
-      "startTime": "2026-11-22T06:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 3.2,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 2.05,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204767044": {
-      "eventId": "204767044",
-      "sport": "soccer",
-      "home": "WSE",
-      "away": "Central & Western",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 1.6667,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 3.6,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204852144": {
-      "eventId": "204852144",
-      "sport": "soccer",
-      "home": "Taichung Futuro",
-      "away": "Hang Yuen",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 2.7,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 2.15,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204852072": {
-      "eventId": "204852072",
-      "sport": "soccer",
-      "home": "Shatin",
-      "away": "Eastern Football Team",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 2.875,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 1.95,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204849906": {
-      "eventId": "204849906",
-      "sport": "soccer",
-      "home": "Nejmet Al Sahra SC U20",
-      "away": "Al Nejmeh U20",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 41.0,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 1.025,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204899922": {
-      "eventId": "204899922",
-      "sport": "soccer",
-      "home": "Konter",
-      "away": "Soar FC",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 1.0833,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 15.0,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204792020": {
-      "eventId": "204792020",
-      "sport": "soccer",
-      "home": "Mendiola FC",
-      "away": "Kaya FC",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 21.0,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 1.0714,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204849582": {
-      "eventId": "204849582",
-      "sport": "soccer",
-      "home": "Lideta Sub City (W)",
-      "away": "Bahir Dar Kenema FC (W)",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 2.4,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 2.6,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204946299": {
-      "eventId": "204946299",
-      "sport": "soccer",
-      "home": "Addis Ababa Ketema (W)",
-      "away": "Nifas Silk Lafto Sub City (W)",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 1.75,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 4.5,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
-    "204946744": {
-      "eventId": "204946744",
-      "sport": "soccer",
-      "home": "Makerere University (W)",
-      "away": "St Noa GFC (W)",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "prematch": {
-        "HOME": {
-          "baseline": 3.0,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        },
-        "AWAY": {
-          "baseline": 2.4,
-          "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-          "price_source": "selection.odds"
-        }
-      }
-    },
     "203618688": {
       "eventId": "203618688",
       "sport": "soccer",
@@ -16107,317 +15841,104 @@
           "price_source": "selection.odds"
         }
       }
+    },
+    "204782000": {
+      "eventId": "204782000",
+      "sport": "soccer",
+      "home": "Northampton (W)",
+      "away": "Barnsley FC (W)",
+      "startTime": "2026-11-22T14:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 4.1,
+          "recorded_at": "2026-11-22T13:24:35.594503+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.5714,
+          "recorded_at": "2026-11-22T13:24:35.594503+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205035986": {
+      "eventId": "205035986",
+      "sport": "soccer",
+      "home": "Al-Shahaniya SC Reserves",
+      "away": "Al Jsra SC",
+      "startTime": "2026-11-22T14:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.375,
+          "recorded_at": "2026-11-22T13:24:35.594503+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.625,
+          "recorded_at": "2026-11-22T13:24:35.594503+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205040156": {
+      "eventId": "205040156",
+      "sport": "soccer",
+      "home": "FAR Rabat (W)",
+      "away": "CS Hilal Temara (W)",
+      "startTime": "2026-11-22T15:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.0455,
+          "recorded_at": "2026-11-22T13:24:35.594503+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 26.0,
+          "recorded_at": "2026-11-22T13:24:35.594503+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204852245": {
+      "eventId": "204852245",
+      "sport": "soccer",
+      "home": "Bristol City (W)",
+      "away": "Watford (W)",
+      "startTime": "2026-11-22T16:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.4444,
+          "recorded_at": "2026-11-22T13:24:35.594503+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 5.0,
+          "recorded_at": "2026-11-22T13:24:35.594503+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205012073": {
+      "eventId": "205012073",
+      "sport": "soccer",
+      "home": "FC Fassell",
+      "away": "Golden Dream",
+      "startTime": "2026-11-22T16:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.3,
+          "recorded_at": "2026-11-22T13:24:35.594503+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 7.5,
+          "recorded_at": "2026-11-22T13:24:35.594503+00:00",
+          "price_source": "selection.odds"
+        }
+      }
     }
   },
   "selections": {
-    "204765296:HOME": {
-      "eventId": "204765296",
-      "sport": "soccer",
-      "home": "FC Osaka",
-      "away": "Kamatamare Sanuki",
-      "startTime": "2026-11-22T06:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 1.48,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204765296:AWAY": {
-      "eventId": "204765296",
-      "sport": "soccer",
-      "home": "FC Osaka",
-      "away": "Kamatamare Sanuki",
-      "startTime": "2026-11-22T06:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 5.5,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204789162:HOME": {
-      "eventId": "204789162",
-      "sport": "soccer",
-      "home": "Jubilo Iwata U21",
-      "away": "V-Varen Nagasaki U21",
-      "startTime": "2026-11-22T06:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 1.8333,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204789162:AWAY": {
-      "eventId": "204789162",
-      "sport": "soccer",
-      "home": "Jubilo Iwata U21",
-      "away": "V-Varen Nagasaki U21",
-      "startTime": "2026-11-22T06:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 3.0,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204852185:HOME": {
-      "eventId": "204852185",
-      "sport": "soccer",
-      "home": "Beijing (W)",
-      "away": "Wuhan Jiangda University (W)",
-      "startTime": "2026-11-22T06:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 2.0,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204852185:AWAY": {
-      "eventId": "204852185",
-      "sport": "soccer",
-      "home": "Beijing (W)",
-      "away": "Wuhan Jiangda University (W)",
-      "startTime": "2026-11-22T06:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 3.25,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204852183:HOME": {
-      "eventId": "204852183",
-      "sport": "soccer",
-      "home": "Shanghai Shengli (W)",
-      "away": "Zhejiang Hangzhou (W)",
-      "startTime": "2026-11-22T06:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 1.2,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204852183:AWAY": {
-      "eventId": "204852183",
-      "sport": "soccer",
-      "home": "Shanghai Shengli (W)",
-      "away": "Zhejiang Hangzhou (W)",
-      "startTime": "2026-11-22T06:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 11.0,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204852179:HOME": {
-      "eventId": "204852179",
-      "sport": "soccer",
-      "home": "Jiangsu Suning (W)",
-      "away": "Liaoning Shenbei Hefeng (W)",
-      "startTime": "2026-11-22T06:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 3.2,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204852179:AWAY": {
-      "eventId": "204852179",
-      "sport": "soccer",
-      "home": "Jiangsu Suning (W)",
-      "away": "Liaoning Shenbei Hefeng (W)",
-      "startTime": "2026-11-22T06:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 2.05,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204767044:HOME": {
-      "eventId": "204767044",
-      "sport": "soccer",
-      "home": "WSE",
-      "away": "Central & Western",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 1.6667,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204767044:AWAY": {
-      "eventId": "204767044",
-      "sport": "soccer",
-      "home": "WSE",
-      "away": "Central & Western",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 3.6,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204852144:HOME": {
-      "eventId": "204852144",
-      "sport": "soccer",
-      "home": "Taichung Futuro",
-      "away": "Hang Yuen",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 2.7,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204852144:AWAY": {
-      "eventId": "204852144",
-      "sport": "soccer",
-      "home": "Taichung Futuro",
-      "away": "Hang Yuen",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 2.15,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204852072:HOME": {
-      "eventId": "204852072",
-      "sport": "soccer",
-      "home": "Shatin",
-      "away": "Eastern Football Team",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 2.875,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204852072:AWAY": {
-      "eventId": "204852072",
-      "sport": "soccer",
-      "home": "Shatin",
-      "away": "Eastern Football Team",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 1.95,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204849906:HOME": {
-      "eventId": "204849906",
-      "sport": "soccer",
-      "home": "Nejmet Al Sahra SC U20",
-      "away": "Al Nejmeh U20",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 41.0,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204849906:AWAY": {
-      "eventId": "204849906",
-      "sport": "soccer",
-      "home": "Nejmet Al Sahra SC U20",
-      "away": "Al Nejmeh U20",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 1.025,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204899922:HOME": {
-      "eventId": "204899922",
-      "sport": "soccer",
-      "home": "Konter",
-      "away": "Soar FC",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 1.0833,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204899922:AWAY": {
-      "eventId": "204899922",
-      "sport": "soccer",
-      "home": "Konter",
-      "away": "Soar FC",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 15.0,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204792020:HOME": {
-      "eventId": "204792020",
-      "sport": "soccer",
-      "home": "Mendiola FC",
-      "away": "Kaya FC",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 21.0,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204792020:AWAY": {
-      "eventId": "204792020",
-      "sport": "soccer",
-      "home": "Mendiola FC",
-      "away": "Kaya FC",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 1.0714,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204849582:HOME": {
-      "eventId": "204849582",
-      "sport": "soccer",
-      "home": "Lideta Sub City (W)",
-      "away": "Bahir Dar Kenema FC (W)",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 2.4,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204849582:AWAY": {
-      "eventId": "204849582",
-      "sport": "soccer",
-      "home": "Lideta Sub City (W)",
-      "away": "Bahir Dar Kenema FC (W)",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 2.6,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204946299:HOME": {
-      "eventId": "204946299",
-      "sport": "soccer",
-      "home": "Addis Ababa Ketema (W)",
-      "away": "Nifas Silk Lafto Sub City (W)",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 1.75,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204946299:AWAY": {
-      "eventId": "204946299",
-      "sport": "soccer",
-      "home": "Addis Ababa Ketema (W)",
-      "away": "Nifas Silk Lafto Sub City (W)",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 4.5,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204946744:HOME": {
-      "eventId": "204946744",
-      "sport": "soccer",
-      "home": "Makerere University (W)",
-      "away": "St Noa GFC (W)",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "selection": "HOME",
-      "baseline": 3.0,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
-    "204946744:AWAY": {
-      "eventId": "204946744",
-      "sport": "soccer",
-      "home": "Makerere University (W)",
-      "away": "St Noa GFC (W)",
-      "startTime": "2026-11-22T07:00:00+00:00",
-      "selection": "AWAY",
-      "baseline": 2.4,
-      "recorded_at": "2026-11-22T00:35:55.260738+00:00",
-      "price_source": "selection.odds"
-    },
     "203618688:HOME": {
       "eventId": "203618688",
       "sport": "soccer",
@@ -34753,6 +34274,116 @@
       "selection": "AWAY",
       "baseline": 5.5,
       "recorded_at": "2026-11-22T11:31:54.963571+00:00",
+      "price_source": "selection.odds"
+    },
+    "204782000:HOME": {
+      "eventId": "204782000",
+      "sport": "soccer",
+      "home": "Northampton (W)",
+      "away": "Barnsley FC (W)",
+      "startTime": "2026-11-22T14:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 4.1,
+      "recorded_at": "2026-11-22T13:24:35.594503+00:00",
+      "price_source": "selection.odds"
+    },
+    "204782000:AWAY": {
+      "eventId": "204782000",
+      "sport": "soccer",
+      "home": "Northampton (W)",
+      "away": "Barnsley FC (W)",
+      "startTime": "2026-11-22T14:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.5714,
+      "recorded_at": "2026-11-22T13:24:35.594503+00:00",
+      "price_source": "selection.odds"
+    },
+    "205035986:HOME": {
+      "eventId": "205035986",
+      "sport": "soccer",
+      "home": "Al-Shahaniya SC Reserves",
+      "away": "Al Jsra SC",
+      "startTime": "2026-11-22T14:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.375,
+      "recorded_at": "2026-11-22T13:24:35.594503+00:00",
+      "price_source": "selection.odds"
+    },
+    "205035986:AWAY": {
+      "eventId": "205035986",
+      "sport": "soccer",
+      "home": "Al-Shahaniya SC Reserves",
+      "away": "Al Jsra SC",
+      "startTime": "2026-11-22T14:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.625,
+      "recorded_at": "2026-11-22T13:24:35.594503+00:00",
+      "price_source": "selection.odds"
+    },
+    "205040156:HOME": {
+      "eventId": "205040156",
+      "sport": "soccer",
+      "home": "FAR Rabat (W)",
+      "away": "CS Hilal Temara (W)",
+      "startTime": "2026-11-22T15:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.0455,
+      "recorded_at": "2026-11-22T13:24:35.594503+00:00",
+      "price_source": "selection.odds"
+    },
+    "205040156:AWAY": {
+      "eventId": "205040156",
+      "sport": "soccer",
+      "home": "FAR Rabat (W)",
+      "away": "CS Hilal Temara (W)",
+      "startTime": "2026-11-22T15:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 26.0,
+      "recorded_at": "2026-11-22T13:24:35.594503+00:00",
+      "price_source": "selection.odds"
+    },
+    "204852245:HOME": {
+      "eventId": "204852245",
+      "sport": "soccer",
+      "home": "Bristol City (W)",
+      "away": "Watford (W)",
+      "startTime": "2026-11-22T16:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.4444,
+      "recorded_at": "2026-11-22T13:24:35.594503+00:00",
+      "price_source": "selection.odds"
+    },
+    "204852245:AWAY": {
+      "eventId": "204852245",
+      "sport": "soccer",
+      "home": "Bristol City (W)",
+      "away": "Watford (W)",
+      "startTime": "2026-11-22T16:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 5.0,
+      "recorded_at": "2026-11-22T13:24:35.594503+00:00",
+      "price_source": "selection.odds"
+    },
+    "205012073:HOME": {
+      "eventId": "205012073",
+      "sport": "soccer",
+      "home": "FC Fassell",
+      "away": "Golden Dream",
+      "startTime": "2026-11-22T16:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.3,
+      "recorded_at": "2026-11-22T13:24:35.594503+00:00",
+      "price_source": "selection.odds"
+    },
+    "205012073:AWAY": {
+      "eventId": "205012073",
+      "sport": "soccer",
+      "home": "FC Fassell",
+      "away": "Golden Dream",
+      "startTime": "2026-11-22T16:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 7.5,
+      "recorded_at": "2026-11-22T13:24:35.594503+00:00",
       "price_source": "selection.odds"
     }
   }
