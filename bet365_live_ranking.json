@@ -1,24 +1,10 @@
 {
-  "updated_at": "2026-11-22T05:40:19.904403+00:00",
+  "updated_at": "2026-11-22T05:45:14.397207+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
   "drops": [
-    {
-      "eventId": "204789079",
-      "sport": "Piłka nożna",
-      "competition": "Japan Football League",
-      "home": "Yokogawa Musashino FC",
-      "away": "Honda FC",
-      "selection": "HOME",
-      "team": "Yokogawa Musashino FC",
-      "score": "2:0",
-      "minute": "83'",
-      "odds_before": 4.3333,
-      "odds_now": 1.025,
-      "change_percent": -76.35
-    },
     {
       "eventId": "204789081",
       "sport": "Piłka nożna",
@@ -28,10 +14,10 @@
       "selection": "AWAY",
       "team": "YSCC",
       "score": "0:1",
-      "minute": "39'",
+      "minute": "44'",
       "odds_before": 3.6,
-      "odds_now": 1.5714,
-      "change_percent": -56.35
+      "odds_now": 1.5,
+      "change_percent": -58.33
     }
   ]
 }
