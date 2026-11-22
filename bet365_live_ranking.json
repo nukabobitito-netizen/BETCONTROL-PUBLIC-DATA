@@ -1,10 +1,24 @@
 {
-  "updated_at": "2026-11-22T01:45:16.598161+00:00",
+  "updated_at": "2026-11-22T01:50:12.758492+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
   "drops": [
+    {
+      "eventId": "204851052",
+      "sport": "Piłka nożna",
+      "competition": "Mexico Liga Premier A",
+      "home": "La Tribu de Cd. Juárez",
+      "away": "Real Refineros FC",
+      "selection": "AWAY",
+      "team": "Real Refineros FC",
+      "score": "0:1",
+      "minute": "43'",
+      "odds_before": 7.5,
+      "odds_now": 2.625,
+      "change_percent": -65.0
+    },
     {
       "eventId": "204851152",
       "sport": "Piłka nożna",
@@ -14,10 +28,10 @@
       "selection": "HOME",
       "team": "Fencibles United (W)",
       "score": "1:1",
-      "minute": "44'",
+      "minute": "45'",
       "odds_before": 7.5,
-      "odds_now": 3.5,
-      "change_percent": -53.33
+      "odds_now": 3.6,
+      "change_percent": -52.0
     }
   ]
 }
