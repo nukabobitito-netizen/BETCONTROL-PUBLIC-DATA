@@ -1,24 +1,10 @@
 {
-  "updated_at": "2026-11-22T03:05:12.707340+00:00",
+  "updated_at": "2026-11-22T03:10:15.101347+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
   "drops": [
-    {
-      "eventId": "204786879",
-      "sport": "Piłka nożna",
-      "competition": "Guatemala Primera Division",
-      "home": "Nueva Santa Rosa CDF",
-      "away": "Deportivo Fraijanes",
-      "selection": "AWAY",
-      "team": "Deportivo Fraijanes",
-      "score": "2:3",
-      "minute": "92'",
-      "odds_before": 4.1,
-      "odds_now": 1.0303,
-      "change_percent": -74.87
-    },
     {
       "eventId": "202801739",
       "sport": "Piłka nożna",
@@ -28,10 +14,10 @@
       "selection": "AWAY",
       "team": "Macarthur FC",
       "score": "0:2",
-      "minute": "47'",
+      "minute": "52'",
       "odds_before": 3.9,
-      "odds_now": 1.2222,
-      "change_percent": -68.66
+      "odds_now": 1.1818,
+      "change_percent": -69.7
     }
   ]
 }
