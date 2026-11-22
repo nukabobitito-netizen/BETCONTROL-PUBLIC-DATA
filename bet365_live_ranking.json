@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T14:20:12.935014+00:00",
+  "updated_at": "2026-11-22T14:25:14.747837+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -105,6 +105,72 @@
       }
     },
     {
+      "eventId": "204856414",
+      "sport": "Piłka nożna",
+      "competition": "Brazil Paulista Women",
+      "home": "Corinthians (W)",
+      "away": "Bragantino (W)",
+      "selection": "AWAY",
+      "team": "Bragantino (W)",
+      "score": "0:1",
+      "minute": "24'",
+      "odds_before": 6.0,
+      "odds_now": 2.5,
+      "change_percent": -58.33,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 2.0,
+            "opponent": 1.0
+          },
+          "dangerousAttacks": {
+            "selected": 14.0,
+            "opponent": 15.0
+          },
+          "corners": {
+            "selected": 2.0,
+            "opponent": 2.0
+          }
+        },
+        "advantage_count": 1,
+        "disadvantage_count": 1
+      }
+    },
+    {
+      "eventId": "203964754",
+      "sport": "Piłka nożna",
+      "competition": "England Super League Women",
+      "home": "Charlton (W)",
+      "away": "Aston Villa (W)",
+      "selection": "HOME",
+      "team": "Charlton (W)",
+      "score": "1:0",
+      "minute": "25'",
+      "odds_before": 4.5,
+      "odds_now": 1.9091,
+      "change_percent": -57.58,
+      "statistics_assessment": {
+        "status": "SUPPORTED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 1.0,
+            "opponent": 0.0
+          },
+          "dangerousAttacks": {
+            "selected": 0.0,
+            "opponent": 0.0
+          },
+          "corners": {
+            "selected": 1.0,
+            "opponent": 0.0
+          }
+        },
+        "advantage_count": 2,
+        "disadvantage_count": 0
+      }
+    },
+    {
       "eventId": "204853264",
       "sport": "Piłka nożna",
       "competition": "Italy Serie D",
@@ -138,69 +204,36 @@
       }
     },
     {
-      "eventId": "204856414",
+      "eventId": "204897179",
       "sport": "Piłka nożna",
-      "competition": "Brazil Paulista Women",
-      "home": "Corinthians (W)",
-      "away": "Bragantino (W)",
+      "competition": "England National League Division 1 Women",
+      "home": "QPR (W)",
+      "away": "Saltdean United (W)",
       "selection": "AWAY",
-      "team": "Bragantino (W)",
+      "team": "Saltdean United (W)",
       "score": "0:1",
-      "minute": "19'",
-      "odds_before": 6.0,
-      "odds_now": 2.6,
-      "change_percent": -56.67,
+      "minute": "21'",
+      "odds_before": 7.5,
+      "odds_now": 3.4,
+      "change_percent": -54.67,
       "statistics_assessment": {
-        "status": "MIXED",
+        "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 1.0,
-            "opponent": 1.0
+            "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 9.0,
+            "selected": 8.0,
             "opponent": 13.0
           },
           "corners": {
             "selected": 1.0,
-            "opponent": 1.0
+            "opponent": 3.0
           }
         },
         "advantage_count": 0,
-        "disadvantage_count": 1
-      }
-    },
-    {
-      "eventId": "203964754",
-      "sport": "Piłka nożna",
-      "competition": "England Super League Women",
-      "home": "Charlton (W)",
-      "away": "Aston Villa (W)",
-      "selection": "HOME",
-      "team": "Charlton (W)",
-      "score": "1:0",
-      "minute": "20'",
-      "odds_before": 4.5,
-      "odds_now": 2.05,
-      "change_percent": -54.44,
-      "statistics_assessment": {
-        "status": "SUPPORTED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 1.0,
-            "opponent": 0.0
-          },
-          "dangerousAttacks": {
-            "selected": 0.0,
-            "opponent": 0.0
-          },
-          "corners": {
-            "selected": 1.0,
-            "opponent": 0.0
-          }
-        },
-        "advantage_count": 2,
-        "disadvantage_count": 0
+        "disadvantage_count": 3
       }
     }
   ]
