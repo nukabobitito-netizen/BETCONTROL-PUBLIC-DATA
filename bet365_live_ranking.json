@@ -1,8 +1,23 @@
 {
-  "updated_at": "2026-11-22T01:12:06.652884+00:00",
+  "updated_at": "2026-11-22T01:15:14.211317+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
-  "drops": []
+  "drops": [
+    {
+      "eventId": "204851152",
+      "sport": "Piłka nożna",
+      "competition": "New Zealand National League Women",
+      "home": "Fencibles United (W)",
+      "away": "Auckland United (W)",
+      "selection": "HOME",
+      "team": "Fencibles United (W)",
+      "score": "1:0",
+      "minute": "14'",
+      "odds_before": 7.5,
+      "odds_now": 1.9091,
+      "change_percent": -74.55
+    }
+  ]
 }
