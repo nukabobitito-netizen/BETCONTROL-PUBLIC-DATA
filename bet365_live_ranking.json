@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T15:45:15.871145+00:00",
+  "updated_at": "2026-11-22T15:50:15.805035+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "AWAY",
       "team": "FC Sion II",
       "score": "0:2",
-      "minute": "69'",
+      "minute": "73'",
       "odds_before": 5.5,
-      "odds_now": 1.1,
-      "change_percent": -80.0,
+      "odds_now": 1.0714,
+      "change_percent": -80.52,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -26,8 +26,8 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 32.0,
-            "opponent": 34.0
+            "selected": 36.0,
+            "opponent": 37.0
           },
           "corners": {
             "selected": 2.0,
@@ -35,39 +35,6 @@
           }
         },
         "advantage_count": 1,
-        "disadvantage_count": 2
-      }
-    },
-    {
-      "eventId": "204784398",
-      "sport": "Piłka nożna",
-      "competition": "Luxembourg Division Nationale",
-      "home": "FC 03 Differdange",
-      "away": "Progres Niederkorn",
-      "selection": "AWAY",
-      "team": "Progres Niederkorn",
-      "score": "0:2",
-      "minute": "46'",
-      "odds_before": 7.0,
-      "odds_now": 1.6667,
-      "change_percent": -76.19,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 2.0
-          },
-          "dangerousAttacks": {
-            "selected": 17.0,
-            "opponent": 30.0
-          },
-          "corners": {
-            "selected": 1.0,
-            "opponent": 4.0
-          }
-        },
-        "advantage_count": 0,
         "disadvantage_count": 2
       }
     },
@@ -80,10 +47,10 @@
       "selection": "AWAY",
       "team": "KIF Orebro (W)",
       "score": "2:3",
-      "minute": "88'",
+      "minute": "93'",
       "odds_before": 4.3333,
-      "odds_now": 1.1818,
-      "change_percent": -72.73,
+      "odds_now": 1.125,
+      "change_percent": -74.04,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -92,16 +59,16 @@
             "opponent": 5.0
           },
           "dangerousAttacks": {
-            "selected": 65.0,
-            "opponent": 63.0
+            "selected": 69.0,
+            "opponent": 71.0
           },
           "corners": {
-            "selected": 4.0,
-            "opponent": 8.0
+            "selected": 5.0,
+            "opponent": 9.0
           }
         },
-        "advantage_count": 2,
-        "disadvantage_count": 1
+        "advantage_count": 1,
+        "disadvantage_count": 2
       }
     },
     {
@@ -113,12 +80,12 @@
       "selection": "HOME",
       "team": "Jedinstvo UB",
       "score": "3:2",
-      "minute": "85'",
+      "minute": "90'",
       "odds_before": 4.0,
-      "odds_now": 1.1667,
-      "change_percent": -70.83,
+      "odds_now": 1.0625,
+      "change_percent": -73.44,
       "statistics_assessment": {
-        "status": "MIXED",
+        "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 5.0,
@@ -126,14 +93,14 @@
           },
           "dangerousAttacks": {
             "selected": 48.0,
-            "opponent": 46.0
+            "opponent": 48.0
           },
           "corners": {
             "selected": 2.0,
             "opponent": 5.0
           }
         },
-        "advantage_count": 1,
+        "advantage_count": 0,
         "disadvantage_count": 2
       }
     },
@@ -158,8 +125,8 @@
             "opponent": 5.0
           },
           "dangerousAttacks": {
-            "selected": 13.0,
-            "opponent": 21.0
+            "selected": 14.0,
+            "opponent": 22.0
           },
           "corners": {
             "selected": 0.0,
@@ -171,65 +138,32 @@
       }
     },
     {
-      "eventId": "204853213",
+      "eventId": "204781624",
       "sport": "Piłka nożna",
-      "competition": "Italy Serie D",
-      "home": "Sestri Levante",
-      "away": "Derthona",
-      "selection": "AWAY",
-      "team": "Derthona",
-      "score": "0:1",
-      "minute": "90'",
-      "odds_before": 3.3,
-      "odds_now": 1.04,
-      "change_percent": -68.48,
-      "statistics_assessment": {
-        "status": "SUPPORTED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 7.0,
-            "opponent": 5.0
-          },
-          "dangerousAttacks": {
-            "selected": 51.0,
-            "opponent": 36.0
-          },
-          "corners": {
-            "selected": 4.0,
-            "opponent": 3.0
-          }
-        },
-        "advantage_count": 3,
-        "disadvantage_count": 0
-      }
-    },
-    {
-      "eventId": "204722550",
-      "sport": "Piłka nożna",
-      "competition": "Portugal Cup",
-      "home": "SC Vianense",
-      "away": "Rio Ave",
+      "competition": "England League Cup Women",
+      "home": "Ipswich Town (W)",
+      "away": "Southampton (W)",
       "selection": "HOME",
-      "team": "SC Vianense",
+      "team": "Ipswich Town (W)",
       "score": "1:0",
-      "minute": "81'",
-      "odds_before": 3.5,
-      "odds_now": 1.1818,
-      "change_percent": -66.23,
+      "minute": "91'",
+      "odds_before": 3.4,
+      "odds_now": 1.0625,
+      "change_percent": -68.75,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 3.0
+            "selected": 4.0,
+            "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 25.0,
-            "opponent": 26.0
+            "selected": 34.0,
+            "opponent": 69.0
           },
           "corners": {
-            "selected": 4.0,
-            "opponent": 0.0
+            "selected": 2.0,
+            "opponent": 10.0
           }
         },
         "advantage_count": 1,
@@ -245,10 +179,10 @@
       "selection": "AWAY",
       "team": "K Lyra-Lierse Berlaar",
       "score": "0:1",
-      "minute": "83'",
+      "minute": "88'",
       "odds_before": 3.6,
-      "odds_now": 1.2222,
-      "change_percent": -66.05,
+      "odds_now": 1.125,
+      "change_percent": -68.75,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -257,8 +191,8 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 60.0,
-            "opponent": 101.0
+            "selected": 64.0,
+            "opponent": 107.0
           },
           "corners": {
             "selected": 1.0,
@@ -270,36 +204,36 @@
       }
     },
     {
-      "eventId": "204781624",
+      "eventId": "204722550",
       "sport": "Piłka nożna",
-      "competition": "England League Cup Women",
-      "home": "Ipswich Town (W)",
-      "away": "Southampton (W)",
+      "competition": "Portugal Cup",
+      "home": "SC Vianense",
+      "away": "Rio Ave",
       "selection": "HOME",
-      "team": "Ipswich Town (W)",
+      "team": "SC Vianense",
       "score": "1:0",
       "minute": "86'",
-      "odds_before": 3.4,
-      "odds_now": 1.1667,
-      "change_percent": -65.69,
+      "odds_before": 3.5,
+      "odds_now": 1.125,
+      "change_percent": -67.86,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 4.0,
-            "opponent": 2.0
+            "selected": 3.0,
+            "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 33.0,
-            "opponent": 67.0
+            "selected": 27.0,
+            "opponent": 30.0
           },
           "corners": {
-            "selected": 2.0,
-            "opponent": 10.0
+            "selected": 4.0,
+            "opponent": 1.0
           }
         },
         "advantage_count": 1,
-        "disadvantage_count": 2
+        "disadvantage_count": 1
       }
     },
     {
@@ -311,19 +245,19 @@
       "selection": "AWAY",
       "team": "Halmstad",
       "score": "0:2",
-      "minute": "16'",
+      "minute": "20'",
       "odds_before": 3.25,
-      "odds_now": 1.3,
-      "change_percent": -60.0,
+      "odds_now": 1.2857,
+      "change_percent": -60.44,
       "statistics_assessment": {
-        "status": "MIXED",
+        "status": "SUPPORTED",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 2.0,
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 4.0,
+            "selected": 6.0,
             "opponent": 4.0
           },
           "corners": {
@@ -331,7 +265,7 @@
             "opponent": 0.0
           }
         },
-        "advantage_count": 1,
+        "advantage_count": 2,
         "disadvantage_count": 0
       }
     },
@@ -377,10 +311,10 @@
       "selection": "HOME",
       "team": "Karmiotissa",
       "score": "1:0",
-      "minute": "43'",
+      "minute": "48'",
       "odds_before": 5.25,
-      "odds_now": 2.3,
-      "change_percent": -56.19,
+      "odds_now": 2.2,
+      "change_percent": -58.1,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -389,11 +323,11 @@
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 15.0,
-            "opponent": 42.0
+            "selected": 17.0,
+            "opponent": 45.0
           },
           "corners": {
-            "selected": 3.0,
+            "selected": 4.0,
             "opponent": 5.0
           }
         },
@@ -410,10 +344,10 @@
       "selection": "AWAY",
       "team": "CD Roda",
       "score": "0:1",
-      "minute": "14'",
+      "minute": "18'",
       "odds_before": 4.1,
-      "odds_now": 1.8333,
-      "change_percent": -55.29,
+      "odds_now": 1.8,
+      "change_percent": -56.1,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -422,8 +356,8 @@
             "opponent": 0.0
           },
           "dangerousAttacks": {
-            "selected": 7.0,
-            "opponent": 10.0
+            "selected": 9.0,
+            "opponent": 11.0
           },
           "corners": {
             "selected": 1.0,
@@ -435,6 +369,39 @@
       }
     },
     {
+      "eventId": "204784398",
+      "sport": "Piłka nożna",
+      "competition": "Luxembourg Division Nationale",
+      "home": "FC 03 Differdange",
+      "away": "Progres Niederkorn",
+      "selection": "AWAY",
+      "team": "Progres Niederkorn",
+      "score": "1:2",
+      "minute": "45'",
+      "odds_before": 7.0,
+      "odds_now": 3.25,
+      "change_percent": -53.57,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 2.0,
+            "opponent": 3.0
+          },
+          "dangerousAttacks": {
+            "selected": 17.0,
+            "opponent": 30.0
+          },
+          "corners": {
+            "selected": 1.0,
+            "opponent": 4.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 3
+      }
+    },
+    {
       "eventId": "204909093",
       "sport": "Piłka nożna",
       "competition": "Portugal U19 League",
@@ -443,27 +410,27 @@
       "selection": "HOME",
       "team": "UD Leiria U19",
       "score": "1:0",
-      "minute": "43'",
+      "minute": "45'",
       "odds_before": 3.2,
       "odds_now": 1.5333,
       "change_percent": -52.08,
       "statistics_assessment": {
-        "status": "SUPPORTED",
+        "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 1.0,
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 29.0,
-            "opponent": 27.0
+            "selected": 30.0,
+            "opponent": 30.0
           },
           "corners": {
             "selected": 4.0,
             "opponent": 2.0
           }
         },
-        "advantage_count": 2,
+        "advantage_count": 1,
         "disadvantage_count": 0
       }
     },
@@ -488,8 +455,8 @@
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 30.0,
-            "opponent": 40.0
+            "selected": 31.0,
+            "opponent": 47.0
           },
           "corners": {
             "selected": 1.0,
