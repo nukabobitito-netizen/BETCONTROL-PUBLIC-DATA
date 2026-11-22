@@ -1,43 +1,10 @@
 {
-  "updated_at": "2026-11-22T11:40:15.153517+00:00",
+  "updated_at": "2026-11-22T11:45:14.633816+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
   "drops": [
-    {
-      "eventId": "204897216",
-      "sport": "Piłka nożna",
-      "competition": "France U19 League",
-      "home": "Troyes U19",
-      "away": "Annecy U19",
-      "selection": "AWAY",
-      "team": "Annecy U19",
-      "score": "2:4",
-      "minute": "78'",
-      "odds_before": 4.2,
-      "odds_now": 1.025,
-      "change_percent": -75.6,
-      "statistics_assessment": {
-        "status": "SUPPORTED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 10.0,
-            "opponent": 4.0
-          },
-          "dangerousAttacks": {
-            "selected": 39.0,
-            "opponent": 33.0
-          },
-          "corners": {
-            "selected": 7.0,
-            "opponent": 6.0
-          }
-        },
-        "advantage_count": 3,
-        "disadvantage_count": 0
-      }
-    },
     {
       "eventId": "204455620",
       "sport": "Piłka nożna",
@@ -46,21 +13,21 @@
       "away": "Las Palmas B",
       "selection": "AWAY",
       "team": "Las Palmas B",
-      "score": "0:1",
-      "minute": "40'",
+      "score": "0:2",
+      "minute": "45'",
       "odds_before": 5.25,
-      "odds_now": 1.7273,
-      "change_percent": -67.1,
+      "odds_now": 1.2,
+      "change_percent": -77.14,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 2.0,
+            "selected": 3.0,
             "opponent": 0.0
           },
           "dangerousAttacks": {
-            "selected": 24.0,
-            "opponent": 34.0
+            "selected": 25.0,
+            "opponent": 43.0
           },
           "corners": {
             "selected": 2.0,
@@ -72,6 +39,39 @@
       }
     },
     {
+      "eventId": "204897216",
+      "sport": "Piłka nożna",
+      "competition": "France U19 League",
+      "home": "Troyes U19",
+      "away": "Annecy U19",
+      "selection": "AWAY",
+      "team": "Annecy U19",
+      "score": "2:4",
+      "minute": "83'",
+      "odds_before": 4.2,
+      "odds_now": 1.0152,
+      "change_percent": -75.83,
+      "statistics_assessment": {
+        "status": "SUPPORTED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 10.0,
+            "opponent": 6.0
+          },
+          "dangerousAttacks": {
+            "selected": 42.0,
+            "opponent": 35.0
+          },
+          "corners": {
+            "selected": 7.0,
+            "opponent": 7.0
+          }
+        },
+        "advantage_count": 2,
+        "disadvantage_count": 0
+      }
+    },
+    {
       "eventId": "204773892",
       "sport": "Piłka nożna",
       "competition": "Vietnam V-League 2",
@@ -80,10 +80,10 @@
       "selection": "AWAY",
       "team": "Quy Nhon United",
       "score": "1:2",
-      "minute": "85'",
+      "minute": "90'",
       "odds_before": 3.4,
-      "odds_now": 1.125,
-      "change_percent": -66.91,
+      "odds_now": 1.0625,
+      "change_percent": -68.75,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -93,7 +93,7 @@
           },
           "dangerousAttacks": {
             "selected": 30.0,
-            "opponent": 40.0
+            "opponent": 41.0
           },
           "corners": {
             "selected": 3.0,
@@ -113,10 +113,10 @@
       "selection": "AWAY",
       "team": "Tenerife B (W)",
       "score": "0:1",
-      "minute": "80'",
+      "minute": "85'",
       "odds_before": 3.5,
-      "odds_now": 1.2222,
-      "change_percent": -65.08,
+      "odds_now": 1.1667,
+      "change_percent": -66.67,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -146,10 +146,10 @@
       "selection": "AWAY",
       "team": "Beaucouze U19",
       "score": "0:1",
-      "minute": "82'",
+      "minute": "86'",
       "odds_before": 3.75,
-      "odds_now": 1.4444,
-      "change_percent": -61.48,
+      "odds_now": 1.25,
+      "change_percent": -66.67,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -158,16 +158,49 @@
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 30.0,
-            "opponent": 58.0
+            "selected": 34.0,
+            "opponent": 60.0
           },
           "corners": {
             "selected": 4.0,
-            "opponent": 10.0
+            "opponent": 11.0
           }
         },
         "advantage_count": 1,
         "disadvantage_count": 2
+      }
+    },
+    {
+      "eventId": "204792014",
+      "sport": "Piłka nożna",
+      "competition": "North Macedonia First League",
+      "home": "Bregalnica Stip",
+      "away": "FC Struga Trim & Lum",
+      "selection": "HOME",
+      "team": "Bregalnica Stip",
+      "score": "1:0",
+      "minute": "42'",
+      "odds_before": 4.0,
+      "odds_now": 1.5714,
+      "change_percent": -60.72,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 1.0,
+            "opponent": 1.0
+          },
+          "dangerousAttacks": {
+            "selected": 27.0,
+            "opponent": 31.0
+          },
+          "corners": {
+            "selected": 8.0,
+            "opponent": 2.0
+          }
+        },
+        "advantage_count": 1,
+        "disadvantage_count": 1
       }
     },
     {
@@ -179,27 +212,27 @@
       "selection": "AWAY",
       "team": "UD Tomares",
       "score": "0:1",
-      "minute": "40'",
+      "minute": "44'",
       "odds_before": 3.3,
       "odds_now": 1.3,
       "change_percent": -60.61,
       "statistics_assessment": {
-        "status": "MIXED",
+        "status": "SUPPORTED",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 4.0,
-            "opponent": 1.0
+            "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 11.0,
-            "opponent": 11.0
+            "selected": 13.0,
+            "opponent": 12.0
           },
           "corners": {
             "selected": 3.0,
             "opponent": 3.0
           }
         },
-        "advantage_count": 1,
+        "advantage_count": 2,
         "disadvantage_count": 0
       }
     },
@@ -212,7 +245,7 @@
       "selection": "HOME",
       "team": "Granada (W)",
       "score": "1:0",
-      "minute": "37'",
+      "minute": "42'",
       "odds_before": 11.0,
       "odds_now": 4.75,
       "change_percent": -56.82,
@@ -225,44 +258,11 @@
           },
           "dangerousAttacks": {
             "selected": 8.0,
-            "opponent": 13.0
+            "opponent": 18.0
           },
           "corners": {
             "selected": 0.0,
             "opponent": 2.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 3
-      }
-    },
-    {
-      "eventId": "203578644",
-      "sport": "Piłka nożna",
-      "competition": "Poland II Liga",
-      "home": "Hutnik Krakow",
-      "away": "Resovia Rzeszow",
-      "selection": "AWAY",
-      "team": "Resovia Rzeszow",
-      "score": "0:1",
-      "minute": "42'",
-      "odds_before": 4.0,
-      "odds_now": 1.9091,
-      "change_percent": -52.27,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 3.0,
-            "opponent": 4.0
-          },
-          "dangerousAttacks": {
-            "selected": 27.0,
-            "opponent": 38.0
-          },
-          "corners": {
-            "selected": 3.0,
-            "opponent": 7.0
           }
         },
         "advantage_count": 0,
@@ -278,10 +278,10 @@
       "selection": "AWAY",
       "team": "CFJ Mollerussa",
       "score": "0:1",
-      "minute": "41'",
+      "minute": "45'",
       "odds_before": 3.8,
-      "odds_now": 1.8333,
-      "change_percent": -51.76,
+      "odds_now": 1.8,
+      "change_percent": -52.63,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -290,8 +290,8 @@
             "opponent": 0.0
           },
           "dangerousAttacks": {
-            "selected": 12.0,
-            "opponent": 16.0
+            "selected": 14.0,
+            "opponent": 17.0
           },
           "corners": {
             "selected": 2.0,
@@ -300,6 +300,39 @@
         },
         "advantage_count": 1,
         "disadvantage_count": 2
+      }
+    },
+    {
+      "eventId": "203578644",
+      "sport": "Piłka nożna",
+      "competition": "Poland II Liga",
+      "home": "Hutnik Krakow",
+      "away": "Resovia Rzeszow",
+      "selection": "AWAY",
+      "team": "Resovia Rzeszow",
+      "score": "0:1",
+      "minute": "45'",
+      "odds_before": 4.0,
+      "odds_now": 1.9524,
+      "change_percent": -51.19,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 3.0,
+            "opponent": 4.0
+          },
+          "dangerousAttacks": {
+            "selected": 33.0,
+            "opponent": 40.0
+          },
+          "corners": {
+            "selected": 3.0,
+            "opponent": 7.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 3
       }
     }
   ]
