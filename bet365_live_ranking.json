@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T02:30:14.214066+00:00",
+  "updated_at": "2026-11-22T02:35:13.822909+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "HOME",
       "team": "SV Sporting Aruba",
       "score": "1:0",
-      "minute": "86'",
+      "minute": "90'",
       "odds_before": 3.9,
-      "odds_now": 1.1429,
-      "change_percent": -70.69
+      "odds_now": 1.125,
+      "change_percent": -71.15
     },
     {
       "eventId": "202801739",
@@ -28,24 +28,10 @@
       "selection": "AWAY",
       "team": "Macarthur FC",
       "score": "0:2",
-      "minute": "29'",
+      "minute": "34'",
       "odds_before": 3.9,
-      "odds_now": 1.3333,
-      "change_percent": -65.81
-    },
-    {
-      "eventId": "204786879",
-      "sport": "Piłka nożna",
-      "competition": "Guatemala Primera Division",
-      "home": "Nueva Santa Rosa CDF",
-      "away": "Deportivo Fraijanes",
-      "selection": "AWAY",
-      "team": "Deportivo Fraijanes",
-      "score": "0:1",
-      "minute": "57'",
-      "odds_before": 4.1,
-      "odds_now": 1.8333,
-      "change_percent": -55.29
+      "odds_now": 1.2857,
+      "change_percent": -67.03
     }
   ]
 }
