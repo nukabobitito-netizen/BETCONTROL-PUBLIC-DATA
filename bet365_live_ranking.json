@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T12:30:16.552035+00:00",
+  "updated_at": "2026-11-22T12:35:13.380326+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "AWAY",
       "team": "Las Palmas B",
       "score": "0:2",
-      "minute": "71'",
+      "minute": "76'",
       "odds_before": 5.25,
-      "odds_now": 1.0714,
-      "change_percent": -79.59,
+      "odds_now": 1.0455,
+      "change_percent": -80.09,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -26,12 +26,45 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 48.0,
-            "opponent": 81.0
+            "selected": 57.0,
+            "opponent": 86.0
           },
           "corners": {
             "selected": 3.0,
             "opponent": 5.0
+          }
+        },
+        "advantage_count": 1,
+        "disadvantage_count": 2
+      }
+    },
+    {
+      "eventId": "204734498",
+      "sport": "Piłka nożna",
+      "competition": "Spain Tercera Group 3",
+      "home": "CD Cayon",
+      "away": "Castro",
+      "selection": "AWAY",
+      "team": "Castro",
+      "score": "1:2",
+      "minute": "77'",
+      "odds_before": 6.0,
+      "odds_now": 1.5714,
+      "change_percent": -73.81,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 5.0,
+            "opponent": 7.0
+          },
+          "dangerousAttacks": {
+            "selected": 21.0,
+            "opponent": 44.0
+          },
+          "corners": {
+            "selected": 4.0,
+            "opponent": 3.0
           }
         },
         "advantage_count": 1,
@@ -47,10 +80,10 @@
       "selection": "AWAY",
       "team": "UD Tomares",
       "score": "0:2",
-      "minute": "73'",
+      "minute": "78'",
       "odds_before": 3.3,
-      "odds_now": 1.025,
-      "change_percent": -68.94,
+      "odds_now": 1.0152,
+      "change_percent": -69.24,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
@@ -59,8 +92,8 @@
             "opponent": 4.0
           },
           "dangerousAttacks": {
-            "selected": 26.0,
-            "opponent": 23.0
+            "selected": 27.0,
+            "opponent": 25.0
           },
           "corners": {
             "selected": 6.0,
@@ -72,39 +105,6 @@
       }
     },
     {
-      "eventId": "204792304",
-      "sport": "Piłka nożna",
-      "competition": "Spain Primera Division RFEF Group 2",
-      "home": "Huesca",
-      "away": "UD Ibiza",
-      "selection": "AWAY",
-      "team": "UD Ibiza",
-      "score": "0:2",
-      "minute": "67'",
-      "odds_before": 3.2,
-      "odds_now": 1.0833,
-      "change_percent": -66.15,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 4.0
-          },
-          "dangerousAttacks": {
-            "selected": 10.0,
-            "opponent": 39.0
-          },
-          "corners": {
-            "selected": 2.0,
-            "opponent": 8.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 3
-      }
-    },
-    {
       "eventId": "203578644",
       "sport": "Piłka nożna",
       "competition": "Poland II Liga",
@@ -113,23 +113,56 @@
       "selection": "AWAY",
       "team": "Resovia Rzeszow",
       "score": "0:1",
-      "minute": "77'",
+      "minute": "81'",
       "odds_before": 4.0,
-      "odds_now": 1.4,
-      "change_percent": -65.0,
+      "odds_now": 1.2857,
+      "change_percent": -67.86,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 6.0,
-            "opponent": 8.0
+            "opponent": 9.0
           },
           "dangerousAttacks": {
             "selected": 62.0,
-            "opponent": 70.0
+            "opponent": 78.0
           },
           "corners": {
             "selected": 4.0,
+            "opponent": 12.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 3
+      }
+    },
+    {
+      "eventId": "204792304",
+      "sport": "Piłka nożna",
+      "competition": "Spain Primera Division RFEF Group 2",
+      "home": "Huesca",
+      "away": "UD Ibiza",
+      "selection": "AWAY",
+      "team": "UD Ibiza",
+      "score": "0:2",
+      "minute": "72'",
+      "odds_before": 3.2,
+      "odds_now": 1.05,
+      "change_percent": -67.19,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 2.0,
+            "opponent": 4.0
+          },
+          "dangerousAttacks": {
+            "selected": 14.0,
+            "opponent": 39.0
+          },
+          "corners": {
+            "selected": 2.0,
             "opponent": 8.0
           }
         },
@@ -146,28 +179,61 @@
       "selection": "AWAY",
       "team": "CFJ Mollerussa",
       "score": "0:1",
-      "minute": "74'",
+      "minute": "79'",
       "odds_before": 3.8,
-      "odds_now": 1.3636,
-      "change_percent": -64.12,
+      "odds_now": 1.2857,
+      "change_percent": -66.17,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 1.0,
+            "selected": 2.0,
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 25.0,
-            "opponent": 31.0
+            "selected": 27.0,
+            "opponent": 33.0
           },
           "corners": {
             "selected": 4.0,
-            "opponent": 6.0
+            "opponent": 7.0
           }
         },
         "advantage_count": 0,
-        "disadvantage_count": 3
+        "disadvantage_count": 2
+      }
+    },
+    {
+      "eventId": "204734506",
+      "sport": "Piłka nożna",
+      "competition": "Spain Tercera Group 15",
+      "home": "Subiza",
+      "away": "CD Pamplona",
+      "selection": "AWAY",
+      "team": "CD Pamplona",
+      "score": "0:1",
+      "minute": "80'",
+      "odds_before": 3.6,
+      "odds_now": 1.2222,
+      "change_percent": -66.05,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 4.0,
+            "opponent": 3.0
+          },
+          "dangerousAttacks": {
+            "selected": 39.0,
+            "opponent": 57.0
+          },
+          "corners": {
+            "selected": 4.0,
+            "opponent": 3.0
+          }
+        },
+        "advantage_count": 2,
+        "disadvantage_count": 1
       }
     },
     {
@@ -179,10 +245,10 @@
       "selection": "AWAY",
       "team": "Utiel",
       "score": "0:1",
-      "minute": "68'",
+      "minute": "73'",
       "odds_before": 3.3,
-      "odds_now": 1.4,
-      "change_percent": -57.58,
+      "odds_now": 1.3333,
+      "change_percent": -59.6,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -191,8 +257,8 @@
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 16.0,
-            "opponent": 32.0
+            "selected": 17.0,
+            "opponent": 34.0
           },
           "corners": {
             "selected": 1.0,
