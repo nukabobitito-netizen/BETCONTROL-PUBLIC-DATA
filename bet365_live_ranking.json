@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T15:20:19.010436+00:00",
+  "updated_at": "2026-11-22T15:25:13.409810+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,28 +14,28 @@
       "selection": "HOME",
       "team": "Club Atletico Palermo",
       "score": "1:0",
-      "minute": "86'",
+      "minute": "90'",
       "odds_before": 5.5,
-      "odds_now": 1.1429,
-      "change_percent": -79.22,
+      "odds_now": 1.0714,
+      "change_percent": -80.52,
       "statistics_assessment": {
-        "status": "MIXED",
+        "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 2.0,
             "opponent": 2.0
           },
           "dangerousAttacks": {
-            "selected": 41.0,
-            "opponent": 58.0
+            "selected": 42.0,
+            "opponent": 62.0
           },
           "corners": {
             "selected": 3.0,
-            "opponent": 3.0
+            "opponent": 4.0
           }
         },
         "advantage_count": 0,
-        "disadvantage_count": 1
+        "disadvantage_count": 2
       }
     },
     {
@@ -47,10 +47,10 @@
       "selection": "AWAY",
       "team": "Calcio Schio",
       "score": "0:1",
-      "minute": "86'",
+      "minute": "91'",
       "odds_before": 5.0,
-      "odds_now": 1.0714,
-      "change_percent": -78.57,
+      "odds_now": 1.0303,
+      "change_percent": -79.39,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -59,8 +59,8 @@
             "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 29.0,
-            "opponent": 44.0
+            "selected": 31.0,
+            "opponent": 45.0
           },
           "corners": {
             "selected": 5.0,
@@ -80,10 +80,10 @@
       "selection": "AWAY",
       "team": "FC Sion II",
       "score": "0:2",
-      "minute": "45'",
+      "minute": "49'",
       "odds_before": 5.5,
-      "odds_now": 1.2857,
-      "change_percent": -76.62,
+      "odds_now": 1.25,
+      "change_percent": -77.27,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
@@ -92,8 +92,8 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 24.0,
-            "opponent": 22.0
+            "selected": 27.0,
+            "opponent": 24.0
           },
           "corners": {
             "selected": 2.0,
@@ -105,69 +105,36 @@
       }
     },
     {
-      "eventId": "204853266",
+      "eventId": "205003982",
       "sport": "Piłka nożna",
-      "competition": "Italy Serie D",
-      "home": "ASD Rondinella Marzocco",
-      "away": "GSD Ghiviborgo VDS",
+      "competition": "Swedish Damallsvenskan Play-Off",
+      "home": "FC Rosengård (W)",
+      "away": "KIF Orebro (W)",
       "selection": "AWAY",
-      "team": "GSD Ghiviborgo VDS",
-      "score": "0:1",
-      "minute": "90'",
-      "odds_before": 4.2,
-      "odds_now": 1.0357,
-      "change_percent": -75.34,
+      "team": "KIF Orebro (W)",
+      "score": "1:3",
+      "minute": "68'",
+      "odds_before": 4.3333,
+      "odds_now": 1.1429,
+      "change_percent": -73.63,
       "statistics_assessment": {
-        "status": "SUPPORTED",
+        "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 9.0,
-            "opponent": 2.0
+            "selected": 6.0,
+            "opponent": 4.0
           },
           "dangerousAttacks": {
-            "selected": 63.0,
-            "opponent": 54.0
+            "selected": 49.0,
+            "opponent": 48.0
           },
           "corners": {
-            "selected": 7.0,
-            "opponent": 5.0
+            "selected": 3.0,
+            "opponent": 6.0
           }
         },
-        "advantage_count": 3,
-        "disadvantage_count": 0
-      }
-    },
-    {
-      "eventId": "203186190",
-      "sport": "Piłka nożna",
-      "competition": "Austria Bundesliga",
-      "home": "SCR Altach",
-      "away": "SK Sturm Graz",
-      "selection": "HOME",
-      "team": "SCR Altach",
-      "score": "1:0",
-      "minute": "91'",
-      "odds_before": 3.4,
-      "odds_now": 1.02,
-      "change_percent": -70.0,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 4.0,
-            "opponent": 5.0
-          },
-          "dangerousAttacks": {
-            "selected": 46.0,
-            "opponent": 59.0
-          },
-          "corners": {
-            "selected": 5.0,
-            "opponent": 8.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 3
+        "advantage_count": 2,
+        "disadvantage_count": 1
       }
     },
     {
@@ -179,10 +146,10 @@
       "selection": "AWAY",
       "team": "FC Fleury 91 (W)",
       "score": "0:1",
-      "minute": "61'",
+      "minute": "65'",
       "odds_before": 6.0,
-      "odds_now": 1.8,
-      "change_percent": -70.0,
+      "odds_now": 1.7273,
+      "change_percent": -71.21,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -192,7 +159,7 @@
           },
           "dangerousAttacks": {
             "selected": 13.0,
-            "opponent": 33.0
+            "opponent": 35.0
           },
           "corners": {
             "selected": 3.0,
@@ -204,39 +171,6 @@
       }
     },
     {
-      "eventId": "204878215",
-      "sport": "Piłka nożna",
-      "competition": "Switzerland 1.Liga Promotion",
-      "home": "FC Schaffhausen",
-      "away": "SC Cham",
-      "selection": "AWAY",
-      "team": "SC Cham",
-      "score": "1:4",
-      "minute": "61'",
-      "odds_before": 3.2,
-      "odds_now": 1.02,
-      "change_percent": -68.12,
-      "statistics_assessment": {
-        "status": "SUPPORTED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 6.0,
-            "opponent": 1.0
-          },
-          "dangerousAttacks": {
-            "selected": 69.0,
-            "opponent": 30.0
-          },
-          "corners": {
-            "selected": 4.0,
-            "opponent": 0.0
-          }
-        },
-        "advantage_count": 3,
-        "disadvantage_count": 0
-      }
-    },
-    {
       "eventId": "204909712",
       "sport": "Piłka nożna",
       "competition": "France U19 League",
@@ -245,20 +179,20 @@
       "selection": "HOME",
       "team": "US Cap d'Ail U19",
       "score": "2:1",
-      "minute": "87'",
+      "minute": "91'",
       "odds_before": 3.5,
-      "odds_now": 1.125,
-      "change_percent": -67.86,
+      "odds_now": 1.05,
+      "change_percent": -70.0,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 10.0,
-            "opponent": 6.0
+            "opponent": 7.0
           },
           "dangerousAttacks": {
-            "selected": 43.0,
-            "opponent": 32.0
+            "selected": 46.0,
+            "opponent": 34.0
           },
           "corners": {
             "selected": 5.0,
@@ -278,28 +212,94 @@
       "selection": "AWAY",
       "team": "Nottm Forest (W)",
       "score": "0:2",
-      "minute": "64'",
+      "minute": "67'",
       "odds_before": 3.4,
-      "odds_now": 1.125,
-      "change_percent": -66.91,
+      "odds_now": 1.0714,
+      "change_percent": -68.49,
       "statistics_assessment": {
-        "status": "MIXED",
+        "status": "SUPPORTED",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 2.0,
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 63.0,
-            "opponent": 51.0
+            "selected": 67.0,
+            "opponent": 52.0
           },
           "corners": {
-            "selected": 0.0,
+            "selected": 1.0,
             "opponent": 1.0
           }
         },
         "advantage_count": 2,
-        "disadvantage_count": 1
+        "disadvantage_count": 0
+      }
+    },
+    {
+      "eventId": "204878215",
+      "sport": "Piłka nożna",
+      "competition": "Switzerland 1.Liga Promotion",
+      "home": "FC Schaffhausen",
+      "away": "SC Cham",
+      "selection": "AWAY",
+      "team": "SC Cham",
+      "score": "1:4",
+      "minute": "66'",
+      "odds_before": 3.2,
+      "odds_now": 1.0152,
+      "change_percent": -68.27,
+      "statistics_assessment": {
+        "status": "SUPPORTED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 6.0,
+            "opponent": 1.0
+          },
+          "dangerousAttacks": {
+            "selected": 70.0,
+            "opponent": 33.0
+          },
+          "corners": {
+            "selected": 4.0,
+            "opponent": 1.0
+          }
+        },
+        "advantage_count": 3,
+        "disadvantage_count": 0
+      }
+    },
+    {
+      "eventId": "204909700",
+      "sport": "Piłka nożna",
+      "competition": "France National 2",
+      "home": "Sochaux II",
+      "away": "Thaon",
+      "selection": "AWAY",
+      "team": "Thaon",
+      "score": "2:3",
+      "minute": "89'",
+      "odds_before": 3.4,
+      "odds_now": 1.125,
+      "change_percent": -66.91,
+      "statistics_assessment": {
+        "status": "SUPPORTED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 7.0,
+            "opponent": 5.0
+          },
+          "dangerousAttacks": {
+            "selected": 54.0,
+            "opponent": 49.0
+          },
+          "corners": {
+            "selected": 6.0,
+            "opponent": 3.0
+          }
+        },
+        "advantage_count": 3,
+        "disadvantage_count": 0
       }
     },
     {
@@ -311,10 +311,10 @@
       "selection": "HOME",
       "team": "Charlton (W)",
       "score": "1:0",
-      "minute": "62'",
+      "minute": "67'",
       "odds_before": 4.5,
-      "odds_now": 1.6154,
-      "change_percent": -64.1,
+      "odds_now": 1.5333,
+      "change_percent": -65.93,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -336,72 +336,6 @@
       }
     },
     {
-      "eventId": "204909700",
-      "sport": "Piłka nożna",
-      "competition": "France National 2",
-      "home": "Sochaux II",
-      "away": "Thaon",
-      "selection": "AWAY",
-      "team": "Thaon",
-      "score": "2:3",
-      "minute": "85'",
-      "odds_before": 3.4,
-      "odds_now": 1.2222,
-      "change_percent": -64.05,
-      "statistics_assessment": {
-        "status": "SUPPORTED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 6.0,
-            "opponent": 5.0
-          },
-          "dangerousAttacks": {
-            "selected": 49.0,
-            "opponent": 46.0
-          },
-          "corners": {
-            "selected": 6.0,
-            "opponent": 2.0
-          }
-        },
-        "advantage_count": 3,
-        "disadvantage_count": 0
-      }
-    },
-    {
-      "eventId": "204851074",
-      "sport": "Piłka nożna",
-      "competition": "England National League Division 1 Women",
-      "home": "Actonians (W)",
-      "away": "Cambridge Utd (W)",
-      "selection": "AWAY",
-      "team": "Cambridge Utd (W)",
-      "score": "0:1",
-      "minute": "18'",
-      "odds_before": 7.0,
-      "odds_now": 2.75,
-      "change_percent": -60.71,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 2.0,
-            "opponent": 2.0
-          },
-          "dangerousAttacks": {
-            "selected": 7.0,
-            "opponent": 18.0
-          },
-          "corners": {
-            "selected": 0.0,
-            "opponent": 1.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 2
-      }
-    },
-    {
       "eventId": "204853213",
       "sport": "Piłka nożna",
       "competition": "Italy Serie D",
@@ -410,10 +344,10 @@
       "selection": "AWAY",
       "team": "Derthona",
       "score": "0:1",
-      "minute": "65'",
+      "minute": "69'",
       "odds_before": 3.3,
-      "odds_now": 1.3333,
-      "change_percent": -59.6,
+      "odds_now": 1.2857,
+      "change_percent": -61.04,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
@@ -422,8 +356,8 @@
             "opponent": 4.0
           },
           "dangerousAttacks": {
-            "selected": 37.0,
-            "opponent": 25.0
+            "selected": 39.0,
+            "opponent": 27.0
           },
           "corners": {
             "selected": 3.0,
@@ -435,39 +369,6 @@
       }
     },
     {
-      "eventId": "205003982",
-      "sport": "Piłka nożna",
-      "competition": "Swedish Damallsvenskan Play-Off",
-      "home": "FC Rosengård (W)",
-      "away": "KIF Orebro (W)",
-      "selection": "AWAY",
-      "team": "KIF Orebro (W)",
-      "score": "1:2",
-      "minute": "64'",
-      "odds_before": 4.3333,
-      "odds_now": 1.8333,
-      "change_percent": -57.69,
-      "statistics_assessment": {
-        "status": "MIXED",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 5.0,
-            "opponent": 4.0
-          },
-          "dangerousAttacks": {
-            "selected": 47.0,
-            "opponent": 47.0
-          },
-          "corners": {
-            "selected": 3.0,
-            "opponent": 6.0
-          }
-        },
-        "advantage_count": 1,
-        "disadvantage_count": 1
-      }
-    },
-    {
       "eventId": "203235820",
       "sport": "Piłka nożna",
       "competition": "Portugal Segunda Liga",
@@ -476,10 +377,10 @@
       "selection": "AWAY",
       "team": "Feirense",
       "score": "1:2",
-      "minute": "61'",
+      "minute": "65'",
       "odds_before": 3.9,
-      "odds_now": 1.6667,
-      "change_percent": -57.26,
+      "odds_now": 1.5714,
+      "change_percent": -59.71,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -489,11 +390,11 @@
           },
           "dangerousAttacks": {
             "selected": 16.0,
-            "opponent": 54.0
+            "opponent": 61.0
           },
           "corners": {
             "selected": 0.0,
-            "opponent": 7.0
+            "opponent": 10.0
           }
         },
         "advantage_count": 0,
@@ -509,10 +410,10 @@
       "selection": "HOME",
       "team": "SC Vianense",
       "score": "1:0",
-      "minute": "57'",
+      "minute": "61'",
       "odds_before": 3.5,
-      "odds_now": 1.6154,
-      "change_percent": -53.85,
+      "odds_now": 1.5,
+      "change_percent": -57.14,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
@@ -521,16 +422,82 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 21.0,
-            "opponent": 15.0
+            "selected": 23.0,
+            "opponent": 16.0
           },
           "corners": {
-            "selected": 2.0,
+            "selected": 3.0,
             "opponent": 0.0
           }
         },
         "advantage_count": 3,
         "disadvantage_count": 0
+      }
+    },
+    {
+      "eventId": "204851074",
+      "sport": "Piłka nożna",
+      "competition": "England National League Division 1 Women",
+      "home": "Actonians (W)",
+      "away": "Cambridge Utd (W)",
+      "selection": "AWAY",
+      "team": "Cambridge Utd (W)",
+      "score": "0:1",
+      "minute": "22'",
+      "odds_before": 7.0,
+      "odds_now": 3.0,
+      "change_percent": -57.14,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 2.0,
+            "opponent": 3.0
+          },
+          "dangerousAttacks": {
+            "selected": 7.0,
+            "opponent": 22.0
+          },
+          "corners": {
+            "selected": 0.0,
+            "opponent": 1.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 3
+      }
+    },
+    {
+      "eventId": "204786338",
+      "sport": "Piłka nożna",
+      "competition": "Morocco GNF 2",
+      "home": "Chabab Ben Guerir",
+      "away": "US Yacoub El Mansour",
+      "selection": "HOME",
+      "team": "Chabab Ben Guerir",
+      "score": "1:0",
+      "minute": "25'",
+      "odds_before": 3.7,
+      "odds_now": 1.6154,
+      "change_percent": -56.34,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 1.0,
+            "opponent": 1.0
+          },
+          "dangerousAttacks": {
+            "selected": 9.0,
+            "opponent": 10.0
+          },
+          "corners": {
+            "selected": 0.0,
+            "opponent": 1.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 2
       }
     },
     {
@@ -542,7 +509,7 @@
       "selection": "HOME",
       "team": "Ipswich Town (W)",
       "score": "1:0",
-      "minute": "62'",
+      "minute": "66'",
       "odds_before": 3.4,
       "odds_now": 1.5714,
       "change_percent": -53.78,
@@ -554,11 +521,11 @@
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 25.0,
+            "selected": 28.0,
             "opponent": 52.0
           },
           "corners": {
-            "selected": 1.0,
+            "selected": 2.0,
             "opponent": 6.0
           }
         },
@@ -575,12 +542,12 @@
       "selection": "AWAY",
       "team": "Progres Niederkorn",
       "score": "0:1",
-      "minute": "21'",
+      "minute": "26'",
       "odds_before": 7.0,
-      "odds_now": 3.5,
-      "change_percent": -50.0,
+      "odds_now": 3.4,
+      "change_percent": -51.43,
       "statistics_assessment": {
-        "status": "MIXED",
+        "status": "AGAINST",
         "metrics_used": {
           "shotsOnTarget": {
             "selected": 1.0,
@@ -588,15 +555,15 @@
           },
           "dangerousAttacks": {
             "selected": 5.0,
-            "opponent": 15.0
+            "opponent": 16.0
           },
           "corners": {
             "selected": 1.0,
-            "opponent": 1.0
+            "opponent": 3.0
           }
         },
         "advantage_count": 0,
-        "disadvantage_count": 1
+        "disadvantage_count": 2
       }
     }
   ]
