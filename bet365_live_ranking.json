@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T19:15:14.747096+00:00",
+  "updated_at": "2026-11-22T19:20:13.655624+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "HOME",
       "team": "Mainz (W)",
       "score": "1:0",
-      "minute": "86'",
+      "minute": "91'",
       "odds_before": 3.9,
-      "odds_now": 1.2,
-      "change_percent": -69.23,
+      "odds_now": 1.0833,
+      "change_percent": -72.22,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -26,82 +26,16 @@
             "opponent": 5.0
           },
           "dangerousAttacks": {
-            "selected": 25.0,
-            "opponent": 63.0
+            "selected": 26.0,
+            "opponent": 71.0
           },
           "corners": {
             "selected": 0.0,
-            "opponent": 9.0
+            "opponent": 11.0
           }
         },
         "advantage_count": 0,
         "disadvantage_count": 3
-      }
-    },
-    {
-      "eventId": "203575631",
-      "sport": "Piłka nożna",
-      "competition": "Spain Segunda",
-      "home": "Celta Fortuna",
-      "away": "Valladolid",
-      "selection": "HOME",
-      "team": "Celta Fortuna",
-      "score": "1:0",
-      "minute": "88'",
-      "odds_before": 3.5,
-      "odds_now": 1.25,
-      "change_percent": -64.29,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 3.0,
-            "opponent": 6.0
-          },
-          "dangerousAttacks": {
-            "selected": 47.0,
-            "opponent": 56.0
-          },
-          "corners": {
-            "selected": 3.0,
-            "opponent": 7.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 3
-      }
-    },
-    {
-      "eventId": "204797239",
-      "sport": "Piłka nożna",
-      "competition": "Brazil Campeonato Paulista U20",
-      "home": "Corinthians U20",
-      "away": "Palmeiras U20",
-      "selection": "HOME",
-      "team": "Corinthians U20",
-      "score": "1:0",
-      "minute": "14'",
-      "odds_before": 4.1,
-      "odds_now": 1.9524,
-      "change_percent": -52.38,
-      "statistics_assessment": {
-        "status": "AGAINST",
-        "metrics_used": {
-          "shotsOnTarget": {
-            "selected": 1.0,
-            "opponent": 1.0
-          },
-          "dangerousAttacks": {
-            "selected": 0.0,
-            "opponent": 9.0
-          },
-          "corners": {
-            "selected": 0.0,
-            "opponent": 1.0
-          }
-        },
-        "advantage_count": 0,
-        "disadvantage_count": 2
       }
     }
   ]
