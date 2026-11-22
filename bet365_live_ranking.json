@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T11:05:15.657047+00:00",
+  "updated_at": "2026-11-22T11:10:16.282224+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,10 @@
       "selection": "AWAY",
       "team": "Penang",
       "score": "0:1",
-      "minute": "75'",
+      "minute": "80'",
       "odds_before": 3.25,
-      "odds_now": 1.4,
-      "change_percent": -56.92,
+      "odds_now": 1.3333,
+      "change_percent": -58.98,
       "statistics_assessment": {
         "status": "AGAINST",
         "metrics_used": {
@@ -26,8 +26,8 @@
             "opponent": 3.0
           },
           "dangerousAttacks": {
-            "selected": 37.0,
-            "opponent": 72.0
+            "selected": 39.0,
+            "opponent": 73.0
           },
           "corners": {
             "selected": 3.0,
@@ -36,6 +36,39 @@
         },
         "advantage_count": 0,
         "disadvantage_count": 3
+      }
+    },
+    {
+      "eventId": "204853578",
+      "sport": "Piłka nożna",
+      "competition": "Spain Tercera Group 10",
+      "home": "Chiclana",
+      "away": "UD Tomares",
+      "selection": "AWAY",
+      "team": "UD Tomares",
+      "score": "0:1",
+      "minute": "10'",
+      "odds_before": 3.3,
+      "odds_now": 1.4,
+      "change_percent": -57.58,
+      "statistics_assessment": {
+        "status": "MIXED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 1.0,
+            "opponent": 0.0
+          },
+          "dangerousAttacks": {
+            "selected": 4.0,
+            "opponent": 3.0
+          },
+          "corners": {
+            "selected": 1.0,
+            "opponent": 2.0
+          }
+        },
+        "advantage_count": 2,
+        "disadvantage_count": 1
       }
     }
   ]
