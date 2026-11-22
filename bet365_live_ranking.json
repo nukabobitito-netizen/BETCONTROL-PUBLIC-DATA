@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T06:15:14.550134+00:00",
+  "updated_at": "2026-11-22T06:20:13.308078+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,10 +14,24 @@
       "selection": "AWAY",
       "team": "YSCC",
       "score": "0:1",
-      "minute": "56'",
+      "minute": "61'",
       "odds_before": 3.6,
-      "odds_now": 1.4,
-      "change_percent": -61.11
+      "odds_now": 1.3636,
+      "change_percent": -62.12
+    },
+    {
+      "eventId": "204840201",
+      "sport": "Piłka nożna",
+      "competition": "Hong Kong 1st Division",
+      "home": "Bright Cerulean FC",
+      "away": "Sham Shui Po",
+      "selection": "HOME",
+      "team": "Bright Cerulean FC",
+      "score": "0:0",
+      "minute": "62'",
+      "odds_before": 5.25,
+      "odds_now": 2.5,
+      "change_percent": -52.38
     }
   ]
 }
