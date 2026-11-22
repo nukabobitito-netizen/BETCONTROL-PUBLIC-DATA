@@ -1,10 +1,43 @@
 {
-  "updated_at": "2026-11-22T14:00:14.534841+00:00",
+  "updated_at": "2026-11-22T14:05:13.206570+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
   "drops": [
+    {
+      "eventId": "204909720",
+      "sport": "Piłka nożna",
+      "competition": "Italy Eccellenza",
+      "home": "Atletico Racale",
+      "away": "Galatina",
+      "selection": "AWAY",
+      "team": "Galatina",
+      "score": "0:1",
+      "minute": "37'",
+      "odds_before": 4.5,
+      "odds_now": 1.7273,
+      "change_percent": -61.62,
+      "statistics_assessment": {
+        "status": "AGAINST",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 2.0,
+            "opponent": 2.0
+          },
+          "dangerousAttacks": {
+            "selected": 10.0,
+            "opponent": 14.0
+          },
+          "corners": {
+            "selected": 1.0,
+            "opponent": 3.0
+          }
+        },
+        "advantage_count": 0,
+        "disadvantage_count": 2
+      }
+    },
     {
       "eventId": "204853254",
       "sport": "Piłka nożna",
@@ -14,10 +47,10 @@
       "selection": "AWAY",
       "team": "ASD Varesina",
       "score": "0:1",
-      "minute": "30'",
+      "minute": "35'",
       "odds_before": 4.3333,
-      "odds_now": 1.8,
-      "change_percent": -58.46,
+      "odds_now": 1.7273,
+      "change_percent": -60.14,
       "statistics_assessment": {
         "status": "MIXED",
         "metrics_used": {
@@ -26,8 +59,8 @@
             "opponent": 5.0
           },
           "dangerousAttacks": {
-            "selected": 27.0,
-            "opponent": 22.0
+            "selected": 33.0,
+            "opponent": 26.0
           },
           "corners": {
             "selected": 3.0,
@@ -47,23 +80,56 @@
       "selection": "AWAY",
       "team": "GSD Ghiviborgo VDS",
       "score": "0:1",
-      "minute": "28'",
+      "minute": "33'",
       "odds_before": 4.2,
-      "odds_now": 1.8,
-      "change_percent": -57.14,
+      "odds_now": 1.7273,
+      "change_percent": -58.87,
       "statistics_assessment": {
         "status": "SUPPORTED",
         "metrics_used": {
           "shotsOnTarget": {
-            "selected": 6.0,
+            "selected": 7.0,
             "opponent": 1.0
           },
           "dangerousAttacks": {
-            "selected": 24.0,
-            "opponent": 8.0
+            "selected": 29.0,
+            "opponent": 9.0
           },
           "corners": {
-            "selected": 2.0,
+            "selected": 3.0,
+            "opponent": 0.0
+          }
+        },
+        "advantage_count": 3,
+        "disadvantage_count": 0
+      }
+    },
+    {
+      "eventId": "204851540",
+      "sport": "Piłka nożna",
+      "competition": "Kosovo Superliga",
+      "home": "KF Drita",
+      "away": "KF Feronikeli",
+      "selection": "AWAY",
+      "team": "KF Feronikeli",
+      "score": "0:1",
+      "minute": "4'",
+      "odds_before": 6.0,
+      "odds_now": 2.75,
+      "change_percent": -54.17,
+      "statistics_assessment": {
+        "status": "SUPPORTED",
+        "metrics_used": {
+          "shotsOnTarget": {
+            "selected": 1.0,
+            "opponent": 0.0
+          },
+          "dangerousAttacks": {
+            "selected": 7.0,
+            "opponent": 3.0
+          },
+          "corners": {
+            "selected": 1.0,
             "opponent": 0.0
           }
         },
