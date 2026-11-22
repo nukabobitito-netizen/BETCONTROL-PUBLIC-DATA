@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T01:35:12.250113+00:00",
+  "updated_at": "2026-11-22T01:40:16.351108+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -13,11 +13,25 @@
       "away": "Auckland United (W)",
       "selection": "HOME",
       "team": "Fencibles United (W)",
-      "score": "1:0",
-      "minute": "34'",
+      "score": "1:1",
+      "minute": "39'",
       "odds_before": 7.5,
-      "odds_now": 1.8,
-      "change_percent": -76.0
+      "odds_now": 3.5,
+      "change_percent": -53.33
+    },
+    {
+      "eventId": "204786879",
+      "sport": "Piłka nożna",
+      "competition": "Guatemala Primera Division",
+      "home": "Nueva Santa Rosa CDF",
+      "away": "Deportivo Fraijanes",
+      "selection": "AWAY",
+      "team": "Deportivo Fraijanes",
+      "score": "0:1",
+      "minute": "29'",
+      "odds_before": 4.1,
+      "odds_now": 2.05,
+      "change_percent": -50.0
     }
   ]
 }
