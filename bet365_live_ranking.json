@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T05:15:14.179065+00:00",
+  "updated_at": "2026-11-22T05:20:13.361800+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
@@ -14,24 +14,10 @@
       "selection": "HOME",
       "team": "Yokogawa Musashino FC",
       "score": "2:0",
-      "minute": "58'",
+      "minute": "63'",
       "odds_before": 4.3333,
-      "odds_now": 1.2,
-      "change_percent": -72.31
-    },
-    {
-      "eventId": "204761510",
-      "sport": "Piłka nożna",
-      "competition": "Australia A-League Women",
-      "home": "Melbourne Victory (W)",
-      "away": "Perth Glory (W)",
-      "selection": "AWAY",
-      "team": "Perth Glory (W)",
-      "score": "0:0",
-      "minute": "57'",
-      "odds_before": 8.0,
-      "odds_now": 4.0,
-      "change_percent": -50.0
+      "odds_now": 1.1667,
+      "change_percent": -73.08
     },
     {
       "eventId": "204789081",
@@ -42,10 +28,10 @@
       "selection": "AWAY",
       "team": "YSCC",
       "score": "0:1",
-      "minute": "14'",
+      "minute": "19'",
       "odds_before": 3.6,
-      "odds_now": 1.8,
-      "change_percent": -50.0
+      "odds_now": 1.6667,
+      "change_percent": -53.7
     }
   ]
 }
