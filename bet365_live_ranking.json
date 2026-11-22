@@ -1,24 +1,10 @@
 {
-  "updated_at": "2026-11-22T02:40:13.860577+00:00",
+  "updated_at": "2026-11-22T02:45:14.891947+00:00",
   "source": "BETCONTROL LIVE",
   "threshold_percent": 50.0,
   "drop_method": "prematch_odds",
   "underdog_only": true,
   "drops": [
-    {
-      "eventId": "204912731",
-      "sport": "Piłka nożna",
-      "competition": "Aruba Division Di Honor",
-      "home": "SV Sporting Aruba",
-      "away": "SV Dakota",
-      "selection": "HOME",
-      "team": "SV Sporting Aruba",
-      "score": "1:0",
-      "minute": "95'",
-      "odds_before": 3.9,
-      "odds_now": 1.0303,
-      "change_percent": -73.58
-    },
     {
       "eventId": "202801739",
       "sport": "Piłka nożna",
@@ -28,10 +14,24 @@
       "selection": "AWAY",
       "team": "Macarthur FC",
       "score": "0:2",
-      "minute": "39'",
+      "minute": "44'",
       "odds_before": 3.9,
-      "odds_now": 1.2857,
-      "change_percent": -67.03
+      "odds_now": 1.25,
+      "change_percent": -67.95
+    },
+    {
+      "eventId": "204786879",
+      "sport": "Piłka nożna",
+      "competition": "Guatemala Primera Division",
+      "home": "Nueva Santa Rosa CDF",
+      "away": "Deportivo Fraijanes",
+      "selection": "AWAY",
+      "team": "Deportivo Fraijanes",
+      "score": "1:2",
+      "minute": "72'",
+      "odds_before": 4.1,
+      "odds_now": 1.5,
+      "change_percent": -63.41
     }
   ]
 }
