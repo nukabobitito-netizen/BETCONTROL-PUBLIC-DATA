@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-11-23T03:46:37.310788+00:00",
+  "created_at": "2026-11-23T04:58:21.436580+00:00",
   "events": {
     "204988090": {
       "eventId": "204988090",
@@ -16634,6 +16634,120 @@
         "AWAY": {
           "baseline": 2.0,
           "recorded_at": "2026-11-23T03:46:37.310788+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205067369": {
+      "eventId": "205067369",
+      "sport": "basketball",
+      "home": "CHA Hornets (LANES)",
+      "away": "DEN Nuggets (TAAPZ)",
+      "startTime": "2026-11-23T05:03:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 3.75,
+          "recorded_at": "2026-11-23T04:58:21.436580+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.2222,
+          "recorded_at": "2026-11-23T04:58:21.436580+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205056946": {
+      "eventId": "205056946",
+      "sport": "basketball",
+      "home": "BOS Celtics (COMMANDER)",
+      "away": "OKC Thunder (GODFATHER)",
+      "startTime": "2026-11-23T05:11:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.0,
+          "recorded_at": "2026-11-23T04:58:21.436580+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.7143,
+          "recorded_at": "2026-11-23T04:58:21.436580+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205056949": {
+      "eventId": "205056949",
+      "sport": "basketball",
+      "home": "CHA Hornets (FRENZY)",
+      "away": "DEN Nuggets (VANITY)",
+      "startTime": "2026-11-23T05:15:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.7143,
+          "recorded_at": "2026-11-23T04:58:21.436580+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.0,
+          "recorded_at": "2026-11-23T04:58:21.436580+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205016957": {
+      "eventId": "205016957",
+      "sport": "basketball",
+      "home": "SBU Red Lions",
+      "away": "EAC Generals",
+      "startTime": "2026-11-23T07:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.5,
+          "recorded_at": "2026-11-23T04:58:21.436580+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.5,
+          "recorded_at": "2026-11-23T04:58:21.436580+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205065651": {
+      "eventId": "205065651",
+      "sport": "volleyball",
+      "home": "Criss Cross King Crunchers",
+      "away": "NU - Archipelago Builders",
+      "startTime": "2026-11-23T07:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.2,
+          "recorded_at": "2026-11-23T04:58:21.436580+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 4.3333,
+          "recorded_at": "2026-11-23T04:58:21.436580+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205023290": {
+      "eventId": "205023290",
+      "sport": "handball",
+      "home": "Earth Friends BM",
+      "away": "Ryukyu Corazon",
+      "startTime": "2026-11-23T07:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 3.6,
+          "recorded_at": "2026-11-23T04:58:21.436580+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.37,
+          "recorded_at": "2026-11-23T04:58:21.436580+00:00",
           "price_source": "selection.odds"
         }
       }
@@ -35855,6 +35969,138 @@
       "selection": "AWAY",
       "baseline": 2.0,
       "recorded_at": "2026-11-23T03:46:37.310788+00:00",
+      "price_source": "selection.odds"
+    },
+    "205067369:HOME": {
+      "eventId": "205067369",
+      "sport": "basketball",
+      "home": "CHA Hornets (LANES)",
+      "away": "DEN Nuggets (TAAPZ)",
+      "startTime": "2026-11-23T05:03:00+00:00",
+      "selection": "HOME",
+      "baseline": 3.75,
+      "recorded_at": "2026-11-23T04:58:21.436580+00:00",
+      "price_source": "selection.odds"
+    },
+    "205067369:AWAY": {
+      "eventId": "205067369",
+      "sport": "basketball",
+      "home": "CHA Hornets (LANES)",
+      "away": "DEN Nuggets (TAAPZ)",
+      "startTime": "2026-11-23T05:03:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.2222,
+      "recorded_at": "2026-11-23T04:58:21.436580+00:00",
+      "price_source": "selection.odds"
+    },
+    "205056946:HOME": {
+      "eventId": "205056946",
+      "sport": "basketball",
+      "home": "BOS Celtics (COMMANDER)",
+      "away": "OKC Thunder (GODFATHER)",
+      "startTime": "2026-11-23T05:11:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.0,
+      "recorded_at": "2026-11-23T04:58:21.436580+00:00",
+      "price_source": "selection.odds"
+    },
+    "205056946:AWAY": {
+      "eventId": "205056946",
+      "sport": "basketball",
+      "home": "BOS Celtics (COMMANDER)",
+      "away": "OKC Thunder (GODFATHER)",
+      "startTime": "2026-11-23T05:11:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.7143,
+      "recorded_at": "2026-11-23T04:58:21.436580+00:00",
+      "price_source": "selection.odds"
+    },
+    "205056949:HOME": {
+      "eventId": "205056949",
+      "sport": "basketball",
+      "home": "CHA Hornets (FRENZY)",
+      "away": "DEN Nuggets (VANITY)",
+      "startTime": "2026-11-23T05:15:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.7143,
+      "recorded_at": "2026-11-23T04:58:21.436580+00:00",
+      "price_source": "selection.odds"
+    },
+    "205056949:AWAY": {
+      "eventId": "205056949",
+      "sport": "basketball",
+      "home": "CHA Hornets (FRENZY)",
+      "away": "DEN Nuggets (VANITY)",
+      "startTime": "2026-11-23T05:15:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.0,
+      "recorded_at": "2026-11-23T04:58:21.436580+00:00",
+      "price_source": "selection.odds"
+    },
+    "205016957:HOME": {
+      "eventId": "205016957",
+      "sport": "basketball",
+      "home": "SBU Red Lions",
+      "away": "EAC Generals",
+      "startTime": "2026-11-23T07:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.5,
+      "recorded_at": "2026-11-23T04:58:21.436580+00:00",
+      "price_source": "selection.odds"
+    },
+    "205016957:AWAY": {
+      "eventId": "205016957",
+      "sport": "basketball",
+      "home": "SBU Red Lions",
+      "away": "EAC Generals",
+      "startTime": "2026-11-23T07:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.5,
+      "recorded_at": "2026-11-23T04:58:21.436580+00:00",
+      "price_source": "selection.odds"
+    },
+    "205065651:HOME": {
+      "eventId": "205065651",
+      "sport": "volleyball",
+      "home": "Criss Cross King Crunchers",
+      "away": "NU - Archipelago Builders",
+      "startTime": "2026-11-23T07:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.2,
+      "recorded_at": "2026-11-23T04:58:21.436580+00:00",
+      "price_source": "selection.odds"
+    },
+    "205065651:AWAY": {
+      "eventId": "205065651",
+      "sport": "volleyball",
+      "home": "Criss Cross King Crunchers",
+      "away": "NU - Archipelago Builders",
+      "startTime": "2026-11-23T07:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 4.3333,
+      "recorded_at": "2026-11-23T04:58:21.436580+00:00",
+      "price_source": "selection.odds"
+    },
+    "205023290:HOME": {
+      "eventId": "205023290",
+      "sport": "handball",
+      "home": "Earth Friends BM",
+      "away": "Ryukyu Corazon",
+      "startTime": "2026-11-23T07:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 3.6,
+      "recorded_at": "2026-11-23T04:58:21.436580+00:00",
+      "price_source": "selection.odds"
+    },
+    "205023290:AWAY": {
+      "eventId": "205023290",
+      "sport": "handball",
+      "home": "Earth Friends BM",
+      "away": "Ryukyu Corazon",
+      "startTime": "2026-11-23T07:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.37,
+      "recorded_at": "2026-11-23T04:58:21.436580+00:00",
       "price_source": "selection.odds"
     }
   }
