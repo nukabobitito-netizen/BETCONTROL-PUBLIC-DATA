@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-11-23T18:41:42.979886+00:00",
+  "created_at": "2026-11-23T19:50:37.921028+00:00",
   "events": {
     "204988090": {
       "eventId": "204988090",
@@ -25530,6 +25530,177 @@
         "AWAY": {
           "baseline": 2.25,
           "recorded_at": "2026-11-23T18:41:42.979886+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204881082": {
+      "eventId": "204881082",
+      "sport": "soccer",
+      "home": "NDL FC (VI)",
+      "away": "N5 FC (VI)",
+      "startTime": "2026-11-23T21:50:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.5333,
+          "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 3.6,
+          "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204906715": {
+      "eventId": "204906715",
+      "sport": "soccer",
+      "home": "Tru-Juice FC",
+      "away": "Dunbeholden FC",
+      "startTime": "2026-11-23T22:05:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.3636,
+          "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 6.0,
+          "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204702916": {
+      "eventId": "204702916",
+      "sport": "soccer",
+      "home": "Albion FC",
+      "away": "Danubio",
+      "startTime": "2026-11-23T22:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.35,
+          "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.8,
+          "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "203559055": {
+      "eventId": "203559055",
+      "sport": "soccer",
+      "home": "Internacional",
+      "away": "Vitoria",
+      "startTime": "2026-11-23T22:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.5714,
+          "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 5.75,
+          "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205060688": {
+      "eventId": "205060688",
+      "sport": "basketball",
+      "home": "ATL Hawks (Dzojo)",
+      "away": "MIN Timberwolves (Bazuka)",
+      "startTime": "2026-11-23T19:55:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.625,
+          "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.1,
+          "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205060685": {
+      "eventId": "205060685",
+      "sport": "basketball",
+      "home": "UTA Jazz (Jovke)",
+      "away": "MIA Heat (veljouni)",
+      "startTime": "2026-11-23T19:55:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.4,
+          "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.5,
+          "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205083138": {
+      "eventId": "205083138",
+      "sport": "basketball",
+      "home": "Washington",
+      "away": "BYU",
+      "startTime": "2026-11-23T22:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 6.25,
+          "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.1111,
+          "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205104279": {
+      "eventId": "205104279",
+      "sport": "basketball",
+      "home": "Temple",
+      "away": "Tennessee Martin",
+      "startTime": "2026-11-23T22:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.68,
+          "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.15,
+          "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205062664": {
+      "eventId": "205062664",
+      "sport": "handball",
+      "home": "Sao Jose /Atleta Cidadao U21",
+      "away": "Sorocaba U21",
+      "startTime": "2026-11-23T22:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 3.8,
+          "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.37,
+          "recorded_at": "2026-11-23T19:50:37.921028+00:00",
           "price_source": "selection.odds"
         }
       }
@@ -55036,6 +55207,204 @@
       "selection": "AWAY",
       "baseline": 2.25,
       "recorded_at": "2026-11-23T18:41:42.979886+00:00",
+      "price_source": "selection.odds"
+    },
+    "204881082:HOME": {
+      "eventId": "204881082",
+      "sport": "soccer",
+      "home": "NDL FC (VI)",
+      "away": "N5 FC (VI)",
+      "startTime": "2026-11-23T21:50:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.5333,
+      "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+      "price_source": "selection.odds"
+    },
+    "204881082:AWAY": {
+      "eventId": "204881082",
+      "sport": "soccer",
+      "home": "NDL FC (VI)",
+      "away": "N5 FC (VI)",
+      "startTime": "2026-11-23T21:50:00+00:00",
+      "selection": "AWAY",
+      "baseline": 3.6,
+      "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+      "price_source": "selection.odds"
+    },
+    "204906715:HOME": {
+      "eventId": "204906715",
+      "sport": "soccer",
+      "home": "Tru-Juice FC",
+      "away": "Dunbeholden FC",
+      "startTime": "2026-11-23T22:05:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.3636,
+      "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+      "price_source": "selection.odds"
+    },
+    "204906715:AWAY": {
+      "eventId": "204906715",
+      "sport": "soccer",
+      "home": "Tru-Juice FC",
+      "away": "Dunbeholden FC",
+      "startTime": "2026-11-23T22:05:00+00:00",
+      "selection": "AWAY",
+      "baseline": 6.0,
+      "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+      "price_source": "selection.odds"
+    },
+    "204702916:HOME": {
+      "eventId": "204702916",
+      "sport": "soccer",
+      "home": "Albion FC",
+      "away": "Danubio",
+      "startTime": "2026-11-23T22:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.35,
+      "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+      "price_source": "selection.odds"
+    },
+    "204702916:AWAY": {
+      "eventId": "204702916",
+      "sport": "soccer",
+      "home": "Albion FC",
+      "away": "Danubio",
+      "startTime": "2026-11-23T22:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.8,
+      "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+      "price_source": "selection.odds"
+    },
+    "203559055:HOME": {
+      "eventId": "203559055",
+      "sport": "soccer",
+      "home": "Internacional",
+      "away": "Vitoria",
+      "startTime": "2026-11-23T22:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.5714,
+      "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+      "price_source": "selection.odds"
+    },
+    "203559055:AWAY": {
+      "eventId": "203559055",
+      "sport": "soccer",
+      "home": "Internacional",
+      "away": "Vitoria",
+      "startTime": "2026-11-23T22:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 5.75,
+      "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+      "price_source": "selection.odds"
+    },
+    "205060688:HOME": {
+      "eventId": "205060688",
+      "sport": "basketball",
+      "home": "ATL Hawks (Dzojo)",
+      "away": "MIN Timberwolves (Bazuka)",
+      "startTime": "2026-11-23T19:55:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.625,
+      "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+      "price_source": "selection.odds"
+    },
+    "205060688:AWAY": {
+      "eventId": "205060688",
+      "sport": "basketball",
+      "home": "ATL Hawks (Dzojo)",
+      "away": "MIN Timberwolves (Bazuka)",
+      "startTime": "2026-11-23T19:55:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.1,
+      "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+      "price_source": "selection.odds"
+    },
+    "205060685:HOME": {
+      "eventId": "205060685",
+      "sport": "basketball",
+      "home": "UTA Jazz (Jovke)",
+      "away": "MIA Heat (veljouni)",
+      "startTime": "2026-11-23T19:55:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.4,
+      "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+      "price_source": "selection.odds"
+    },
+    "205060685:AWAY": {
+      "eventId": "205060685",
+      "sport": "basketball",
+      "home": "UTA Jazz (Jovke)",
+      "away": "MIA Heat (veljouni)",
+      "startTime": "2026-11-23T19:55:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.5,
+      "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+      "price_source": "selection.odds"
+    },
+    "205083138:HOME": {
+      "eventId": "205083138",
+      "sport": "basketball",
+      "home": "Washington",
+      "away": "BYU",
+      "startTime": "2026-11-23T22:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 6.25,
+      "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+      "price_source": "selection.odds"
+    },
+    "205083138:AWAY": {
+      "eventId": "205083138",
+      "sport": "basketball",
+      "home": "Washington",
+      "away": "BYU",
+      "startTime": "2026-11-23T22:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.1111,
+      "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+      "price_source": "selection.odds"
+    },
+    "205104279:HOME": {
+      "eventId": "205104279",
+      "sport": "basketball",
+      "home": "Temple",
+      "away": "Tennessee Martin",
+      "startTime": "2026-11-23T22:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.68,
+      "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+      "price_source": "selection.odds"
+    },
+    "205104279:AWAY": {
+      "eventId": "205104279",
+      "sport": "basketball",
+      "home": "Temple",
+      "away": "Tennessee Martin",
+      "startTime": "2026-11-23T22:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.15,
+      "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+      "price_source": "selection.odds"
+    },
+    "205062664:HOME": {
+      "eventId": "205062664",
+      "sport": "handball",
+      "home": "Sao Jose /Atleta Cidadao U21",
+      "away": "Sorocaba U21",
+      "startTime": "2026-11-23T22:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 3.8,
+      "recorded_at": "2026-11-23T19:50:37.921028+00:00",
+      "price_source": "selection.odds"
+    },
+    "205062664:AWAY": {
+      "eventId": "205062664",
+      "sport": "handball",
+      "home": "Sao Jose /Atleta Cidadao U21",
+      "away": "Sorocaba U21",
+      "startTime": "2026-11-23T22:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.37,
+      "recorded_at": "2026-11-23T19:50:37.921028+00:00",
       "price_source": "selection.odds"
     }
   }
