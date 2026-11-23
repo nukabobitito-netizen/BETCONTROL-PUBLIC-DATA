@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-11-23T21:37:33.333807+00:00",
+  "created_at": "2026-11-23T22:37:50.403298+00:00",
   "events": {
     "204988090": {
       "eventId": "204988090",
@@ -26765,6 +26765,462 @@
         "AWAY": {
           "baseline": 2.75,
           "recorded_at": "2026-11-23T21:37:33.333807+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205104131": {
+      "eventId": "205104131",
+      "sport": "soccer",
+      "home": "Czechia (Senya)",
+      "away": "Netherlands (Kostolom89)",
+      "startTime": "2026-11-23T22:46:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.85,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.6,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205104138": {
+      "eventId": "205104138",
+      "sport": "soccer",
+      "home": "Norway (Dreamer)",
+      "away": "Morocco (fantazer)",
+      "startTime": "2026-11-23T22:46:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 5.25,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.3333,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205104143": {
+      "eventId": "205104143",
+      "sport": "soccer",
+      "home": "Czechia (Senya)",
+      "away": "Morocco (fantazer)",
+      "startTime": "2026-11-23T22:55:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 5.0,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.3636,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205104152": {
+      "eventId": "205104152",
+      "sport": "soccer",
+      "home": "Germany (Koss)",
+      "away": "Netherlands (Kostolom89)",
+      "startTime": "2026-11-23T22:55:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.4,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.05,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205104173": {
+      "eventId": "205104173",
+      "sport": "soccer",
+      "home": "Norway (Dreamer)",
+      "away": "Czechia (Senya)",
+      "startTime": "2026-11-23T23:04:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.25,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.1,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205104168": {
+      "eventId": "205104168",
+      "sport": "soccer",
+      "home": "Morocco (fantazer)",
+      "away": "Germany (Koss)",
+      "startTime": "2026-11-23T23:04:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.27,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 7.0,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204331017": {
+      "eventId": "204331017",
+      "sport": "soccer",
+      "home": "St. Louis City SC",
+      "away": "LAFC",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.6,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.5,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205017234": {
+      "eventId": "205017234",
+      "sport": "basketball",
+      "home": "PHX Suns",
+      "away": "NO Pelicans",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.6623,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.26,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205017231": {
+      "eventId": "205017231",
+      "sport": "basketball",
+      "home": "CLE Cavaliers",
+      "away": "CHI Bulls",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.2857,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 3.75,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205087904": {
+      "eventId": "205087904",
+      "sport": "basketball",
+      "home": "Monmouth",
+      "away": "North Carolina",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 16.0,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.0167,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205104283": {
+      "eventId": "205104283",
+      "sport": "basketball",
+      "home": "Stephen F. Austin",
+      "away": "Utah Valley",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.5,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.5,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205057636": {
+      "eventId": "205057636",
+      "sport": "basketball",
+      "home": "Cojute",
+      "away": "Metapan BC",
+      "startTime": "2026-11-24T01:15:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.9,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.3636,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205017237": {
+      "eventId": "205017237",
+      "sport": "basketball",
+      "home": "LA Clippers",
+      "away": "HOU Rockets",
+      "startTime": "2026-11-24T01:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 5.75,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.1538,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205096987": {
+      "eventId": "205096987",
+      "sport": "tennis",
+      "home": "Wihan Van Der Merwe",
+      "away": "Dimitri Bagaric",
+      "startTime": "2026-11-24T00:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.4,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.75,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205096058": {
+      "eventId": "205096058",
+      "sport": "tennis",
+      "home": "Kokoro Isomura",
+      "away": "Hikaru Shiraishi",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.625,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.4444,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205096060": {
+      "eventId": "205096060",
+      "sport": "tennis",
+      "home": "Takuya Kumasaka",
+      "away": "David Jorda Sanchis",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.8,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.9091,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205059430": {
+      "eventId": "205059430",
+      "sport": "tennis",
+      "home": "Borrero/Marchetti",
+      "away": "Navarro/Ferran",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.5,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.5,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205059426": {
+      "eventId": "205059426",
+      "sport": "tennis",
+      "home": "Godallier/Valenzuela",
+      "away": "Polo/Martinez",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.5333,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.375,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205059429": {
+      "eventId": "205059429",
+      "sport": "tennis",
+      "home": "Martinez/Martinez",
+      "away": "Gonzalez/Santana",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.3,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 3.4,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205096056": {
+      "eventId": "205096056",
+      "sport": "tennis",
+      "home": "Naoya Honda",
+      "away": "S D Prajwal Dev",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.3636,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 3.0,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205094163": {
+      "eventId": "205094163",
+      "sport": "tennis",
+      "home": "Aoi Ito",
+      "away": "Valentina Ivanov",
+      "startTime": "2026-11-24T01:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.3,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 3.4,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205094161": {
+      "eventId": "205094161",
+      "sport": "tennis",
+      "home": "Hikaru Sato",
+      "away": "Savannah Broadus",
+      "startTime": "2026-11-24T01:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.625,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.4444,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205094166": {
+      "eventId": "205094166",
+      "sport": "tennis",
+      "home": "I Wen Wan",
+      "away": "Emerson Jones",
+      "startTime": "2026-11-24T01:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 5.0,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.1429,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205116327": {
+      "eventId": "205116327",
+      "sport": "volleyball",
+      "home": "Kentucky (W)",
+      "away": "Vanderbilt (W)",
+      "startTime": "2026-11-24T01:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.2222,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 4.0,
+          "recorded_at": "2026-11-23T22:37:50.403298+00:00",
           "price_source": "selection.odds"
         }
       }
@@ -57701,6 +58157,534 @@
       "selection": "AWAY",
       "baseline": 2.75,
       "recorded_at": "2026-11-23T21:37:33.333807+00:00",
+      "price_source": "selection.odds"
+    },
+    "205104131:HOME": {
+      "eventId": "205104131",
+      "sport": "soccer",
+      "home": "Czechia (Senya)",
+      "away": "Netherlands (Kostolom89)",
+      "startTime": "2026-11-23T22:46:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.85,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205104131:AWAY": {
+      "eventId": "205104131",
+      "sport": "soccer",
+      "home": "Czechia (Senya)",
+      "away": "Netherlands (Kostolom89)",
+      "startTime": "2026-11-23T22:46:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.6,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205104138:HOME": {
+      "eventId": "205104138",
+      "sport": "soccer",
+      "home": "Norway (Dreamer)",
+      "away": "Morocco (fantazer)",
+      "startTime": "2026-11-23T22:46:00+00:00",
+      "selection": "HOME",
+      "baseline": 5.25,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205104138:AWAY": {
+      "eventId": "205104138",
+      "sport": "soccer",
+      "home": "Norway (Dreamer)",
+      "away": "Morocco (fantazer)",
+      "startTime": "2026-11-23T22:46:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.3333,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205104143:HOME": {
+      "eventId": "205104143",
+      "sport": "soccer",
+      "home": "Czechia (Senya)",
+      "away": "Morocco (fantazer)",
+      "startTime": "2026-11-23T22:55:00+00:00",
+      "selection": "HOME",
+      "baseline": 5.0,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205104143:AWAY": {
+      "eventId": "205104143",
+      "sport": "soccer",
+      "home": "Czechia (Senya)",
+      "away": "Morocco (fantazer)",
+      "startTime": "2026-11-23T22:55:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.3636,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205104152:HOME": {
+      "eventId": "205104152",
+      "sport": "soccer",
+      "home": "Germany (Koss)",
+      "away": "Netherlands (Kostolom89)",
+      "startTime": "2026-11-23T22:55:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.4,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205104152:AWAY": {
+      "eventId": "205104152",
+      "sport": "soccer",
+      "home": "Germany (Koss)",
+      "away": "Netherlands (Kostolom89)",
+      "startTime": "2026-11-23T22:55:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.05,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205104173:HOME": {
+      "eventId": "205104173",
+      "sport": "soccer",
+      "home": "Norway (Dreamer)",
+      "away": "Czechia (Senya)",
+      "startTime": "2026-11-23T23:04:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.25,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205104173:AWAY": {
+      "eventId": "205104173",
+      "sport": "soccer",
+      "home": "Norway (Dreamer)",
+      "away": "Czechia (Senya)",
+      "startTime": "2026-11-23T23:04:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.1,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205104168:HOME": {
+      "eventId": "205104168",
+      "sport": "soccer",
+      "home": "Morocco (fantazer)",
+      "away": "Germany (Koss)",
+      "startTime": "2026-11-23T23:04:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.27,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205104168:AWAY": {
+      "eventId": "205104168",
+      "sport": "soccer",
+      "home": "Morocco (fantazer)",
+      "away": "Germany (Koss)",
+      "startTime": "2026-11-23T23:04:00+00:00",
+      "selection": "AWAY",
+      "baseline": 7.0,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "204331017:HOME": {
+      "eventId": "204331017",
+      "sport": "soccer",
+      "home": "St. Louis City SC",
+      "away": "LAFC",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.6,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "204331017:AWAY": {
+      "eventId": "204331017",
+      "sport": "soccer",
+      "home": "St. Louis City SC",
+      "away": "LAFC",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.5,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205017234:HOME": {
+      "eventId": "205017234",
+      "sport": "basketball",
+      "home": "PHX Suns",
+      "away": "NO Pelicans",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.6623,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205017234:AWAY": {
+      "eventId": "205017234",
+      "sport": "basketball",
+      "home": "PHX Suns",
+      "away": "NO Pelicans",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.26,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205017231:HOME": {
+      "eventId": "205017231",
+      "sport": "basketball",
+      "home": "CLE Cavaliers",
+      "away": "CHI Bulls",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.2857,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205017231:AWAY": {
+      "eventId": "205017231",
+      "sport": "basketball",
+      "home": "CLE Cavaliers",
+      "away": "CHI Bulls",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 3.75,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205087904:HOME": {
+      "eventId": "205087904",
+      "sport": "basketball",
+      "home": "Monmouth",
+      "away": "North Carolina",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 16.0,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205087904:AWAY": {
+      "eventId": "205087904",
+      "sport": "basketball",
+      "home": "Monmouth",
+      "away": "North Carolina",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.0167,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205104283:HOME": {
+      "eventId": "205104283",
+      "sport": "basketball",
+      "home": "Stephen F. Austin",
+      "away": "Utah Valley",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.5,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205104283:AWAY": {
+      "eventId": "205104283",
+      "sport": "basketball",
+      "home": "Stephen F. Austin",
+      "away": "Utah Valley",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.5,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205057636:HOME": {
+      "eventId": "205057636",
+      "sport": "basketball",
+      "home": "Cojute",
+      "away": "Metapan BC",
+      "startTime": "2026-11-24T01:15:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.9,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205057636:AWAY": {
+      "eventId": "205057636",
+      "sport": "basketball",
+      "home": "Cojute",
+      "away": "Metapan BC",
+      "startTime": "2026-11-24T01:15:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.3636,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205017237:HOME": {
+      "eventId": "205017237",
+      "sport": "basketball",
+      "home": "LA Clippers",
+      "away": "HOU Rockets",
+      "startTime": "2026-11-24T01:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 5.75,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205017237:AWAY": {
+      "eventId": "205017237",
+      "sport": "basketball",
+      "home": "LA Clippers",
+      "away": "HOU Rockets",
+      "startTime": "2026-11-24T01:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.1538,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205096987:HOME": {
+      "eventId": "205096987",
+      "sport": "tennis",
+      "home": "Wihan Van Der Merwe",
+      "away": "Dimitri Bagaric",
+      "startTime": "2026-11-24T00:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.4,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205096987:AWAY": {
+      "eventId": "205096987",
+      "sport": "tennis",
+      "home": "Wihan Van Der Merwe",
+      "away": "Dimitri Bagaric",
+      "startTime": "2026-11-24T00:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.75,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205096058:HOME": {
+      "eventId": "205096058",
+      "sport": "tennis",
+      "home": "Kokoro Isomura",
+      "away": "Hikaru Shiraishi",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.625,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205096058:AWAY": {
+      "eventId": "205096058",
+      "sport": "tennis",
+      "home": "Kokoro Isomura",
+      "away": "Hikaru Shiraishi",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.4444,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205096060:HOME": {
+      "eventId": "205096060",
+      "sport": "tennis",
+      "home": "Takuya Kumasaka",
+      "away": "David Jorda Sanchis",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.8,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205096060:AWAY": {
+      "eventId": "205096060",
+      "sport": "tennis",
+      "home": "Takuya Kumasaka",
+      "away": "David Jorda Sanchis",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.9091,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205059430:HOME": {
+      "eventId": "205059430",
+      "sport": "tennis",
+      "home": "Borrero/Marchetti",
+      "away": "Navarro/Ferran",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.5,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205059430:AWAY": {
+      "eventId": "205059430",
+      "sport": "tennis",
+      "home": "Borrero/Marchetti",
+      "away": "Navarro/Ferran",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.5,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205059426:HOME": {
+      "eventId": "205059426",
+      "sport": "tennis",
+      "home": "Godallier/Valenzuela",
+      "away": "Polo/Martinez",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.5333,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205059426:AWAY": {
+      "eventId": "205059426",
+      "sport": "tennis",
+      "home": "Godallier/Valenzuela",
+      "away": "Polo/Martinez",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.375,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205059429:HOME": {
+      "eventId": "205059429",
+      "sport": "tennis",
+      "home": "Martinez/Martinez",
+      "away": "Gonzalez/Santana",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.3,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205059429:AWAY": {
+      "eventId": "205059429",
+      "sport": "tennis",
+      "home": "Martinez/Martinez",
+      "away": "Gonzalez/Santana",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 3.4,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205096056:HOME": {
+      "eventId": "205096056",
+      "sport": "tennis",
+      "home": "Naoya Honda",
+      "away": "S D Prajwal Dev",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.3636,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205096056:AWAY": {
+      "eventId": "205096056",
+      "sport": "tennis",
+      "home": "Naoya Honda",
+      "away": "S D Prajwal Dev",
+      "startTime": "2026-11-24T01:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 3.0,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205094163:HOME": {
+      "eventId": "205094163",
+      "sport": "tennis",
+      "home": "Aoi Ito",
+      "away": "Valentina Ivanov",
+      "startTime": "2026-11-24T01:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.3,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205094163:AWAY": {
+      "eventId": "205094163",
+      "sport": "tennis",
+      "home": "Aoi Ito",
+      "away": "Valentina Ivanov",
+      "startTime": "2026-11-24T01:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 3.4,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205094161:HOME": {
+      "eventId": "205094161",
+      "sport": "tennis",
+      "home": "Hikaru Sato",
+      "away": "Savannah Broadus",
+      "startTime": "2026-11-24T01:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.625,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205094161:AWAY": {
+      "eventId": "205094161",
+      "sport": "tennis",
+      "home": "Hikaru Sato",
+      "away": "Savannah Broadus",
+      "startTime": "2026-11-24T01:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.4444,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205094166:HOME": {
+      "eventId": "205094166",
+      "sport": "tennis",
+      "home": "I Wen Wan",
+      "away": "Emerson Jones",
+      "startTime": "2026-11-24T01:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 5.0,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205094166:AWAY": {
+      "eventId": "205094166",
+      "sport": "tennis",
+      "home": "I Wen Wan",
+      "away": "Emerson Jones",
+      "startTime": "2026-11-24T01:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.1429,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205116327:HOME": {
+      "eventId": "205116327",
+      "sport": "volleyball",
+      "home": "Kentucky (W)",
+      "away": "Vanderbilt (W)",
+      "startTime": "2026-11-24T01:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.2222,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
+      "price_source": "selection.odds"
+    },
+    "205116327:AWAY": {
+      "eventId": "205116327",
+      "sport": "volleyball",
+      "home": "Kentucky (W)",
+      "away": "Vanderbilt (W)",
+      "startTime": "2026-11-24T01:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 4.0,
+      "recorded_at": "2026-11-23T22:37:50.403298+00:00",
       "price_source": "selection.odds"
     }
   }
