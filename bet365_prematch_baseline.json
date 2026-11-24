@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-11-24T17:40:01.462097+00:00",
+  "created_at": "2026-11-24T18:40:40.660587+00:00",
   "events": {
     "204988090": {
       "eventId": "204988090",
@@ -36083,6 +36083,253 @@
         "AWAY": {
           "baseline": 7.5,
           "recorded_at": "2026-11-24T17:40:01.462097+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "203961486": {
+      "eventId": "203961486",
+      "sport": "soccer",
+      "home": "Chapecoense",
+      "away": "Palmeiras",
+      "startTime": "2026-11-24T21:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 3.2,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.15,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204944501": {
+      "eventId": "204944501",
+      "sport": "soccer",
+      "home": "Juticalpa Reserves",
+      "away": "Olancho FC Reserves",
+      "startTime": "2026-11-24T21:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 3.2,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.8333,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205000421": {
+      "eventId": "205000421",
+      "sport": "soccer",
+      "home": "CD Platense Reserves",
+      "away": "CD Choloma Reserves",
+      "startTime": "2026-11-24T21:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.3333,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 6.0,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204944511": {
+      "eventId": "204944511",
+      "sport": "soccer",
+      "home": "Real Espana Reserves",
+      "away": "CD Marathon Reserves",
+      "startTime": "2026-11-24T21:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.2857,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 7.5,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205126661": {
+      "eventId": "205126661",
+      "sport": "basketball",
+      "home": "Florida (W)",
+      "away": "West Virginia (W)",
+      "startTime": "2026-11-24T20:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 4.5,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.19,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205156478": {
+      "eventId": "205156478",
+      "sport": "basketball",
+      "home": "New Haven",
+      "away": "Lindenwood",
+      "startTime": "2026-11-24T21:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.05,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.7273,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205127241": {
+      "eventId": "205127241",
+      "sport": "basketball",
+      "home": "Tulsa",
+      "away": "Illinois State",
+      "startTime": "2026-11-24T21:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.84,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.89,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205097701": {
+      "eventId": "205097701",
+      "sport": "basketball",
+      "home": "CLIP (W)",
+      "away": "Natacao (W)",
+      "startTime": "2026-11-24T21:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.1111,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 6.0,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205131236": {
+      "eventId": "205131236",
+      "sport": "tennis",
+      "home": "Oliver Andre Solis Encinas",
+      "away": "Nicolas Bruna",
+      "startTime": "2026-11-24T21:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 8.0,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.0625,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205138422": {
+      "eventId": "205138422",
+      "sport": "volleyball",
+      "home": "Hawaii (W)",
+      "away": "New Mexico (W)",
+      "startTime": "2026-11-24T21:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.125,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 5.5,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205122887": {
+      "eventId": "205122887",
+      "sport": "volleyball",
+      "home": "Tijuca U19 (W)",
+      "away": "Clube dos Funcionarios U19 (W)",
+      "startTime": "2026-11-24T21:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.3636,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 3.0,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204735658": {
+      "eventId": "204735658",
+      "sport": "volleyball",
+      "home": "Brasilia (W)",
+      "away": "Pinheiros (W)",
+      "startTime": "2026-11-24T21:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.5,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.5,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205119785": {
+      "eventId": "205119785",
+      "sport": "handball",
+      "home": "Alto Moinho",
+      "away": "C. Oriental Lisboa",
+      "startTime": "2026-11-24T21:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.15,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 6.5,
+          "recorded_at": "2026-11-24T18:40:40.660587+00:00",
           "price_source": "selection.odds"
         }
       }
@@ -77777,6 +78024,292 @@
       "selection": "AWAY",
       "baseline": 7.5,
       "recorded_at": "2026-11-24T17:40:01.462097+00:00",
+      "price_source": "selection.odds"
+    },
+    "203961486:HOME": {
+      "eventId": "203961486",
+      "sport": "soccer",
+      "home": "Chapecoense",
+      "away": "Palmeiras",
+      "startTime": "2026-11-24T21:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 3.2,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+      "price_source": "selection.odds"
+    },
+    "203961486:AWAY": {
+      "eventId": "203961486",
+      "sport": "soccer",
+      "home": "Chapecoense",
+      "away": "Palmeiras",
+      "startTime": "2026-11-24T21:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.15,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+      "price_source": "selection.odds"
+    },
+    "204944501:HOME": {
+      "eventId": "204944501",
+      "sport": "soccer",
+      "home": "Juticalpa Reserves",
+      "away": "Olancho FC Reserves",
+      "startTime": "2026-11-24T21:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 3.2,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+      "price_source": "selection.odds"
+    },
+    "204944501:AWAY": {
+      "eventId": "204944501",
+      "sport": "soccer",
+      "home": "Juticalpa Reserves",
+      "away": "Olancho FC Reserves",
+      "startTime": "2026-11-24T21:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.8333,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+      "price_source": "selection.odds"
+    },
+    "205000421:HOME": {
+      "eventId": "205000421",
+      "sport": "soccer",
+      "home": "CD Platense Reserves",
+      "away": "CD Choloma Reserves",
+      "startTime": "2026-11-24T21:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.3333,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+      "price_source": "selection.odds"
+    },
+    "205000421:AWAY": {
+      "eventId": "205000421",
+      "sport": "soccer",
+      "home": "CD Platense Reserves",
+      "away": "CD Choloma Reserves",
+      "startTime": "2026-11-24T21:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 6.0,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+      "price_source": "selection.odds"
+    },
+    "204944511:HOME": {
+      "eventId": "204944511",
+      "sport": "soccer",
+      "home": "Real Espana Reserves",
+      "away": "CD Marathon Reserves",
+      "startTime": "2026-11-24T21:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.2857,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+      "price_source": "selection.odds"
+    },
+    "204944511:AWAY": {
+      "eventId": "204944511",
+      "sport": "soccer",
+      "home": "Real Espana Reserves",
+      "away": "CD Marathon Reserves",
+      "startTime": "2026-11-24T21:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 7.5,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+      "price_source": "selection.odds"
+    },
+    "205126661:HOME": {
+      "eventId": "205126661",
+      "sport": "basketball",
+      "home": "Florida (W)",
+      "away": "West Virginia (W)",
+      "startTime": "2026-11-24T20:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 4.5,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+      "price_source": "selection.odds"
+    },
+    "205126661:AWAY": {
+      "eventId": "205126661",
+      "sport": "basketball",
+      "home": "Florida (W)",
+      "away": "West Virginia (W)",
+      "startTime": "2026-11-24T20:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.19,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+      "price_source": "selection.odds"
+    },
+    "205156478:HOME": {
+      "eventId": "205156478",
+      "sport": "basketball",
+      "home": "New Haven",
+      "away": "Lindenwood",
+      "startTime": "2026-11-24T21:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.05,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+      "price_source": "selection.odds"
+    },
+    "205156478:AWAY": {
+      "eventId": "205156478",
+      "sport": "basketball",
+      "home": "New Haven",
+      "away": "Lindenwood",
+      "startTime": "2026-11-24T21:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.7273,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+      "price_source": "selection.odds"
+    },
+    "205127241:HOME": {
+      "eventId": "205127241",
+      "sport": "basketball",
+      "home": "Tulsa",
+      "away": "Illinois State",
+      "startTime": "2026-11-24T21:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.84,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+      "price_source": "selection.odds"
+    },
+    "205127241:AWAY": {
+      "eventId": "205127241",
+      "sport": "basketball",
+      "home": "Tulsa",
+      "away": "Illinois State",
+      "startTime": "2026-11-24T21:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.89,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+      "price_source": "selection.odds"
+    },
+    "205097701:HOME": {
+      "eventId": "205097701",
+      "sport": "basketball",
+      "home": "CLIP (W)",
+      "away": "Natacao (W)",
+      "startTime": "2026-11-24T21:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.1111,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+      "price_source": "selection.odds"
+    },
+    "205097701:AWAY": {
+      "eventId": "205097701",
+      "sport": "basketball",
+      "home": "CLIP (W)",
+      "away": "Natacao (W)",
+      "startTime": "2026-11-24T21:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 6.0,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+      "price_source": "selection.odds"
+    },
+    "205131236:HOME": {
+      "eventId": "205131236",
+      "sport": "tennis",
+      "home": "Oliver Andre Solis Encinas",
+      "away": "Nicolas Bruna",
+      "startTime": "2026-11-24T21:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 8.0,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+      "price_source": "selection.odds"
+    },
+    "205131236:AWAY": {
+      "eventId": "205131236",
+      "sport": "tennis",
+      "home": "Oliver Andre Solis Encinas",
+      "away": "Nicolas Bruna",
+      "startTime": "2026-11-24T21:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.0625,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+      "price_source": "selection.odds"
+    },
+    "205138422:HOME": {
+      "eventId": "205138422",
+      "sport": "volleyball",
+      "home": "Hawaii (W)",
+      "away": "New Mexico (W)",
+      "startTime": "2026-11-24T21:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.125,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+      "price_source": "selection.odds"
+    },
+    "205138422:AWAY": {
+      "eventId": "205138422",
+      "sport": "volleyball",
+      "home": "Hawaii (W)",
+      "away": "New Mexico (W)",
+      "startTime": "2026-11-24T21:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 5.5,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+      "price_source": "selection.odds"
+    },
+    "205122887:HOME": {
+      "eventId": "205122887",
+      "sport": "volleyball",
+      "home": "Tijuca U19 (W)",
+      "away": "Clube dos Funcionarios U19 (W)",
+      "startTime": "2026-11-24T21:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.3636,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+      "price_source": "selection.odds"
+    },
+    "205122887:AWAY": {
+      "eventId": "205122887",
+      "sport": "volleyball",
+      "home": "Tijuca U19 (W)",
+      "away": "Clube dos Funcionarios U19 (W)",
+      "startTime": "2026-11-24T21:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 3.0,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+      "price_source": "selection.odds"
+    },
+    "204735658:HOME": {
+      "eventId": "204735658",
+      "sport": "volleyball",
+      "home": "Brasilia (W)",
+      "away": "Pinheiros (W)",
+      "startTime": "2026-11-24T21:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.5,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+      "price_source": "selection.odds"
+    },
+    "204735658:AWAY": {
+      "eventId": "204735658",
+      "sport": "volleyball",
+      "home": "Brasilia (W)",
+      "away": "Pinheiros (W)",
+      "startTime": "2026-11-24T21:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.5,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+      "price_source": "selection.odds"
+    },
+    "205119785:HOME": {
+      "eventId": "205119785",
+      "sport": "handball",
+      "home": "Alto Moinho",
+      "away": "C. Oriental Lisboa",
+      "startTime": "2026-11-24T21:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.15,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
+      "price_source": "selection.odds"
+    },
+    "205119785:AWAY": {
+      "eventId": "205119785",
+      "sport": "handball",
+      "home": "Alto Moinho",
+      "away": "C. Oriental Lisboa",
+      "startTime": "2026-11-24T21:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 6.5,
+      "recorded_at": "2026-11-24T18:40:40.660587+00:00",
       "price_source": "selection.odds"
     }
   }
