@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-11-24T23:36:43.638443+00:00",
+  "created_at": "2026-11-25T00:39:26.250787+00:00",
   "events": {
     "204988090": {
       "eventId": "204988090",
@@ -39658,6 +39658,215 @@
         "AWAY": {
           "baseline": 1.9091,
           "recorded_at": "2026-11-24T23:36:43.638443+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204331019": {
+      "eventId": "204331019",
+      "sport": "soccer",
+      "home": "San Jose",
+      "away": "Houston Dynamo",
+      "startTime": "2026-11-25T03:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.8696,
+          "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 3.9,
+          "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204926925": {
+      "eventId": "204926925",
+      "sport": "soccer",
+      "home": "FC Ryukyu",
+      "away": "Roasso Kumamoto",
+      "startTime": "2026-11-25T03:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.5,
+          "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.35,
+          "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205138386": {
+      "eventId": "205138386",
+      "sport": "basketball",
+      "home": "Baylor",
+      "away": "Alabama",
+      "startTime": "2026-11-25T03:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.0,
+          "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.77,
+          "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205156586": {
+      "eventId": "205156586",
+      "sport": "basketball",
+      "home": "Daegu KoGas Reserves",
+      "away": "Mobis Phoebus Reserves",
+      "startTime": "2026-11-25T03:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.12,
+          "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.6452,
+          "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205170456": {
+      "eventId": "205170456",
+      "sport": "basketball",
+      "home": "National Taiwan Normal University",
+      "away": "National Taiwan Uni of Sci and Tech",
+      "startTime": "2026-11-25T03:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.3125,
+          "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 3.2,
+          "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "199519581": {
+      "eventId": "199519581",
+      "sport": "basketball",
+      "home": "DAL Mavericks",
+      "away": "DEN Nuggets",
+      "startTime": "2026-11-25T03:10:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 3.5,
+          "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.3226,
+          "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205127378": {
+      "eventId": "205127378",
+      "sport": "basketball",
+      "home": "St. John's",
+      "away": "Oregon",
+      "startTime": "2026-11-25T03:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.14,
+          "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 5.5,
+          "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205156165": {
+      "eventId": "205156165",
+      "sport": "basketball",
+      "home": "VA Commonwealth",
+      "away": "Colorado State",
+      "startTime": "2026-11-25T03:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.39,
+          "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.9,
+          "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205053495": {
+      "eventId": "205053495",
+      "sport": "tennis",
+      "home": "Cook/Sach",
+      "away": "Becroft/Shepp",
+      "startTime": "2026-11-25T03:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 3.0,
+          "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.3636,
+          "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205053492": {
+      "eventId": "205053492",
+      "sport": "tennis",
+      "home": "Hazawa/Sueoka",
+      "away": "Ellis/Tu",
+      "startTime": "2026-11-25T03:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 3.5,
+          "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.2857,
+          "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205108269": {
+      "eventId": "205108269",
+      "sport": "tennis",
+      "home": "Yu Hsiou Hsu",
+      "away": "Toshihide Matsui",
+      "startTime": "2026-11-25T03:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.01,
+          "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 15.0,
+          "recorded_at": "2026-11-25T00:39:26.250787+00:00",
           "price_source": "selection.odds"
         }
       }
@@ -85455,6 +85664,248 @@
       "selection": "AWAY",
       "baseline": 1.9091,
       "recorded_at": "2026-11-24T23:36:43.638443+00:00",
+      "price_source": "selection.odds"
+    },
+    "204331019:HOME": {
+      "eventId": "204331019",
+      "sport": "soccer",
+      "home": "San Jose",
+      "away": "Houston Dynamo",
+      "startTime": "2026-11-25T03:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.8696,
+      "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+      "price_source": "selection.odds"
+    },
+    "204331019:AWAY": {
+      "eventId": "204331019",
+      "sport": "soccer",
+      "home": "San Jose",
+      "away": "Houston Dynamo",
+      "startTime": "2026-11-25T03:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 3.9,
+      "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+      "price_source": "selection.odds"
+    },
+    "204926925:HOME": {
+      "eventId": "204926925",
+      "sport": "soccer",
+      "home": "FC Ryukyu",
+      "away": "Roasso Kumamoto",
+      "startTime": "2026-11-25T03:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.5,
+      "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+      "price_source": "selection.odds"
+    },
+    "204926925:AWAY": {
+      "eventId": "204926925",
+      "sport": "soccer",
+      "home": "FC Ryukyu",
+      "away": "Roasso Kumamoto",
+      "startTime": "2026-11-25T03:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.35,
+      "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+      "price_source": "selection.odds"
+    },
+    "205138386:HOME": {
+      "eventId": "205138386",
+      "sport": "basketball",
+      "home": "Baylor",
+      "away": "Alabama",
+      "startTime": "2026-11-25T03:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.0,
+      "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+      "price_source": "selection.odds"
+    },
+    "205138386:AWAY": {
+      "eventId": "205138386",
+      "sport": "basketball",
+      "home": "Baylor",
+      "away": "Alabama",
+      "startTime": "2026-11-25T03:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.77,
+      "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+      "price_source": "selection.odds"
+    },
+    "205156586:HOME": {
+      "eventId": "205156586",
+      "sport": "basketball",
+      "home": "Daegu KoGas Reserves",
+      "away": "Mobis Phoebus Reserves",
+      "startTime": "2026-11-25T03:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.12,
+      "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+      "price_source": "selection.odds"
+    },
+    "205156586:AWAY": {
+      "eventId": "205156586",
+      "sport": "basketball",
+      "home": "Daegu KoGas Reserves",
+      "away": "Mobis Phoebus Reserves",
+      "startTime": "2026-11-25T03:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.6452,
+      "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+      "price_source": "selection.odds"
+    },
+    "205170456:HOME": {
+      "eventId": "205170456",
+      "sport": "basketball",
+      "home": "National Taiwan Normal University",
+      "away": "National Taiwan Uni of Sci and Tech",
+      "startTime": "2026-11-25T03:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.3125,
+      "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+      "price_source": "selection.odds"
+    },
+    "205170456:AWAY": {
+      "eventId": "205170456",
+      "sport": "basketball",
+      "home": "National Taiwan Normal University",
+      "away": "National Taiwan Uni of Sci and Tech",
+      "startTime": "2026-11-25T03:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 3.2,
+      "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+      "price_source": "selection.odds"
+    },
+    "199519581:HOME": {
+      "eventId": "199519581",
+      "sport": "basketball",
+      "home": "DAL Mavericks",
+      "away": "DEN Nuggets",
+      "startTime": "2026-11-25T03:10:00+00:00",
+      "selection": "HOME",
+      "baseline": 3.5,
+      "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+      "price_source": "selection.odds"
+    },
+    "199519581:AWAY": {
+      "eventId": "199519581",
+      "sport": "basketball",
+      "home": "DAL Mavericks",
+      "away": "DEN Nuggets",
+      "startTime": "2026-11-25T03:10:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.3226,
+      "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+      "price_source": "selection.odds"
+    },
+    "205127378:HOME": {
+      "eventId": "205127378",
+      "sport": "basketball",
+      "home": "St. John's",
+      "away": "Oregon",
+      "startTime": "2026-11-25T03:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.14,
+      "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+      "price_source": "selection.odds"
+    },
+    "205127378:AWAY": {
+      "eventId": "205127378",
+      "sport": "basketball",
+      "home": "St. John's",
+      "away": "Oregon",
+      "startTime": "2026-11-25T03:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 5.5,
+      "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+      "price_source": "selection.odds"
+    },
+    "205156165:HOME": {
+      "eventId": "205156165",
+      "sport": "basketball",
+      "home": "VA Commonwealth",
+      "away": "Colorado State",
+      "startTime": "2026-11-25T03:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.39,
+      "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+      "price_source": "selection.odds"
+    },
+    "205156165:AWAY": {
+      "eventId": "205156165",
+      "sport": "basketball",
+      "home": "VA Commonwealth",
+      "away": "Colorado State",
+      "startTime": "2026-11-25T03:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.9,
+      "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+      "price_source": "selection.odds"
+    },
+    "205053495:HOME": {
+      "eventId": "205053495",
+      "sport": "tennis",
+      "home": "Cook/Sach",
+      "away": "Becroft/Shepp",
+      "startTime": "2026-11-25T03:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 3.0,
+      "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+      "price_source": "selection.odds"
+    },
+    "205053495:AWAY": {
+      "eventId": "205053495",
+      "sport": "tennis",
+      "home": "Cook/Sach",
+      "away": "Becroft/Shepp",
+      "startTime": "2026-11-25T03:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.3636,
+      "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+      "price_source": "selection.odds"
+    },
+    "205053492:HOME": {
+      "eventId": "205053492",
+      "sport": "tennis",
+      "home": "Hazawa/Sueoka",
+      "away": "Ellis/Tu",
+      "startTime": "2026-11-25T03:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 3.5,
+      "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+      "price_source": "selection.odds"
+    },
+    "205053492:AWAY": {
+      "eventId": "205053492",
+      "sport": "tennis",
+      "home": "Hazawa/Sueoka",
+      "away": "Ellis/Tu",
+      "startTime": "2026-11-25T03:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.2857,
+      "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+      "price_source": "selection.odds"
+    },
+    "205108269:HOME": {
+      "eventId": "205108269",
+      "sport": "tennis",
+      "home": "Yu Hsiou Hsu",
+      "away": "Toshihide Matsui",
+      "startTime": "2026-11-25T03:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.01,
+      "recorded_at": "2026-11-25T00:39:26.250787+00:00",
+      "price_source": "selection.odds"
+    },
+    "205108269:AWAY": {
+      "eventId": "205108269",
+      "sport": "tennis",
+      "home": "Yu Hsiou Hsu",
+      "away": "Toshihide Matsui",
+      "startTime": "2026-11-25T03:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 15.0,
+      "recorded_at": "2026-11-25T00:39:26.250787+00:00",
       "price_source": "selection.odds"
     }
   }
