@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-11-25T16:52:18.852363+00:00",
+  "created_at": "2026-11-25T17:37:09.124767+00:00",
   "events": {
     "204988090": {
       "eventId": "204988090",
@@ -54356,6 +54356,633 @@
         "AWAY": {
           "baseline": 5.5,
           "recorded_at": "2026-11-25T16:52:18.852363+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205222742": {
+      "eventId": "205222742",
+      "sport": "soccer",
+      "home": "Oriente Petrolero U19",
+      "away": "San Antonio Bulo Bulo U19",
+      "startTime": "2026-11-25T18:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.05,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.7,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204015101": {
+      "eventId": "204015101",
+      "sport": "soccer",
+      "home": "Atletico Madrid",
+      "away": "Viking FK",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.1111,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 21.0,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204015097": {
+      "eventId": "204015097",
+      "sport": "soccer",
+      "home": "Inter Milan",
+      "away": "VfB Stuttgart",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.42,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 6.5,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204015107": {
+      "eventId": "204015107",
+      "sport": "soccer",
+      "home": "Lille",
+      "away": "Bayern Munich",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 5.5,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.6154,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204015092": {
+      "eventId": "204015092",
+      "sport": "soccer",
+      "home": "PSG",
+      "away": "Roma",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.5333,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 5.0,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204015110": {
+      "eventId": "204015110",
+      "sport": "soccer",
+      "home": "Shakhtar Donetsk",
+      "away": "Fenerbahce",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.6,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.625,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204015103": {
+      "eventId": "204015103",
+      "sport": "soccer",
+      "home": "Sporting",
+      "away": "Man Utd",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.6,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.5,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "203962600": {
+      "eventId": "203962600",
+      "sport": "soccer",
+      "home": "Stoke",
+      "away": "Millwall",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.05,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 3.75,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205167328": {
+      "eventId": "205167328",
+      "sport": "soccer",
+      "home": "CD Platense Zacatecoluca (W)",
+      "away": "Fuerte San Francisco (W)",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 4.5,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.5333,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205172998": {
+      "eventId": "205172998",
+      "sport": "soccer",
+      "home": "Viargoca",
+      "away": "Sociedad Tiro 28",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.8,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.2,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205113991": {
+      "eventId": "205113991",
+      "sport": "soccer",
+      "home": "CD Fontsanta Fatjo (W)",
+      "away": "Barcelona II (W)",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 10.0,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.2,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204015105": {
+      "eventId": "204015105",
+      "sport": "soccer",
+      "home": "Club Brugge",
+      "away": "Liverpool",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 4.5,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.6154,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205169448": {
+      "eventId": "205169448",
+      "sport": "basketball",
+      "home": "MIN Timberwolves (Bazuka)",
+      "away": "PHI 76ers (Pakapaka)",
+      "startTime": "2026-11-25T17:55:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 3.75,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.2222,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205169451": {
+      "eventId": "205169451",
+      "sport": "basketball",
+      "home": "SAC Kings (Lucashin)",
+      "away": "ATL Hawks (Dzojo)",
+      "startTime": "2026-11-25T17:55:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.4167,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.6,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205169454": {
+      "eventId": "205169454",
+      "sport": "basketball",
+      "home": "PHI 76ers (Pakapaka)",
+      "away": "SAC Kings (Lucashin)",
+      "startTime": "2026-11-25T18:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.4,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.5,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205169457": {
+      "eventId": "205169457",
+      "sport": "basketball",
+      "home": "UTA Jazz (Jovke)",
+      "away": "MIN Timberwolves (Bazuka)",
+      "startTime": "2026-11-25T18:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.6061,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.15,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205169460": {
+      "eventId": "205169460",
+      "sport": "basketball",
+      "home": "SAC Kings (Lucashin)",
+      "away": "UTA Jazz (Jovke)",
+      "startTime": "2026-11-25T19:05:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.3571,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.9,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205169463": {
+      "eventId": "205169463",
+      "sport": "basketball",
+      "home": "ATL Hawks (Dzojo)",
+      "away": "PHI 76ers (Pakapaka)",
+      "startTime": "2026-11-25T19:20:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.55,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.4348,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205186809": {
+      "eventId": "205186809",
+      "sport": "basketball",
+      "home": "Akron",
+      "away": "Appalachian State",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.4444,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.7,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205200661": {
+      "eventId": "205200661",
+      "sport": "basketball",
+      "home": "Southeastern Louisiana",
+      "away": "North Dakota",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.84,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.9,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205186812": {
+      "eventId": "205186812",
+      "sport": "basketball",
+      "home": "Arkansas State",
+      "away": "Florida Intl",
+      "startTime": "2026-11-25T20:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.05,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.7273,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205131233": {
+      "eventId": "205131233",
+      "sport": "tennis",
+      "home": "Fermin Tenti",
+      "away": "Michiel de Krom",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 4.0,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.2222,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205131235": {
+      "eventId": "205131235",
+      "sport": "tennis",
+      "home": "Santiago Lora",
+      "away": "Salvador Price",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 2.625,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.4444,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205144009": {
+      "eventId": "205144009",
+      "sport": "tennis",
+      "home": "Rocco Valente",
+      "away": "Diego Ortiz Gamonal",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.1111,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 6.0,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205144005": {
+      "eventId": "205144005",
+      "sport": "tennis",
+      "home": "Valentin Guadagno",
+      "away": "Ivan Biletic",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 4.5,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.1667,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205154538": {
+      "eventId": "205154538",
+      "sport": "volleyball",
+      "home": "Engelholm (W)",
+      "away": "Lunds VK (W)",
+      "startTime": "2026-11-25T18:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.4444,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.625,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205167795": {
+      "eventId": "205167795",
+      "sport": "volleyball",
+      "home": "KS Metro Warszawa",
+      "away": "Ks Camper Wyszkow",
+      "startTime": "2026-11-25T18:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 3.75,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.25,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205095143": {
+      "eventId": "205095143",
+      "sport": "volleyball",
+      "home": "Orleta Raszyn",
+      "away": "AZS UWM Olsztyn",
+      "startTime": "2026-11-25T19:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.2222,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 4.0,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205095522": {
+      "eventId": "205095522",
+      "sport": "volleyball",
+      "home": "FC Porto (W)",
+      "away": "ZOK Ub (W)",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.6154,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 2.2,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205176595": {
+      "eventId": "205176595",
+      "sport": "volleyball",
+      "home": "Pepperdine (W)",
+      "away": "Portland (W)",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.0625,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 8.0,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205224157": {
+      "eventId": "205224157",
+      "sport": "volleyball",
+      "home": "Rabotnicki Skopje",
+      "away": "Strumica",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 5.0,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.1429,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "205182182": {
+      "eventId": "205182182",
+      "sport": "volleyball",
+      "home": "HK B (W)",
+      "away": "Ymir B (W)",
+      "startTime": "2026-11-25T20:15:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 1.3,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 3.4,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        }
+      }
+    },
+    "204790377": {
+      "eventId": "204790377",
+      "sport": "volleyball",
+      "home": "SC Braga (W)",
+      "away": "Zeleznicar (W)",
+      "startTime": "2026-11-25T20:30:00+00:00",
+      "prematch": {
+        "HOME": {
+          "baseline": 3.0,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+          "price_source": "selection.odds"
+        },
+        "AWAY": {
+          "baseline": 1.3636,
+          "recorded_at": "2026-11-25T17:37:09.124767+00:00",
           "price_source": "selection.odds"
         }
       }
@@ -117104,6 +117731,732 @@
       "selection": "AWAY",
       "baseline": 5.5,
       "recorded_at": "2026-11-25T16:52:18.852363+00:00",
+      "price_source": "selection.odds"
+    },
+    "205222742:HOME": {
+      "eventId": "205222742",
+      "sport": "soccer",
+      "home": "Oriente Petrolero U19",
+      "away": "San Antonio Bulo Bulo U19",
+      "startTime": "2026-11-25T18:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.05,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205222742:AWAY": {
+      "eventId": "205222742",
+      "sport": "soccer",
+      "home": "Oriente Petrolero U19",
+      "away": "San Antonio Bulo Bulo U19",
+      "startTime": "2026-11-25T18:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.7,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "204015101:HOME": {
+      "eventId": "204015101",
+      "sport": "soccer",
+      "home": "Atletico Madrid",
+      "away": "Viking FK",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.1111,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "204015101:AWAY": {
+      "eventId": "204015101",
+      "sport": "soccer",
+      "home": "Atletico Madrid",
+      "away": "Viking FK",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 21.0,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "204015097:HOME": {
+      "eventId": "204015097",
+      "sport": "soccer",
+      "home": "Inter Milan",
+      "away": "VfB Stuttgart",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.42,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "204015097:AWAY": {
+      "eventId": "204015097",
+      "sport": "soccer",
+      "home": "Inter Milan",
+      "away": "VfB Stuttgart",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 6.5,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "204015107:HOME": {
+      "eventId": "204015107",
+      "sport": "soccer",
+      "home": "Lille",
+      "away": "Bayern Munich",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 5.5,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "204015107:AWAY": {
+      "eventId": "204015107",
+      "sport": "soccer",
+      "home": "Lille",
+      "away": "Bayern Munich",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.6154,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "204015092:HOME": {
+      "eventId": "204015092",
+      "sport": "soccer",
+      "home": "PSG",
+      "away": "Roma",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.5333,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "204015092:AWAY": {
+      "eventId": "204015092",
+      "sport": "soccer",
+      "home": "PSG",
+      "away": "Roma",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 5.0,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "204015110:HOME": {
+      "eventId": "204015110",
+      "sport": "soccer",
+      "home": "Shakhtar Donetsk",
+      "away": "Fenerbahce",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.6,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "204015110:AWAY": {
+      "eventId": "204015110",
+      "sport": "soccer",
+      "home": "Shakhtar Donetsk",
+      "away": "Fenerbahce",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.625,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "204015103:HOME": {
+      "eventId": "204015103",
+      "sport": "soccer",
+      "home": "Sporting",
+      "away": "Man Utd",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.6,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "204015103:AWAY": {
+      "eventId": "204015103",
+      "sport": "soccer",
+      "home": "Sporting",
+      "away": "Man Utd",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.5,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "203962600:HOME": {
+      "eventId": "203962600",
+      "sport": "soccer",
+      "home": "Stoke",
+      "away": "Millwall",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.05,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "203962600:AWAY": {
+      "eventId": "203962600",
+      "sport": "soccer",
+      "home": "Stoke",
+      "away": "Millwall",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 3.75,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205167328:HOME": {
+      "eventId": "205167328",
+      "sport": "soccer",
+      "home": "CD Platense Zacatecoluca (W)",
+      "away": "Fuerte San Francisco (W)",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 4.5,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205167328:AWAY": {
+      "eventId": "205167328",
+      "sport": "soccer",
+      "home": "CD Platense Zacatecoluca (W)",
+      "away": "Fuerte San Francisco (W)",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.5333,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205172998:HOME": {
+      "eventId": "205172998",
+      "sport": "soccer",
+      "home": "Viargoca",
+      "away": "Sociedad Tiro 28",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.8,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205172998:AWAY": {
+      "eventId": "205172998",
+      "sport": "soccer",
+      "home": "Viargoca",
+      "away": "Sociedad Tiro 28",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.2,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205113991:HOME": {
+      "eventId": "205113991",
+      "sport": "soccer",
+      "home": "CD Fontsanta Fatjo (W)",
+      "away": "Barcelona II (W)",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 10.0,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205113991:AWAY": {
+      "eventId": "205113991",
+      "sport": "soccer",
+      "home": "CD Fontsanta Fatjo (W)",
+      "away": "Barcelona II (W)",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.2,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "204015105:HOME": {
+      "eventId": "204015105",
+      "sport": "soccer",
+      "home": "Club Brugge",
+      "away": "Liverpool",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 4.5,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "204015105:AWAY": {
+      "eventId": "204015105",
+      "sport": "soccer",
+      "home": "Club Brugge",
+      "away": "Liverpool",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.6154,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205169448:HOME": {
+      "eventId": "205169448",
+      "sport": "basketball",
+      "home": "MIN Timberwolves (Bazuka)",
+      "away": "PHI 76ers (Pakapaka)",
+      "startTime": "2026-11-25T17:55:00+00:00",
+      "selection": "HOME",
+      "baseline": 3.75,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205169448:AWAY": {
+      "eventId": "205169448",
+      "sport": "basketball",
+      "home": "MIN Timberwolves (Bazuka)",
+      "away": "PHI 76ers (Pakapaka)",
+      "startTime": "2026-11-25T17:55:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.2222,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205169451:HOME": {
+      "eventId": "205169451",
+      "sport": "basketball",
+      "home": "SAC Kings (Lucashin)",
+      "away": "ATL Hawks (Dzojo)",
+      "startTime": "2026-11-25T17:55:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.4167,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205169451:AWAY": {
+      "eventId": "205169451",
+      "sport": "basketball",
+      "home": "SAC Kings (Lucashin)",
+      "away": "ATL Hawks (Dzojo)",
+      "startTime": "2026-11-25T17:55:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.6,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205169454:HOME": {
+      "eventId": "205169454",
+      "sport": "basketball",
+      "home": "PHI 76ers (Pakapaka)",
+      "away": "SAC Kings (Lucashin)",
+      "startTime": "2026-11-25T18:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.4,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205169454:AWAY": {
+      "eventId": "205169454",
+      "sport": "basketball",
+      "home": "PHI 76ers (Pakapaka)",
+      "away": "SAC Kings (Lucashin)",
+      "startTime": "2026-11-25T18:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.5,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205169457:HOME": {
+      "eventId": "205169457",
+      "sport": "basketball",
+      "home": "UTA Jazz (Jovke)",
+      "away": "MIN Timberwolves (Bazuka)",
+      "startTime": "2026-11-25T18:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.6061,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205169457:AWAY": {
+      "eventId": "205169457",
+      "sport": "basketball",
+      "home": "UTA Jazz (Jovke)",
+      "away": "MIN Timberwolves (Bazuka)",
+      "startTime": "2026-11-25T18:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.15,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205169460:HOME": {
+      "eventId": "205169460",
+      "sport": "basketball",
+      "home": "SAC Kings (Lucashin)",
+      "away": "UTA Jazz (Jovke)",
+      "startTime": "2026-11-25T19:05:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.3571,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205169460:AWAY": {
+      "eventId": "205169460",
+      "sport": "basketball",
+      "home": "SAC Kings (Lucashin)",
+      "away": "UTA Jazz (Jovke)",
+      "startTime": "2026-11-25T19:05:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.9,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205169463:HOME": {
+      "eventId": "205169463",
+      "sport": "basketball",
+      "home": "ATL Hawks (Dzojo)",
+      "away": "PHI 76ers (Pakapaka)",
+      "startTime": "2026-11-25T19:20:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.55,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205169463:AWAY": {
+      "eventId": "205169463",
+      "sport": "basketball",
+      "home": "ATL Hawks (Dzojo)",
+      "away": "PHI 76ers (Pakapaka)",
+      "startTime": "2026-11-25T19:20:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.4348,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205186809:HOME": {
+      "eventId": "205186809",
+      "sport": "basketball",
+      "home": "Akron",
+      "away": "Appalachian State",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.4444,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205186809:AWAY": {
+      "eventId": "205186809",
+      "sport": "basketball",
+      "home": "Akron",
+      "away": "Appalachian State",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.7,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205200661:HOME": {
+      "eventId": "205200661",
+      "sport": "basketball",
+      "home": "Southeastern Louisiana",
+      "away": "North Dakota",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.84,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205200661:AWAY": {
+      "eventId": "205200661",
+      "sport": "basketball",
+      "home": "Southeastern Louisiana",
+      "away": "North Dakota",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.9,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205186812:HOME": {
+      "eventId": "205186812",
+      "sport": "basketball",
+      "home": "Arkansas State",
+      "away": "Florida Intl",
+      "startTime": "2026-11-25T20:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.05,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205186812:AWAY": {
+      "eventId": "205186812",
+      "sport": "basketball",
+      "home": "Arkansas State",
+      "away": "Florida Intl",
+      "startTime": "2026-11-25T20:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.7273,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205131233:HOME": {
+      "eventId": "205131233",
+      "sport": "tennis",
+      "home": "Fermin Tenti",
+      "away": "Michiel de Krom",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 4.0,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205131233:AWAY": {
+      "eventId": "205131233",
+      "sport": "tennis",
+      "home": "Fermin Tenti",
+      "away": "Michiel de Krom",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.2222,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205131235:HOME": {
+      "eventId": "205131235",
+      "sport": "tennis",
+      "home": "Santiago Lora",
+      "away": "Salvador Price",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 2.625,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205131235:AWAY": {
+      "eventId": "205131235",
+      "sport": "tennis",
+      "home": "Santiago Lora",
+      "away": "Salvador Price",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.4444,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205144009:HOME": {
+      "eventId": "205144009",
+      "sport": "tennis",
+      "home": "Rocco Valente",
+      "away": "Diego Ortiz Gamonal",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.1111,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205144009:AWAY": {
+      "eventId": "205144009",
+      "sport": "tennis",
+      "home": "Rocco Valente",
+      "away": "Diego Ortiz Gamonal",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 6.0,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205144005:HOME": {
+      "eventId": "205144005",
+      "sport": "tennis",
+      "home": "Valentin Guadagno",
+      "away": "Ivan Biletic",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 4.5,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205144005:AWAY": {
+      "eventId": "205144005",
+      "sport": "tennis",
+      "home": "Valentin Guadagno",
+      "away": "Ivan Biletic",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.1667,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205154538:HOME": {
+      "eventId": "205154538",
+      "sport": "volleyball",
+      "home": "Engelholm (W)",
+      "away": "Lunds VK (W)",
+      "startTime": "2026-11-25T18:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.4444,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205154538:AWAY": {
+      "eventId": "205154538",
+      "sport": "volleyball",
+      "home": "Engelholm (W)",
+      "away": "Lunds VK (W)",
+      "startTime": "2026-11-25T18:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.625,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205167795:HOME": {
+      "eventId": "205167795",
+      "sport": "volleyball",
+      "home": "KS Metro Warszawa",
+      "away": "Ks Camper Wyszkow",
+      "startTime": "2026-11-25T18:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 3.75,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205167795:AWAY": {
+      "eventId": "205167795",
+      "sport": "volleyball",
+      "home": "KS Metro Warszawa",
+      "away": "Ks Camper Wyszkow",
+      "startTime": "2026-11-25T18:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.25,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205095143:HOME": {
+      "eventId": "205095143",
+      "sport": "volleyball",
+      "home": "Orleta Raszyn",
+      "away": "AZS UWM Olsztyn",
+      "startTime": "2026-11-25T19:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.2222,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205095143:AWAY": {
+      "eventId": "205095143",
+      "sport": "volleyball",
+      "home": "Orleta Raszyn",
+      "away": "AZS UWM Olsztyn",
+      "startTime": "2026-11-25T19:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 4.0,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205095522:HOME": {
+      "eventId": "205095522",
+      "sport": "volleyball",
+      "home": "FC Porto (W)",
+      "away": "ZOK Ub (W)",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.6154,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205095522:AWAY": {
+      "eventId": "205095522",
+      "sport": "volleyball",
+      "home": "FC Porto (W)",
+      "away": "ZOK Ub (W)",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 2.2,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205176595:HOME": {
+      "eventId": "205176595",
+      "sport": "volleyball",
+      "home": "Pepperdine (W)",
+      "away": "Portland (W)",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.0625,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205176595:AWAY": {
+      "eventId": "205176595",
+      "sport": "volleyball",
+      "home": "Pepperdine (W)",
+      "away": "Portland (W)",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 8.0,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205224157:HOME": {
+      "eventId": "205224157",
+      "sport": "volleyball",
+      "home": "Rabotnicki Skopje",
+      "away": "Strumica",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "HOME",
+      "baseline": 5.0,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205224157:AWAY": {
+      "eventId": "205224157",
+      "sport": "volleyball",
+      "home": "Rabotnicki Skopje",
+      "away": "Strumica",
+      "startTime": "2026-11-25T20:00:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.1429,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205182182:HOME": {
+      "eventId": "205182182",
+      "sport": "volleyball",
+      "home": "HK B (W)",
+      "away": "Ymir B (W)",
+      "startTime": "2026-11-25T20:15:00+00:00",
+      "selection": "HOME",
+      "baseline": 1.3,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "205182182:AWAY": {
+      "eventId": "205182182",
+      "sport": "volleyball",
+      "home": "HK B (W)",
+      "away": "Ymir B (W)",
+      "startTime": "2026-11-25T20:15:00+00:00",
+      "selection": "AWAY",
+      "baseline": 3.4,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "204790377:HOME": {
+      "eventId": "204790377",
+      "sport": "volleyball",
+      "home": "SC Braga (W)",
+      "away": "Zeleznicar (W)",
+      "startTime": "2026-11-25T20:30:00+00:00",
+      "selection": "HOME",
+      "baseline": 3.0,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
+      "price_source": "selection.odds"
+    },
+    "204790377:AWAY": {
+      "eventId": "204790377",
+      "sport": "volleyball",
+      "home": "SC Braga (W)",
+      "away": "Zeleznicar (W)",
+      "startTime": "2026-11-25T20:30:00+00:00",
+      "selection": "AWAY",
+      "baseline": 1.3636,
+      "recorded_at": "2026-11-25T17:37:09.124767+00:00",
       "price_source": "selection.odds"
     }
   }
